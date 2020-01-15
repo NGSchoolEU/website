@@ -1,0 +1,41 @@
+---
+bg_image: images/ngschool/2018-001.jpg
+description: Viewing Lublin through a nanopore
+draft: false
+title: "#NGSchool2018"
+---
+
+### Topic
+
+Summer School in Bioinformatics & NGS Data Analysis (#NGSchool2018) was held on 16-23 Sep 2018 at Medical University of Lublin, Poland. 
+In 2018, we focused on long reads sequencing & personalised medicine. Beside standard workshops, this year we organised MinION hackathons. 
+Portable, single-molecule sequencing is the technology of today and tomorrow. Its countless applications, especially in precision medicine, 
+stimulate the imagination. Sequencing can now reach beyond the sophisticated labs and we wanted to explore such possibilities.
+
+### Speakers
+
+* Rosa Fernández, CRG, Barcelona, ES
+* Monika Gos,  IMC, Warsaw, PL
+* Kamil Januszkiewicz, CKLP, Warsaw, PL
+* Andre Kahles, ETH, Zurich, CH
+* Nikolay Kulemin, Zenome, Moscow, RU
+* Paweł Łabaj,  MCB, Cracow, PL
+* Jozef Nosek, Comenius University, SK
+* Eva Maria Novoa Pardo, Garvan, Sydney, AU / CRG, Barcelona, ES
+* Stephan Ossowski, IMGAG, Tübingen, DE
+* Andrey Prjibelski, SPSU, St. Petersburg, RU
+* Leszek Pryszcz, IIMCB, Warsaw, PL
+* Fritz Sedlazeck, Baylor College of Medicine, Houston, TX, USA
+* Fran Supek, IRB, Barcelona, ES
+* Robert Vaser, University of Zagreb, HR
+
+### Organisers
+
+* German Demidov, CRG, Barcelona, Spain
+* Alina Frolova, Institute of Molecular Biology and Genetics of NASU, Kyiv, Ukraine
+* Angelika Hałat, Gliwice, PL
+* Katarzyna Kędzierska, University of Virginia, Charlottesville, USA
+* Maja Kuzman, University of Zagreb, Croatia
+* Maciej Migdał, IIMCB, Warsaw, Poland
+* Adrian Odrzywolski, Medical University of Lublin, Poland
+* Leszek Pryszcz, IIMCB, Warsaw, Poland

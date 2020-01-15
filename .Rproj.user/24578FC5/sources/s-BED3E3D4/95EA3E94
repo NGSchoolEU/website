@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578265211776.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "95EA3E94",
+    "lastKnownWriteTime" : 1579059071,
+    "last_content_update" : 1579059071,
+    "path" : "~/R/ngschool/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "122,2",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

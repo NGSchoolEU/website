@@ -1,0 +1,67 @@
+########################### about service #############################
+about:
+  enable : true
+  title : "A community."
+  content : "
+    In order to regulate formal aspects of our activity and secure flawless organisation of future events, 
+    we’ve established NGSchool Society. 
+    
+    
+    As a Society, it's easier for us to colaborate with many organizations in related fields, invite experts 
+    in relevant topics to our events and improve based on feedback from events' participants."
+  image : "images/company/about.jpg"
+
+
+########################## featured service ############################
+featured_service:
+  enable : true
+  service_item:
+    # featured service item loop
+    - name : "Formal regulation"
+      icon : "ion-android-menu"
+      color : "primary"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      
+    # featured service item loop
+    - name : "Collaboration"
+      icon : "ion-lightbulb"
+      color : "primary-dark"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      
+    # featured service item loop
+    - name : "Community"
+      icon : "ion-android-people"
+      color : "primary-darker"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+
+      
+############################# Service ###############################
+service:
+  enable : true
+  title : "Our mission"
+  description : ""
+  service_item:
+    # service item loop
+    - icon : ion-leaf #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Training
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+
+    # service item loop
+    - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Networking
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+
+    # service item loop
+    - icon : ion-android-bookmark #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Promotion
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+
+    # service item loop
+    - icon : ion-android-expand #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Impact
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+
+############################# call to action #################################
+cta:
+  enable : true
+  # call to action content comes from "data/*/homepage.yml"

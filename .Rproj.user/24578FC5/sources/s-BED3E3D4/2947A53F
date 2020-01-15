@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579058801377.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1910017974",
+    "id" : "2947A53F",
+    "lastKnownWriteTime" : 1579059315,
+    "last_content_update" : 1579059315021,
+    "path" : "~/R/ngschool/content/post/2020-01-15-here-be-dragons.Rmd",
+    "project_path" : "content/post/2020-01-15-here-be-dragons.Rmd",
+    "properties" : {
+        "cursorPosition" : "14,10",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
