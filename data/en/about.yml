@@ -1,7 +1,7 @@
 ################################## About #####################################
 about:
   enable : true
-  image : "images/company/about.jpg"
+  image : "images/about-01.jpg"
   title : "We train the future bioinformatics experts."
   content : "
   NGSchool (Next Generation School) is a platform to share the expertise in the field of Next Generation Sequencing Data Analysis 
@@ -55,7 +55,7 @@ features:
 ############################################# history ##################################################
 history:
   enable: true
-  image : "images/company/team.jpg"
+  image : "images/about-02.jpg"
   title : "We decided to make a difference."
   content : " 
   As many great things in life, #NGSchool started from a hangout and discussion over a beer with a bunch of friendly people.  

@@ -1,5 +1,5 @@
 ---
-bg_image: images/featue-bg.jpg
+bg_image: images/feature-contact.jpg
 date: "2019-12-23T13:05:29+06:00"
 description: 
 draft: false

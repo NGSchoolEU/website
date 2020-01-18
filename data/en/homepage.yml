@@ -28,7 +28,7 @@ about:
 ######################### NGSchool Society ###############################
 portfolio:
   enable : true
-  bg_image : "images/featue-bg.jpg"
+  bg_image : "images/feature.jpg"
   title : "NGSchool Society"
   content : "
   NGSchool Society aims to propagate bioinformatics knowledge and skills necessary to perform state-of-the-art data analysis from sequencing experiments.  

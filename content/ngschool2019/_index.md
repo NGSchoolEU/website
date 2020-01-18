@@ -2,7 +2,7 @@
 bg_image: images/ngschool/2019-001.jpg
 description: The adventures of bioscientists in the random forests 
 draft: false
-title: "NGSchool2019"
+title: "#NGSchool2019"
 ---
 
 ### Topic

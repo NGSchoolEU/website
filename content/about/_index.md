@@ -1,6 +1,6 @@
 ---
-bg_image: images/featue-bg.jpg
-description: history, present and future
+bg_image: images/bg.jpg
+description:
 draft: false
 title: About us
 ---
