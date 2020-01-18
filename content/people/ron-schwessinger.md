@@ -1,23 +1,15 @@
 ---
 bg_image: images/featue-bg.jpg
-category: Video
-description: this is meta description
+category: Speakers
+description: 
 draft: false
-image: images/portfolio/work6.jpg
+image: images/people/ron-schwessinger.jpg
 information:
-- info: Jannie Kelonsky
-  label: Client
-- info: Website Redesign
-  label: What We Did
-- info: Photoshop,Illustrator
-  label: Tools Used
-- info: 17th March 2014
-  label: Completed on
-- info: HTML5 / PHP / CSS3
-  label: Skills
-- info: Jannie Kelonsky
-  label: Client
-title: Rio Furniture
+- info: "#NGSchool2019"
+  label: Events
+- info: speaker
+  label: Role
+title: Ron Schweßinger
 ---
 
 ## Behance Website Redesign

@@ -12,10 +12,10 @@
       </div>
       <div class="col-md-4">
         <div class="project-details">
-          <h4>Project Details</h4>
+          <h4>Info</h4>
           <ul>
             {{ range .Params.Information }}
-            <li><span>{{ .label }} :</span> <strong>{{ .info | markdownify }}</strong></li>
+            <li><span>{{ .label }} :</span> <br> <strong>{{ .info | markdownify }}</strong></li>
             {{ end }}
           </ul>
         </div>

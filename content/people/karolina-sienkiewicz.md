@@ -1,23 +1,15 @@
 ---
-bg_image: images/featue-bg.jpg
-category: UI/UX Design
-description: this is meta description
+bg_image: images/bg.jpg
+category: Organizers
+description: 
 draft: false
-image: images/portfolio/work1.jpg
+image: images/people/karolina-sienkiewicz.jpg
 information:
-- info: Jannie Kelonsky
-  label: Client
-- info: Website Redesign
-  label: What We Did
-- info: Photoshop,Illustrator
-  label: Tools Used
-- info: 17th March 2014
-  label: Completed on
-- info: HTML5 / PHP / CSS3
-  label: Skills
-- info: Jannie Kelonsky
-  label: Client
-title: Rio Furniture
+- info: "#NGSchool2017, #NGSchool2018, #NGSchool2019"
+  label: Events
+- info: "participant, organiser"
+  label: Role
+title: Karolina Sienkiewicz
 ---
 
 ## Behance Website Redesign

@@ -1,23 +1,15 @@
 ---
-bg_image: images/featue-bg.jpg
-category: UI/UX Design
-description: this is meta description
+bg_image: images/bg.jpg
+category: Speakers
+description: 
 draft: false
-image: images/portfolio/work4.jpg
+image: images/people/guillaume-filion.jpg
 information:
-- info: Jannie Kelonsky
-  label: Client
-- info: Website Redesign
-  label: What We Did
-- info: Photoshop,Illustrator
-  label: Tools Used
-- info: 17th March 2014
-  label: Completed on
-- info: HTML5 / PHP / CSS3
-  label: Skills
-- info: Jannie Kelonsky
-  label: Client
-title: Rio Furniture
+- info: "NL2019, NGSchool2019"
+  label: Events
+- info: speaker
+  label: Role
+title: Guillaume Filion
 ---
 
 ## Behance Website Redesign
