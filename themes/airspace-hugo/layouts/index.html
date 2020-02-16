@@ -112,12 +112,11 @@
           </ul>
         </div>
       </div>
-<!--       <div class="col-md-5 col-md-offset-1"> -->
         <div class="testimonial-carousel text-center">
           <div class="testimonial-slider owl-carousel">
             {{ range .testimonial_slider }}
             <div>
-<!-- <i class="ion-quote"></i> -->
+
 			<p><span>{{ .content | markdownify }}</span></p>
               <div class="user">
                 <p><img src="{{ .image | relURL }}" alt="client"></p>  
@@ -126,9 +125,11 @@
             </div>
             {{ end }}
           </div>
-        </div>
-<!--       </div>  -->
-    </div>
+		</div>
+	</div>
+	<div class="section-title text-center">
+	  <a href="people/index.html" class="btn btn-main"><i class="tf-ion-android-arrow-back"></i> See more</a>
+	</div>
   </div>
 </section>
 {{ end}}

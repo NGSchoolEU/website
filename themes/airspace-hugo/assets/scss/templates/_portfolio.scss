@@ -26,38 +26,25 @@
 	}
 }
 
+
 .portfolio {
 	&-item {
 		position: relative;
 		padding: 0;
+		text-shadow: 2px 2px 4px #000000;
 
 		img {
 			width: 100%;
 			height: auto;
+			opacity: 0.5;	
 		}
-
+		
 		&:hover {
-			.portfolio-hover {
-				visibility: visible;
-				opacity: 1;
-			}
-
-			.portfolio-content {
-				transform: translateY(-50%);
+			img {
+				opacity: 0.8;
+				transition: .3s ease;
 			}
 		}
-	}
-
-	&-hover {
-		position: absolute;
-		height: 100%;
-		width: 100%;
-		top: 0;
-		left: 0;
-		background: rgba(60, 55, 55, 0.5);
-		visibility: hidden;
-		opacity: 0;
-		transition: .3s ease;
 	}
 
 	&-content {
@@ -68,7 +55,6 @@
 		transform: translateY(-40%);
 		text-align: center;
 		padding: 20px;
-		transition: inherit;
 
 		* {
 			color: $light;
@@ -86,10 +72,16 @@
 				margin-top: 0;
 			}
 		}
+		
+		&:hover {
+			img {
+				opacity: 0.8;
+				transition: .3s ease;
+			}
+		}
 	}
+
 }
-
-
 
 
 // Portfolio Single Page

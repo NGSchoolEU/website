@@ -29,13 +29,13 @@
           <div class="row shuffle-wrapper">
             {{ range .Data.Pages }}
             <div class="col-md-4 portfolio-item shuffle-item" data-groups="[&quot;{{ .Params.Category | urlize }}&quot;]">
-              <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}">
+              <img class="img" src="{{ .Params.Image | relURL }}" alt="{{ .Title }}">
 
                 <div class="portfolio-content">
-                  <a href="{{ .Params.Image | relURL }}" class="portfolio-popup"><i class="icon ion-search"></i></a>
+                  <a class="portfolio-popup"></a>
                   <a class="h3" href="{{ .Permalink }}">{{ .Title }}</a>
                   <p>{{ .Params.Description }}</p>
-                </div>
+                </div	>
 
             </div>
             {{ end }}
