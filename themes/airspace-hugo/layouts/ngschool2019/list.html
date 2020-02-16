@@ -4,12 +4,56 @@
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
-<section class="page-wrapper">
+<section class="portfolio-single-page section-sm">
   <div class="container">
-  
-
-        {{ .Content }}
- 
+    <div class="row">
+		  <div class="project-details">
+			<div class="col-md-12">
+			  <ul>
+				{{ range .Params.Information }}
+				<li><span>{{ .label }} :</span> <strong>{{ .info | markdownify }}</strong></li>
+				{{ end }}
+			  </ul>
+			</div>			
+        </div>
+	</div>
+	<br>
+    <div class="row">
+      <div class="col-md-6">
+        <img class="img-responsive w-100" src="../images/ngschool/2019-012.jpg" alt="">
+      </div>
+      <div class="col-md-6">
+        <img class="img-responsive w-100" src="../images/ngschool/2019-010.jpg" alt="">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div class="project-content mt-50">
+          {{ .Content }}
+        </div>
+      </div>
+    </div>
+	<br>
+	<div class="row">
+      <div class="col-md-4">
+        <img class="img-responsive w-100" src="../images/ngschool/2019-006.jpg" alt="">
+      </div>
+      <div class="col-md-4">
+        <img class="img-responsive w-100" src="../images/ngschool/2019-008.jpg" alt="">
+      </div>
+      <div class="col-md-4">
+        <img class="img-responsive w-100" src="../images/ngschool/2019-009.jpg" alt="">
+      </div>
+	</div>
+	<br>
+	<div class="row">
+      <div class="col-md-6">
+        <img class="img-responsive w-100" src="../images/ngschool/2019-004.jpg" alt="">
+      </div>
+      <div class="col-md-6">
+        <img class="img-responsive w-100" src="../images/ngschool/2019-011.jpg" alt="">
+      </div>
+	</div>
   </div>
 </section>
 

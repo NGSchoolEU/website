@@ -3,8 +3,7 @@ about:
   enable : true
   image : "images/about-01.jpg"
   title : "We train the future bioinformatics experts."
-  content : "
-  NGSchool (Next Generation School) is a platform to share the expertise in the field of Next Generation Sequencing Data Analysis 
+  content : "#NGSchool (Next Generation School) is a platform to share the expertise in the field of Next Generation Sequencing Data Analysis 
   and general Bioinformatics. We organize activities aimed at young researchers, primarily from Central & Eastern European countries and 
   with at least basic background in biology/math/informatics, who strive to improve their Bioinformatics and NGS data analysis skills.
   

@@ -2,10 +2,20 @@
 bg_image: images/ngschool/2019-001.jpg
 description: The adventures of bioscientists in the random forests 
 draft: false
+information:
+- info: "Jachranka, Poland"
+  label: Location
+- info: "September 10 - 17, 2017"
+  label: Date
+- info: "xx"
+  label: Participants
 title: "#NGSchool2019"
 ---
 
 ### Topic
+
+NGSchool2019: Machine Learning for Biomedicine was held on 24-31 Oct in Białobrzegi, Poland, and was focused on Machine Learning (ML) and its application in 
+Bioinformatics & NGS Data Analysis as well as personalised medicine.  
 
 Advances in biological and medical technologies drive continuous generation of large amounts of biomedical Big Data. 
 European Nucleotide Archive stores 260 million sequences comprising 339 trillion nucleotides. This will double in less than 3 years 
@@ -14,9 +24,12 @@ entailing an intensified demand for experts in NGS data analysis. Big Data requi
 Machine Learning (ML) is the answer to the increased complexity of research problems in science, industry and in everyday life. 
 It is our conviction that knowledge of the ML techniques is a crucial skill every data scientist should acquire throughout their training.
 
+We invited ~60 participants (40 students and 20 speakers). You can find all details about this edition in 
+[Book of abstracts](https://t.co/pzJmqOh6yk?amp=1). 
+[Materials](https://github.com/NGSchoolEU/ngs19) from the school and 
+[video recordings](http://videolectures.net/NGSchool2019_bialobrzegi/) of keynote lectures are available online.
 
-For above reasons, #NGSchool2019: Machine Learning for Biomedicine will be focused on Machine Learning (ML) and its application in 
-Bioinformatics & NGS Data Analysis as well as personalised medicine. We will cover the following subjects:  
+We covered the following subjects:  
 
 - introduction to Linux, programming (R and Python) and statistics
 - tools for efficient and reproducible research
@@ -28,9 +41,6 @@ Bioinformatics & NGS Data Analysis as well as personalised medicine. We will cov
 
 
 ### Program & speakers
-
-NGSchool2019 was held on 24-31 Oct in Białobrzegi, Poland. We invited ~60 participants (40 students and 20 speakers). 
-You can find all details about this edition in Book of abstracts. All materials from this edition are available at our github.
 
 This year we hosted introductory sessions, lectures, workshops and hackathons. First two days included introductory sessions covering Linux, 
 programming (R/Python) and statistics, in order to make sure all participants are at the same level and have necessary software and packages installed 

@@ -1,0 +1,12 @@
+---
+title: We have a new website!
+author: ngschool
+date: '2020-01-16'
+slug: new-website
+categories:
+  - news
+tags:
+  - news
+---
+
+Check us out :)

@@ -2,15 +2,23 @@
 bg_image: images/ngschool/2017-001.jpg
 description: Stats workout in the gym
 draft: false
+information:
+- info: "Jachranka, Poland"
+  label: Location
+- info: "September 10 - 17, 2017"
+  label: Date
+- info: "xx"
+  label: Participants
 title: "#NGSchool2017"
 ---
 
 ### Topic
 
 Summer School in Bioinformatics & NGS Data Analysis (#NGSchool2017) was held on 10-17 September 2017 in CBiES, Jachranka 81 k/Warszawy. 
-In the course of one week, the participants attended the series of lectures and workshops, covering various aspects of Computational Biology, 
+In the course of one week, the participants attended the series of lectures and workshops, covering various aspects of computational biology, 
 focusing on state-of-the-art techniques related to Next-Generation Sequencing (NGS) and its application in research, health-care and industry. 
 In 2017, we focused on data analysis from single-cell technologies. As before, the course covered wide range of topics, selected by popularity among attendees.
+The materials are available on our [GitHub](https://github.com/NGSchoolEU/ngs17).
 
 ### Speakers
 
