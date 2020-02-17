@@ -1,0 +1,190 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<section class="portfolio-single-page section-sm">
+    <div class="container">
+      <div class="row">
+            <div class="project-details">
+              <div class="col-md-12">
+                <ul>
+                  {{ range .Params.Information }}
+                  <li><span>{{ .label }} :</span> <strong>{{ .info | markdownify }}</strong></li>
+                  {{ end }}
+                </ul>
+              </div>
+          </div>
+      </div>
+      <br>
+      <!-- <div class="row">
+        <div class="col-md-6">
+          <img class="img-responsive w-100" src="../images/ngschool/2019-012.jpg" alt="">
+        </div>
+        <div class="col-md-6">
+          <img class="img-responsive w-100" src="../images/ngschool/2019-010.jpg" alt="">
+        </div>
+      </div> -->
+      <div class="row">
+        <div class="col-md-12">
+          <div class="project-content mt-50">
+            {{ .Content }}
+          </div>
+        </div>
+      </div>
+      <br>
+      <!-- <div class="row">
+        <div class="col-md-4">
+          <img class="img-responsive w-100" src="../images/ngschool/2019-006.jpg" alt="">
+        </div>
+        <div class="col-md-4">
+          <img class="img-responsive w-100" src="../images/ngschool/2019-008.jpg" alt="">
+        </div>
+        <div class="col-md-4">
+          <img class="img-responsive w-100" src="../images/ngschool/2019-009.jpg" alt="">
+        </div>
+      </div>
+      <br>
+      <div class="row">
+        <div class="col-md-6">
+          <img class="img-responsive w-100" src="../images/ngschool/2019-004.jpg" alt="">
+        </div>
+        <div class="col-md-6">
+          <img class="img-responsive w-100" src="../images/ngschool/2019-011.jpg" alt="">
+        </div>
+      </div> -->
+        <div class="row" style="min-width: 800px; padding: 5px; overflow-x: auto;">
+            <table class="timetable" border="1" style="width: 100%;">
+                <tr>
+                    <td></td>
+                    <td>22.07</td>
+                    <td>23.07</td>
+                    <td>24.07</td>
+                    <td>25.07</td>
+                    <td>26.07</td>
+                    <td>27.07</td>
+                    <td>28.07</td>
+                    <td>29.07</td>
+                    <td>30.07</td>
+                    <td>31.07</td>
+                </tr>
+                <tr>
+                    <td>08:00</td>
+                    <td></td>
+                    <td rowspan="4" class="food">Breakfast</td>
+                    <td rowspan="4" class="food">Breakfast</td>
+                    <td rowspan="4" class="food">Breakfast</td>
+                    <td rowspan="4" class="food">Breakfast</td>
+                    <td rowspan="4" class="food">Breakfast</td>
+                    <td rowspan="4" class="food">Breakfast</td>
+                    <td rowspan="4" class="food">Breakfast</td>
+                    <td rowspan="4" class="food">Breakfast</td>
+                    <td rowspan="4" class="food">Breakfast</td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>09:00</td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>12:00</td>
+                    <td rowspan="4">Registration</td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>13:00</td>
+                    <td rowspan="6" class="food">Lunch</td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>14:00</td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td rowspan="18">Introductory sessions</td>
+                    <td rowspan="4" class="lecture">LECTURE</td>
+                </tr>
+                <tr>
+                    <td>15:00</td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</section>
+
+{{ end }}

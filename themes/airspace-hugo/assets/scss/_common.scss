@@ -604,3 +604,19 @@ input[type="tel"] {
 #error {
   display: none;
 }
+
+.timetable {
+  td {
+    height: 30px;
+    padding: 5px;
+    width: 9%;
+
+    &.food {
+      background-color: #FEF2CC;
+    }
+
+    &.lecture {
+      background-color: #CFE2F3;
+    }
+  }
+}

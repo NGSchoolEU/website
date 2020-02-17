@@ -39,7 +39,7 @@ $(document).ready(function () {
 	});
 
 	$('.testimonial-slider').slick({
-		slidesToShow: 1,
+		slidesToShow: 3,
 		infinite: true,
 		arrows: false,
 		autoplay: true,

@@ -3,9 +3,9 @@ bg_image: images/ngschool/2019-001.jpg
 description: The adventures of bioscientists in the random forests 
 draft: false
 information:
-- info: "Jachranka, Poland"
+- info: "Białobrzegi, Poland"
   label: Location
-- info: "September 10 - 17, 2017"
+- info: "October 24 - 31, 2019"
   label: Date
 - info: "xx"
   label: Participants

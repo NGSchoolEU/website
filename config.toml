@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://examplesite.com"
-title = "Airspace | Creative Agency Hugo Template"
+title = "#NGSchool"
 theme = "airspace-hugo"
 # post pagination
 paginate = "4"
@@ -69,23 +69,33 @@ disableLanguages = []
 
     [[menu.main]]
     parent = "NGSchool"
-    name = "2016"
-    URL = "ngschool2016"
-
-    [[menu.main]]
-    parent = "NGSchool"
-    name = "2017"
-    URL = "ngschool2017"
-
-    [[menu.main]]
-    parent = "NGSchool"
-    name = "2018"
-    URL = "ngschool2018"
+    name = "2020"
+    URL = "ngschool2020"
+    weight = 1
 
     [[menu.main]]
     parent = "NGSchool"
     name = "2019"
     URL = "ngschool2019"
+    weight = 2
+
+    [[menu.main]]
+    parent = "NGSchool"
+    name = "2018"
+    URL = "ngschool2018"
+    weight = 3
+
+    [[menu.main]]
+    parent = "NGSchool"
+    name = "2017"
+    URL = "ngschool2017"
+    weight = 4
+
+    [[menu.main]]
+    parent = "NGSchool"
+    name = "2016"
+    URL = "ngschool2016"
+    weight = 5
     
   [[menu.main]]
   name = "People"
@@ -106,25 +116,25 @@ disableLanguages = []
   # footer menu
   [[menu.footer]]
   name = "#NGSchool"
-  URL = "about"
+  URL = "/about"
   weight = 1
   
   
   [[menu.footer]]
   name = "Society"
-  URL = "society"
+  URL = "/society"
   weight = 2
 
 
   [[menu.footer]]
   name = "FAQ"
-  URL = "faq"
+  URL = "/faq"
   weight = 3
   
   
   [[menu.footer]]
   name = "Contact"
-  URL = "contact"
+  URL = "/contact"
   weight = 4
 
 

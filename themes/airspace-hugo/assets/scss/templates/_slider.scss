@@ -1,8 +1,7 @@
 .slider {
   background-repeat: no-repeat;
   background-size: cover;
-  background-attachment: fixed;
-  background-position: 10% 0%;
+  background-position: 70% 35%;
   padding: 100px 0 100px 0;
   position: relative;
   @extend .overly;
@@ -13,7 +12,7 @@
 
     h1 {
       font-weight: 100;
-      font-size: 45px;
+      font-size: 70px;
       line-height: 60px;
       letter-spacing: 10px;
       padding-bottom: 15px;
