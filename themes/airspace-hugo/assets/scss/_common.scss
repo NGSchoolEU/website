@@ -606,10 +606,13 @@ input[type="tel"] {
 }
 
 .timetable {
+  // border: 1px solid black;
+
   td {
     height: 30px;
     padding: 5px;
     width: 9%;
+    border: 1px solid black;
 
     &.food {
       background-color: #FEF2CC;
@@ -617,6 +620,14 @@ input[type="tel"] {
 
     &.lecture {
       background-color: #CFE2F3;
+    }
+
+    &.hackathon {
+      background-color: #D9D2E9;
+    }
+
+    &.social {
+      background-color: #D9EAD3;
     }
   }
 }

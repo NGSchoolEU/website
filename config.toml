@@ -41,6 +41,8 @@ disableLanguages = []
   link = "plugins/shuffle/shuffle.min.js"
   [[params.plugins.js]]
   link = "plugins/google-map/gmap.js"
+  [[params.plugins.js]]
+  link = "plugins/font-awesome/font-awesome.js"
 
   
 ############################## navigation ###############################
@@ -121,25 +123,25 @@ disableLanguages = []
   # footer menu
   [[menu.footer]]
   name = "#NGSchool"
-  URL = "about"
+  URL = "/about"
   weight = 1
   
   
   [[menu.footer]]
   name = "Society"
-  URL = "society"
+  URL = "/society"
   weight = 2
 
 
   [[menu.footer]]
   name = "FAQ"
-  URL = "faq"
+  URL = "/faq"
   weight = 3
   
   
   [[menu.footer]]
   name = "Contact"
-  URL = "contact"
+  URL = "/contact"
   weight = 4
 
 
