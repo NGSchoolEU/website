@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "https://ngschoollocal.netlify.com"
 title = "#NGSchool"
 theme = "airspace-hugo"
 # post pagination
@@ -116,25 +116,25 @@ disableLanguages = []
   # footer menu
   [[menu.footer]]
   name = "#NGSchool"
-  URL = "/about"
+  URL = "about"
   weight = 1
   
   
   [[menu.footer]]
   name = "Society"
-  URL = "/society"
+  URL = "society"
   weight = 2
 
 
   [[menu.footer]]
   name = "FAQ"
-  URL = "/faq"
+  URL = "faq"
   weight = 3
   
   
   [[menu.footer]]
   name = "Contact"
-  URL = "/contact"
+  URL = "contact"
   weight = 4
 
 
