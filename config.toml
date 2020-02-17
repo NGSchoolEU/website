@@ -98,19 +98,24 @@ disableLanguages = []
     weight = 5
     
   [[menu.main]]
+  weight = 5
+  name = "Conference 2020"
+  URL = "conference"
+
+  [[menu.main]]
   name = "People"
   URL = "people"
-  weight = 5
+  weight = 6
   
   [[menu.main]]
   name = "FAQ"
   URL = "faq"
-  weight = 6
+  weight = 7
   
   [[menu.main]]
   name = "Contact"
   URL = "contact"
-  weight = 7
+  weight = 8
 
   
   # footer menu
