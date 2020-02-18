@@ -119,7 +119,7 @@
 
 			<p><span>{{ .content | markdownify }}</span></p>
               <div class="user">
-                <p><img src="{{ .image | relURL }}" alt="client"></p>  
+                <p><a href="{{ .link | relURL }}"><img src="{{ .image | relURL }}" alt="client"></a></p>  
                 <p><span>{{ .name | markdownify }}</span> {{ .designation | markdownify }}</p>
               </div>
             </div>

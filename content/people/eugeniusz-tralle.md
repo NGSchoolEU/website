@@ -3,13 +3,13 @@ bg_image: images/bg.jpg
 category: Organizers
 description: 
 draft: false
-image: images/people/maja-kuzman.jpg
+image: images/people/eugeniusz-tralle.jpg
 information:
 - info: "#NGSchool2017, #NGSchool2018, #NGSchool2019"
   label: Events
-- info: "Participant, organiser"
+- info: "Organiser"
   label: Role
-- info: 
-  label: AffiliationUniversity of Zagreb, Croatia
-title: Maja Kuzman
+- info: IIMCB, Warsaw, Poland
+  label: Affiliation
+title: Eugeniusz Tralle
 ---

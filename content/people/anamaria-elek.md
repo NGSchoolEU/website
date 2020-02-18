@@ -1,15 +1,15 @@
 ---
 bg_image: images/bg.jpg
-category: Speakers
+category: Organizers
 description: 
 draft: false
-image: images/people/guillaume-filion.jpg
+image: images/people/anamaria-elek.jpg
 information:
-- info: "NL2019, NGSchool2019"
+- info: "#NGSchool2018, #NGSchool2020"
   label: Events
-- info: Speaker
+- info: Participant, organiser
   label: Role
 - info: CRG, Barcelona, Spain
   label: Affiliation
-title: Guillaume Filion
+title: Anamaria Elek
 ---

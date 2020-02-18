@@ -43,15 +43,12 @@ Registration will be open from March ..., 12 PM CET to April …, 23:59 CET. You
 
 <br>
 
-@@@ ___Maybe we have some better pictues?___ @@@
-
 <div class="row">
     <div class="col-md-6">
-        <img class="img-responsive w-100" src="../images/ngschool/2020-000.jpg" alt="">
-        <!-- <img class="img-responsive w-100" src="../images/ngschool/2020-000-m.jpg" alt=""> -->
+        <img class="img-responsive w-100" src="../images/ngschool/2020-003.jpg" alt="">
     </div>
     <div class="col-md-6">
-        <img class="img-responsive w-100" src="../images/ngschool/2020-001.jpg" alt="">
+        <img class="img-responsive w-100" src="../images/ngschool/2020-004.jpg" alt="">
     </div>
 </div>
 
@@ -63,18 +60,18 @@ Similarly to previous years, we'll make sure there is plenty of fun beside hard 
 
 ## Organisers & partners
 
-* Katarzyna Kędzierska
-* Lidia Lipińska, University of Warsaw
-* Natalia Pstrąg
-* Anamaria Elek
-* Karolina Sienkiewicz
-* German Demidov
-* Eugeniusz Tralle
-* Samantha Filipów
-* Maja Kuzman
-* Urszula Smyczyńska, Medical University of Lodz
-* Szymon Grabia, Medical University of Lodz
-* Gladys Langi, Medical University of Bialystok
+* [Katarzyna Kędzierska](/people/katarzyna-kedzierska), WCHG, University of Oxford, UK
+* [Lidia Lipińska](/people/lidia-lapinska), University of Warsaw, Poland
+* [Natalia Pstrąg](/people/natalia-pstrag), UAM, Poznań, Poland
+* [Anamaria Elek](/people/anamaria-elek), CRG, Barcelona, Spain
+* [Karolina Sienkiewicz](/people/karolina-sienkiewicz), CPHG, University of Virginia, USA
+* [German Demidov](/people/german-demidov), IMGAG, University of Tübingen, Germany
+* [Eugeniusz Tralle](/people/eugeniusz-tralle), IIMCB, Warsaw, Poland
+* [Samantha Filipów](/people/samantha-filipow), CECAD, University of Cologne, Germany
+* [Maja Kuzman](/people/maja-kuzman), University of Zagreb, Croatia
+* [Urszula Smyczyńska](/people/urszula-smyczyńska), Medical University of Lodz, Poland
+* [Szymon Grabia](/people/szymon-grabia), Medical University of Lodz, Poland
+* [Gladys Langi](/people/gladys-langi), Medical University of Bialystok, Poland
 
 ## Sponsors
 
