@@ -1,8 +1,6 @@
 ---
-markup: "mmark"
-
 bg_image: images/feature-conference.jpg
-title: #NGSymposium in Computational Biology
+title: NGSymposium in Computational Biology
 description: Conference for the 5<sup>th</sup> anniversary of NGSchool
 draft: false
 information:
@@ -95,5 +93,4 @@ To be announced soon.
 ## Sponsors
 
 ## Program
-The conference will start at 3 PM on the 31<sup>st</sup> July (Friday) and will last till 1<sup>st</sup> August (Saturady) evening. We plan to invite 4-5 keynote speakers. We will reserve timeslots for about 25 oral presentations, while authors of the rest of abstract found valuable by our Scientific Committee will be invited to prepare posters. The detailed program will be announced later. 
-
+The conference will start at 3 PM on the 31<sup>st</sup> July (Friday) and will last till 1<sup>st</sup> August (Saturady) evening. We plan to invite 4-5 keynote speakers. We will reserve timeslots for about 25 oral presentations, while authors of the rest of abstract found valuable by our Scientific Committee will be invited to prepare posters. The detailed program will be announced later.
