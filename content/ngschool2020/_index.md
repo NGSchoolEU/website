@@ -1,7 +1,7 @@
 ---
 markup: "mmark"
 
-bg_image: images/ngschool/2019-001.jpge
+bg_image: images/ngschool/2019-001.jpg
 description: The adventure through the random forests continues
 draft: false
 information:
@@ -9,7 +9,7 @@ information:
   label: Location
 - info: "July 22 - 31, 2020"
   label: Date
-- info: "xx"
+- info: "35 (planned)"
   label: Participants
 title: "#NGSchool2020"
 ---
@@ -58,10 +58,15 @@ Similarly to previous years, we'll make sure there is plenty of fun beside hard 
 
 [You can check photos from previous editions for a sample of that.](https://ngschool.eu/photos)
 
+## Speakers
+* [Aakrosh	Ratan](/people/aakrosh-ratan//), University of Virginia, USA
+
+and more coming soon!
+
 ## Organisers & partners
 
 * [Katarzyna Kędzierska](/people/katarzyna-kedzierska), WCHG, University of Oxford, UK
-* [Lidia Lipińska](/people/lidia-lapinska), University of Warsaw, Poland
+* [Lidia Lipińska](/people/lidia-lipinska), University of Warsaw, Poland
 * [Natalia Pstrąg](/people/natalia-pstrag), UAM, Poznań, Poland
 * [Anamaria Elek](/people/anamaria-elek), CRG, Barcelona, Spain
 * [Karolina Sienkiewicz](/people/karolina-sienkiewicz), CPHG, University of Virginia, USA
@@ -69,7 +74,7 @@ Similarly to previous years, we'll make sure there is plenty of fun beside hard 
 * [Eugeniusz Tralle](/people/eugeniusz-tralle), IIMCB, Warsaw, Poland
 * [Samantha Filipów](/people/samantha-filipow), CECAD, University of Cologne, Germany
 * [Maja Kuzman](/people/maja-kuzman), University of Zagreb, Croatia
-* [Urszula Smyczyńska](/people/urszula-smyczyńska), Medical University of Lodz, Poland
+* [Urszula Smyczyńska](/people/urszula-smyczynska), Medical University of Lodz, Poland
 * [Szymon Grabia](/people/szymon-grabia), Medical University of Lodz, Poland
 * [Gladys Langi](/people/gladys-langi), Medical University of Bialystok, Poland
 

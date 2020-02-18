@@ -1,0 +1,99 @@
+---
+markup: "mmark"
+
+bg_image: images/feature-conference.jpg
+title: #NGSymposium in Computational Biology
+description: Conference for the 5<sup>th</sup> anniversary of NGSchool
+draft: false
+information:
+- info: "Warsaw, Poland"
+  label: Location
+- info: "July 31 - August 1, 2020"
+  label: Date
+- info: "200 (planned)"
+  label: Participants
+- info: "5 (planned)"
+  label: Invited Speakers
+---
+
+## First NGSymposium
+We have a great pleasure to invite you to the **NGSymposium in Computational Biology** to celebrate the 5<sup>th</sup> anniversary of the NGSchool Summer Schools. This international conference will make way for exchanging knowledge and experiences between experienced and early-stage researchers as well as bioinformaticians. The meeting will be held on **31.07 - 1.08.2020 in Warsaw**. It will be a satellite event to the [#NGSchool2020: Statistical Learning in Genomics](/ngschool2019). It will cover a wide range of topics from basic and applied biomedical sciences: bioinformatics, genomics, transcriptomics, computational biology.
+
+## Topics and keywords
+Bioinformatics, Genomics, Machine Learning, NGS
+
+## Important dates
+<table class="table table-bordered table-striped">
+  <tr>
+    <th>Date</th>
+    <th>Event</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td class="date-td"></td>
+    <td>Abstract submission (registration for active participants)</td>
+    <td>
+      <a href="#" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+    </td>
+  </tr>
+  <tr>
+    <td class="date-td"></td>
+    <td>Abstract selection results announcement </td>
+    <td>
+      <a href="#" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+    </td>
+  </tr>
+  <tr>
+    <td class="date-td"></td>
+    <td>Registration for passive participants </td>
+    <td>
+      <a href="#" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+    </td>
+  </tr>
+  <tr>
+    <td class="date-td">31.07 - 1.08</td>
+    <td>NGSymposium in Computational Biology</td>
+    <td>
+      <a href="#" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+    </td>
+  </tr>
+</table>
+
+## Venue & social activities
+#NGSymposium2020 will be held on 31 of July and 1 of August 2020 in Warsaw, Poland.
+
+## Registration and abstract submission
+
+Registration will be open from March ..., 12 PM CET to April …, 23:59 CET. 
+
+<a href="#" target="_blank" class="btn btn-success btn-lg btn-block">Register <i class="fas fa-play"></i></a>
+
+
+## Speakers
+* [Maire	Ní Leathlobhair](/people/maire-ni-leathlobhair/), Big Data Institute, University of Oxford, UK
+* [Aakrosh	Ratan](/people/aakrosh-ratan//), University of Virginia, USA
+
+and more coming soon!
+
+## Scientific committee
+To be announced soon.
+
+## Organizational committee
+* [Katarzyna Kędzierska](/people/katarzyna-kedzierska), WCHG, University of Oxford, UK
+* [Lidia Lipińska](/people/lidia-lipinska), University of Warsaw, Poland
+* [Natalia Pstrąg](/people/natalia-pstrag), UAM, Poznań, Poland
+* [Anamaria Elek](/people/anamaria-elek), CRG, Barcelona, Spain
+* [Karolina Sienkiewicz](/people/karolina-sienkiewicz), CPHG, University of Virginia, USA
+* [German Demidov](/people/german-demidov), IMGAG, University of Tübingen, Germany
+* [Eugeniusz Tralle](/people/eugeniusz-tralle), IIMCB, Warsaw, Poland
+* [Samantha Filipów](/people/samantha-filipow), CECAD, University of Cologne, Germany
+* [Maja Kuzman](/people/maja-kuzman), University of Zagreb, Croatia
+* [Urszula Smyczyńska](/people/urszula-smyczynska), Medical University of Lodz, Poland
+* [Szymon Grabia](/people/szymon-grabia), Medical University of Lodz, Poland
+* [Gladys Langi](/people/gladys-langi), Medical University of Bialystok, Poland
+
+## Sponsors
+
+## Program
+The conference will start at 3 PM on the 31<sup>st</sup> July (Friday) and will last till 1<sup>st</sup> August (Saturady) evening. We plan to invite 4-5 keynote speakers. We will reserve timeslots for about 25 oral presentations, while authors of the rest of abstract found valuable by our Scientific Committee will be invited to prepare posters. The detailed program will be announced later. 
+
