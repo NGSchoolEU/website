@@ -1,4 +1,6 @@
 public
 .RData
 .Rhistory
-.Rproj.user
+.Rproj.user/
+
+resources/_gen/

@@ -606,16 +606,21 @@ input[type="tel"] {
 }
 
 .timetable {
-  // border: 1px solid black;
+  border: 1px solid #ccc;
 
   td {
     height: 30px;
     padding: 5px;
     width: 9%;
-    border: 1px solid black;
+    empty-cells: show;
+    border: 1px solid #aaa;
 
     &.food {
       background-color: #FEF2CC;
+    }
+
+    &.workshop {
+      background-color: #FCE4CD;
     }
 
     &.lecture {
@@ -628,6 +633,10 @@ input[type="tel"] {
 
     &.social {
       background-color: #D9EAD3;
+    }
+
+    &.organization {
+      background-color: #E6B8AF;
     }
   }
 }

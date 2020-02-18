@@ -39,11 +39,31 @@ $(document).ready(function () {
 	});
 
 	$('.testimonial-slider').slick({
-		slidesToShow: 3,
+		slidesToShow: 4,
 		infinite: true,
 		arrows: false,
 		autoplay: true,
-		autoplaySpeed: 2000
+		autoplaySpeed: 2000,
+		responsive: [
+			{
+			  breakpoint: 1200,
+			  settings: {
+				slidesToShow: 3,
+			  }
+			},
+			{
+			  breakpoint: 992,
+			  settings: {
+				slidesToShow: 2,
+			  }
+			},
+			{
+			  breakpoint: 612,
+			  settings: {
+				slidesToShow: 1,
+			  }
+			}
+		  ]
 	});
 
 

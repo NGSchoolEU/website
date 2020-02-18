@@ -156,7 +156,7 @@ funfacts:
       image : "images/team/szymon-grabia.jpg"
       link: "people/szymon-grabia"
       designation : "Medical University of Lodz, Poland"
-      content : "Logistics"
+      content : "IT"
     
     # testimonial item loop
     - name : "Gladys Langi"

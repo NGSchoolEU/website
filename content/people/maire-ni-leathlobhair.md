@@ -3,7 +3,7 @@ bg_image: images/bg.jpg
 category: Speakers
 description: 
 draft: false
-image: images/people/maire-ní-leathlobhair.jpg
+image: images/people/maire-ni-leathlobhair.jpg
 information:
 - info: "#NGSymposium2020"
   label: Events
