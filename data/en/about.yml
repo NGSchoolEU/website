@@ -2,16 +2,12 @@
 about:
   enable : true
   image : "images/about-01.jpg"
-  title : "We train the future bioinformatics experts."
-  content : "#NGSchool (Next Generation School) is a platform to share the expertise in the field of Next Generation Sequencing Data Analysis 
-  and general Bioinformatics. We organize activities aimed at young researchers, primarily from Central & Eastern European countries and 
-  with at least basic background in biology/math/informatics, who strive to improve their Bioinformatics and NGS data analysis skills.
+  title : "We train future bioinformatics experts."
+  content : "#NGSchool (Next Generation School) is a platform to share expertise in the field of Next Generation Sequencing Data Analysis 
+  and general Bioinformatics. We organize activities aimed at young researchers, who are primarily from Central & Eastern European countries, 
+  with at least basic background in biology/mathematics/informatics, and who strive to improve their Bioinformatics and NGS data analysis skills.
   
-  
-  So far we have organised 4 summer schools and co-organised number of local and satellite events. 
-  
-  
-  Summer School is our flagship annual event. In addition, we are organising number of local events, such as workshops, symposiums and conferences."
+  Summer School is our flagship annual event. So far, we have organised four summer schools in Central Europe. In addition, we co-organized a number of local events, such as workshops, symposiums, and conferences."
 
 #  button:
 #    enable : true
@@ -33,7 +29,7 @@ about:
 ################################ feature #####################################
 features:
   enable : true
-  title : " #NGSchool is all about people and sharing - building a Community of bioinformatics experts and enthusiasts."
+  title : " #NGSchool is all about people and sharing - building a community of bioinformatics experts and enthusiasts."
   
   feature_item:
     # feature item loop
@@ -64,7 +60,7 @@ history:
   
   
   The initial motivation behind #NGSchool was to organise excellent & affordable training in Bioinformatics 
-  for young, talented scientists. While there were many great hands-on courses in Bioinformatics at the time, 
+  for young talented scientists. While there were many great hands-on courses in Bioinformatics at the time, 
   all of them were expensive, especially for researchers from Central & Eastern European countries.
   
   
@@ -80,15 +76,15 @@ mission_vision:
   tabs:
     # tab item loop
     - name : "Vision"
-      content : "We want to to make a difference and provide excellent training in computational biology, especially 
-      for people that can’t afford to pay for it. Motivated by significant disproportion in resources and opportunities 
+      content : "We want to make a difference and provide excellent training in computational biology, especially 
+      for people that cannot afford to pay for it. Motivated by significant disproportion in resources and opportunities 
       available to researchers in Western and Central/Eastern Europe, our goal is to level these differences by providing
       affordable training specifically aimed at talented students and early stage researchers working in CEE countries."
       
     # tab item loop
     - name : "Mission"
       content : "Our mission is to deliver effective hands-on training and help young researchers develop important 
-      computational and analytical skill for conducting state-of-the-art biological analyses. Therfore, every year we adapt 
+      computational and analytical skill for conducting state-of-the-art biological analyses. Therefore, every year we adapt 
       the course programme accordingly to accommodate new trends and developments in sequencing technologies, while addressing 
       new challenges arising in Bioinformatics and NGS data analysis. Our events are also aimed at initiating collaborations 
       that will advance the research and industry in these particular fields."
@@ -98,8 +94,8 @@ mission_vision:
       content : "The previous editions of NGSchool were a big success and their popularity motivated us to organise 
       this summer school on an annual basis. On top of that, we are also organising related conferences and workshops.
       In order to regulate formal aspects of our activity and secure flawless organisation of future events, 
-      we’ve established NGSchool Society. As a Society, we colaborate with many organizations in related fields,  
-      invite experts in relevant topics to our events and improve based on feedback from events' participants."
+      we have established NGSchool Society. As a Society, we colaborate with many organizations in related fields,  
+      invite experts in relevant topics to our events, and improve based on feedback from events' participants."
 
 
 ############################# call to action #################################
