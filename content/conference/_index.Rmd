@@ -14,11 +14,19 @@ information:
   label: Invited Speakers
 ---
 
-## First NGSymposium
 We have a great pleasure to invite you to the **NGSymposium in Computational Biology** to celebrate the 5<sup>th</sup> anniversary of the NGSchool Summer Schools. This international conference will make way for exchanging knowledge and experiences between experienced and early-stage researchers as well as bioinformaticians. The meeting will be held on **31.07 - 1.08.2020 in Warsaw**. It will be a satellite event to the [#NGSchool2020: Statistical Learning in Genomics](/ngschool2019). It will cover a wide range of topics from basic and applied biomedical sciences: bioinformatics, genomics, transcriptomics, computational biology.
 
 ## Topics and keywords
 Bioinformatics, Genomics, Machine Learning, NGS
+
+<div style="width: 100%;">
+<div style="width: 48%; float: left; padding-bottom: 50px; padding-top: 50px;">
+<img class="img-responsive w-100" src="../images/conference-01.jpg">
+</div>
+<div style="width: 48%; float: right; padding-bottom: 50px; padding-top: 50px;">
+<img class="img-responsive w-100" src="../images/conference-02.jpg">
+</div>
+</div>
 
 ## Important dates
 <table class="table table-bordered table-striped">
@@ -56,7 +64,6 @@ Bioinformatics, Genomics, Machine Learning, NGS
     </td>
   </tr>
 </table>
-
 ## Venue & social activities
 #NGSymposium2020 will be held on 31 of July and 1 of August 2020 in Warsaw, Poland.
 
@@ -85,7 +92,6 @@ To be announced soon.
 * [German Demidov](/people/german-demidov), IMGAG, University of Tübingen, Germany
 * [Eugeniusz Tralle](/people/eugeniusz-tralle), IIMCB, Warsaw, Poland
 * [Samantha Filipów](/people/samantha-filipow), CECAD, University of Cologne, Germany
-* [Maja Kuzman](/people/maja-kuzman), University of Zagreb, Croatia
 * [Urszula Smyczyńska](/people/urszula-smyczynska), Medical University of Lodz, Poland
 * [Szymon Grabia](/people/szymon-grabia), Medical University of Lodz, Poland
 * [Gladys Langi](/people/gladys-langi), Medical University of Bialystok, Poland

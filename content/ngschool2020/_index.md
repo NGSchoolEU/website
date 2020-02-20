@@ -73,7 +73,6 @@ and more coming soon!
 * [German Demidov](/people/german-demidov), IMGAG, University of Tübingen, Germany
 * [Eugeniusz Tralle](/people/eugeniusz-tralle), IIMCB, Warsaw, Poland
 * [Samantha Filipów](/people/samantha-filipow), CECAD, University of Cologne, Germany
-* [Maja Kuzman](/people/maja-kuzman), University of Zagreb, Croatia
 * [Urszula Smyczyńska](/people/urszula-smyczynska), Medical University of Lodz, Poland
 * [Szymon Grabia](/people/szymon-grabia), Medical University of Lodz, Poland
 * [Gladys Langi](/people/gladys-langi), Medical University of Bialystok, Poland

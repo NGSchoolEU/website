@@ -9,7 +9,7 @@ information:
   label: Events
 - info: "Participant, organiser"
   label: Role
-- info: 
-  label: AffiliationUniversity of Zagreb, Croatia
+- info: "University of Zagreb, Croatia"
+  label: Affiliation 
 title: Maja Kuzman
 ---

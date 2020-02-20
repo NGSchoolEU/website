@@ -103,11 +103,11 @@ funfacts:
       content: "Finances"
       
     # testimonial item loop
-    - name : "Maja Kuzman"
-      image : "images/team/maja-kuzman.jpg"
-      link: "people/maja-kuzman"
-      designation: "University of Zagreb, Croatia"
-      content : "Program"
+    # - name : "Maja Kuzman"
+    #   image : "images/team/maja-kuzman.jpg"
+    #   link: "people/maja-kuzman"
+    #   designation: "University of Zagreb, Croatia"
+    #   content : "Program"
       
     # testimonial item loop
     - name : "Samantha Filipów"
