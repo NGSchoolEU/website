@@ -108,16 +108,21 @@ disableLanguages = []
   name = "People"
   URL = "people"
   weight = 6
+
+  [[menu.main]]
+  name = "Photos"
+  URL = "galleries"
+  weight = 7
   
   [[menu.main]]
   name = "FAQ"
   URL = "faq"
-  weight = 7
+  weight = 8
   
   [[menu.main]]
   name = "Contact"
   URL = "contact"
-  weight = 8
+  weight = 9
 
   
   # footer menu

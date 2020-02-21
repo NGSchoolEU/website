@@ -1,4 +1,6 @@
 ---
+markup: "mmark"
+
 bg_image: images/ngschool/2019-001.jpg
 description: The adventures of bioscientists in the random forests 
 draft: false
@@ -62,3 +64,6 @@ Similarly to previous years, we made sure there is plenty of fun beside hard wor
 * Maciej Łapiński, IIMCB, Warsaw, PL
 * Leszek Pryszcz, CRG, ES / IIMCB, PL
 * Eugeniusz Tralle, IIMCB, Warsaw, PL
+
+<br>
+<a href="/galleries/ngschool2019" class="btn btn-block"><span style="font-size: 150%;"><i class="far fa-images"></i> <b>Visit #NGSchool2019 photo gallery</b></span></a>
