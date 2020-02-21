@@ -71,7 +71,7 @@
 
 {{ if $data.about.history.enable }}
 {{ with $data.about.history }}
-<section class="hystory section">
+<section class="about section">
   <div class="container">
     <div class="row">
       <div class="col-md-6">
@@ -105,6 +105,75 @@
 {{ end }}
 {{ end }}
 
+
+{{ if $data.about.quote.enable }}
+{{ with $data.about.quote }}
+<section class="about-feature bg-primary-dark section dark-service">
+  <div class="container">
+    {{ with .title }}
+    <div class="row">
+      <div class="col-md-12">
+        <div class="title">
+          <h2>{{ . | markdownify }}</h2>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+
+<section class="testimonial section-sm">
+  <div class="container">
+    <div class="row">
+      {{ if $data.about.mission_vision.enable }}
+      {{ with $data.about.mission_vision }}
+      <div class="col-md-6">
+        <div class="about-img">
+          <img class="img-responsive" src="{{ .image1 | relURL }}">
+        </div>
+		<br>
+        <div class="about-img">
+          <img class="img-responsive" src="{{ .image2 | relURL }}">
+        </div>
+        <br>
+		<div class="about-img">
+          <img class="img-responsive" src="{{ .image3 | relURL }}">
+        </div>
+      </div>
+      <div class="col-md-6">
+        <h2 class="mt-40">{{ .title | markdownify }}</h2>
+        {{ .content | markdownify }}
+        {{ if .button.enable }}
+        {{ with .button }}
+        <a href="{{ .link | relURL }}" class="btn btn-small mt-20">{{ .label }}</a>
+        {{ end }}
+        {{ end }}
+		</br></br>
+        <div class="tabCommon">
+          <ul class="nav nav-tabs">
+            {{ range $index, $elements := .tabs }}
+            <li {{ if eq $index 0}} class="active" {{ end }}><a href="#{{.name | urlize}}"
+                data-toggle="tab">{{.name}}</a></li>
+            {{ end }}
+          </ul>
+          <div class="tab-content">
+            {{ range $index, $elements := .tabs }}
+            <div id="{{.name | urlize}}" class="tab-pane fade {{ if eq $index 0}} active in {{ end }}">
+              <p>{{ .content | markdownify }}</p>
+            </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+      {{ end }}
+      {{ end }}
+    </div>
+	<br>
+  </div>
+</section>
 
 <!-- Call to action -->
 {{ if $data.about.cta.enable }}
