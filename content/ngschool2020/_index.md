@@ -16,7 +16,7 @@ title: "#NGSchool2020"
 
 ## #NGSchool2020: Statistical Learning in Genomics
 
-In recent years genomics has been moving forward at an incredibly fast pace. The Human Genome Project that resulted in sequencing the first human genome cost about $2.7 billion and took 13 years to complete (1990-2003). In stark contrast, today your genome can be sequenced for about $1,000 in just a few days. The biggest genomic projects aim at sequencing hardly believable numbers of 100,000 (100,000 Genomes Project, finished in 2018) or 500,000 (ongoing project of Sanger Institute, samples from UK biobank) genomes. Moreover, thousands of other organisms are sequenced around the world with the NCBI Genome database containing complete sequences of almost 20,000 organisms. Such an unimaginable amount of data can be analysed only with the use of advanced statistical and machine learning methods.
+In recent years genomics has been moving forward at an incredibly fast pace. <a href="https://www.genome.gov/human-genome-project" target="_blank">The Human Genome Project</a> that resulted in sequencing the first human genome cost about $2.7 billion and took 13 years to complete (1990-2003). In stark contrast, today your genome can be sequenced for about $1,000 in just a few days. The biggest genomic projects aim at sequencing hardly believable numbers of 100,000 (<a href="https://www.genomicsengland.co.uk/about-genomics-england/the-100000-genomes-project/" target="_blank">100,000 Genomes Project</a>, finished in 2018) or 500,000 (ongoing <a href="https://www.sanger.ac.uk/news/view/500000-whole-human-genomes-will-be-game-changer-research-human-diseases" target="_blank">project of Sanger Institute</a>, samples from UK biobank) genomes. Moreover, thousands of other organisms are sequenced around the world with the <a href="https://www.ncbi.nlm.nih.gov/genome" target="_blank">NCBI Genome database</a> containing complete sequences of almost 20,000 organisms. Such an unimaginable amount of data can be analysed only with the use of advanced statistical and machine learning methods.
 
 Taking this rapid development into account, #NGSchool2020 will be an intensive course on modern statistical learning methods used in genomics. The program will cover a range of topics, from fundamental to state of the art methods, including probability, inference, unsupervised learning, model selection and deep learning.
 
@@ -59,7 +59,7 @@ Similarly to previous years, we'll make sure there is plenty of fun beside hard 
 [You can check photos from previous editions for a sample of that.](https://ngschool.eu/photos)
 
 ## Speakers
-* [Aakrosh	Ratan](/people/aakrosh-ratan//), University of Virginia, USA
+* [Aakrosh	Ratan](/people/aakrosh-ratan/), University of Virginia, USA
 
 and more coming soon!
 

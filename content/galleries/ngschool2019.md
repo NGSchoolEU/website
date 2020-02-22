@@ -16,7 +16,9 @@ title: "#NGSchool2019 Photo Gallery"
   {{< figure link="/images/ngschool/2019-008.jpg"  caption="After Noura's lecture" >}}
   {{< figure link="/images/ngschool/2019-010.jpg"  caption="In the meantime in Bialobrzegi" >}}
   {{< figure link="/images/ngschool/2019-002.jpg"  caption="Ron's hackathon" >}}
-  {{< figure link="/images/ngschool/2019-002.jpg"  caption="Ron's hackathon" >}}
   {{< figure link="/images/ngschool/2019-012.jpg"  caption="Kasia, Kaspar & their hackaton team" >}}
   {{< figure link="/images/ngschool/2019-011.jpg"  caption="NGSchool at the lake" >}}
+  {{< figure link="/images/ngschool/2019-013.jpg"  caption="Taking a break in the forest" >}}
+  {{< figure link="/images/ngschool/2019-014.jpg"  caption="No luck with yachting this year" >}}
+  {{< figure link="/images/ngschool/2019-015.jpg"  caption="Basking in the sunset" >}}
 {{< /gallery >}}
