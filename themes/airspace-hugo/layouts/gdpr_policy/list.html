@@ -1,0 +1,43 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+
+<section class="portfolio-single-page section-sm">
+    <div class="container">
+      <div class="row" style="margin-top: -50px;">
+        <div class="col-md-12" style="margin-top: -50px;">
+          <div class="project-content mt-50">
+            {{ .Content }}
+          </div>
+        </div>
+      </div>
+      <br>
+  </div>
+  
+</section>
+
+<style>
+  .section{
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  ol {
+	  list-style: decimal;
+	  margin-left: 15px;
+	  color #7b7b7b;
+
+  }
+  ul {
+	  list-style: circle;
+	  margin-left: 15px;
+	  color: #7b7b7b;
+
+  }
+  li {
+	color: #7b7b7b;
+  }
+</style>
+{{ end }}

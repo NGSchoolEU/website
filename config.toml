@@ -149,6 +149,11 @@ disableLanguages = []
   URL = "/contact"
   weight = 4
 
+  [[menu.footer]]
+  name = "Privacy"
+  URL = "/gdpr_policy"
+  weight = 5
+
 
 #################### default parameters ################################
 [params]
