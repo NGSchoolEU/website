@@ -85,7 +85,7 @@ funfacts:
     - name : "Katarzyna Kędzierska"
       image : "images/team/katarzyna-kedzierska.jpg"
       link: "people/katarzyna-kedzierska/"
-      designation : "WCHG, University of Oxford, UK"
+      designation : "WHG, University of Oxford, UK"
       content : "NGSchool President, Project Coordinator"
 
     # testimonial item loop

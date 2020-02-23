@@ -153,11 +153,11 @@ home = "Home"
 description = "This is meta description"
 author = "ngschool"
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
+# mobile = "0124857985320"
+email = "info@ngschool.eu"
 location = "ul. Lindleya 16, 02-013 Warsaw, Poland"
 # contact form action
-contact_form_action = "#" # contact form works with : https://formspree.io
+contact_form_action = "https://formspree.io/xrgkebrz" # contact form works with : https://formspree.io
 # Google Analitycs
 google_analitycs_id = "Your ID"
 
