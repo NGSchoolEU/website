@@ -13,13 +13,12 @@
               <span class="icon-bar"></span>
             </button>
             <a class="navbar-brand" href="{{ .Site.BaseURL | relLangURL }}">
-              <img src="{{ .Site.Params.logo | absURL }}" alt="Logo" class="img-responsive">
+              <img src="{{ .Site.Params.logo | absURL }}" alt="Logo" class="img-responsive" style="height: 50px">
             </a>
           </div>
           <!-- Collect the nav links, forms, and other content for toggling -->
           <div class="collapse navbar-collapse" id="navigation">
             <ul class="nav navbar-nav navbar-right">
-              <li><a href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Params.home }}</a></li>
 
               {{ range .Site.Menus.main }}
               {{ if .HasChildren }}
