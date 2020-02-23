@@ -18,3 +18,25 @@
   translation: Posted By
 - id: read_more
   translation: Continue Reading
+- id: nip
+  translation: Tax ID (NIP)
+- id: krs
+  translation: Organisation ID (KRS)
+- id: regon
+  translation: Organisation ID (REGON)
+- id: legal_title
+  translation: Fiscal information
+- id: account_title
+  translation: Account details
+- id: account_name
+  translation: Account holder
+- id: account_pln
+  translation: PLN
+- id: account_eur
+  translation: EUR
+- id: account_swift
+  translation: SWIFT/BIC
+- id: president
+  translation: President
+- id: vice
+  translation: Vice President

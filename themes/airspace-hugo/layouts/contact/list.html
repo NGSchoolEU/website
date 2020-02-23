@@ -35,14 +35,13 @@
       </form>
     </div>
     <hr>
-    <div class="contact-box row">
-      <div class="col-md-6 col-sm-12">
-        <div class="block">
+    <!-- Block with address and map -->  <div class="contact-box row">
+     <!-- Block with address -->  <div class="col-md-6 col-sm-12">
+         <div class="block">
           <h2>{{ i18n "address_title" }}</h2>
           <ul class="address-block">
             <li><i class="ion-ios-location-outline"></i>{{i18n "location"}}: {{ .Site.Params.location }}</li>
             <li><i class="ion-ios-email-outline"></i>{{i18n "email"}}: {{ .Site.Params.email }}</li>
-            <li><i class="ion-ios-telephone-outline"></i>{{i18n "phone"}}: {{ .Site.Params.mobile }}</li>
           </ul>
           <ul class="social-icons">
             {{ range .Site.Params.social }}
@@ -52,7 +51,7 @@
         </div>
       </div>
       {{ if .Site.Params.gmap.enable }}
-      <div class="col-md-6 col-sm-12">
+      <!-- Block with map -->  <div class="col-md-6 col-sm-12">
         <div class="block">
           <div class="google-map">
             <div class="map" id="map_canvas" data-latitude="{{ .Site.Params.gmap.map_latitude }}" data-longitude="{{ .Site.Params.gmap.map_longitude }}" data-marker="{{ .Site.Params.gmap.map_marker | relURL }}"></div>
@@ -61,6 +60,33 @@
       </div>
       {{ end }}
     </div>
+    <hr>
+    <!-- Block with legal info --> <div class="contact-box row">
+      <div class="col-md-6 col-sm-12">
+        <div class="block"> 
+        <h2>{{ i18n "legal_title" }}</h2>
+          <ul class="address-block"> 
+            <li>{{i18n "president"}}: {{ .Site.Params.president }}</li>
+            <li>{{i18n "vice"}}: {{ .Site.Params.vice }}</li>
+            <li><i class="ion-information"></i>{{i18n "nip"}}: {{ .Site.Params.nip }}</li>
+            <li><i class="ion-information"></i>{{i18n "krs"}}: {{ .Site.Params.krs }}</li>
+            <li><i class="ion-information"></i>{{i18n "regon"}}: {{ .Site.Params.regon }}</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-6 col-sm-12">
+        <div class="block"> 
+          <h2>{{ i18n "account_title" }}</h2>
+            <ul class="address-block"> 
+              <li>{{i18n "account_name"}}: {{ .Site.Params.account_name }}</li>
+              <li>{{i18n "account_swift"}}: {{ .Site.Params.account_swift }}</li>
+              <li><i class="ion-cash"></i>{{i18n "account_eur"}}: {{ .Site.Params.account_eur }}</li>
+              <li><i class="ion-cash"></i>{{i18n "account_pln"}}: {{ .Site.Params.account_pln }}</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    
   </div>
 </section>
 

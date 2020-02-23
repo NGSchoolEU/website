@@ -146,12 +146,21 @@ disableLanguages = []
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
+description = "NGSchool Society website"
 author = "ngschool"
 # Contact Information
 # mobile = "0124857985320"
 email = "info@ngschool.eu"
 location = "ul. Lindleya 16, 02-013 Warsaw, Poland"
+president = "Katarzyna Kędzierska"
+vice = "Lidia Lipińska"
+nip = "7010892593"
+krs = "0000757658"
+regon = "381825521"
+account_name = "Stowarzyszenie NGSchool / NGSchool Society"
+account_swift = "BREXPLPWMBK"
+account_pln = "PL67 1140 2004 0000 3102 7868 6219"
+account_eur = "PL40 1140 2004 0000 3112 0774 0774"
 # contact form action
 contact_form_action = "https://formspree.io/xrgkebrz" # contact form works with : https://formspree.io
 # Google Analitycs
@@ -175,7 +184,8 @@ google_analitycs_id = "Your ID"
   # google map
   [params.gmap]
   enable = true
-  gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+  #https://maps.googleapis.com/maps/api/js?key=AIzaSyB1TE8TSFkaS6dHA0Nzfnq9KvmxaEQ0Hx0&libraries=places
+  gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyB1TE8TSFkaS6dHA0Nzfnq9KvmxaEQ0Hx0&libraries=places"
   map_latitude = "52.226128"
   map_longitude = "20.996416"
   map_marker = "images/marker.png"
