@@ -1,5 +1,5 @@
 ---
-bg_image: images/ngschool/2016-001.jpg
+bg_image: images/ngschool/2016-000.jpg
 description: Vysoké tatry, tatranský čaj... and statistics
 draft: false
 information:
@@ -7,7 +7,7 @@ information:
   label: Location
 - info: "August 14 - 21, 2016"
   label: Date
-- info: "xx"
+- info: "30"
   label: Participants
 title: "#NGSchool2016"
 ---

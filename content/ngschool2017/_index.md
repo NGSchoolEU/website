@@ -1,5 +1,5 @@
 ---
-bg_image: images/ngschool/2017-001.jpg
+bg_image: images/ngschool/2017-000.jpg
 description: Stats workout in the gym
 draft: false
 information:
@@ -7,7 +7,7 @@ information:
   label: Location
 - info: "September 10 - 17, 2017"
   label: Date
-- info: "xx"
+- info: "43"
   label: Participants
 title: "#NGSchool2017"
 ---
