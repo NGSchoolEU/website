@@ -14,6 +14,7 @@ $(document).ready(function () {
 			itemSelector: '.shuffle-item',
 			buffer: 1
 		});
+		myShuffle.filter(['organizers', 'speakers']);
 
 		jQuery('input[name="shuffle-filter"]').on('change', function (evt) {
 			var input = evt.currentTarget;

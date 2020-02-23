@@ -44,10 +44,10 @@ disableLanguages = []
   [[params.plugins.js]]
   link = "plugins/font-awesome/font-awesome.js"
 
-  
+
 ############################## navigation ###############################
 [menu]
-  
+
   # main menu
   [[menu.main]]
   name = "About"
@@ -58,12 +58,12 @@ disableLanguages = []
   name = "Society"
   URL = "society"
   weight = 2
-  
+
   [[menu.main]]
   name = "NGSchool"
   weight = 3
   hasChildren = true
-  
+
     [[menu.main]]
     parent = "NGSchool"
     name = "2020"
@@ -93,7 +93,7 @@ disableLanguages = []
     name = "2016"
     URL = "ngschool2016"
     weight = 5
-    
+
   [[menu.main]]
   name = "Conference 2020"
   URL = "conference"
@@ -108,19 +108,19 @@ disableLanguages = []
   name = "Photos"
   URL = "galleries"
   weight = 6
-  
+
   [[menu.main]]
   name = "FAQ"
   URL = "faq"
   weight = 7
 
-  
+
   # footer menu
   [[menu.footer]]
   name = "#NGSchool"
   URL = "/about"
   weight = 1
-  
+
   [[menu.footer]]
   name = "Society"
   URL = "/society"
@@ -130,7 +130,7 @@ disableLanguages = []
   name = "FAQ"
   URL = "/faq"
   weight = 3
-  
+
   [[menu.footer]]
   name = "Contact"
   URL = "/contact"
@@ -146,7 +146,7 @@ disableLanguages = []
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "NGSchool Society website"
+description = "#NGSchool (Next Generation School) is a platform to share the expertise in the field of Next Generation Sequencing Data Analysis and general Bioinformatics."
 author = "ngschool"
 # Contact Information
 # mobile = "0124857985320"
@@ -190,7 +190,7 @@ google_analitycs_id = "Your ID"
   map_longitude = "20.996416"
   map_marker = "images/marker.png"
 
-  
+
 ############################# social site ########################
 [[params.social]]
 icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
