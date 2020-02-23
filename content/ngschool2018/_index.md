@@ -1,5 +1,5 @@
 ---
-bg_image: images/ngschool/2018-001.jpg
+bg_image: images/ngschool/2018-000.jpg
 description: Viewing Lublin through a nanopore
 draft: false
 information:
@@ -7,7 +7,7 @@ information:
   label: Location
 - info: "September 16 - 23, 2018"
   label: Date
-- info: "xx"
+- info: "31"
   label: Participants
 title: "#NGSchool2018"
 ---
