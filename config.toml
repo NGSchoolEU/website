@@ -53,17 +53,17 @@ disableLanguages = []
   name = "About"
   URL = "about"
   weight = 1
- 
+
   [[menu.main]]
   name = "Society"
   URL = "society"
   weight = 2
   
   [[menu.main]]
-  weight = 3
   name = "NGSchool"
+  weight = 3
   hasChildren = true
-
+  
     [[menu.main]]
     parent = "NGSchool"
     name = "2020"
@@ -95,9 +95,9 @@ disableLanguages = []
     weight = 5
     
   [[menu.main]]
-  weight = 4
   name = "Conference 2020"
   URL = "conference"
+  weight = 4
 
   [[menu.main]]
   name = "People"
@@ -113,11 +113,6 @@ disableLanguages = []
   name = "FAQ"
   URL = "faq"
   weight = 7
-  
-  [[menu.main]]
-  name = "Contact"
-  URL = "contact"
-  weight = 8
 
   
   # footer menu
@@ -126,18 +121,15 @@ disableLanguages = []
   URL = "/about"
   weight = 1
   
-  
   [[menu.footer]]
   name = "Society"
   URL = "/society"
   weight = 2
 
-
   [[menu.footer]]
   name = "FAQ"
   URL = "/faq"
   weight = 3
-  
   
   [[menu.footer]]
   name = "Contact"
@@ -148,7 +140,6 @@ disableLanguages = []
   name = "Privacy"
   URL = "/gdpr_policy"
   weight = 5
-
 
 #################### default parameters ################################
 [params]
