@@ -76,6 +76,14 @@
   }
 }
 
+@media (min-width: 992px) {
+  .service-arrow {
+    .row {
+      display: flex;
+    }
+  }
+}
+
 .service-list {
   .block {
     padding: 30px;

@@ -146,7 +146,7 @@ disableLanguages = []
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
+description = "#NGSchool (Next Generation School) is a platform to share the expertise in the field of Next Generation Sequencing Data Analysis and general Bioinformatics."
 author = "ngschool"
 # Contact Information
 # mobile = "0124857985320"
