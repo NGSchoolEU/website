@@ -1,6 +1,6 @@
 ---
 bg_image: images/feature-contact.jpg
-date: "2020-02-15"
+# date: "2020-02-15"
 description: 
 draft: false
 subtitle: 

@@ -643,3 +643,13 @@ input[type="tel"] {
 .gallery figcaption p {
   color: #fff;
 }
+
+.table-important-dates {
+  tr {
+    td {
+      &:nth-child(1) {
+        text-align: right;
+      }
+    }
+  }
+}
