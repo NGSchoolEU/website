@@ -60,9 +60,6 @@
 }
 
 
-
-
-
 .service-arrow {
   .block {
     padding: 70px 30px;
@@ -70,15 +67,14 @@
     i {
       font-size: 40px;
     }
-
     p {
+      color: $light;
+    }
+    a {
       color: $light;
     }
   }
 }
-
-
-
 
 .service-list {
   .block {
@@ -87,3 +83,4 @@
     background: $light;
   }
 }
+

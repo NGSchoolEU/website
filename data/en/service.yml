@@ -1,65 +1,74 @@
 ########################### about service #############################
 about:
   enable : true
-  title : "A formal community."
   content : "
-    In order to regulate formal aspects of our activity and secure flawless organisation of future events, 
-    we’ve established NGSchool Society. 
+    To regulate formal aspects of our activity, we established NGSchool Society 
+in late 2018.  As a Society, it's easier for us to foster long lasting 
+partnerships with scientific institutions and industry, invite experts 
+in relevant topics to our events and improve based on feedback from events'
+participants.
     
-    
-    As a Society, it's easier for us to colaborate with many organizations in related fields, invite experts 
-    in relevant topics to our events and improve based on feedback from events' participants."
+Our organization aim is to **support science**, with emphasis on computational 
+biology and streighten the bioinformatics community. We organise training 
+events, disseminate valuable **resources like video-recordings and tutorials** 
+and much more. To learn about our work check-out the info about our ongoing 
+and past projects.
+    "
+   
   image : "images/amChart_mod.png"
 
 
-########################## featured service ############################
+########################## Projects ############################
 featured_service:
   enable : true
   service_item:
     # featured service item loop
-    - name : "Formal regulation"
-      icon : "ion-android-menu"
-      color : "primary"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
-      
-    # featured service item loop
-    - name : "Collaboration"
+    - name : "[NGSchool - Summer School in Bioinformatics](../ngschool2020)"
       icon : "ion-lightbulb"
+      color : "primary"
+      content : "
+      Our flagship project - a cutting-edge affordable training that aims equip 
+      young researchers with the necessary skills to eventually take the lead 
+      in the field."
+
+    # featured service item loop
+    - name : "[NGSymposium - Conference in Computational Biology](../conference)"
+      icon : "ion-ios-chatbubble"
       color : "primary-dark"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "Conference bringing bioinformaticians to showcase their research and discuss their projects with potential international collaborators."
       
     # featured service item loop
-    - name : "Community"
-      icon : "ion-android-people"
+    - name : "[We are open to new collaboration](../contact)"
+      icon : "ion-person-add"
       color : "primary-darker"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "We collaborate and support local communities, for example by holding tailored workshops and tutorials. Let us know if you want to collaborate!"
 
       
-############################# Service ###############################
+############################# Mission ###############################
 service:
   enable : true
   title : "Our mission"
   description : ""
   service_item:
     # service item loop
-    - icon : ion-leaf #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-university #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Training
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "Our mission is to train skilled bioinformticians to help advance the research and industry"
 
     # service item loop
-    - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Networking
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "We believe that extensive network of computational biologists will promote collaboration and enable faster scientific growth"
 
     # service item loop
-    - icon : ion-android-bookmark #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Promotion
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : ion-ios-people #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Promoting
+      content: "We know how important the public engagement is, and that's why we invest in promoting science"
 
     # service item loop
-    - icon : ion-android-expand #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Impact
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : ion-arrow-graph-up-right #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Supporting
+      content: "We intensify our actions in the V4+ region to help fortify bioinformatics and support still growing scientific communities"
 
 ############################# call to action #################################
 cta:
