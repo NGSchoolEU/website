@@ -1,6 +1,6 @@
 ---
 bg_image: images/ngschool/2018-000.jpg
-description: Viewing Lublin through a nanopore
+description: Nanopore sequencing & personalised medicine
 draft: false
 information:
 - info: "Lublin, Poland"
@@ -30,7 +30,7 @@ Materials from the school are available on [GitHub](https://github.com/NGSchoolE
 * Nikolay Kulemin, Zenome, Moscow, RU
 * Paweł Łabaj,  MCB, Cracow, PL
 * Jozef Nosek, Comenius University, SK
-* Eva Maria Novoa Pardo, Garvan, Sydney, AU / CRG, Barcelona, ES
+* Alba Sanchis-Juan, University of Cambridge, UK
 * Stephan Ossowski, IMGAG, Tübingen, DE
 * Andrey Prjibelski, SPSU, St. Petersburg, RU
 * Leszek Pryszcz, IIMCB, Warsaw, PL

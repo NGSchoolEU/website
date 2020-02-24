@@ -34,13 +34,13 @@ features:
 
     # feature item loop
     - icon : "ion-ios-mic-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "over 100 speakers & lecturers"
+      name : "over 50 speakers & lecturers"
       content : "at NGSchool and sattelite events"
       
     # feature item loop
-    - icon : "ion-ios-lightbulb-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "20 team members"
-      content : "past and present"
+    - icon : "ion-ios-world-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "28 countries"
+      content : "represented at all our events"
 
 
 ############################################# history ##################################################
@@ -93,10 +93,7 @@ mission_vision:
   What is #NGSchool like, and how people who have taken part as either organizers, speakers or participants feel about it?  
   
   
-  To find this out, read our story which was published as trilogy of Medium posts linked below.  
-
-  
-  There is suspense, there is drama, there are emotions - everything a good story needs!" 
+  To find this out, read our story which was published as trilogy of Medium posts linked below." 
   tabs:
     # tab item loop
     - name : "The Begining"

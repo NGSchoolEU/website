@@ -1,6 +1,6 @@
 ---
 bg_image: images/ngschool/2017-000.jpg
-description: Stats workout in the gym
+description: Single-cell sequencing
 draft: false
 information:
 - info: "Jachranka, Poland"

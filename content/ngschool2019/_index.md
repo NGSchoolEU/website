@@ -2,7 +2,7 @@
 markup: "mmark"
 
 bg_image: images/ngschool/2019-000.jpg
-description: The adventures of bioscientists in the random forests 
+description: Machine Learning for Biomedicine 
 draft: false
 information:
 - info: "Białobrzegi, Poland"

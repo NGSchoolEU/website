@@ -1,6 +1,6 @@
 ---
 bg_image: images/ngschool/2016-000.jpg
-description: Vysoké tatry, tatranský čaj... and statistics
+description: General NGS data analysis
 draft: false
 information:
 - info: "Dolný Smokovec, Slovakia"

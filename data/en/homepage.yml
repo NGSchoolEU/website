@@ -128,14 +128,7 @@ funfacts:
       image : "images/team/lidia-lipinska.jpg"
       link: "people/lidia-lipinska"
       designation : "University of Warsaw, Poland"
-      content : "Logistics"     
-
-    # testimonial item loop
-    - name : "Anamaria Elek"
-      image : "images/team/anamaria-elek.jpg"
-      link: "people/anamaria-elek"
-      designation : "CRG, Barcelona, Spain"
-      content : "Logistics"      
+      content : "Logistics"           
 
     # testimonial item loop
     - name : "Urszula Smyczyńska"
@@ -143,13 +136,6 @@ funfacts:
       link: "people/urszula-smyczynska"
       designation : "Medical University of Lodz, Poland"
       content : "Logistics"      
- 
-    # testimonial item loop
-    - name : "Szymon Grabia"
-      image : "images/team/szymon-grabia.jpg"
-      link: "people/szymon-grabia"
-      designation : "Medical University of Lodz, Poland"
-      content : "IT"
     
     # testimonial item loop
     - name : "Gladys Langi"
@@ -157,3 +143,17 @@ funfacts:
       link: "people/gladys-langi"
       designation : "Medical University of Bialystok, Poland"
       content : "Logistics"
+      
+    # testimonial item loop
+    - name : "Szymon Grabia"
+      image : "images/team/szymon-grabia.jpg"
+      link: "people/szymon-grabia"
+      designation : "Medical University of Lodz, Poland"
+      content : "IT"
+
+    # testimonial item loop
+    - name : "Anamaria Elek"
+      image : "images/team/anamaria-elek.jpg"
+      link: "people/anamaria-elek"
+      designation : "CRG, Barcelona, Spain"
+      content : "IT"
