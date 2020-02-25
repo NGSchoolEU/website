@@ -16,7 +16,7 @@ title: "#NGSchool2016 Photo Gallery"
   {{< figure link="/images/ngschool/2016-007.jpg"  caption="Eager audience" >}}
   {{< figure link="/images/ngschool/2016-010.jpg"  caption="Bartek's talk went from ChIP-seq to Hi-C and back" >}}
   {{< figure link="/images/ngschool/2016-009.jpg"  caption="German, just about to teach us about CNVs" >}}
-  {{< figure link="/images/ngschool/2016-006.jpg"  caption="Picturesqe hike in the sun" >}}
+  {{< figure link="/images/ngschool/2016-006.jpg"  caption="Picturesque hike in the sun" >}}
   {{< figure link="/images/ngschool/2016-015.jpg"  caption="Vysoké tatry..." >}}
   {{< figure link="/images/ngschool/2016-049.jpg"  caption="...are called vysoké for a reason!" >}}
   {{< figure link="/images/ngschool/2016-020.jpg"  caption="NGSchool on top" >}}  
