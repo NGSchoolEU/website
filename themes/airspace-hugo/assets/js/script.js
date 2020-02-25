@@ -6,6 +6,21 @@ $(document).ready(function () {
 		$('.preloader').fadeOut(100);
 	});
 
+	window.cookieconsent.initialise({
+		"palette": {
+			"popup": {
+				"background": "#000"
+			},
+			"button": {
+			  	"background": "#f1d600"
+			}
+		},
+		  	"position": "bottom-right",
+		"content": {
+			"href": "https://ngschool.eu/gdpr_policy/"
+		}
+	});
+
 	// Shuffle js filter and masonry
 	var containerEl = document.querySelector('.shuffle-wrapper');
 	if (containerEl) {
