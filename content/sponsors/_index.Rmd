@@ -43,7 +43,7 @@ We welcome all kinds of help, however, we seek financial support first of all as
 * **FULL**: **TEACH** + participant at the school  
 * **2EVENTS**: **FULL** + talk at the conference   
 
-<div class="row" style="margin-top: 5px; margin-top: 5px;">
+<div class="row" style="margin-top: 5px;">
 <br>
 <div class="col-md-2"></div>
 <div class="col-md-8">

@@ -65,6 +65,7 @@ and more coming soon!
 ## Venue & social activities
 #NGSchool2020 will be held on 22 - 31 of July 2020 in Promenada, Białobrzegi near Warsaw, Poland.
 
+<div class="row" style="margin-top: 5px;">
 <div class="col-md-6">
   <img class="img-responsive w-100" src="../images/ngschool/2020-003.jpg" alt="">
 </div>
@@ -72,7 +73,7 @@ and more coming soon!
   <img class="img-responsive w-100" src="../images/ngschool/2020-004.jpg" alt="">
 </div>
 <br>
-<p><br></p>
+</div>
   
 Similarly to previous years, we'll make sure there is plenty of fun beside hard work during workshops :) Those include yachting, BBQ nights and adventure field games.  
 [You can check photos from previous editions for a sample of that.](../galleries/)  
