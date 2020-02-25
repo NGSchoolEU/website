@@ -164,7 +164,8 @@ account_eur = "PL40 1140 2004 0000 3112 0774 0774"
 # contact form action
 contact_form_action = "https://formspree.io/xrgkebrz" # contact form works with : https://formspree.io
 # Google Analitycs
-google_analitycs_id = "Your ID"
+google_analitycs_id = "UA-159044812-1
+"
 
   # Preloader
   [params.preloader]
