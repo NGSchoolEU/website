@@ -1,5 +1,4 @@
 ################################# Default configuration ###################
-baseURL = "https://ngschool.eu"
 title = "#NGSchool"
 theme = "airspace-hugo"
 # post pagination
