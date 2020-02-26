@@ -1,6 +1,6 @@
 ---
 bg_image: images/bg.jpg
-category: Former organizers
+category: Organizers (past editions)
 description: 
 draft: false
 image: images/people/leszek-pryszcz.jpg

@@ -17,18 +17,21 @@ NGSchool Society is dedicated to providing a harassment-free experience for ever
 <div class="col-md-6">
 
 All conference participants agree to:
-<ul>
-<li> Be considerate in speech and actions, and respect the boundaries of fellow participants. </li>
-<li> Refrain from demeaning, discriminatory, or harassing behaviour and speech. Harassment includes, but is not limited to:  </li>
-<li> Stalking </li>
-- Deliberate intimidation
-- Unwanted photography or recording
-** Sustained or willful disruption of talks or other events  
-** Use of sexual or discriminatory imagery, comments, or jokes  
-** Offensive verbal comments related to age, gender, sexual orientation, disability, race or religion  
-** Inappropriate physical contact, which can include grabbing, or massaging or hugging without consent.  
-** Unwelcome sexual attention, which can include inappropriate questions of a sexual nature, asking for sexual favours or repeatedly asking for dates or contact information.  
-** Alert a member of the organising team if you notice someone in distress, or observe violations of this code of conduct, even if they seem inconsequential.  
+<ul style="list-style-type:square;">
+  <li> Be considerate in speech and actions, and respect the boundaries of fellow participants. </li>
+  <li> Refrain from demeaning, discriminatory, or harassing behaviour and speech. Harassment includes, but is not limited to:  </li>
+  <ul style="list-style-type:disc;">
+    <li> Stalking </li>
+    <li> Deliberate intimidation </li>
+    <li> Unwanted photography or recording </li>
+    <li> Sustained or willful disruption of talks or other events </li>
+    <li> Use of sexual or discriminatory imagery, comments, or jokes </li>
+    <li> Offensive verbal comments related to age, gender, sexual orientation, disability, race or religion </li>
+    <li> Inappropriate physical contact, which can include grabbing, or massaging or hugging without consent. </li>
+    <li> Unwelcome sexual attention, which can include inappropriate questions of a sexual nature, asking for sexual favours or repeatedly asking for dates or contact information. </li>
+    <li> Alert a member of the organising team if you notice someone in distress, or observe violations of this code of conduct, even if they seem inconsequential. </li>
+  </ul>
+</ul>
 </div>
 <br>
 </div>
