@@ -19,29 +19,29 @@ disableLanguages = []
 
   # CSS Plugins
   [[params.plugins.css]]
-  link = "plugins/bootstrap/bootstrap.min.css"
+  link = "/plugins/bootstrap/bootstrap.min.css"
   [[params.plugins.css]]
-  link = "plugins/Ionicons/css/ionicons.min.css"
+  link = "/plugins/Ionicons/css/ionicons.min.css"
   [[params.plugins.css]]
-  link = "plugins/magnific-popup/magnific-popup.css"
+  link = "/plugins/magnific-popup/magnific-popup.css"
   [[params.plugins.css]]
-  link = "plugins/slick/slick.css"
+  link = "/plugins/slick/slick.css"
 
   # JS Plugins
   [[params.plugins.js]]
-  link = "plugins/jQuery/jquery.min.js"
+  link = "/plugins/jQuery/jquery.min.js"
   [[params.plugins.js]]
-  link = "plugins/bootstrap/bootstrap.min.js"
+  link = "/plugins/bootstrap/bootstrap.min.js"
   [[params.plugins.js]]
-  link = "plugins/slick/slick.min.js"
+  link = "/plugins/slick/slick.min.js"
   [[params.plugins.js]]
-  link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+  link = "/plugins/magnific-popup/jquery.magnific-popup.min.js"
   [[params.plugins.js]]
-  link = "plugins/shuffle/shuffle.min.js"
+  link = "/plugins/shuffle/shuffle.min.js"
   [[params.plugins.js]]
-  link = "plugins/google-map/gmap.js"
+  link = "/plugins/google-map/gmap.js"
   [[params.plugins.js]]
-  link = "plugins/font-awesome/font-awesome.js"
+  link = "/plugins/font-awesome/font-awesome.js"
 
 
 ############################## navigation ###############################
