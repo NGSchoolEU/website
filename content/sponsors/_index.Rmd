@@ -31,11 +31,11 @@ Our conference will gather abour 200 international researchers and students and 
 
 Similarly, as in the previous year, the project will be intensively advertised at several conferences, through social media and by personal recommendation in order to attract best participants.   
 
-### How can you support us?
+## How can you support us?
 
 We welcome all kinds of help, however, we seek financial support first of all as our mission is to provide equal possibilities to all the students, especially from developing countries, by providing them with travel grants and registration fee discounts. We offer five Sponsor Packages, however we are keen on preparing a tailored sponsorship collaboration. Contact us for the details on each of the packages.
 
-#### Sponsorship options
+### Sponsorship options
 
 * **ADS**: advertisement of the sponsor through our social media and extensive alumni network  
 * **LEARN**: **ADS** + participant at the school   
@@ -52,6 +52,6 @@ We welcome all kinds of help, however, we seek financial support first of all as
 <div class="col-md-2"></div>
 </div>
 
-### [Contact us](/contact)
+## [Contact us](/contact)
   
 If you are interested in our offer or would like to learn more about #NGSchool, please contact us directly. We are looking forward to initiating rewarding and lasting professional relationships.  
