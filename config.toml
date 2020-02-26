@@ -142,7 +142,7 @@ disableLanguages = []
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "/images/logo.png"
 home = "Home"
 # Meta data
 description = "#NGSchool (Next Generation School) is a platform to share the expertise in the field of Next Generation Sequencing Data Analysis and general Bioinformatics."
@@ -187,7 +187,7 @@ google_analitycs_id = "UA-159044812-1"
   gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyB1TE8TSFkaS6dHA0Nzfnq9KvmxaEQ0Hx0&libraries=places"
   map_latitude = "52.226128"
   map_longitude = "20.996416"
-  map_marker = "images/marker.png"
+  map_marker = "/images/marker.png"
 
 
 ############################# social site ########################
