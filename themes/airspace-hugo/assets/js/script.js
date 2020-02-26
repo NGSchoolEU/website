@@ -21,6 +21,19 @@ $(document).ready(function () {
 		}
 	});
 
+	$('.contact-form form').on('submit', function(event) {
+		var $form = $(this);
+		event.preventDefault();
+
+		$form.find('input[name="g-recaptcha-response"]').val(
+			grecaptcha.execute('6LeqhtwUAAAAAAhDLg0h3XsTXzg0kVeSZl1hNae1', {action: 'homepage'}).then(function(token) {
+				$('.contact-box form input[name="g-recaptcha-response"]').val(token)
+			})
+		);
+
+		$form.unbind('submit').submit();
+	});
+
 	// Shuffle js filter and masonry
 	var containerEl = document.querySelector('.shuffle-wrapper');
 	if (containerEl) {

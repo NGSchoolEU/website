@@ -59,10 +59,3 @@
 
 <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
 <script src="https://www.google.com/recaptcha/api.js?render=6LeqhtwUAAAAAAhDLg0h3XsTXzg0kVeSZl1hNae1"></script>
-<script>
-	grecaptcha.ready(function() {
-		grecaptcha.execute('6LeqhtwUAAAAAAhDLg0h3XsTXzg0kVeSZl1hNae1', {action: 'homepage'}).then(function(token) {
-			$('.contact-box form input[name="g-recaptcha-response"]').val(token);
-		});
-	});
-</script>
