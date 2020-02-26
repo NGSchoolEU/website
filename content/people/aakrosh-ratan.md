@@ -11,5 +11,5 @@ information:
   label: Role
 - info: "University of Virginia, USA"
   label: Affiliation
-title: Aakrosh	Ratan
+title: Aakrosh Ratan
 ---

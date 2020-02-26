@@ -31,6 +31,19 @@ $(document).ready(function () {
 		});
 		myShuffle.filter(['organizers', 'speakers']);
 
+		var categoriesToSort = {
+			'speakers': 'a',
+			'organizers': 'b',
+			'organizers-past-editions': 'c',
+		};
+
+		myShuffle.sort({
+			by: function(element) {
+				return categoriesToSort[$(element).data('groups')[0]];
+			},
+			reverse: false,
+		});
+
 		jQuery('input[name="shuffle-filter"]').on('change', function (evt) {
 			var input = evt.currentTarget;
 			if (input.checked) {
