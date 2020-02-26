@@ -7,8 +7,8 @@ information:
   label: Location
 - info: "September 16 - 23, 2018"
   label: Date
-- info: "31"
-  label: Participants
+- info: "31 participants, 11 speakers, 17 hackaton mentors, 10 organisers"
+  label: Attendees
 title: "#NGSchool2018"
 ---
 
@@ -24,16 +24,13 @@ Materials from the school are available on [GitHub](https://github.com/NGSchoolE
 ### Speakers
 
 * Rosa Fernández, CRG, Barcelona, ES
-* Monika Gos,  IMC, Warsaw, PL
 * Kamil Januszkiewicz, CKLP, Warsaw, PL
 * Andre Kahles, ETH, Zurich, CH
 * Nikolay Kulemin, Zenome, Moscow, RU
 * Paweł Łabaj,  MCB, Cracow, PL
-* Jozef Nosek, Comenius University, SK
 * Alba Sanchis-Juan, University of Cambridge, UK
 * Stephan Ossowski, IMGAG, Tübingen, DE
 * Andrey Prjibelski, SPSU, St. Petersburg, RU
-* Leszek Pryszcz, IIMCB, Warsaw, PL
 * Fritz Sedlazeck, Baylor College of Medicine, Houston, TX, USA
 * Fran Supek, IRB, Barcelona, ES
 * Robert Vaser, University of Zagreb, HR
@@ -47,4 +44,6 @@ Materials from the school are available on [GitHub](https://github.com/NGSchoolE
 * Maja Kuzman, University of Zagreb, Croatia
 * Maciej Migdał, IIMCB, Warsaw, Poland
 * Adrian Odrzywolski, Medical University of Lublin, Poland
+* Katarzyna Kwaśnik, UMBUB, Poland
+* Magdalena Płecha, University of Warsaw, Poland
 * Leszek Pryszcz, IIMCB, Warsaw, Poland

@@ -32,8 +32,8 @@ engineering, medicine, computer science and related disciplines.
 
 The only way to attend our events is through selection process. #NGSchool 
 became quite popular, so getting a place isn't easy. In the previous editions 
-([#NGSchool2016](../ngschool2016), [#NGSchool2017](../ngschool2017), 
-[#NGSchool2018](../ngschool2018), [#NGSChool2019](../ngschool2019))  
+([#NGSchool2016](/ngschool2016), [#NGSchool2017](/ngschool2017), 
+[#NGSchool2018](/ngschool2018), [#NGSChool2019](/ngschool2019))  
 we have received over 400 applications from 50 countries in total. 
 Therefore, we strongly recommend to dedicate time and effort to prepare 
 solid application if you really wish to attend. Definitely read more about 
@@ -52,6 +52,19 @@ We will accept applications from students/researchers from biology, medicine,
 computer science and related disciplines. We will make sure that the course 
 community is interdisciplinary, which will result in interesting discussions 
 and will bring future experts from diverse disciplines together.  
+You can find out more about the ideal candidate profile and the selection 
+procedure [here](/selection).  
+
+## What are the expected outputs?
+
+While this is educational project, its outputs are not limited to education. 
+The participants interacts with excellent researchers, thus they have unique 
+opportunity to exchange ideas with experts. Moreover, this project expose the 
+participants to other young investigators using similar techniques and most 
+likely facing similar problems in their professional life. Finally, this is 
+a great networking opportunity for future experts from the fields of 
+bioinformatics, genomics and personalised medicine. We believe that this event 
+will result in new, fascinating collaborative projects across V4 and beyond.  
 
 ## Can I apply if I am not a bioinformatician? 	
 
@@ -59,7 +72,7 @@ We welcome people with different backgrounds as long as the person is motivated
 and will benefit from the school. Our registration form tests the applicants’ 
 knowledge in biology, statistics and bioinformatics, since our school is not 
 intended for beginners - we encourage you to apply and test your skills with 
-the registration form.  
+the registration form. Read more about it [here](/selection).  
 
 ## Do I need previous programming experience in order to apply? 	
 
@@ -71,10 +84,13 @@ introducing Linux and basics of programming (plan to do it approximately 2
 weeks before the school, at the latest). Completing this course will be 
 crucial in order to secure smooth learning experience at the #NGSchool.  
 
+You can find out more about the ideal candidate profile and the selection 
+procedure [here](/selection).  
+
 ## Can undergrad students attend NGSchool? 	
 
 Yes, absolutely! Anyone who plans to use the covered topics in the future 
-is the perfect candidate.  
+is the perfect candidate. Read more about it [here](/selection).  
 
 ## What is included in registration fee?  
 
@@ -89,18 +105,6 @@ selected participants in difficult financial situations, after receiving
 travel expenses form which will be distributed during the school. 
 In order to recieve the refund, please make sure to keep all your tickets & 
 travel receipts.   
-
-## What are the expected outputs?
-
-While this is educational project, its outputs are not limited to education. 
-The participants interacts with excellent researchers, thus they have unique 
-opportunity to exchange ideas with experts. Moreover, this project expose the 
-participants to other young investigators using similar techniques and most 
-likely facing similar problems in their professional life. Finally, this is 
-a great networking opportunity for future experts from the fields of 
-bioinformatics, genomics and personalised medicine. We believe that this event 
-will result in new, fascinating collaborative projects across V4 and beyond.  
-
 
 ## Will you continue the course in the following years?
 
@@ -124,7 +128,7 @@ To stay up-to-date, you can follow us on
 [Twitter](https://twitter.com/NGSchoolEU) and 
 [Instagram](https://www.instagram.com/ngschooleu/).  
 
-[Talk to us](../contact) if you wish to contribute to our exciting project either as speaker, 
+[Talk to us](/contact) if you wish to contribute to our exciting project either as speaker, 
 partner or sponsor.  
 
-If you have any other questions regarding our activities, feel free to [ask](../contact)!
+If you have any other questions regarding our activities, feel free to [ask](/contact)!
