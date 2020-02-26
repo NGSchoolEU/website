@@ -21,8 +21,8 @@ Here we give you a general overview of some of the ways this website processes y
 1. We collect your personal information only to the extent necessary to fulfil a precise purpose related to our tasks.
 2. We will use your personal data for direct marketing purposes.
 3. We do not reuse the information for another purpose that is different to the one stated.
-4. We put in place measures to guarantee that your data are kept up-to-date and processed securely.
-5. Under certain conditions outlined in law, we may disclose your information to third parties, (such as the European Anti-Fraud Office, the Court of Auditors, or law enforcement authorities) if it is necessary and proportionate for lawful, specific purposes.
+4. We put in place measures to guarantee that your data is kept up-to-date and processed securely.
+5. Under certain conditions outlined in law, we may disclose your information to third parties, (such as the 6. European Anti-Fraud Office, the Court of Auditors, or law enforcement authorities) if it is necessary and proportionate for lawful, specific purposes.
 6. You have the right to access your personal information, to have it corrected and the right to recourse; at any time if you believe your data protection rights have been breached.
 7. We do not keep your personal information for longer than necessary for the purposes for which we collected it.
 8. However, we may keep your information for a longer period for historical, statistical or scientific purposes with the appropriate safeguards in place.
@@ -39,10 +39,7 @@ When you visit our website, we may collect some data on your browsing experience
 
 This information is used to gather aggregated and anonymous statistics with a view to improving our services and to enhance your user experience.
 
-When you visit the this website, we will keep the browser history of your visit for a maximum of 13 months. This information will then be deleted.
-
-Should you wish to opt your data out of our anonymized, aggregated statistics, you can do so here.
-
+When you visit this website, we will keep the browser history of your visit for a maximum of 2 months. This information will then be deleted.
 Read our cookies information for more information about the types of cookies this website uses.
 
 ## Social Media
@@ -59,6 +56,7 @@ Each social media channel has their own policy on the way they process your pers
 
 If you have any concerns or questions about their use of your personal data, you should read their privacy policies carefully before using them.
 
+
 ### Complaint handling
 **Which kinds of personal data does the website process?** <br>
 We process the personal data submitted by website visitors. This will include names, contact details as well as the content of the allegations (insofar as the latter qualify as personal data).
@@ -71,12 +69,12 @@ You are entitled to access the personal data we hold about you and to have them 
 To exercise any of these rights, please contact us using our contact form. We will reply within three months. Please note that in some cases restrictions under Article 20 of the Regulation may apply.
 
 **How long do you keep my data?** <br>
-We keep log files - including your personal data - for up to two years.
+We keep log files - including your personal data - for up to two months.
 
 **Who can I contact?** <br>
 You can contact us as follows: <br>
 e-mail: info@ngschool.eu <br>
-You can find complete contact information on website contact page.
+You can find complete contact information on website [contact page](/contact).
 
 
 ## Cookies

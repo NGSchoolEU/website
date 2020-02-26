@@ -3,14 +3,13 @@ about:
   enable : true
   title : "Why establishing the Society?"
   content : "To regulate formal aspects of our activity, we established NGSchool Society 
-in late 2018. Our organization' aim is to **support science**, with emphasis on computational 
-biology and streighten the bioinformatics community. As a Society, it's easier for us to foster long lasting 
+in late 2018. As a Society, it's easier for us to foster long lasting 
 partnerships with scientific institutions and industry, invite experts 
 in relevant topics to our events and improve based on feedback from events' participants.
      
      
-Our organization aim is to **support science**, with emphasis on computational 
-biology and streighten the bioinformatics community. We organise training 
+Our organization's aim is to **support science**, with emphasis on computational 
+biology and to strengthen the bioinformatics community. We organise training 
 events, disseminate valuable **resources like video-recordings and tutorials** 
 and much more. To learn about our work check-out the info about our ongoing 
 and past projects.
@@ -30,7 +29,7 @@ featured_service:
       icon : "ion-lightbulb"
       color : "primary"
       content : "
-      Our flagship project - a cutting-edge affordable training that aims equip 
+      Our flagship project - a cutting-edge affordable training that aims to equip 
       young researchers with the necessary skills to eventually take the lead 
       in the field."
 
