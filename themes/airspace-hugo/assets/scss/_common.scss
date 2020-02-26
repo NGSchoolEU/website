@@ -657,3 +657,17 @@ input[type="tel"] {
     }
   }
 }
+
+.sponsor-list {
+  .sponsor-item {
+    text-align: center;
+    height: 150px;
+    line-height: 150px;
+    margin-bottom: 25px;
+
+    img {
+      max-height: 150px;
+      max-width: 100%;
+    }
+  }
+}
