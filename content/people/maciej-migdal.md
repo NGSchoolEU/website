@@ -3,7 +3,7 @@ bg_image: images/bg.jpg
 category: Former organizers
 description: 
 draft: false
-image: images/people/maciej-migdal.png
+image: images/people/maciej-migdal.jpg
 information:
 - info: "#NGSchool2017, #NGSchool2018"
   label: Events
