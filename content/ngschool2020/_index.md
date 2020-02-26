@@ -54,12 +54,12 @@ Taking this rapid development into account, #NGSchool2020 will be an intensive c
 
 ## Registration
 
-Registration will be open from March 16, 12 PM CET to April 17, 23:59 CET. You can find more information about the selection procedure [here](./selection).  
+Registration will be open from March 16, 12 PM CET to April 17, 23:59 CET. You can find more information about the selection procedure [here](/selection).  
 
 <a href="#" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;" disabled>Register <i class="fas fa-play"></i><br>(available soon)</a>
   
 ## Speakers  
-[Aakrosh Ratan](../people/aakrosh-ratan/), University of Virginia, USA  
+[Aakrosh Ratan](/people/aakrosh-ratan/), University of Virginia, USA  
 and more coming soon!  
   
 ## Venue & social activities
