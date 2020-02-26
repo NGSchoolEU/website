@@ -92,7 +92,9 @@ Similarly to previous years, we'll make sure there is plenty of fun beside hard 
 * [Gladys Langi](/people/gladys-langi), Medical University of Bialystok, Poland  
 
 ## Cost
-We do our best to acquire the funding for NGSchool so that the registration fee is low enough to make NGSchool available to every willing student or early stage researcher. In recent years, **thanks to generous support from the [International Visegrad Fund](https://www.visegradfund.org/) and other sponsors we are able to set the registration fee at €100**. Otherwise, the real cost equals $800 - $1000 per participant. We’ll put information on the website and our social channels as soon as we have any news (hopefully good one) on funding.  
+We do our best to acquire the funding for NGSchool so that the registration fee is low enough to make NGSchool available to every willing student or early stage researcher. In recent years, **thanks to generous support from the [International Visegrad Fund](https://www.visegradfund.org/) and other sponsors we are able to set the registration fee at €100**. Otherwise, the real cost equals $800 - $1000 per participant.  
+We are happy to acknowledge [Warsaw Convention Bureau](https://warsawconvention.pl/) as our Local Partner in Warsaw for the upcoming edition of the NGSchool.  
+We’ll put more information on the website and our social channels as soon as we have any news (hopefully good one) on funding.  
   
   
 ## Program  
