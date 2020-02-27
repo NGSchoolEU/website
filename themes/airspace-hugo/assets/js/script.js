@@ -22,17 +22,28 @@ $(document).ready(function () {
 	});
 
 	$('.contact-form form').on('submit', function(event) {
-		var $form = $(this);
 		event.preventDefault();
 
-		$form.find('input[name="g-recaptcha-response"]').val(
-			grecaptcha.execute('6LeqhtwUAAAAAAhDLg0h3XsTXzg0kVeSZl1hNae1', {action: 'homepage'}).then(function(token) {
-				$('.contact-box form input[name="g-recaptcha-response"]').val(token)
-			})
-		);
-
-		$form.unbind('submit').submit();
+		populateRecaptchaInput(submitContactForm);
 	});
+
+	function populateRecaptchaInput(callback) {
+		grecaptcha.execute('6LeqhtwUAAAAAAhDLg0h3XsTXzg0kVeSZl1hNae1', {action: 'homepage'}).then(function(token) {
+			$('.contact-box form input[name="g-recaptcha-response"]').val(token)
+		});
+
+		if (typeof callback === 'function') {
+			callback();
+		}
+	}
+
+	function submitContactForm() {
+		setTimeout(
+			function() {
+				$('.contact-form form').unbind('submit').submit();
+			}, 1000
+		);
+	}
 
 	// Shuffle js filter and masonry
 	var containerEl = document.querySelector('.shuffle-wrapper');
