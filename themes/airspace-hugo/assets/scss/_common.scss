@@ -1,8 +1,13 @@
-ol,
-ul {
+ol, ul {
   margin: 0;
-  padding: 0;
-  list-style: none;
+}
+
+.project-details, .contact-box {
+  ol, ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
 }
 
 iframe {
