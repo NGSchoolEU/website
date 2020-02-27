@@ -107,10 +107,17 @@ The registration fee covers participation in the conference, as well as, coffee 
 Please note that early bird registration fee applies only to active participants registration, since we encourage everybody to present their own work.
 
 ## Speakers
-* [Maire	Ní Leathlobhair](/people/maire-ni-leathlobhair/), Big Data Institute, University of Oxford, UK
-* [Aakrosh	Ratan](/people/aakrosh-ratan//), University of Virginia, USA
 
-and more coming soon!
+### Invited speaker
+##### [Maire	Ní Leathlobhair](/people/maire-ni-leathlobhair/)  
+Big Data Institute, University of Oxford, UK  
+
+### Keynote speaker
+##### [Aakrosh	Ratan](/people/aakrosh-ratan//)  
+University of Virginia, USA  
+
+
+##### ...and more coming soon!
 
 ## Scientific committee
 To be announced soon.
