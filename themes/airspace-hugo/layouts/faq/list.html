@@ -7,14 +7,7 @@
 <section class="page-wrapper">
   <div class="container">
     <div class="row">
-      <div class="col-md-4">
-        <h2>Contact</h2>
-        <p>{{ .Params.Subtitle | markdownify }}</p>
-        <!-- <p>{{ i18n "last_update" }}: {{ .PublishDate.Format "January 2, 2006" }}{{ if ne .PublishDate .Lastmod }}, last updated {{ .Lastmod.Format "January 2, 2006" }}{{ end }}</p> -->
-        <p>{{ i18n "email" }}: <a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></p>
-        <p>{{ i18n "location" }}: {{ .Site.Params.location }}</p>
-      </div>
-      <div class="col-md-8">
+      <div class="col-md-12">
         {{ .Content }}
       </div>
     </div>

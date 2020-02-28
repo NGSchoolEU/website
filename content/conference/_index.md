@@ -1,4 +1,6 @@
 ---
+markup: "mmark"
+
 bg_image: images/feature-conference.jpg
 title: NGSymposium in Computational Biology
 description: Conference for the 5<sup>th</sup> anniversary of NGSchool
@@ -77,7 +79,7 @@ Please note that we also accept only limited RMarkdown formating in the body of 
 
 Registration of passive participants will be open after closing of registration of active participants.
 
-<a href="https://forms.gle/ACi1djPx7FNQaMDf8" target="_blank" class="btn btn-success btn-lg btn-block">Register <i class="fas fa-play"></i></a>
+<a href="https://forms.gle/ACi1djPx7FNQaMDf8" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Register <i class="fas fa-play"></i></a>
 
 ## Pricing
 <table class="table table-bordered table-striped" style="vertical-align: center;">
@@ -113,7 +115,7 @@ Please note that early bird registration fee applies only to active participants
 Big Data Institute, University of Oxford, UK  
 
 ### Keynote speaker
-##### [Aakrosh	Ratan](/people/aakrosh-ratan//)  
+##### [Aakrosh	Ratan](/people/aakrosh-ratan/)
 University of Virginia, USA  
 
 
