@@ -1,4 +1,6 @@
 ---
+markup: "mmark"
+
 bg_image: images/feature-conference.jpg
 title: NGSymposium in Computational Biology
 description: Conference for the 5<sup>th</sup> anniversary of NGSchool
