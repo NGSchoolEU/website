@@ -44,6 +44,15 @@ $(document).ready(function () {
 			}, 1000
 		);
 	}
+	
+	function offsetAnchor() {
+		if (location.hash.length !== 0) {
+			window.scrollTo(window.scrollX, window.scrollY - 100);
+		}
+	}
+
+	window.addEventListener("hashchange", offsetAnchor);
+	window.setTimeout(offsetAnchor, 0);
 
 	// Shuffle js filter and masonry
 	var containerEl = document.querySelector('.shuffle-wrapper');
