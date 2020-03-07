@@ -11,7 +11,7 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 # disable language
-disableLanguages = []
+disableLanguages = ["pl"]
 
 
 ############################# Plugins ##############################
@@ -210,8 +210,29 @@ link = "https://www.instagram.com/ngschooleu"
   [Languages.en]
   languageName = "En"
   languageCode = "en-us"
-  # contentDir = "content/english"
+  contentDir = "content"
   weight = 1
   home = "Home"
   # copyright
   copyright = "Copyright &copy; [#NGSchool](https://ngschool.eu) 2020 | Theme by [Themefisher](https://themefisher.com)"
+ 
+  ################################ Poland Language ########################
+  [Languages.pl]
+  languageName = "Pl"
+  languageCode = "pl"
+  contentDir = "content/polish"
+  weight = 2
+  home = "Home"
+  # copyright
+  copyright = "Copyright &copy; [#NGSchool](https://ngschool.eu) 2020 | Theme by [Themefisher](https://themefisher.com)"
+	
+	  # main menu
+	  [[Languages.pl.menu.main]]
+	  name = "About"
+	  URL = "about"
+	  weight = 1
+
+	  [[Languages.pl.menu.main]]
+	  name = "Society"
+	  URL = "society"
+	  weight = 2

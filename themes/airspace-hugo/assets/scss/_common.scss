@@ -1,8 +1,13 @@
-ol,
-ul {
+ol, ul {
   margin: 0;
-  padding: 0;
-  list-style: none;
+}
+
+.project-details, .contact-box {
+  ol, ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
 }
 
 iframe {
@@ -669,5 +674,11 @@ input[type="tel"] {
       max-height: 150px;
       max-width: 100%;
     }
+  }
+}
+
+h2 {
+  .fa-link {
+    font-size: 0.8em;
   }
 }

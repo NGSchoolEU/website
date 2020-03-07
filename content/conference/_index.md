@@ -1,4 +1,6 @@
 ---
+markup: "mmark"
+
 bg_image: images/feature-conference.jpg
 title: NGSymposium in Computational Biology
 description: Conference for the 5<sup>th</sup> anniversary of NGSchool
@@ -14,7 +16,7 @@ information:
   label: Invited Speakers
 ---
 
-We have a great pleasure to invite you to the **NGSymposium in Computational Biology** to celebrate the 5<sup>th</sup> anniversary of the NGSchool Summer Schools. This international conference will make way for exchanging knowledge and experiences between experienced and early-stage researchers as well as bioinformaticians. The meeting will be held on **31.07 - 1.08.2020 in Warsaw**. It will be a satellite event to the [#NGSchool2020: Statistical Learning in Genomics](/ngschool2019). It will cover a wide range of topics from basic and applied biomedical sciences: bioinformatics, genomics, transcriptomics, computational biology.
+We have a great pleasure to invite you to the **NGSymposium in Computational Biology** to celebrate the 5<sup>th</sup> anniversary of the NGSchool Summer Schools. This international conference will make way for exchanging knowledge and experiences between experienced and early-stage researchers as well as bioinformaticians. The meeting will be held on **31.07 - 1.08.2020 in Warsaw**. It will be a satellite event to the [#NGSchool2020: Statistical Learning in Genomics](/ngschool2020). It will cover a wide range of topics from basic and applied biomedical sciences: bioinformatics, genomics, transcriptomics, computational biology.
 
 ## Topics and keywords
 Bioinformatics, Genomics, Machine Learning, NGS
@@ -71,11 +73,13 @@ Bioinformatics, Genomics, Machine Learning, NGS
 
 ## Registration and abstract submission
 
-Registration of active participants will be open from March 1, 12 PM CET to April 17, 23:59 CET. In registration forms you will be asked for providing us with some basic information about yourself. You will also be able to upload your abstract. You can save your registration form after filling it partially and come back later to supply more data e.g. upload an abstract.
+Registration of active participants will be open from February, 27 12 PM CET to April 17, 23:59 CET. In registration forms you will be asked for providing us with some basic information about yourself. You will also be able to submit your abstract. You can save your registration form after filling it partially and come back later to supply more data e.g. upload an abstract. Your registration will be completed only with the payment of the registration fee reaching our accounts - please make sure to transfer the money in advance! 
+
+Please note that we also accept only limited RMarkdown formating in the body of the abstract. You can find RMarkdown formatting cheat sheet [here](https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf). We also provide list of the accepted formatiing in the form and [here](https://docs.google.com/document/d/15UJ3LQNgqNOH9sOfnzX8anF6BXZALTrKKIIlsyinpCY/edit?usp=sharing).
 
 Registration of passive participants will be open after closing of registration of active participants.
 
-<a href="#" target="_blank" class="btn btn-success btn-lg btn-block">Register <i class="fas fa-play"></i></a>
+<a href="https://forms.gle/ACi1djPx7FNQaMDf8" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Register <i class="fas fa-play"></i></a>
 
 ## Pricing
 <table class="table table-bordered table-striped" style="vertical-align: center;">
@@ -105,10 +109,17 @@ The registration fee covers participation in the conference, as well as, coffee 
 Please note that early bird registration fee applies only to active participants registration, since we encourage everybody to present their own work.
 
 ## Speakers
-* [Maire	Ní Leathlobhair](/people/maire-ni-leathlobhair/), Big Data Institute, University of Oxford, UK
-* [Aakrosh	Ratan](/people/aakrosh-ratan//), University of Virginia, USA
 
-and more coming soon!
+### Invited speaker
+##### [Maire	Ní Leathlobhair](/people/maire-ni-leathlobhair/)  
+Big Data Institute, University of Oxford, UK  
+
+### Keynote speaker
+##### [Aakrosh	Ratan](/people/aakrosh-ratan/)
+University of Virginia, USA  
+
+
+##### ...and more coming soon!
 
 ## Scientific committee
 To be announced soon.
@@ -126,7 +137,5 @@ To be announced soon.
 * [Szymon Grabia](/people/szymon-grabia), Medical University of Lodz, Poland
 * [Gladys Langi](/people/gladys-langi), Medical University of Bialystok, Poland
 
-## Sponsors
-
 ## Program
-The conference will start at 3 PM on the 31<sup>st</sup> July (Friday) and will last till 1<sup>st</sup> August (Saturady) evening. We plan to invite 4-5 keynote speakers. We will reserve timeslots for about 25 oral presentations, while authors of the rest of abstract found valuable by our Scientific Committee will be invited to prepare posters. The detailed program will be announced later.
+The conference will start at 3 PM on the 31<sup>st</sup> July (Friday) and will last till 1<sup>st</sup> August (Saturday) evening. We plan to invite 4-5 keynote speakers. The Scientific Committee will select 25 abstracts for oral presentation. We will announce a detailed program in due course.

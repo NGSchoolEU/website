@@ -21,6 +21,39 @@ $(document).ready(function () {
 		}
 	});
 
+	$('.contact-form form').on('submit', function(event) {
+		event.preventDefault();
+
+		populateRecaptchaInput(submitContactForm);
+	});
+
+	function populateRecaptchaInput(callback) {
+		grecaptcha.execute('6LeqhtwUAAAAAAhDLg0h3XsTXzg0kVeSZl1hNae1', {action: 'homepage'}).then(function(token) {
+			$('.contact-box form input[name="g-recaptcha-response"]').val(token)
+		});
+
+		if (typeof callback === 'function') {
+			callback();
+		}
+	}
+
+	function submitContactForm() {
+		setTimeout(
+			function() {
+				$('.contact-form form').unbind('submit').submit();
+			}, 1000
+		);
+	}
+	
+	function offsetAnchor() {
+		if (location.hash.length !== 0) {
+			window.scrollTo(window.scrollX, window.scrollY - 100);
+		}
+	}
+
+	window.addEventListener("hashchange", offsetAnchor);
+	window.setTimeout(offsetAnchor, 0);
+
 	// Shuffle js filter and masonry
 	var containerEl = document.querySelector('.shuffle-wrapper');
 	if (containerEl) {

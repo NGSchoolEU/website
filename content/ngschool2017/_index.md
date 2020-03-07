@@ -7,8 +7,8 @@ information:
   label: Location
 - info: "September 10 - 17, 2017"
   label: Date
-- info: "43"
-  label: Participants
+- info: "43 participants, 20 speakers"
+  label: Attendees
 title: "#NGSchool2017"
 ---
 

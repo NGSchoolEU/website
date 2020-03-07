@@ -34,7 +34,7 @@ title: "#NGSchool2019 Photo Gallery"
   {{< figure link="/images/ngschool/2019-025.jpg"  caption="America’s Wild West or Poland's Bialobrzegi?" >}}
   {{< figure link="/images/ngschool/2019-013.jpg"  caption="One way to find out..." >}}
   {{< figure link="/images/ngschool/2019-001.jpg"  caption="All systems up and running smoothly" >}}
-  {{< figure link="/images/ngschool/2019-027.jpg"  caption="At NGSChool, information flows abundantly" >}}
+  {{< figure link="/images/ngschool/2019-027.jpg"  caption="At NGSchool, information flows abundantly" >}}
   {{< figure link="/images/ngschool/2019-032.jpg"  caption="Important panel discussion" >}}
   {{< figure link="/images/ngschool/2019-037.jpg"  caption="Talking about future career paths" >}}
 {{< /gallery >}}
