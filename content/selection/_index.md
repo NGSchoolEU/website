@@ -23,18 +23,16 @@ We want everybody to learn something new and use the knowledge later on. If you 
 
 # Registration form
 
-Every year we designe the registration form in a way that will help us assess how well the applicants match the ideal participant profile. We also want to give the potential participants an idea of which areas and topics to revise before the school. 
+Every year we design the registration form in a way that will help us assess how well the applicants match the ideal participant profile. We also want to give the potential participants an idea of which areas and topics to revise before the school. 
 
 We strive to keep the form to as simple as possible, while at the same time making sure that it enables a fair and informed selection process. We understand that filling the form might be time-consuming and, to allow you to work on it throughout the registration period, we provide an option to save an incomplete application. You may edit all the answers before the registration deadline.
 
 We will publish the correct answers (and sample code for computational tasks) together with the detailed report on the scores after the registration deadline.  
-The motivational part of the application is assessed by the selection committee, and participants are selected based on boths, their motivation and quiz section.
+The motivational part of the application is assessed by the selection committee, and participants are selected based on both, their motivation and quiz section.
 
 # Selection results
 
-We will inform you of selection results no later than the 15th of May.
-
-To get the latest news and announcments, you can follow us on 
+To get the latest news and announcements, you can follow us on 
 
 [Facebook](https://www.facebook.com/NGSchool.eu/), 
 [Twitter](https://twitter.com/NGSchoolEU) and 
