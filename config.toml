@@ -26,6 +26,8 @@ disableLanguages = ["pl"]
   link = "/plugins/magnific-popup/magnific-popup.css"
   [[params.plugins.css]]
   link = "/plugins/slick/slick.css"
+  [[params.plugins.css]]
+  link = "/plugins/font-awesome/css/all.min.css"
 
   # JS Plugins
   [[params.plugins.js]]
@@ -41,7 +43,7 @@ disableLanguages = ["pl"]
   [[params.plugins.js]]
   link = "/plugins/google-map/gmap.js"
   [[params.plugins.js]]
-  link = "/plugins/font-awesome/font-awesome.js"
+  link = "/plugins/font-awesome/js/all.min.js"
 
 
 ############################## navigation ###############################
