@@ -123,17 +123,13 @@ Please note that early bird registration fee applies only to active participants
 <br>
 
 #### Payment details
-<p>Account holder:
-<span style="margin-left: 1.5em;">Stowarzyszenie NGSchool / NGSchool Society</span></p>
+Account holder: **Stowarzyszenie NGSchool** / **NGSchool Society**
 
-<p>BIC/SWIFT: 
-<span style="margin-left: 1.5em;">BREXPLPWMBK</span></p>
+BIC/SWIFT: **BREXPLPWMBK**
 
-<p>Account numbers:</p>
-<p style="margin-left: 1.5em;">For payments in PLN:<br>
-<span style="margin-left: 3em;">PL67 1140 2004 0000 3102 7868 6219</span></p>
-<p>For payments in EUR:<br>
-<span style="margin-left: 3em;">PL40 1140 2004 0000 3112 0774 0774</span></p>
+Account numbers:
+* For payments in PLN: **PL67 1140 2004 0000 3102 7868 6219**
+* For payments in EUR: **PL40 1140 2004 0000 3112 0774 0774**
 
 <br>
 
