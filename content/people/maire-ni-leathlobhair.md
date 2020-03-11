@@ -5,7 +5,7 @@ description:
 draft: false
 image: images/people/maire-ni-leathlobhair.jpg
 information:
-- info: "#NGSymposium2020"
+- info: "NGSymposium2020"
   label: Events
 - info: Speaker
   label: Role

@@ -16,7 +16,7 @@ when obtaining the whole genome sequence of any individual becomes trivial task
 at affordable cost. Personalised medicine, a health-care system in which 
 medical decisions and health-care products are tailored for the individuals 
 based on their predicted response or risk of disease, is just around the corner. 
-In Europe, most of the progress in these areas is blatantly concentreted in 
+In Europe, most of the progress in these areas is blatantly concentrated in 
 western countries, and it is crucial to train the future experts who will also 
 drive this revolution in central and eastern european countries.
 
@@ -24,18 +24,18 @@ drive this revolution in central and eastern european countries.
 
 Our events are attended by 20-70 people, majority of those are PhD students 
 and post-docs, but researchers at all career stages are welcome! 
-Summer school usually welcomea 40-60 people, 1/3 of whom are speakers. #NGSchool 
+Summer school usually welcome 40-60 people, 1/3 of whom are speakers. NGSchool 
 community is interdisciplinary, which results in interesting discussions 
 and brings future experts from diverse disciplines together. The participants 
-of #NGSchool represent various branches of science, including biology, chemistry, 
+of NGSchool represent various branches of science, including biology, chemistry, 
 engineering, medicine, computer science and related disciplines.  
 
 ## How to get a place? <a href="/faq/#faq3"><sup><i class="fas fa-link"></i></sup></a> {#faq3}
 
-The only way to attend our events is through selection process. #NGSchool 
+The only way to attend our events is through selection process. NGSchool 
 became quite popular, so getting a place isn't easy. In the previous editions 
-([#NGSchool2016](/ngschool2016), [#NGSchool2017](/ngschool2017), 
-[#NGSchool2018](/ngschool2018), [#NGSChool2019](/ngschool2019))  
+([NGSchool2016](/ngschool2016), [NGSchool2017](/ngschool2017), 
+[NGSchool2018](/ngschool2018), [NGSChool2019](/ngschool2019))  
 we have received over 400 applications from 50 countries in total. 
 Therefore, we strongly recommend to dedicate time and effort to prepare 
 solid application if you really wish to attend. Definitely read more about 
@@ -84,7 +84,7 @@ but strong motivation is desired!
 We suggest everyone with no programming experience to take an on-line course 
 introducing Linux and basics of programming (plan to do it approximately 2 
 weeks before the school, at the latest). Completing this course will be 
-crucial in order to secure smooth learning experience at the #NGSchool.  
+crucial in order to secure smooth learning experience at the NGSchool.  
 
 You can find out more about the ideal candidate profile and the selection 
 procedure [here](/selection).  
@@ -105,13 +105,13 @@ selected participants in difficult financial situations.
 You should arrange your trip by yourself. We'll refund travel expenses for
 selected participants in difficult financial situations, after receiving 
 travel expenses form which will be distributed during the school. 
-In order to recieve the refund, please make sure to keep all your tickets & 
+In order to receive the refund, please make sure to keep all your tickets & 
 travel receipts.   
 
 ## Will you continue the course in the following years? <a href="/faq/#faq11"><sup><i class="fas fa-link"></i></sup></a> {#faq11}
 
 We plan to organise our main events on annual basis. Every year we will adapt 
-the #NGSchool program accordingly to the current expertise needs. Accordingly, 
+the NGSchool program accordingly to the current expertise needs. Accordingly, 
 we will invite experts in relevant relevant fields of interest. In addition, 
 we gather feedback and suggestions from our participants & partners. We take 
 this feedback seriously, trying to make our subsequent events even better.  

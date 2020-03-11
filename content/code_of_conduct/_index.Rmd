@@ -1,12 +1,14 @@
 ---
+markup: "mmark"
+
 bg_image: images/feature-conference.jpg
 title: Code of Conduct!
-description: Everyone shoul feel welcomed!
+description: Everyone should feel welcomed!
 draft: false
 ---
 ## Code of Conduct
 
-NGSchool Society is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We want all participants --- attendees, organizers, reviewers, speakers, sponsors, and volunteers at the #NGSchool events --- to learn, benefit and enjoy the them worry-free. We do not tolerate harassment of participants in any form. All are required to agree with this code of conduct both during the event and on official communication channels, including social media. The organizers will make sure to take appropropriate actions to ensure everyone will feel welcomed - including expulsion in case of repeated violations of the Code of Conduct.  
+NGSchool Society is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We want all participants --- attendees, organizers, reviewers, speakers, sponsors, and volunteers at the #NGSchool events --- to learn, benefit and enjoy the them worry-free. We do not tolerate harassment of participants in any form. All are required to agree with this code of conduct both during the event and on official communication channels, including social media. The organizers will make sure to take appropriate actions to ensure everyone will feel welcomed - including expulsion in case of repeated violations of the Code of Conduct.  
 
 <div class="row" style="margin-top: 5px;">
 <div class="col-md-6">

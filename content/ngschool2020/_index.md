@@ -11,10 +11,9 @@ information:
   label: Date
 - info: "35 (planned)"
   label: Participants
-title: "#NGSchool2020"
+title: "NGSchool2020"
 ---
 
-# #NGSchool2020: Statistical Learning in Genomics
 In recent years genomics has been moving forward at an incredibly fast pace. The Human Genome Project that resulted in sequencing the first human genome cost about $2.7 billion and took 13 years to complete (1990-2003). In stark contrast, today your genome can be sequenced for about $1,000 in just a few days. The biggest genomic projects aim at sequencing hardly believable numbers of 100,000 (100,000 Genomes Project, finished in 2018) or 500,000 (ongoing project of Sanger Institute, samples from UK biobank) genomes. Moreover, thousands of other organisms are sequenced around the world with the NCBI Genome database containing complete sequences of almost 20,000 organisms. Such an unimaginable amount of data can be analysed only with the use of advanced statistical and machine learning methods.
 
 Taking this rapid development into account, #NGSchool2020 will be an intensive course on modern statistical learning methods used in genomics. The program will cover a range of topics, from fundamental to state of the art methods, including probability, inference, unsupervised learning, model selection and deep learning.
@@ -63,7 +62,7 @@ Registration will be open from March 16, 12 PM CET to April 17, 23:59 CET. You c
 and more coming soon!  
   
 ## Venue & social activities
-#NGSchool2020 will be held on 22 - 31 of July 2020 in Promenada, Białobrzegi near Warsaw, Poland.
+NGSchool2020 will be held on 22 - 31 of July 2020 in Promenada, Białobrzegi near Warsaw, Poland.
 
 <div class="row" style="margin-top: 5px;">
 <div class="col-md-6">

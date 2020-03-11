@@ -2,7 +2,7 @@
 bg_image: images/ngschool/2016-008.jpg
 description: Vysoké tatry, tatranský čaj... and statistics 
 draft: false
-title: "#NGSchool2016 Photo Gallery"
+title: "NGSchool2016 Photo Gallery"
 ---
 
 {{< load-photoswipe >}}
@@ -12,7 +12,7 @@ title: "#NGSchool2016 Photo Gallery"
   {{< figure link="/images/ngschool/2016-003.jpg"  caption="Yes, let's talk" >}}
   {{< figure link="/images/ngschool/2016-002.jpg"  caption="And let's listen" >}}
   {{< figure link="/images/ngschool/2016-008.jpg"  caption="Leszek describing how to do good sample prep" >}}
-  {{< figure link="/images/ngschool/2016-005.jpg"  caption="Maciej's introdoction to genetics classics" >}}
+  {{< figure link="/images/ngschool/2016-005.jpg"  caption="Maciej's introduction to genetics classics" >}}
   {{< figure link="/images/ngschool/2016-007.jpg"  caption="Eager audience" >}}
   {{< figure link="/images/ngschool/2016-010.jpg"  caption="Bartek's talk went from ChIP-seq to Hi-C and back" >}}
   {{< figure link="/images/ngschool/2016-009.jpg"  caption="German, just about to teach us about CNVs" >}}

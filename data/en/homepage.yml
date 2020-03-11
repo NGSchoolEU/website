@@ -2,7 +2,7 @@
 banner:
   enable : true
   bg_image : "images/slider-bg.jpg"
-  title : "#NGSchool"
+  title : "NGSchool"
   content : "A platform to share expertise in the field of Next Generation Sequencing data analysis and general bioinformatics."
   button:
     enable : false
@@ -67,7 +67,7 @@ cta:
 ################################ TEAM #################################
 funfacts:
   enable : true
-  title : "Meet #NGSchool TEAM"
+  title : "Meet NGSchool TEAM"
   description : 
   funfact_item:     
     # funfacts item loop

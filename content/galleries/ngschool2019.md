@@ -2,7 +2,7 @@
 bg_image: images/ngschool/2019-012.jpg
 description: The adventures of bioscientists in the random forests 
 draft: false
-title: "#NGSchool2019 Photo Gallery"
+title: "NGSchool2019 Photo Gallery"
 ---
 
 {{< load-photoswipe >}}
@@ -16,7 +16,7 @@ title: "#NGSchool2019 Photo Gallery"
   {{< figure link="/images/ngschool/2019-020.jpg"  caption="Roman in R" >}}
   {{< figure link="/images/ngschool/2019-021.jpg"  caption="Work well underway" >}}
   {{< figure link="/images/ngschool/2019-009.jpg"  caption="Noura's lecture" >}}
-  {{< figure link="/images/ngschool/2019-008.jpg"  caption="And the discussion thet followed" >}}
+  {{< figure link="/images/ngschool/2019-008.jpg"  caption="And the discussion that followed" >}}
   {{< figure link="/images/ngschool/2019-010.jpg"  caption="Picture perfect" >}}
   {{< figure link="/images/ngschool/2019-016.jpg"  caption="Random forest" >}}
   {{< figure link="/images/ngschool/2019-018.jpg"  caption="We made space for two special last-minute participants" >}}

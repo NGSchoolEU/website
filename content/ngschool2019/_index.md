@@ -11,5 +11,5 @@ information:
   label: Date
 - info: "35 participants, 11 speakers, 8 organisers"
   label: Attendees
-title: "#NGSchool2019"
+title: "NGSchool2019"
 ---
