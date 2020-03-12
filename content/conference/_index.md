@@ -16,9 +16,9 @@ information:
   label: Invited Speakers
 ---
 
-We have a great pleasure to invite you to the **NGSymposium in Computational Biology** to celebrate the 5<sup>th</sup> anniversary of NGSchool Summer Schools. This international conference will serve as a platform for exchanging knowledge and experiences between established and early-stage researchers in bioinformatics. The meeting will be held on **31.07 - 1.08.2020 in Warsaw**. It will be a satellite event to the [NGSchool2020: Statistical Learning in Genomics](/ngschool2020). We will cover a wide range of topics from basic and applied biomedical sciences: bioinformatics, genomics, transcriptomics, computational biology.
+<div class="alert alert-warning" style="width: 70%; margin: -20px auto 30px auto; font-weight: bold; text-align: center; font-size: 1.1em;">We are aware of the public health precautions recommended to fight the pandemic of COVID-19. We also see that many conferences have been canceled/postponed. Based on the data we have seen, we have reason to believe that our events, that are supposed to take place at the end of July will indeed take place. However, we will monitor the situation and act accordingly. After careful consideration, we decided that we will revise our decision no later than at the beginning of May. Provided it will be necessary for public health to cancel the events, we will reimburse the registration fees.</div>
 
-<br>
+We have a great pleasure to invite you to the **NGSymposium in Computational Biology** to celebrate the 5<sup>th</sup> anniversary of NGSchool Summer Schools. This international conference will serve as a platform for exchanging knowledge and experiences between established and early-stage researchers in bioinformatics. The meeting will be held on **31.07 - 1.08.2020 in Warsaw**. It will be a satellite event to the [NGSchool2020: Statistical Learning in Genomics](/ngschool2020). We will cover a wide range of topics from basic and applied biomedical sciences: bioinformatics, genomics, transcriptomics, computational biology.
 
 ## Topics and keywords
 Bioinformatics, Genomics, Machine Learning, NGS
