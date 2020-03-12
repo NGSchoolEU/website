@@ -16,7 +16,9 @@ information:
   label: Invited Speakers
 ---
 
-We have a great pleasure to invite you to the **NGSymposium in Computational Biology** to celebrate the 5<sup>th</sup> anniversary of the NGSchool Summer Schools. This international conference will make way for exchanging knowledge and experiences between experienced and early-stage researchers as well as bioinformaticians. The meeting will be held on **31.07 - 1.08.2020 in Warsaw**. It will be a satellite event to the [#NGSchool2020: Statistical Learning in Genomics](/ngschool2020). It will cover a wide range of topics from basic and applied biomedical sciences: bioinformatics, genomics, transcriptomics, computational biology.
+<div class="alert alert-warning" style="width: 70%; margin: -20px auto 30px auto; font-weight: bold; text-align: center; font-size: 1.1em;">We are aware of the public health precautions recommended to fight the pandemic of COVID-19. We also see that many conferences have been canceled/postponed. Based on the data we have seen, we have reason to believe that our events, that are supposed to take place at the end of July will indeed take place. However, we will monitor the situation and act accordingly. After careful consideration, we decided that we will revise our decision no later than at the beginning of May. Provided it will be necessary for public health to cancel the events, we will reimburse the registration fees.</div>
+
+We have a great pleasure to invite you to the **NGSymposium in Computational Biology** to celebrate the 5<sup>th</sup> anniversary of NGSchool Summer Schools. This international conference will serve as a platform for exchanging knowledge and experiences between established and early-stage researchers in bioinformatics. The meeting will be held on **31.07 - 1.08.2020 in Warsaw**. It will be a satellite event to the [NGSchool2020: Statistical Learning in Genomics](/ngschool2020). We will cover a wide range of topics from basic and applied biomedical sciences: bioinformatics, genomics, transcriptomics, computational biology.
 
 ## Topics and keywords
 Bioinformatics, Genomics, Machine Learning, NGS
@@ -29,6 +31,8 @@ Bioinformatics, Genomics, Machine Learning, NGS
 <img class="img-responsive w-100" src="../images/conference-02.jpg">
 </div>
 </div>
+
+<br>
 
 ## Important dates
 <table class="table table-bordered table-striped">
@@ -67,19 +71,27 @@ Bioinformatics, Genomics, Machine Learning, NGS
   </tr>
 </table>
 
+<br>
 
 ## Venue
-#NGSymposium2020 will be held on 31 of July and 1 of August 2020 in Warsaw, Poland.
+NGSymposium2020 will be held on 31 of July and 1 of August 2020 in Warsaw, Poland.
+
+<br>
 
 ## Registration and abstract submission
 
-Registration of active participants will be open from February, 27 12 PM CET to April 17, 23:59 CET. In registration forms you will be asked for providing us with some basic information about yourself. You will also be able to submit your abstract. You can save your registration form after filling it partially and come back later to supply more data e.g. upload an abstract. Your registration will be completed only with the payment of the registration fee reaching our accounts - please make sure to transfer the money in advance! 
+Registration of active participants will be open from February, 27 12 PM CET to April 17, 23:59 CET. In registration forms you will be asked for providing us with some basic information about yourself. You will also be able to submit your abstract. You can save your registration form after filling it partially and come back later to supply more data e.g. upload an abstract.
 
-Please note that we also accept only limited RMarkdown formating in the body of the abstract. You can find RMarkdown formatting cheat sheet [here](https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf). We also provide list of the accepted formatiing in the form and [here](https://docs.google.com/document/d/15UJ3LQNgqNOH9sOfnzX8anF6BXZALTrKKIIlsyinpCY/edit?usp=sharing).
+Please note that we also accept only limited RMarkdown formatting in the body of the abstract. You can find RMarkdown formatting cheat sheet [here](https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf). We also provide list of the accepted formatiing in the form and [here](https://docs.google.com/document/d/15UJ3LQNgqNOH9sOfnzX8anF6BXZALTrKKIIlsyinpCY/edit?usp=sharing).
+
+Transfer title: 
+   NGSymposium Name Surname
 
 Registration of passive participants will be open after closing of registration of active participants.
 
 <a href="https://forms.gle/ACi1djPx7FNQaMDf8" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Register <i class="fas fa-play"></i></a>
+
+<br>
 
 ## Pricing
 <table class="table table-bordered table-striped" style="vertical-align: center;">
@@ -108,23 +120,42 @@ The registration fee covers participation in the conference, as well as, coffee 
 
 Please note that early bird registration fee applies only to active participants registration, since we encourage everybody to present their own work.
 
+<br>
+
+#### Payment details
+Account holder: **Stowarzyszenie NGSchool** / **NGSchool Society**
+
+BIC/SWIFT: **BREXPLPWMBK**
+
+Account numbers:
+* For payments in PLN: **PL67 1140 2004 0000 3102 7868 6219**
+* For payments in EUR: **PL40 1140 2004 0000 3112 0774 0774**
+
+<br>
+
 ## Speakers
 
-### Invited speaker
-##### [Maire	Ní Leathlobhair](/people/maire-ni-leathlobhair/)  
-Big Data Institute, University of Oxford, UK  
+### Invited Speakers
+##### [**Máire Ní Leathlobhair**](/people/maire-ni-leathlobhair/)  
+Big Data Institute, University of Oxford, UK
+<br>
+Lecture title: ***Transmissible Cancer - A Long-Term Evolution Experiment***
 
 ### Keynote speaker
-##### [Aakrosh	Ratan](/people/aakrosh-ratan/)
+##### [**Aakrosh	Ratan**](/people/aakrosh-ratan/)
 University of Virginia, USA  
 
 
 ##### ...and more coming soon!
 
-## Scientific committee
+<br>
+
+## Scientific Advisory Board
 To be announced soon.
 
-## Organizational committee
+<br>
+
+## Organizing Team
 * [Katarzyna Kędzierska](/people/katarzyna-kedzierska), WCHG, University of Oxford, UK
 * [Lidia Lipińska](/people/lidia-lipinska), University of Warsaw, Poland
 * [Natalia Pstrąg](/people/natalia-pstrag), UAM, Poznań, Poland
@@ -137,5 +168,7 @@ To be announced soon.
 * [Szymon Grabia](/people/szymon-grabia), Medical University of Lodz, Poland
 * [Gladys Langi](/people/gladys-langi), Medical University of Bialystok, Poland
 
+<br>
+
 ## Program
-The conference will start at 3 PM on the 31<sup>st</sup> July (Friday) and will last till 1<sup>st</sup> August (Saturday) evening. We plan to invite 4-5 keynote speakers. The Scientific Committee will select 25 abstracts for oral presentation. We will announce a detailed program in due course.
+The conference will start at 3 PM on the 31<sup>st</sup> July (Friday) and will last till 1<sup>st</sup> August (Saturday) evening. We plan to invite 4-5 keynote speakers. The Scientific Committee will select about 20 abstracts for oral presentation. We will announce a detailed program in due course.

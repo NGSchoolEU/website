@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-title = "#NGSchool"
+title = "NGSchool"
 theme = "airspace-hugo"
 # post pagination
 paginate = "4"
@@ -118,7 +118,7 @@ disableLanguages = ["pl"]
 
   # footer menu
   [[menu.footer]]
-  name = "#NGSchool"
+  name = "NGSchool"
   URL = "/about"
   weight = 1
 
@@ -147,7 +147,7 @@ disableLanguages = ["pl"]
 logo = "/images/logo.png"
 home = "Home"
 # Meta data
-description = "#NGSchool (Next Generation School) is a platform to share the expertise in the field of Next Generation Sequencing Data Analysis and general Bioinformatics."
+description = "NGSchool (Next Generation School) is a platform to share the expertise in the field of Next Generation Sequencing Data Analysis and general Bioinformatics."
 author = "ngschool"
 # Contact Information
 # mobile = "0124857985320"
@@ -216,7 +216,7 @@ link = "https://www.instagram.com/ngschooleu"
   weight = 1
   home = "Home"
   # copyright
-  copyright = "Copyright &copy; [#NGSchool](https://ngschool.eu) 2020 | Theme by [Themefisher](https://themefisher.com)"
+  copyright = "Copyright &copy; [NGSchool](https://ngschool.eu) 2020 | Theme by [Themefisher](https://themefisher.com)"
  
   ################################ Poland Language ########################
   [Languages.pl]
@@ -226,7 +226,7 @@ link = "https://www.instagram.com/ngschooleu"
   weight = 2
   home = "Home"
   # copyright
-  copyright = "Copyright &copy; [#NGSchool](https://ngschool.eu) 2020 | Theme by [Themefisher](https://themefisher.com)"
+  copyright = "Copyright &copy; [NGSchool](https://ngschool.eu) 2020 | Theme by [Themefisher](https://themefisher.com)"
 	
 	  # main menu
 	  [[Languages.pl.menu.main]]

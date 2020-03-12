@@ -9,12 +9,12 @@ information:
   label: Date
 - info: "43 participants, 20 speakers"
   label: Attendees
-title: "#NGSchool2017"
+title: "NGSchool2017"
 ---
 
 ### Topic
 
-Summer School in Bioinformatics & NGS Data Analysis (#NGSchool2017) was held on 10-17 September 2017 in CBiES, Jachranka 81 k/Warszawy. 
+Summer School in Bioinformatics & NGS Data Analysis (NGSchool2017) was held on 10-17 September 2017 in CBiES, Jachranka 81 k/Warszawy. 
 In the course of one week, the participants attended the series of lectures and workshops, covering various aspects of computational biology, 
 focusing on state-of-the-art techniques related to Next-Generation Sequencing (NGS) and its application in research, health-care and industry. 
 In 2017, we focused on data analysis from single-cell technologies. As before, the course covered wide range of topics, selected by popularity among attendees.

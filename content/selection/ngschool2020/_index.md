@@ -11,7 +11,7 @@ information:
   label: Date
 - info: "35 (planned)"
   label: Participants
-title: "#NGSchool2020 Participant profile"
+title: "NGSchool2020 Participant profile"
 ---
 
 ## Participant profile
@@ -34,7 +34,7 @@ For the summer school in statistical genomics NGSchool is looking for applicants
 
 8. have a laptop that they can bring to school. Laptop should be based on Linux/macOS or virtual box is possible. Windows support by the organisers is limited and not guaranteed;
 
-9. ideally, have never participated in previous NGSchool events - we assume that alumni will benefit less from #NGSchool2020 and therefore we will give priority to the first-time attendees, however, we do not discourage the alumni from applying as well;
+9. ideally, have never participated in previous NGSchool events - we assume that alumni will benefit less from NGSchool2020 and therefore we will give priority to the first-time attendees, however, we do not discourage the alumni from applying as well;
 
 10. preference will be given to potential participants with clearly limited access to similar educational events that satisfy the previous criteria on the expected level of knowledge.
 <br>

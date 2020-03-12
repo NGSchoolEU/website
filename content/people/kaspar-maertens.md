@@ -5,7 +5,7 @@ description:
 draft: false
 image: images/people/kaspar-maertens.jpg
 information:
-- info: "#NGSchool2019"
+- info: "NGSchool2019"
   label: Events
 - info: speaker
   label: Role

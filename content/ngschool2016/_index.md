@@ -9,12 +9,12 @@ information:
   label: Date
 - info: "30 participants, 13 speakers"
   label: Attendees
-title: "#NGSchool2016"
+title: "NGSchool2016"
 ---
 
 ### General NGS data analysis
 
-Summer School in Bioinformatics & NGS Data Analysis (#NGSchool2016) was held on August 14-21, 2016 in Dolný Smokovec, Slovakia. 
+Summer School in Bioinformatics & NGS Data Analysis (NGSchool2016) was held on August 14-21, 2016 in Dolný Smokovec, Slovakia. 
 In the course of one week, the participants attended the series of lectures and workshops, covering various aspects of Computational Biology, 
 focusing on state-of-the-art techniques related to Next-Generation Sequencing (NGS) and its application in research, health-care and industry. 
 The school was mainly addressed to students and researchers in early stage of their careers. Nevertheless, we also invited more advanced researchers to apply. 

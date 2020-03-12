@@ -2,7 +2,7 @@
 bg_image: images/ngschool/2018-005.jpg
 description: Viewing Lublin through a nanopore 
 draft: false
-title: "#NGSchool2018 Photo Gallery"
+title: "NGSchool2018 Photo Gallery"
 ---
 
 {{< load-photoswipe >}}

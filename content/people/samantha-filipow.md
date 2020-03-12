@@ -5,7 +5,7 @@ description:
 draft: false
 image: images/people/samantha-filipow.jpg
 information:
-- info: "#NGSchool2018, #NGSchool2019, #NGSchool2020"
+- info: "NGSchool2018, NGSchool2019, NGSchool2020"
   label: Events
 - info: "Participant, organiser"
   label: Role

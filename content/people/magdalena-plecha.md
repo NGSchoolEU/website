@@ -5,7 +5,7 @@ description:
 draft: false
 image: images/people/magdalena-plecha.jpg
 information:
-- info: "#NGSchool2018"
+- info: "NGSchool2018"
   label: Events
 - info: "Former organizer"
   label: Role

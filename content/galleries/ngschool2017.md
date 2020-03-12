@@ -2,7 +2,7 @@
 bg_image: images/ngschool/2017-007.jpg
 description: Stats workout in the gym 
 draft: false
-title: "#NGSchool2017 Photo Gallery"
+title: "NGSchool2017 Photo Gallery"
 ---
 
 {{< load-photoswipe >}}
@@ -22,7 +22,7 @@ title: "#NGSchool2017 Photo Gallery"
   {{< figure link="/images/ngschool/2017-012.jpg"  caption="Hard at work" >}}
   {{< figure link="/images/ngschool/2017-010.jpg"  caption="In good spirits" >}}
   {{< figure link="/images/ngschool/2017-011.jpg"  caption="Keeping up with the sequencing" >}}
-  {{< figure link="/images/ngschool/2017-018.jpg"  caption="Visiting picturesqe Warsaw" >}}
+  {{< figure link="/images/ngschool/2017-018.jpg"  caption="Visiting picturesque Warsaw" >}}
   {{< figure link="/images/ngschool/2017-016.jpg"  caption="Is this how bioinformaticians do BBQ, or are things getting out of control?" >}}
   {{< figure link="/images/ngschool/2017-017.jpg"  caption="It is the BBQ after all" >}}
 {{< /gallery >}}

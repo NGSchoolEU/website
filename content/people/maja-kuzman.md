@@ -5,7 +5,7 @@ description:
 draft: false
 image: images/people/maja-kuzman.jpg
 information:
-- info: "#NGSchool2017, #NGSchool2018, #NGSchool2019"
+- info: "NGSchool2017, NGSchool2018, NGSchool2019"
   label: Events
 - info: "Former organizer"
   label: Role

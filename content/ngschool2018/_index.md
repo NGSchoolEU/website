@@ -9,12 +9,12 @@ information:
   label: Date
 - info: "31 participants, 11 speakers, 17 hackaton mentors, 10 organisers"
   label: Attendees
-title: "#NGSchool2018"
+title: "NGSchool2018"
 ---
 
 ### Topic
 
-Summer School in Bioinformatics & NGS Data Analysis (#NGSchool2018) was held on 16-23 Sep 2018 at Medical University of Lublin, Poland. 
+Summer School in Bioinformatics & NGS Data Analysis (NGSchool2018) was held on 16-23 Sep 2018 at Medical University of Lublin, Poland. 
 In 2018, we focused on long reads sequencing & personalised medicine. Beside standard workshops, this year we organised MinION hackathons. 
 Portable, single-molecule sequencing is the technology of today and tomorrow. Its countless applications, especially in precision medicine, 
 stimulate the imagination. Sequencing can now reach beyond the sophisticated labs and we wanted to explore such possibilities.  

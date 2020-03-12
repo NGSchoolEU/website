@@ -5,7 +5,7 @@ description:
 draft: false
 image: images/people/aakrosh-ratan.jpg
 information:
-- info: "#NGSchool2020, #NGSymposium2020"
+- info: "NGSchool2020, NGSymposium2020"
   label: Events
 - info: Speaker
   label: Role
