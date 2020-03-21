@@ -169,7 +169,7 @@ google_analitycs_id = "UA-159044812-1"
 
   # Preloader
   [params.preloader]
-  enable = true
+  enable = false
   preloader = "" # use .png , .svg or .gif format
 
   # search
