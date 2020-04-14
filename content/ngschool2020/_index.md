@@ -14,13 +14,16 @@ information:
 title: "NGSchool2020"
 ---
 
-<div class="alert alert-warning" style="width: 70%; margin: 30px auto 30px auto; font-weight: bold; text-align: center; font-size: 1.1em;">We are aware of the public health precautions recommended to fight the pandemic of COVID-19. We also see that many conferences have been canceled/postponed. Based on the data we have seen, we have reason to believe that our events, that are supposed to take place at the end of July will indeed take place. However, we will monitor the situation and act accordingly. After careful consideration, we decided that we will revise our decision no later than at the beginning of May. Provided it will be necessary for public health to cancel the events, we will reimburse the registration fees.</div>
+<div class="alert alert-warning" style="width: 70%; margin: 30px auto 30px auto; font-weight: bold; text-align: center; font-size: 1.1em;">
+  Thank you for your interest in our 2020 events: the NGSchool2020 and the NGSymposium! We are closely monitoring the COVID-19 pandemic situation and are working on the best solution for our events. We have decided that for the time being, we are <u>extending the registration deadline</u> until further notice. For now, please <u>do not transfer any registration fees</u> and we will contact everyone who has already done so. We plan to announce final decisions for both events in May on our website and social media accounts. Thank you very much for your kind understanding and feel free to contact us if you have further questions!<br>  
+  Provided it will be necessary for public health to cancel the events, we will reimburse the registration fees.
+</div>
 
 In recent years genomics has been moving forward at an incredibly fast pace. The Human Genome Project that resulted in sequencing the first human genome cost about $2.7 billion and took 13 years to complete (1990-2003). In stark contrast, today your genome can be sequenced for about $1,000 in just a few days. The biggest genomic projects aim at sequencing hardly believable numbers of 100,000 (100,000 Genomes Project, finished in 2018) or 500,000 (ongoing project of Sanger Institute, samples from UK biobank) genomes. Moreover, thousands of other organisms are sequenced around the world with the NCBI Genome database containing complete sequences of almost 20,000 organisms. Such an unimaginable amount of data can be analysed only with the use of advanced statistical and machine learning methods.
 
-Taking this rapid development into account, #NGSchool2020 will be an intensive course on modern statistical learning methods used in genomics. The program will cover a range of topics, from fundamental to state of the art methods, including probability, inference, unsupervised learning, model selection and deep learning.
+Taking this rapid development into account, NGSchool2020 will be an intensive course on modern statistical learning methods used in genomics. The program will cover a range of topics, from fundamental to state of the art methods, including probability, inference, unsupervised learning, model selection and deep learning.
 
-## Important dates
+<!-- ## Important dates
 <table class="table table-striped table-bordered table-important-dates">
   <thead>
     <tr>
@@ -51,11 +54,14 @@ Taking this rapid development into account, #NGSchool2020 will be an intensive c
       <td><a href="https://calendar.google.com/calendar/r/eventedit?text=NGSchool+2020&location=Promenada%2C+Bia%C5%82obrzegi+near+Warsaw%2C+Poland&dates=20200722T100000Z/20200731T110000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a></td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 ## Registration
 
-Registration will be open from March 16, 12 PM CET to April 17, 23:59 CET. You can find more information about the selection procedure [here](/selection/ngschool2020).  
+<!-- Registration will be open from March 16, 12 PM CET to April 17, 23:59 CET. You can find more information about the selection procedure [here](/selection/ngschool2020).   -->
+Registration will be open from March 16, 12 PM CET. You can find more information about the selection procedure [here](/selection/ngschool2020).
+
+<b>The registration will be held open at least than till the beginning of May, when we plan to make final decision on form of our events with regard to COVID-19 pandemic situation.</b>
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSc8TVh4Xe2gQEFQeGmBqQyDRhQ7G4G7AmT4crxsb-h6Xve0mw/viewform?usp=sf_link" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Register <i class="fas fa-play"></i></a>
 
@@ -65,6 +71,8 @@ and more coming soon!
   
 ## Venue & social activities
 NGSchool2020 will be held on 22 - 31 of July 2020 in Promenada, Białobrzegi near Warsaw, Poland.
+
+<b>Due to COVID-19 pandemic the dates and venue may be subjected to changes. We will inform about them here and in our social media channels as soon as final decisions are made.</b>
 
 <div class="row" style="margin-top: 5px;">
 <div class="col-md-6">
