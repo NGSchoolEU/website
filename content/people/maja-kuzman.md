@@ -9,7 +9,7 @@ information:
   label: Events
 - info: "Former organizer"
   label: Role
-- info: "University of Zagreb, Croatia"
+- info: "Division of Molecular Biology, Department of Biology,  \nFaculty of Science, University of Zagreb, Croatia"
   label: Affiliation 
 title: Maja Kuzman
 ---
