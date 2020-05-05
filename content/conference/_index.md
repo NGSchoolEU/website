@@ -24,7 +24,7 @@ information:
   All registration fees have been reimbursed and the bank transfers should come to you soon or have already come. Thank you very much for your interests in our activity and kind understanding. Feel free to contact us if you have further questions!
   <br>
   <br>
-  NGSchool Society is, of course, still working and in the meantime we are moving some of our activity online. Not being able to organize proper school and symposium, we will host a series of webinars. Details coming soon!
+  NGSchool Society is, of course, still working (from home!) and in the meantime we are moving some of our activity online. Not being able to organize proper school and symposium, we will host a series of webinars. Details coming soon!
 </div>
 
 <!-- We have a great pleasure to invite you to the **NGSymposium in Computational Biology** to celebrate the 5<sup>th</sup> anniversary of NGSchool Summer Schools. This international conference will serve as a platform for exchanging knowledge and experiences between established and early-stage researchers in bioinformatics. The meeting will be held on **31.07 - 1.08.2020 in Warsaw**. It will be a satellite event to the [NGSchool2020: Statistical Learning in Genomics](/ngschool2020). We will cover a wide range of topics from basic and applied biomedical sciences: bioinformatics, genomics, transcriptomics, computational biology.

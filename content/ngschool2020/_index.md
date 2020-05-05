@@ -24,7 +24,7 @@ title: "NGSchool2020"
   All registration fees have been reimbursed and the bank transfers should come to you soon or have already come. Thank you very much for your interests in our activity and kind understanding. Feel free to contact us if you have further questions!
   <br>
   <br>
-  NGSchool Society is, of course, still working and in the meantime we are moving some of our activity online. Not being able to organize proper school and symposium, we will host a series of webinars. Details coming soon!
+  NGSchool Society is, of course, still working (from home!) and in the meantime we are moving some of our activity online. Not being able to organize proper school and symposium, we will host a series of webinars. Details coming soon!
 </div>
 
 In recent years genomics has been moving forward at an incredibly fast pace. The Human Genome Project that resulted in sequencing the first human genome cost about $2.7 billion and took 13 years to complete (1990-2003). In stark contrast, today your genome can be sequenced for about $1,000 in just a few days. The biggest genomic projects aim at sequencing hardly believable numbers of 100,000 (100,000 Genomes Project, finished in 2018) or 500,000 (ongoing project of Sanger Institute, samples from UK biobank) genomes. Moreover, thousands of other organisms are sequenced around the world with the NCBI Genome database containing complete sequences of almost 20,000 organisms. Such an unimaginable amount of data can be analysed only with the use of advanced statistical and machine learning methods.
