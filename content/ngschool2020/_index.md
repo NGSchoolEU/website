@@ -5,23 +5,31 @@ bg_image: images/ngschool/2019-001.jpg
 description: The adventure through the random forests continues
 draft: false
 information:
-- info: "Białobrzegi, Poland"
-  label: Location
-- info: "July 22 - 31, 2020"
-  label: Date
-- info: "35 (planned)"
-  label: Participants
+# - info: "Białobrzegi, Poland"
+#   label: Location
+# - info: "July 22 - 31, 2020"
+#   label: Date
+# - info: "35 (planned)"
+#   label: Participants
 title: "NGSchool2020"
 ---
 
-<div class="alert alert-warning" style="width: 70%; margin: 30px auto 30px auto; font-weight: bold; text-align: center; font-size: 1.1em;">
-  Thank you for your interest in our 2020 events: the NGSchool2020 and the NGSymposium! We are closely monitoring the COVID-19 pandemic situation and are working on the best solution for our events. We have decided that for the time being, we are <u>extending the registration deadline</u> until further notice. For now, please <u>do not transfer any registration fees</u> and we will contact everyone who has already done so. We plan to announce final decisions for both events in May on our website and social media accounts. Thank you very much for your kind understanding and feel free to contact us if you have further questions!<br>  
-  Provided it will be necessary for public health to cancel the events, we will reimburse the registration fees.
+
+
+<div class="alert alert-info" style="width: 80%; margin: 30px auto 30px auto; font-weight: bold; text-align: center; font-size: 1.1em;">
+  Thank you for your interest in our 2020 events: the NGSchool2020 and the NGSymposium!
+  <br>
+  Regretfully, due to the COVID-19 pandemic we had to decide to cancel this year events. We are planning to organize both NGSchool and NGSymposium in 2021 when, we hope, we are going to be able to meet safely. 
+  <br>
+  All registration fees have been reimbursed and the bank transfers should come to you soon or have already come. Thank you very much for your interests in our activity and kind understanding. Feel free to contact us if you have further questions!
+  <br>
+  <br>
+  NGSchool Society is, of course, still working (from home!) and in the meantime we are moving some of our activity online. Not being able to organize proper school and symposium, we will host a series of webinars. Details coming soon!
 </div>
 
 In recent years genomics has been moving forward at an incredibly fast pace. The Human Genome Project that resulted in sequencing the first human genome cost about $2.7 billion and took 13 years to complete (1990-2003). In stark contrast, today your genome can be sequenced for about $1,000 in just a few days. The biggest genomic projects aim at sequencing hardly believable numbers of 100,000 (100,000 Genomes Project, finished in 2018) or 500,000 (ongoing project of Sanger Institute, samples from UK biobank) genomes. Moreover, thousands of other organisms are sequenced around the world with the NCBI Genome database containing complete sequences of almost 20,000 organisms. Such an unimaginable amount of data can be analysed only with the use of advanced statistical and machine learning methods.
 
-Taking this rapid development into account, NGSchool2020 will be an intensive course on modern statistical learning methods used in genomics. The program will cover a range of topics, from fundamental to state of the art methods, including probability, inference, unsupervised learning, model selection and deep learning.
+Taking this rapid development into account, this year NGSchool Society continues its activity online. We are planning a series of webinars on topics related to bioinformatics and biostatistics. For our future participants, we will offer introductory tutorials that will help them to prepare to next NGSchool. We will also ask established researchers to present more advanced topics. Every enthusiast of bioinformatics is invited to join our online events!
 
 <!-- ## Important dates
 <table class="table table-striped table-bordered table-important-dates">
@@ -56,10 +64,10 @@ Taking this rapid development into account, NGSchool2020 will be an intensive co
   </tbody>
 </table> -->
 
-## Registration
+<!-- ## Registration -->
 
 <!-- Registration will be open from March 16, 12 PM CET to April 17, 23:59 CET. You can find more information about the selection procedure [here](/selection/ngschool2020).   -->
-Registration will be open from March 16, 12 PM CET. You can find more information about the selection procedure [here](/selection/ngschool2020).
+<!-- Registration will be open from March 16, 12 PM CET. You can find more information about the selection procedure [here](/selection/ngschool2020).
 
 <b>The registration will be held open at least than till the beginning of May, when we plan to make final decision on form of our events with regard to COVID-19 pandemic situation.</b>
 
@@ -85,7 +93,7 @@ NGSchool2020 will be held on 22 - 31 of July 2020 in Promenada, Białobrzegi nea
 </div>
   
 Similarly to previous years, we'll make sure there is plenty of fun beside hard work during workshops :) Those include yachting, BBQ nights and adventure field games.  
-[You can check photos from previous editions for a sample of that.](/galleries/)  
+[You can check photos from previous editions for a sample of that.](/galleries/)   -->
   
 ## Organisers & partners
 * [Katarzyna Kędzierska](/people/katarzyna-kedzierska), WCHG, OX, Oxford, GB  
@@ -100,7 +108,7 @@ Similarly to previous years, we'll make sure there is plenty of fun beside hard 
 * [Szymon Grabia](/people/szymon-grabia), Medical University of Lodz, Poland  
 * [Gladys Langi](/people/gladys-langi), Medical University of Bialystok, Poland  
 
-## Cost
+<!-- ## Cost
 We do our best to acquire the funding for NGSchool so that the registration fee is low enough to make NGSchool available to every willing student or early stage researcher. In recent years, **thanks to generous support from the [International Visegrad Fund](https://www.visegradfund.org/) and other sponsors we are able to set the registration fee at €100**. Otherwise, the real cost equals $800 - $1000 per participant. We’ll put information on the website and our social channels as soon as we have any news (hopefully good one) on funding.  
   
   
@@ -109,4 +117,4 @@ We’ll invite speakers who will host lectures, workshops and hackathons.
   
 At the beginning of the school we’ll organize an **introductory session** covering basics of programming and statistics, together with necessary software configuration. Next 4 days will be filled with **lectures and workshops** in fundamental, and gradually, more advanced data analysis methods in genomics. Finally, the participants will take part in **hackathons**, during which they will develop projects on currently relevant genomic topics. They will be guided by hackathon mentors.  
 
-<iframe width=1140 height=700 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTx8dOnmzXcmxUwOLHX5I2SJEYZ5k1HLlX24Xn3n48VPjVPcLZEwsgGYbRNzFzNSav3NmDOltAECNYf/pubhtml?gid=1442474260&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width=1140 height=700 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTx8dOnmzXcmxUwOLHX5I2SJEYZ5k1HLlX24Xn3n48VPjVPcLZEwsgGYbRNzFzNSav3NmDOltAECNYf/pubhtml?gid=1442474260&amp;single=true&amp;widget=true&amp;headers=false"></iframe> -->

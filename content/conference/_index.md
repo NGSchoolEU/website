@@ -6,22 +6,28 @@ title: NGSymposium in Computational Biology
 description: Conference for the 5<sup>th</sup> anniversary of NGSchool
 draft: false
 information:
-- info: "Warsaw, Poland"
-  label: Location
-- info: "July 31 - August 1, 2020"
-  label: Date
-- info: "200 (planned)"
-  label: Participants
-- info: "5 (planned)"
-  label: Invited Speakers
+# - info: "Warsaw, Poland"
+#   label: Location
+# - info: "July 31 - August 1, 2020"
+#   label: Date
+# - info: "200 (planned)"
+#   label: Participants
+# - info: "5 (planned)"
+#   label: Invited Speakers
 ---
 
-<div class="alert alert-warning" style="width: 70%; margin: 30px auto 30px auto; font-weight: bold; text-align: center; font-size: 1.1em;">
-  Thank you for your interest in our 2020 events: the NGSchool2020 and the NGSymposium! We are closely monitoring the COVID-19 pandemic situation and are working on the best solution for our events. We have decided that for the time being, we are <u>extending the registration deadline</u> until further notice. For now, please <u>do not transfer any registration fees</u> and we will contact everyone who has already done so. We plan to announce final decisions for both events in May on our website and social media accounts. Thank you very much for your kind understanding and feel free to contact us if you have further questions!<br>
-  Provided it will be necessary for public health to cancel the events, we will reimburse the registration fees.
+<div class="alert alert-info" style="width: 80%; margin: 30px auto 30px auto; font-weight: bold; text-align: center; font-size: 1.1em;">
+  Thank you for your interest in our 2020 events: the NGSchool2020 and the NGSymposium!
+  <br>
+  Regretfully, due to the COVID-19 pandemic we had to decide to cancel this year events. We are planning to organize both NGSchool and NGSymposium in 2021 when, we hope, we are going to be able to meet safely. 
+  <br>
+  All registration fees have been reimbursed and the bank transfers should come to you soon or have already come. Thank you very much for your interests in our activity and kind understanding. Feel free to contact us if you have further questions!
+  <br>
+  <br>
+  NGSchool Society is, of course, still working (from home!) and in the meantime we are moving some of our activity online. Not being able to organize proper school and symposium, we will host a series of webinars. Details coming soon!
 </div>
 
-We have a great pleasure to invite you to the **NGSymposium in Computational Biology** to celebrate the 5<sup>th</sup> anniversary of NGSchool Summer Schools. This international conference will serve as a platform for exchanging knowledge and experiences between established and early-stage researchers in bioinformatics. The meeting will be held on **31.07 - 1.08.2020 in Warsaw**. It will be a satellite event to the [NGSchool2020: Statistical Learning in Genomics](/ngschool2020). We will cover a wide range of topics from basic and applied biomedical sciences: bioinformatics, genomics, transcriptomics, computational biology.
+<!-- We have a great pleasure to invite you to the **NGSymposium in Computational Biology** to celebrate the 5<sup>th</sup> anniversary of NGSchool Summer Schools. This international conference will serve as a platform for exchanging knowledge and experiences between established and early-stage researchers in bioinformatics. The meeting will be held on **31.07 - 1.08.2020 in Warsaw**. It will be a satellite event to the [NGSchool2020: Statistical Learning in Genomics](/ngschool2020). We will cover a wide range of topics from basic and applied biomedical sciences: bioinformatics, genomics, transcriptomics, computational biology.
 
 ## Topics and keywords
 Bioinformatics, Genomics, Machine Learning, NGS
@@ -35,7 +41,7 @@ Bioinformatics, Genomics, Machine Learning, NGS
 </div>
 </div>
 
-<br>
+<br> -->
 
 <!-- ## Important dates
 <table class="table table-bordered table-striped">
@@ -75,7 +81,7 @@ Bioinformatics, Genomics, Machine Learning, NGS
 </table>
 
 <br> -->
-
+<!-- 
 ## Venue and dates
 NGSymposium2020 will be held on 31 of July and 1 of August 2020 in Warsaw, Poland.
 
@@ -83,10 +89,10 @@ NGSymposium2020 will be held on 31 of July and 1 of August 2020 in Warsaw, Polan
 
 <br>
 
-## Registration and abstract submission
+## Registration and abstract submission -->
 
 <!-- Registration of active participants will be open from February, 27 12 PM CET to April 17, 23:59 CET. In registration forms you will be asked for providing us with some basic information about yourself. You will also be able to submit your abstract. You can save your registration form after filling it partially and come back later to supply more data e.g. upload an abstract. -->
-Registration of active participants will be open from February, 27 12 PM CET. In registration forms you will be asked for providing us with some basic information about yourself. You will also be able to submit your abstract. You can save your registration form after filling it partially and come back later to supply more data e.g. upload an abstract.
+<!-- Registration of active participants will be open from February, 27 12 PM CET. In registration forms you will be asked for providing us with some basic information about yourself. You will also be able to submit your abstract. You can save your registration form after filling it partially and come back later to supply more data e.g. upload an abstract.
 
 <b>The registration will be held open at least than till the beginning of May, when we plan to make final decision on form of our events with regard to COVID-19 pandemic situation.</b>
 
@@ -160,7 +166,7 @@ University of Virginia, USA
 <br>
 
 ## Scientific Advisory Board
-To be announced soon.
+To be announced soon. -->
 
 <br>
 
@@ -179,5 +185,5 @@ To be announced soon.
 
 <br>
 
-## Program
-The conference will start at 3 PM on the 31<sup>st</sup> July (Friday) and will last till 1<sup>st</sup> August (Saturday) evening. We plan to invite 4-5 keynote speakers. The Scientific Committee will select about 20 abstracts for oral presentation. We will announce a detailed program in due course.
+<!-- ## Program
+The conference will start at 3 PM on the 31<sup>st</sup> July (Friday) and will last till 1<sup>st</sup> August (Saturday) evening. We plan to invite 4-5 keynote speakers. The Scientific Committee will select about 20 abstracts for oral presentation. We will announce a detailed program in due course. -->
