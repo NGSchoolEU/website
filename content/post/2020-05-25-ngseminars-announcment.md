@@ -2,6 +2,7 @@
 markup: "mmark"
 
 bg_image: images/ngschool/2016-014.jpg
+image: images/logos/ngseminars-logo1.png
 title: NGSeminars 2020
 author: ngschool
 date: '2020-05-23'
@@ -12,7 +13,7 @@ categories:
 tags: [webinar]
 ---
 
-<img class="img-responsive w-100" src="/images/logos/ngseminars-logo1.png" style=" display: block; margin-left: auto; margin-right: auto; width: 30%;">
+<!-- <img class="img-responsive w-100" src="/images/logos/ngseminars-logo1.png" style="display: block; margin-left: auto; margin-right: auto; width: 30%;"> -->
 
 As you know, our summer school NGSchool: Statistical Learning in Genomics has been moved to 2021, but.. don't worry! We cannot leave you alone with thirst for knowledge. We are excited to invite you to a series of programming workshops in bioinformatics.
 

@@ -11,14 +11,14 @@
         <div class="post">
           <div class="post-media post-thumb">
             <a href="{{ .Permalink }}">
-              <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}">
+              <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}" style="width: initial; max-height: 200px;">
             </a>
           </div>
           <h3 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
           <div class="post-meta">
-            <ul>
-              <li><i class="ion-calendar"></i> {{ .PublishDate.Format "January 2, 2006" }}</li>
-              <li><i class="ion-android-people"></i> {{ i18n "posted_by" }} <a class="text-primary" href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author }}</a></li>
+            <ul style="padding: 0;">
+              <!-- <li><i class="ion-calendar"></i> {{ .PublishDate.Format "January 2, 2006" }}</li>
+              <li><i class="ion-android-people"></i> {{ i18n "posted_by" }} <a class="text-primary" href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author }}</a></li> -->
               <li><i class="ion-pricetags"></i> 
                 {{ range $index, $elements:= .Params.Tags }}
                 {{ if ne $index 0 }}, {{ end }}<a href="{{ `tags/` | relLangURL }}{{ . | lower }}">{{ . | humanize }}</a>

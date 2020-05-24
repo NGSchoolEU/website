@@ -207,16 +207,20 @@ google_analitycs_id = "UA-159044812-1"
 
 ############################# social site ########################
 [[params.social]]
-icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
+icon = "fab fa-facebook-f fa-2x"
 link = "https://www.facebook.com/NGSchool.eu/"
 
 [[params.social]]
-icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
+icon = "fab fa-twitter fa-2x"
 link = "https://twitter.com/NGSchoolEU"
 
 [[params.social]]
-icon = "ion-social-instagram-outline" #ionicon pack v2 : https://ionicons.com/v2/
+icon = "fab fa-instagram fa-2x"
 link = "https://www.instagram.com/ngschooleu"
+
+[[params.social]]
+icon = "fab fa-discord fa-2x"
+link = "https://discord.gg/MhNeqwR"
 
 ################################# language ################################
 [Languages]
