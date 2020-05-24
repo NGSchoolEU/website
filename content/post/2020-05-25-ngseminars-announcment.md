@@ -4,7 +4,7 @@ markup: "mmark"
 bg_image: images/ngschool/2016-014.jpg
 title: NGSeminars 2020
 author: ngschool
-date: '2020-05-25'
+date: '2020-05-23'
 slug: webinars-general
 categories:
   - news
