@@ -51,18 +51,29 @@ disableLanguages = ["pl"]
 
   # main menu
   [[menu.main]]
+  name = "News"
+  URL = "post"
+  weight = 1
+
+  [[menu.main]]
   name = "About"
   URL = "about"
-  weight = 1
+  weight = 3
 
   [[menu.main]]
   name = "Society"
   URL = "society"
-  weight = 2
+  weight = 5
+
+  [[menu.main]]
+  name = "NGSeminars"
+  URL = "ngseminars"
+  weight = 7
+
 
   [[menu.main]]
   name = "NGSchool"
-  weight = 3
+  weight = 9
   hasChildren = true
 
     [[menu.main]]
@@ -98,22 +109,24 @@ disableLanguages = ["pl"]
   [[menu.main]]
   name = "Conference 2020"
   URL = "conference"
-  weight = 4
+  weight = 11
 
   [[menu.main]]
   name = "People"
   URL = "people"
-  weight = 5
+  weight = 13
 
   [[menu.main]]
   name = "Photos"
   URL = "galleries"
-  weight = 6
+  weight = 15
 
   [[menu.main]]
   name = "FAQ"
   URL = "faq"
-  weight = 7
+  weight = 17
+
+  
 
 
   # footer menu
@@ -194,16 +207,20 @@ google_analitycs_id = "UA-159044812-1"
 
 ############################# social site ########################
 [[params.social]]
-icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
+icon = "fab fa-facebook-f fa-2x"
 link = "https://www.facebook.com/NGSchool.eu/"
 
 [[params.social]]
-icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
+icon = "fab fa-twitter fa-2x"
 link = "https://twitter.com/NGSchoolEU"
 
 [[params.social]]
-icon = "ion-social-instagram-outline" #ionicon pack v2 : https://ionicons.com/v2/
+icon = "fab fa-instagram fa-2x"
 link = "https://www.instagram.com/ngschooleu"
+
+[[params.social]]
+icon = "fab fa-discord fa-2x"
+link = "https://discord.gg/MhNeqwR"
 
 ################################# language ################################
 [Languages]
@@ -218,7 +235,7 @@ link = "https://www.instagram.com/ngschooleu"
   # copyright
   copyright = "Copyright &copy; [NGSchool](https://ngschool.eu) 2020 | Theme by [Themefisher](https://themefisher.com)"
  
-  ################################ Poland Language ########################
+  ################################ Polish Language ########################
   [Languages.pl]
   languageName = "Pl"
   languageCode = "pl"

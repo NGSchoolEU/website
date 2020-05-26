@@ -1,6 +1,6 @@
 ---
-bg_image: images/bg.jpg
+bg_image: images/news-00.jpg
 description: 
 draft: false
-title: Latest news
+title: NGSchool news
 ---
