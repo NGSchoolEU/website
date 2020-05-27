@@ -37,7 +37,7 @@ First series of online workshops will start in mid-June and they will be held on
   <tr>
     <td>18.06.2020 4PM-6PM CET</td>
     <td>Introduction to Linux & command line</td>
-    <td>Igor Zubrzycki</td>
+    <td>Igor Zubrycki</td>
     <td>
        <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Introduction+to+Linux&dates=20200618T140000Z%2F20200618T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
