@@ -36,7 +36,7 @@ First series of online workshops will start in mid-June and they will be held on
 
   <tr>
     <td>18.06.2020 4PM-6PM CET</td>
-    <td>Introduction to Linux & command line</td>
+    <td><a href="/post/webinars-01-intro"><b>Introduction to Linux & command line</b></a></td>
     <td>Igor Zubrycki</td>
     <td>
        <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Introduction+to+Linux&dates=20200618T140000Z%2F20200618T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
@@ -47,14 +47,14 @@ First series of online workshops will start in mid-June and they will be held on
     <td>25.06.2020</td>
     <td>Introduction to Python</td>
     <td>Katarzyna Kędzierska</td>
-    <td></td>
+    <td><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Introduction+to+Python&dates=20200625T140000Z%2F20200625T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a></td>
   </tr>
 
   <tr>
     <td>02.07.2020</td>
     <td>Introduction to R </td>
     <td>Maja Kuzman</td>
-    <td></td>
+    <td><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Introduction+to+R&dates=20200702T140000Z%2F20200702T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a></td>
   </tr>
 
 </table>
