@@ -5,7 +5,7 @@ bg_image: images/ngschool/2016-014.jpg
 image: images/ngseminars2020/seminar-01.jpg
 title: "NGSeminars 2020: Introduction to Linux & command line (18.06.2020)"
 author: ngschool
-date: '2020-06-08'
+date: '2020-06-07'
 slug: webinars-01-intro
 categories:
   - news
