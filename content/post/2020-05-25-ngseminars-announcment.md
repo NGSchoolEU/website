@@ -21,7 +21,7 @@ The registration is not required as the streams will be accessible publicly on *
 
 <p style="margin: 0" >We'll start on 18th June with workshops for beginners - something for people starting their adventure with bioinformatics and programming: </p>
 <ul style="margin: 0">
-  <li>Introduction to Linux & command line - 18.06.2020</li>
+  <li>[Introduction to Linux & command line - 18.06.2020](/post/webinars-01-intro)</li>
   <li>Introduction to Python - 25.06.2020</li>
   <li>Introduction to R - 02.07.2020</li>
 </ul>
