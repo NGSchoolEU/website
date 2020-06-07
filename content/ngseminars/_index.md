@@ -2,6 +2,7 @@
 markup: "mmark"
 
 bg_image: images/ngschool/2016-014.jpg
+image: images/logos/ngseminars-logo1.png
 description: NGSchool Society goes online
 draft: false
 information:
