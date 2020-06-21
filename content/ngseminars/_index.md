@@ -33,6 +33,7 @@ First series of online workshops will start in mid-June and they will be held on
     <th>Title</th>
     <th>Speaker</th>
     <th></th>
+    <th>Materials</th>
   </tr>
 
   <tr>
@@ -42,13 +43,18 @@ First series of online workshops will start in mid-June and they will be held on
     <td>
        <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Introduction+to+Linux&dates=20200618T140000Z%2F20200618T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
+    <td>
+      <a href="https://github.com/NGSchoolEU/linux_terminal_workshop"><i class="fab fa-github"></i> GitHub repository</a><br>
+      <a href="https://youtu.be/TLpjSmm-FEM?t=1262"><i class="fab fa-youtube"></i> Youtube recording</a>
+    </td>
   </tr>
 
   <tr>
     <td>25.06.2020 4PM-6PM CET</td>
-    <td>Introduction to Python</td>
+    <td><a href="/post/webinars-02-python"><b>Introduction to Python</b></a></td>
     <td>Katarzyna Kędzierska</td>
     <td><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Introduction+to+Python&dates=20200625T140000Z%2F20200625T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a></td>
+    <td></td>
   </tr>
 
   <tr>
@@ -56,6 +62,7 @@ First series of online workshops will start in mid-June and they will be held on
     <td>Introduction to R </td>
     <td>Maja Kuzman</td>
     <td><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Introduction+to+R&dates=20200702T140000Z%2F20200702T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a></td>
+    <td></td>
   </tr>
 
 </table>
@@ -63,6 +70,8 @@ First series of online workshops will start in mid-June and they will be held on
 And more coming soon!
 
 <br>
+  
+
   
 ## Organisers
 * [Katarzyna Kędzierska](/people/katarzyna-kedzierska), WCHG, OX, Oxford, GB  
