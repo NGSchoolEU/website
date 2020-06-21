@@ -10,7 +10,7 @@ slug: webinars-01-intro
 categories:
   - news
   - NGSeminars 2020
-tags: [webinar, linux, command line]
+tags: [webinar, linux, command-line]
 ---
 
 <b>If you want to start your adventure with Linux and using the terminal - this webinar is for you.<br>

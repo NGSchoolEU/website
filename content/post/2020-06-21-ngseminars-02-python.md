@@ -10,7 +10,7 @@ slug: webinars-02-python
 categories:
   - news
   - NGSeminars 2020
-tags: [webinar, Python]
+tags: [webinar, python]
 ---
 
 <b>Going further into the bases of bioinformatician's workshop, this week we will meet Python.<br>

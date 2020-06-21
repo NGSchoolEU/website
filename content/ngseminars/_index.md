@@ -45,7 +45,7 @@ First series of online workshops will start in mid-June and they will be held on
     </td>
     <td>
       <a href="https://github.com/NGSchoolEU/linux_terminal_workshop" target="_blank"><i class="fab fa-github" style="margin-right: 5px;"></i>GitHub repository</a><br>
-      <a href="https://youtu.be/TLpjSmm-FEM?t=1223" target="_blank"><i class="fab fa-youtube" target="_blank"></i>Youtube recording</a>
+      <a href="https://youtu.be/TLpjSmm-FEM?t=1223" target="_blank"><i class="fab fa-youtube" target="_blank" style="margin-right: 5px;"></i>Youtube recording</a>
     </td>
   </tr>
 
