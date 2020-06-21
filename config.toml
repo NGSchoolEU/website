@@ -219,6 +219,10 @@ icon = "fab fa-instagram fa-2x"
 link = "https://www.instagram.com/ngschooleu"
 
 [[params.social]]
+icon = "fab fa-youtube fa-2x"
+link = "https://www.youtube.com/NGSchoolEU"
+
+[[params.social]]
 icon = "fab fa-discord fa-2x"
 link = "https://discord.gg/MhNeqwR"
 
