@@ -10,11 +10,11 @@ slug: webinars-01-intro
 categories:
   - news
   - NGSeminars 2020
-tags: [webinar, linux, command line]
+tags: [webinar, linux, command-line]
 ---
 
 <b>If you want to start your adventure with Linux and using the terminal - this webinar is for you.<br>
-Join on Thursday, 18<sup>th</sup> June 2020 at 4 PM CET on [YouTube] (https://www.youtube.com/channel/UC5OFqeDkNKzMykBQqgd3Keg) or [Discord] (https://discord.gg/MhNeqwR)!</b>
+Join on Thursday, 18<sup>th</sup> June 2020 at 4 PM CET on <a href="https://www.youtube.com/NGSchoolEU" target="_blank">YouTube</a> or <a href="https://discord.gg/MhNeqwR" target="_blank">Discord</a>!</b>
 
 <p style="text-align: center;"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Introduction+to+Linux&dates=20200618T140000Z%2F20200618T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a></p>
 

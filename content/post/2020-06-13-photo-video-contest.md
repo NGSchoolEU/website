@@ -10,7 +10,7 @@ slug: video-contest
 categories:
   - news
   - NGSchool Alumni
-tags: [contest, NGSchool Alumni, 5th anniversary]
+tags: [contest, ngschool-alumni, 5th anniversary]
 ---
 
 ### Do you remember that 5 years passed since 1<sup>st</sup> NGSchool?
