@@ -16,7 +16,7 @@ tags: [webinar, python]
 <b>Going further into the bases of bioinformatician's workshop, this week we will meet Python.<br>
 Join on Thursday, 25<sup>th</sup> June 2020 at 4 PM CET on <a href="https://www.youtube.com/NGSchoolEU" target="_blank">YouTube</a> or <a href="https://discord.gg/MhNeqwR" target="_blank">Discord</a>!</b>
 
-<p style="text-align: center;"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Introduction+to+Linux&dates=20200618T140000Z%2F20200618T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a></p>
+<p style="text-align: center;"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Introduction+to+Python&dates=20200625T140000Z%2F20200625T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a></p>
 
 <br>
 
