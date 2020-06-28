@@ -57,15 +57,24 @@ First series of online workshops will start in mid-June and they will be held on
     <td>
 	  <a href="https://github.com/NGSchoolEU/ngs19_python_intro" target="_blank"><i class="fab fa-github" style="margin-right: 5px;"></i>GitHub repository</a><br>
       <a href="https://www.youtube.com/watch?v=sL0bPDmgsms" target="_blank"><i class="fab fa-youtube" target="_blank" style="margin-right: 5px;"></i>Youtube recording</a>
-	</td>
+	  </td>
   </tr>
 
   <tr>
     <td>02.07.2020 4PM-6PM CET</td>
-    <td>Introduction to R </td>
+    <td><b><a href="/post/webinars-03-r">Introduction to R</a></b></td>
     <td>Maja Kuzman</td>
     <td><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Introduction+to+R&dates=20200702T140000Z%2F20200702T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a></td>
     <td></td>
+  </tr>
+
+  <tr>
+    <td>09.07.2020 4PM-6PM CET</td>
+    <td>Introduction to Python part 2</td>
+    <td>Katarzyna Kędzierska</td>
+    <td><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Introduction+to+Python+part+2&dates=20200709T140000Z%2F20200625T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a></td>
+    <td>
+  	</td>
   </tr>
 
 </table>
