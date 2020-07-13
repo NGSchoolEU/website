@@ -81,15 +81,17 @@ First series of online workshops will start in mid-June and they will be held on
       <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Python+for+Data+Science&dates=20200709T140000Z%2F20200709T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
     <td>
+      <a href="https://github.com/NGSchoolEU/ngs19_python_intro" target="_blank"><i class="fab fa-github" style="margin-right: 5px;"></i>GitHub repository</a><br>
+      <a href="https://youtu.be/7URUxlTZ2fg" target="_blank"><i class="fab fa-youtube" target="_blank" style="margin-right: 5px;"></i>Youtube recording</a>
   	</td>
   </tr>
 
   <tr>
     <td>16.07.2020 4PM-6PM CET</td>
-    <td>Efficient coding with Jupyter</td>
+    <td><b><a href="/post/webinars-05-jupyter">Computational notebooks for biomedical research</a></b></td>
     <td>Michał Krassowski</td>
     <td>
-      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Effective+coding+with+Jupyter&dates=20200716T140000Z%2F20200716T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Computational+notebooks+for+biomedical+research&dates=20200716T140000Z%2F20200716T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
     <td>
   	</td>
@@ -108,6 +110,7 @@ First series of online workshops will start in mid-June and they will be held on
 
 </table>
 
+Join our live streams on <b><a href="https://www.youtube.com/NGSchoolEU" target="_blank">YouTube</a> or <a href="https://discord.gg/MhNeqwR" target="_blank">Discord</a></b> or watch webinars later in <b><a href="https://www.youtube.com/NGSchoolEU" target="_blank">Youtube</a></b>!
 
 <br>
   
