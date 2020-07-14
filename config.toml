@@ -107,9 +107,21 @@ disableLanguages = ["pl"]
     weight = 5
 
   [[menu.main]]
-  name = "Conference 2020"
-  URL = "conference"
+  name = "NGSymposium"
   weight = 11
+  hasChildren = true
+
+    [[menu.main]]
+    parent = "NGSymposium"
+    name = "Virtual 2020"
+    URL = "virtual_ngsymposium2020"
+    weight = 3
+
+    [[menu.main]]
+    parent = "NGSymposium"
+    name = "2020"
+    URL = "ngsymposium2020"
+    weight = 5
 
   [[menu.main]]
   name = "People"
