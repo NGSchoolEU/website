@@ -100,13 +100,12 @@ To be announced soon. -->
 <br> 
 
 ## Organizing Team
+* [Karolina Sienkiewicz](/people/karolina-sienkiewicz), CPHG, University of Virginia, USA
 * [Katarzyna Kędzierska](/people/katarzyna-kedzierska), WCHG, University of Oxford, UK
 * [Lidia Lipińska](/people/lidia-lipinska), University of Warsaw, Poland
 * [Natalia Pstrąg](/people/natalia-pstrag), UAM, Poznań, Poland
 * [Anamaria Elek](/people/anamaria-elek), CRG, Barcelona, Spain
-* [Karolina Sienkiewicz](/people/karolina-sienkiewicz), CPHG, University of Virginia, USA
 * [German Demidov](/people/german-demidov), IMGAG, University of Tübingen, Germany
-* [Eugeniusz Tralle](/people/eugeniusz-tralle), IIMCB, Warsaw, Poland
 * [Samantha Filipów](/people/samantha-filipow), CECAD, University of Cologne, Germany
 * [Urszula Smyczyńska](/people/urszula-smyczynska), Medical University of Lodz, Poland
 * [Szymon Grabia](/people/szymon-grabia), Medical University of Lodz, Poland
