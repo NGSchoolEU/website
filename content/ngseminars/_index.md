@@ -108,6 +108,39 @@ First series of online workshops will start in mid-June and they will be held on
   	</td>
   </tr>
 
+  <tr>
+    <td>30.07.2020 4PM-6PM CET</td>
+    <td>Introduction to statistics</td>
+    <td>German Demidov</td>
+    <td>
+      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Introduction+to+statistics&dates=20200730T140000Z%2F20200730T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+    </td>
+    <td>
+  	</td>
+  </tr>
+
+  <tr>
+    <td>13.08.2020 4PM-6PM CET</td>
+    <td>Snakemake</td>
+    <td>David Koppstein</td>
+    <td>
+      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Snakemake&dates=20200813T140000Z%2F20200813T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+    </td>
+    <td>
+  	</td>
+  </tr>
+
+  <tr>
+    <td>20.08.2020 4PM-6PM CET</td>
+    <td>Isoform detection from long read RNA sequencing</td>
+    <td>Andrey Prjibelski</td>
+    <td>
+      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Isoform+detection+in+long+RNA+reads&dates=20200820T140000Z%2F20200820T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+    </td>
+    <td>
+  	</td>
+  </tr>
+
 </table>
 
 Join our live streams on <b><a href="https://www.youtube.com/NGSchoolEU" target="_blank">YouTube</a> or <a href="https://discord.gg/MhNeqwR" target="_blank">Discord</a></b> or watch webinars later in <b><a href="https://www.youtube.com/NGSchoolEU" target="_blank">Youtube</a></b>!
