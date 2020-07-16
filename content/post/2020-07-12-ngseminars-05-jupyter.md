@@ -13,7 +13,7 @@ categories:
 tags: [webinar, Jupyter]
 ---
 
-<b>Have you ever wondered how to write your code more efficiently and keep your bioinformatics projects ordered and readable? This seminar on efficient coding is for tou!<br>
+<b>Have you ever wondered how to write your code more efficiently and keep your bioinformatics projects ordered and readable? This seminar on efficient coding is for you!<br>
 
 Join on Thursday, 16<sup>th</sup> July 2020 at 4 PM CET on <a href="https://www.youtube.com/NGSchoolEU" target="_blank">YouTube</a> or <a href="https://discord.gg/MhNeqwR" target="_blank">Discord</a>!</b>
 

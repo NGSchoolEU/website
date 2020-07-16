@@ -1,0 +1,75 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+
+<section class="portfolio-single-page section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="project-details">
+        <div class="col-md-12">
+          <ul>
+            {{ range .Params.Information }}
+            <li><span>{{ .label }} :</span> <strong>{{ .info | markdownify }}</strong></li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="row" style="margin-top: 20px; margin-bottom: 10px;">
+      <div class="col-md-4">
+        <!-- <img class="img-responsive w-100" src="../images/logos/ngsymposium-logo.svg"> -->
+        <img class="img-responsive w-100" src="../images/logos/ngsymposium-virtual-logo.png">
+      </div>
+    </div>
+
+    <div class="row" style="margin-top: 50px;">
+      <div class="col-md-12" style="margin-top: -50px;">
+        <div class="project-content mt-50">
+          {{ .Content }}
+        </div>
+      </div>
+    </div>
+    
+    <!-- <div id="sponsors" class="section level2">
+	    <h2>Sponsors</h2>
+      <div class="row">
+        <div class="col-md-12 sponsor-list">
+          <div class="row">
+            <div class="col-md-3 col-sm-6 sponsor-item">
+              <h3>Supported by</h3>
+              <a href="https://www.visegradfund.org/" target="_blank">
+                <img src="/images/sponsors/visegrad_fund.jpg">
+              </a>
+            </div>
+            <div class="col-md-3 col-sm-6 sponsor-item">
+              <h3>Local partner</h3>
+              <a href="https://warsawconvention.pl/" target="_blank">
+                <img src="/images/sponsors/wcb.png">
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div> -->
+
+</section>
+
+<style>
+  .section{
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .date-td{
+    text-align: right;
+  }
+  h5 {
+    margin-bottom: 0;
+  }
+</style>
+
+{{ end }}
