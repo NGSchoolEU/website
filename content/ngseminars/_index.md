@@ -101,7 +101,7 @@ First series of online workshops will start in mid-June and they will be held on
 
   <tr>
     <td>23.07.2020 4PM-6PM CET</td>
-    <td>Nextflow</td>
+    <td><b><a href="/post/webinars-06-nextflow">Nextflow</a></b></td>
     <td>Edgar Garriga</td>
     <td>
       <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Nextflow&dates=20200723T140000Z%2F20200723T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
@@ -116,6 +116,17 @@ First series of online workshops will start in mid-June and they will be held on
     <td>German Demidov</td>
     <td>
       <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Introduction+to+statistics&dates=20200730T140000Z%2F20200730T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+    </td>
+    <td>
+  	</td>
+  </tr>
+
+  <tr>
+    <td>06.08.2020 4PM-6PM CET</td>
+    <td>Version control with git and github</td>
+    <td>Szymon Grabia</td>
+    <td>
+      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Version+control+with+git&dates=20200806T140000Z%2F20200806T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
     <td>
   	</td>
