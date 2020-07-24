@@ -27,6 +27,41 @@ Bioinformatics, Genomics, Machine Learning, NGS
 
 <br>
 
+## Speakers
+
+<div class="col-md-2">
+	<img class="img-responsive w-100" src="../images/people/aakrosh-ratan.jpg" alt="">
+</div>
+
+#### Aakrosh Ratan
+##### University of Virginia, USA  
+
+Aakrosh's research is focused on study of genome variation and genetic diversity, and its consequences on species health and survival. He is interested in substitutions and small indels that alter a few base pairs, as well as large-scale indels, rearrangements and copy number variations. The research in his team is focused on developing methods to identify and map variants from large-scale sequencing datasets and on the assesment of genetic diversity. This provides a powerful analytical tool for uncovering the similarities, differences, origins and the evolutionary history of a species, as well as studying how genomic changes contribute to the pathogenesis and tumorigenesis.
+
+<br>
+
+<div class="col-md-2">
+	<img class="img-responsive w-100" src="../images/people/roser-vento-tormo.jpg" alt="">
+</div>
+
+#### Roser Vento-Tormo
+##### Wellcome Sanger Institute, Cambridge, UK
+  
+Roser's research is focused on the adaptation of immune cells in tissues and their function in steady state and inflammation. Her team uses genomics, spatial transcriptomics and bioinformatics tools to reconstruct the microenvironment that will shape immune cellular identity and function. She is passionate about the capacity of immune cells to communicate with their neighbours and coordinate complex, tailored responses. Her team has a special interest in modelling cellular interactions and uses single-cell, spatial transcriptomics and functional assays to reconstruct the signalling mechanisms underpinning cellular behaviour in healthy and diseased tissues.
+
+<br>
+
+<div class="col-md-2">
+	<img class="img-responsive w-100" src="../images/people/chris-yau.jpg" alt="">
+</div>
+
+#### Christopher Yau
+##### University of Manchester & Alan Turing Institute, UK 
+  
+Chris is a Professor of Artificial Intelligence at the University of Manchester and a Fellow at the Alan Turing Institute. For many years, he has been interested in the development of novel statistical methods for solving a broad spectrum of biomedical problems from microscopy to genomics to mental health. Real problems inspired and underpin the methodological research he does and getting to grips with real scientific investigations and experiments grounds the research in reality. 
+
+<br>
+
 ## Important dates
 <div>
 <table class="table table-bordered table-striped">
@@ -74,9 +109,6 @@ Please note that we also accept only limited RMarkdown formatting in the body of
 
 <br>
 
-## Speakers
-
-To be announced soon.
 
 <!-- 
 ### Invited Speakers
