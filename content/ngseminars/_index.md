@@ -107,15 +107,17 @@ First series of online workshops will start in mid-June and they will be held on
       <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Nextflow&dates=20200723T140000Z%2F20200723T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
     <td>
+      <a href="https://github.com/edgano/nf_ngschool20" target="_blank"><i class="fab fa-github" style="margin-right: 5px;"></i>GitHub repository</a><br>
+      <a href="https://youtu.be/7HVq-l-ppQs" target="_blank"><i class="fab fa-youtube" target="_blank" style="margin-right: 5px;"></i>Youtube recording</a>
   	</td>
   </tr>
 
   <tr>
     <td>30.07.2020 4PM-6PM CET</td>
-    <td>Introduction to statistics</td>
-    <td>German Demidov</td>
+    <td><b><a href="/post/webinars-07-statistics">Introduction to biostatistics (with Python)</a></b></td>
+    <td>Urszula Smyczyńska</td>
     <td>
-      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Introduction+to+statistics&dates=20200730T140000Z%2F20200730T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Introduction+to+biostatistics&dates=20200730T140000Z%2F20200730T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
     <td>
   	</td>
