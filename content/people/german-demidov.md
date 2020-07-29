@@ -11,5 +11,7 @@ information:
   label: Role
 - info: IMGAG, University of Tübingen, Germany
   label: Affiliation
+- info: gdemidov@ngschool.eu
+  label: Contact email
 title: German Demidov
 ---

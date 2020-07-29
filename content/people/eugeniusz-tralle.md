@@ -11,5 +11,7 @@ information:
   label: Role
 - info: IIMCB, Warsaw, Poland
   label: Affiliation
+- info: etralle@ngschool.eu
+  label: Contact email
 title: Eugeniusz Tralle
 ---

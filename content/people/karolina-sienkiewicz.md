@@ -11,6 +11,8 @@ information:
   label: Role
 - info: CPHG, University of Virginia, USA
   label: Affiliation
+- info: ksienkiewicz@ngschool.eu
+  label: Contact email
 title: Karolina Sienkiewicz
 ---
 

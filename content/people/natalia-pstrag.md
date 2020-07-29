@@ -11,5 +11,7 @@ information:
   label: Role
 - info: UAM, Poznań, Poland
   label: Affiliation
+- info: npstrag@ngschool.eu
+  label: Contact email
 title: Natalia Pstrąg
 ---

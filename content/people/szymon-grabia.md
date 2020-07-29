@@ -11,5 +11,7 @@ information:
   label: Role
 - info: Medical University of Lodz, Poland
   label: Affiliation
+- info: sgrabia@ngschool.eu
+  label: Contact email
 title: Szymon Grabia
 ---

@@ -11,6 +11,8 @@ information:
   label: Role
 - info: Medical University of Bialystok, Poland
   label: Affiliation
+- info: glangi@ngschool.eu
+  label: Contact email
 title: Gladys Langi
 ---
 
