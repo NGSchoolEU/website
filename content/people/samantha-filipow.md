@@ -11,5 +11,7 @@ information:
   label: Role
 - info: CECAD, University of Cologne, Germany
   label: Affiliation
+- info: sfilipow@ngschool.eu
+  label: Contact email
 title: Samantha Filipow
 ---

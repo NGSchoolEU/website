@@ -11,5 +11,7 @@ information:
   label: Role
 - info: CRG, Barcelona, Spain
   label: Affiliation
+- info: aelek@ngschool.eu
+  label: Contact email
 title: Anamaria Elek
 ---

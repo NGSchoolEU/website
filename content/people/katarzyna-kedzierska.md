@@ -11,6 +11,8 @@ information:
   label: Role
 - info: WCHG, University of Oxford, UK
   label: Affiliation
+- info: kzkedzierska@ngschool.eu
+  label: Contact email
 title: Katarzyna Kędzierska
 ---
 

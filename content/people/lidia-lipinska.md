@@ -11,5 +11,7 @@ information:
   label: Role
 - info: University of Warsaw, Poland
   label: Affiliation
+- info: lidia@ngschool.eu
+  label: Contact email
 title: Lidia Lipińska
 ---

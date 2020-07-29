@@ -17,7 +17,10 @@ information:
 ---
 
  
-We are happy to announce the Virtual NGSymposium, an online meeting with sessions highlighting different areas of computational biology and bioinformatics. The date is **24th and 25th of September 2020**, the place - on your screen! We are inviting speakers from the areas of population genomics, machine learning in bioinformatics, and more... Keep track of our <a href="https://www.facebook.com/NGSchool.eu/" target="_blank"><b>fanpage</b></a> as more information is coming soon!
+We are happy to announce the Virtual NGSymposium, an online meeting with sessions highlighting different areas of computational biology and bioinformatics. The date is **24th and 25th of September 2020**, the place - on your screen! We are inviting speakers from the areas of population genomics, machine learning in bioinformatics, and more...  
+Keep track of our <a href="https://www.facebook.com/NGSchool.eu/" target="_blank"><b>fanpage</b></a> as more information is coming soon!  
+
+If you have any questions, don't hesitate to write to us at <a href="mailto:info@ngschool.eu"><b>info@ngschool.eu</b></a>, or directly to our Virtual NGSymposium coordinator <a href="/people/karolina-sienkiewicz" target="_blank">Karolina</a> at <a href="mailto:ksienkiewicz@ngschool.eu"><b>ksienkiewicz@ngschool.eu</b></a>.
 
 <br>  
 
