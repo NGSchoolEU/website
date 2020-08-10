@@ -78,11 +78,11 @@ First series of online workshops will start in mid-June and they will be held on
     <td><b><a href="/post/webinars-04-python">Python for Data Science</a></b></td>
     <td>Katarzyna Kędzierska</td>
     <td>
-      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Python+for+Data+Science&dates=20200709T140000Z%2F20200709T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Python+for+Data+Science&dates=20200709T140000Z%2F20200709T160000Z" target="_blank" class="btn btn-primary"> Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
     <td>
       <a href="https://github.com/NGSchoolEU/ngs19_python_intro" target="_blank"><i class="fab fa-github" style="margin-right: 5px;"></i>GitHub repository</a><br>
-      <a href="https://youtu.be/7URUxlTZ2fg" target="_blank"><i class="fab fa-youtube" target="_blank" style="margin-right: 5px;"></i>Youtube recording</a>
+      <a href="https://youtu.be/7URUxlTZ2fg" target="_blank"><i class="fab fa-youtube" target="_blank" style="margin-right: 5px;"></i> Youtube recording</a>
   	</td>
   </tr>
 
@@ -91,11 +91,11 @@ First series of online workshops will start in mid-June and they will be held on
     <td><b><a href="/post/webinars-05-jupyter">Computational notebooks for biomedical research</a></b></td>
     <td>Michał Krassowski</td>
     <td>
-      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Computational+notebooks+for+biomedical+research&dates=20200716T140000Z%2F20200716T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Computational+notebooks+for+biomedical+research&dates=20200716T140000Z%2F20200716T160000Z" target="_blank" class="btn btn-primary"> Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
     <td>
-      <a href="https://github.com/krassowski/computational-notebooks-for-biomedical-research" target="_blank"><i class="fab fa-github" style="margin-right: 5px;"></i>GitHub repository</a><br>
-      <a href="https://youtu.be/eXt4MROqTtc" target="_blank"><i class="fab fa-youtube" target="_blank" style="margin-right: 5px;"></i>Youtube recording</a>
+      <a href="https://github.com/krassowski/computational-notebooks-for-biomedical-research" target="_blank"><i class="fab fa-github" style="margin-right: 5px;"></i> GitHub repository</a><br>
+      <a href="https://youtu.be/eXt4MROqTtc" target="_blank"><i class="fab fa-youtube" target="_blank" style="margin-right: 5px;"></i> Youtube recording</a>
   	</td>
   </tr>
 
@@ -104,11 +104,11 @@ First series of online workshops will start in mid-June and they will be held on
     <td><b><a href="/post/webinars-06-nextflow">Nextflow</a></b></td>
     <td>Edgar Garriga</td>
     <td>
-      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Nextflow&dates=20200723T140000Z%2F20200723T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Nextflow&dates=20200723T140000Z%2F20200723T160000Z" target="_blank" class="btn btn-primary"> Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
     <td>
-      <a href="https://github.com/edgano/nf_ngschool20" target="_blank"><i class="fab fa-github" style="margin-right: 5px;"></i>GitHub repository</a><br>
-      <a href="https://youtu.be/7HVq-l-ppQs" target="_blank"><i class="fab fa-youtube" target="_blank" style="margin-right: 5px;"></i>Youtube recording</a>
+      <a href="https://github.com/edgano/nf_ngschool20" target="_blank"><i class="fab fa-github" style="margin-right: 5px;"></i> GitHub repository</a><br>
+      <a href="https://youtu.be/7HVq-l-ppQs" target="_blank"><i class="fab fa-youtube" target="_blank" style="margin-right: 5px;"></i> Youtube recording</a>
   	</td>
   </tr>
 
@@ -117,11 +117,11 @@ First series of online workshops will start in mid-June and they will be held on
     <td><b><a href="/post/webinars-07-statistics">Introduction to biostatistics (with Python)</a></b></td>
     <td>Urszula Smyczyńska</td>
     <td>
-      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Introduction+to+biostatistics&dates=20200730T140000Z%2F20200730T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Introduction+to+biostatistics&dates=20200730T140000Z%2F20200730T160000Z" target="_blank" class="btn btn-primary"> Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
     <td>
-      <a href="https://github.com/UlaSmycz/NGSeminar_biostatistics" target="_blank"><i class="fab fa-github" style="margin-right: 5px;"></i>GitHub repository</a><br>
-      <a href="https://youtu.be/fMSdGnT5ZYE" target="_blank"><i class="fab fa-youtube" target="_blank" style="margin-right: 5px;"></i>Youtube recording</a>
+      <a href="https://github.com/UlaSmycz/NGSeminar_biostatistics" target="_blank"><i class="fab fa-github" style="margin-right: 5px;"></i> GitHub repository</a><br>
+      <a href="https://youtu.be/fMSdGnT5ZYE" target="_blank"><i class="fab fa-youtube" target="_blank" style="margin-right: 5px;"></i> Youtube recording</a>
   	</td>
   </tr>
 
@@ -130,9 +130,11 @@ First series of online workshops will start in mid-June and they will be held on
     <td><b><a href="/post/webinars-08-git">Version control with Git and GitHub</a></b></td>
     <td>Szymon Grabia</td>
     <td>
-      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Version+control+with+Git&dates=20200806T140000Z%2F20200806T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Version+control+with+Git&dates=20200806T140000Z%2F20200806T160000Z" target="_blank" class="btn btn-primary"> Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
     <td>
+      <a href="https://slides.com/szymongrabia/version-control-with-git-and-github?fbclid=IwAR0mF-HkBDY21UTc6202WAi6xdDWftNKcpw12RfY_-KLurmBHf-VbSU_qv4" target="_blank"><i class="fas fa-chalkboard-teacher"></i> Presentation slides</a><br>
+      <a href="https://youtu.be/XYnHWGPnvNM" target="_blank"><i class="fab fa-youtube" target="_blank" style="margin-right: 5px;"></i> Youtube recording</a>
   	</td>
   </tr>
 
