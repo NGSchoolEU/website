@@ -37,7 +37,7 @@ First series of online workshops will start in mid-June and they will be held on
   </tr>
 
   <tr>
-    <td>18.06.2020 4PM-6PM CET</td>
+    <td>18.06.2020, 4-6 PM CET</td>
     <td><a href="/post/webinars-01-intro"><b>Introduction to Linux & command line</b></a></td>
     <td>Igor Zubrycki</td>
     <td>
@@ -50,7 +50,7 @@ First series of online workshops will start in mid-June and they will be held on
   </tr>
 
   <tr>
-    <td>25.06.2020 4PM-6PM CET</td>
+    <td>25.06.2020, 4-6 PM CET</td>
     <td><a href="/post/webinars-02-python"><b>Introduction to Python</b></a></td>
     <td>Katarzyna Kędzierska</td>
     <td>
@@ -62,7 +62,7 @@ First series of online workshops will start in mid-June and they will be held on
   </tr>
 
   <tr>
-    <td>02.07.2020 4PM-6PM CET</td>
+    <td>02.07.2020, 4-6 PM CET</td>
     <td><b><a href="/post/webinars-03-r">Introduction to R</a></b></td>
     <td>Maja Kuzman</td>
     <td>
@@ -74,7 +74,7 @@ First series of online workshops will start in mid-June and they will be held on
     </td>
   </tr>
 
-  <td>09.07.2020 4PM-6PM CET</td>
+  <td>09.07.2020, 4-6 PM CET</td>
     <td><b><a href="/post/webinars-04-python">Python for Data Science</a></b></td>
     <td>Katarzyna Kędzierska</td>
     <td>
@@ -87,7 +87,7 @@ First series of online workshops will start in mid-June and they will be held on
   </tr>
 
   <tr>
-    <td>16.07.2020 4PM-6PM CET</td>
+    <td>16.07.2020, 4-6 PM CET</td>
     <td><b><a href="/post/webinars-05-jupyter">Computational notebooks for biomedical research</a></b></td>
     <td>Michał Krassowski</td>
     <td>
@@ -100,7 +100,7 @@ First series of online workshops will start in mid-June and they will be held on
   </tr>
 
   <tr>
-    <td>23.07.2020 4PM-6PM CET</td>
+    <td>23.07.2020, 4-6 PM CET</td>
     <td><b><a href="/post/webinars-06-nextflow">Nextflow</a></b></td>
     <td>Edgar Garriga</td>
     <td>
@@ -113,7 +113,7 @@ First series of online workshops will start in mid-June and they will be held on
   </tr>
 
   <tr>
-    <td>30.07.2020 4PM-6PM CET</td>
+    <td>30.07.2020, 4-6 PM CET</td>
     <td><b><a href="/post/webinars-07-statistics">Introduction to biostatistics (with Python)</a></b></td>
     <td>Urszula Smyczyńska</td>
     <td>
@@ -126,32 +126,34 @@ First series of online workshops will start in mid-June and they will be held on
   </tr>
 
   <tr>
-    <td>06.08.2020 4PM-6PM CET</td>
+    <td>06.08.2020, 4-6 PM CET</td>
     <td><b><a href="/post/webinars-08-git">Version control with Git and GitHub</a></b></td>
     <td>Szymon Grabia</td>
     <td>
       <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Version+control+with+Git&dates=20200806T140000Z%2F20200806T160000Z" target="_blank" class="btn btn-primary"> Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
     <td>
-      <a href="https://slides.com/szymongrabia/version-control-with-git-and-github?fbclid=IwAR0mF-HkBDY21UTc6202WAi6xdDWftNKcpw12RfY_-KLurmBHf-VbSU_qv4" target="_blank"><i class="fas fa-chalkboard-teacher"></i> Presentation slides</a><br>
+      <a href="https://slides.com/szymongrabia/version-control-with-git-and-github?fbclid=IwAR0mF-HkBDY21UTc6202WAi6xdDWftNKcpw12RfY_-KLurmBHf-VbSU_qv4" target="_blank"><i class="fas fa-chalkboard-teacher"></i>&nbsp;&nbsp;Presentation slides</a><br>
       <a href="https://youtu.be/XYnHWGPnvNM" target="_blank"><i class="fab fa-youtube" target="_blank" style="margin-right: 5px;"></i> Youtube recording</a>
   	</td>
   </tr>
 
   <tr>
-    <td>13.08.2020 4PM-6PM CET</td>
-    <td>Snakemake</td>
+    <td>13.08.2020, 4-6 PM CET</td>
+    <td><b><a href="/post/webinars-09-snakemake/">Snakemake</a></b></td>
     <td>David Koppstein</td>
     <td>
       <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Snakemake&dates=20200813T140000Z%2F20200813T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
     <td>
+      <a href="https://github.com/dkoppstein/ngsschool-snakemake-tutorial" target="_blank"><i class="fab fa-github" style="margin-right: 5px;"></i> GitHub repository</a><br>
+      <a href="https://youtu.be/h2CJ-qr8fjs" target="_blank"><i class="fab fa-youtube" target="_blank" style="margin-right: 5px;"></i> Youtube recording</a>
   	</td>
   </tr>
 
   <tr>
-    <td>20.08.2020 4PM-6PM CET</td>
-    <td>Isoform detection from long read RNA sequencing</td>
+    <td>20.08.2020, 4-6 PM CET</td>
+    <td><b><a href="/post/webinars-10-long-reads/">Isoform detection from long read RNA sequencing</a></b></td>
     <td>Andrey Prjibelski</td>
     <td>
       <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Isoform+detection+in+long+RNA+reads&dates=20200820T140000Z%2F20200820T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
