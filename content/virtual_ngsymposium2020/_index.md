@@ -83,7 +83,7 @@ Chris is a Professor of Artificial Intelligence at the University of Manchester 
     <td class="date-td">10.09</td>
     <td>Announcement of abstract selection results</td>
     <td>
-      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Virtual+NGSymposium%3A+Abstract+selection+results&dates=20200902T220000Z%2F20200910T215900Z" target="_blank" class="btn btn-primary">Add to Google Calendar<i class="far fa-calendar-plus"></i></a>
+      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Virtual+NGSymposium%3A+Abstract+selection+results&dates=20200909T220000Z%2F20200910T215900Z" target="_blank" class="btn btn-primary">Add to Google Calendar<i class="far fa-calendar-plus"></i></a>
     </td>
   </tr>
   <tr>
