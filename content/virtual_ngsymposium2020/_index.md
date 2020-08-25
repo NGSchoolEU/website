@@ -73,17 +73,17 @@ Chris is a Professor of Artificial Intelligence at the University of Manchester 
     <th></th>
   </tr>
    <tr>
-    <td class="date-td">16.07-27.08 </td>
+    <td class="date-td">16.07-01.09 </td>
     <td>Abstract submission</td>
     <td>
-      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Virtual+NGSymposium%3A+Abstract+submission+deadline&dates=20200812T220000Z%2F20200827T215900Z" target="_blank" class="btn btn-primary">Add to Google Calendar<i class="far fa-calendar-plus"></i></a>
+      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Virtual+NGSymposium%3A+Abstract+submission+deadline&dates=20200812T220000Z%2F20200901T215900Z" target="_blank" class="btn btn-primary">Add to Google Calendar<i class="far fa-calendar-plus"></i></a>
     </td>
   </tr>
   <tr>
-    <td class="date-td">3.09</td>
+    <td class="date-td">10.09</td>
     <td>Announcement of abstract selection results</td>
     <td>
-      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Virtual+NGSymposium%3A+Abstract+selection+results&dates=20200902T220000Z%2F20200903T215900Z" target="_blank" class="btn btn-primary">Add to Google Calendar<i class="far fa-calendar-plus"></i></a>
+      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Virtual+NGSymposium%3A+Abstract+selection+results&dates=20200909T220000Z%2F20200910T215900Z" target="_blank" class="btn btn-primary">Add to Google Calendar<i class="far fa-calendar-plus"></i></a>
     </td>
   </tr>
   <tr>
@@ -101,7 +101,7 @@ Chris is a Professor of Artificial Intelligence at the University of Manchester 
 
 Participation in Virtual NGSymposium is free for all participants. Lectures and presentations will be streamed on our <a href="https://www.youtube.com/NGSchoolEU" target="_blank">Youtube channel</a>.
 
-Registration is necessary only when you want to submit an abstract and present your work online to NGSchool community. Abstract submission form will be open till August 27, 23:59 CET.
+Registration is necessary only when you want to submit an abstract and present your work online to NGSchool community. Abstract submission form will be open till September 1st, 23:59 CET.
 
 Please note that we also accept only limited RMarkdown formatting in the body of the abstract. You can find RMarkdown formatting cheat sheet <a href="https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf" target="_blank">here</a>. We also provide list of the accepted formatting in the form and  <a href="https://docs.google.com/document/d/15UJ3LQNgqNOH9sOfnzX8anF6BXZALTrKKIIlsyinpCY/edit?usp=sharing" target="_blank">here</a>.
 
