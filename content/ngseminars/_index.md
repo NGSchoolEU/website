@@ -191,7 +191,7 @@ First series of online workshops will start in mid-June and they will be held on
     <td>R - functions and fundamentals</td>
     <td>Anamaria Elek</td>
     <td>
-      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Docker&dates=20200917T140000Z%2F20200917T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+R+-+functions+and+fundamentals&dates=20200917T140000Z%2F20200917T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
     <td>
   	</td>
