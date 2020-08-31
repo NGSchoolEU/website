@@ -159,8 +159,44 @@ First series of online workshops will start in mid-June and they will be held on
       <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Isoform+detection+in+long+RNA+reads&dates=20200820T140000Z%2F20200820T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
     <td>
+      <a href="https://docs.google.com/presentation/d/1Yw-owqjtHNYYjhK68680QMQ93e2ZpqVu3WtnyUSv4Fs/edit?usp=sharing" target="_blank"><i class="fas fa-chalkboard-teacher"></i>&nbsp;&nbsp;Presentation slides</a><br>
+      <a href="https://youtu.be/A1tARrJg-bs" target="_blank"><i class="fab fa-youtube" target="_blank" style="margin-right: 5px;"></i> Youtube recording</a>
   	</td>
   </tr>
+
+  <tr>
+    <td>03.09.2020, 4-6 PM CET</td>
+    <td><b><a href="/post/webinars-11-r2/">R for Data Science (with tidyverse and ggplot2)</a></b></td>
+    <td>Karolina Sienkiewicz</td>
+    <td>
+      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+R+for+Data+Science&dates=20200903T140000Z%2F20200903T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+    </td>
+    <td>
+  	</td>
+  </tr>
+
+  <tr>
+    <td>10.09.2020, 4-6 PM CET</td>
+    <td>Docker</td>
+    <td>Igor Zubrycki</td>
+    <td>
+      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Docker&dates=20200910T140000Z%2F20200910T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+    </td>
+    <td>
+  	</td>
+  </tr>
+
+  <tr>
+    <td>17.09.2020, 4-6 PM CET</td>
+    <td>R - functions and fundamentals</td>
+    <td>Anamaria Elek</td>
+    <td>
+      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+R+-+functions+and+fundamentals&dates=20200917T140000Z%2F20200917T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+    </td>
+    <td>
+  	</td>
+  </tr>
+
 
 </table>
 
