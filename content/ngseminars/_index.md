@@ -172,12 +172,14 @@ First series of online workshops will start in mid-June and they will be held on
       <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+R+for+Data+Science&dates=20200903T140000Z%2F20200903T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
     <td>
+      <a href="https://github.com/sienkie/R_for_data_science" target="_blank"><i class="fab fa-github" style="margin-right: 5px;"></i> GitHub repository</a><br>
+      <a href="https://youtu.be/G8cGmdrCsUs" target="_blank"><i class="fab fa-youtube" target="_blank" style="margin-right: 5px;"></i> Youtube recording</a>
   	</td>
   </tr>
 
   <tr>
     <td>10.09.2020, 4-6 PM CET</td>
-    <td>Docker</td>
+    <td><b><a href="/post/webinars-12-docker/">Introduction to Docker</a></a></td>
     <td>Igor Zubrycki</td>
     <td>
       <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Docker&dates=20200910T140000Z%2F20200910T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
