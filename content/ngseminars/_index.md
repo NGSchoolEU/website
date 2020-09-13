@@ -179,18 +179,20 @@ First series of online workshops will start in mid-June and they will be held on
 
   <tr>
     <td>10.09.2020, 4-6 PM CET</td>
-    <td><b><a href="/post/webinars-12-docker/">Introduction to Docker</a></a></td>
+    <td><b><a href="/post/webinars-12-docker/">Using Docker in research</a></a></td>
     <td>Igor Zubrycki</td>
     <td>
       <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Docker&dates=20200910T140000Z%2F20200910T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
     <td>
+       <a href="https://github.com/AdoHaha/docker_workshop" target="_blank"><i class="fab fa-github" style="margin-right: 5px;"></i> GitHub repository</a><br>
+      <a href="https://youtu.be/8iE1Cta7N2c" target="_blank"><i class="fab fa-youtube" target="_blank" style="margin-right: 5px;"></i> Youtube recording</a>
   	</td>
   </tr>
 
   <tr>
     <td>17.09.2020, 4-6 PM CET</td>
-    <td>R - functions and fundamentals</td>
+    <td><b><a href="/post/webinars-13-r3/">R - functions and fundamentals</a></b></td>
     <td>Anamaria Elek</td>
     <td>
       <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+R+-+functions+and+fundamentals&dates=20200917T140000Z%2F20200917T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
