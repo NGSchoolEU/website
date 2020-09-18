@@ -78,12 +78,6 @@ disableLanguages = ["pl"]
 
     [[menu.main]]
     parent = "NGSchool"
-    name = "2020"
-    URL = "ngschool2020"
-    weight = 1
-
-    [[menu.main]]
-    parent = "NGSchool"
     name = "2019"
     URL = "ngschool2019"
     weight = 2
@@ -117,12 +111,6 @@ disableLanguages = ["pl"]
     URL = "virtual_ngsymposium2020"
     weight = 3
 
-    [[menu.main]]
-    parent = "NGSymposium"
-    name = "2020"
-    URL = "ngsymposium2020"
-    weight = 5
-
   [[menu.main]]
   name = "People"
   URL = "people"
@@ -136,9 +124,7 @@ disableLanguages = ["pl"]
   [[menu.main]]
   name = "FAQ"
   URL = "faq"
-  weight = 17
-
-  
+  weight = 17  
 
 
   # footer menu
