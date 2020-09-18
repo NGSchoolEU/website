@@ -107,31 +107,10 @@ Please note that we also accept only limited RMarkdown formatting in the body of
 
 <br>
 
-<a href="https://forms.gle/DofDcZPCF9w5rrgE8" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Submit an abstract <i class="fas fa-play"></i></a>
+<!-- <a href="https://forms.gle/DofDcZPCF9w5rrgE8" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Submit an abstract <i class="fas fa-play"></i></a> -->
 
 <br>
 
-
-<!-- 
-### Invited Speakers
-##### [**Máire Ní Leathlobhair**](/people/maire-ni-leathlobhair/)  
-Big Data Institute, University of Oxford, UK
-<br>
-Lecture title: ***Transmissible Cancer - A Long-Term Evolution Experiment***
-
-### Keynote speaker
-##### [**Aakrosh	Ratan**](/people/aakrosh-ratan/)
-University of Virginia, USA  
-
-
-##### ...and more coming soon!
-
-<br>
-
-## Scientific Advisory Board
-To be announced soon. -->
-
-<br> 
 
 ## Organizing Team
 * [Karolina Sienkiewicz](/people/karolina-sienkiewicz), CPHG, University of Virginia, USA

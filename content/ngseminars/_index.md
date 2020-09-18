@@ -198,6 +198,8 @@ First series of online workshops will start in mid-June and they will be held on
       <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+R+-+functions+and+fundamentals&dates=20200917T140000Z%2F20200917T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
     <td>
+      <a href="https://github.com/anamariaelek/NGSeminar" target="_blank"><i class="fab fa-github" style="margin-right: 5px;"></i> GitHub repository</a><br>
+      <a href="https://youtu.be/Rh9K5tHOm1c" target="_blank"><i class="fab fa-youtube" target="_blank" style="margin-right: 5px;"></i> Youtube recording</a>
   	</td>
   </tr>
 
