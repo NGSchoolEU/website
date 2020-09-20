@@ -76,21 +76,21 @@ Chris is a Professor of Artificial Intelligence at the University of Manchester 
     <td class="date-td">16.07-01.09 </td>
     <td>Abstract submission</td>
     <td>
-      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Virtual+NGSymposium%3A+Abstract+submission+deadline&dates=20200812T220000Z%2F20200901T215900Z" target="_blank" class="btn btn-primary">Add to Google Calendar<i class="far fa-calendar-plus"></i></a>
+      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Virtual+NGSymposium%3A+Abstract+submission+deadline&dates=20200812T220000Z%2F20200901T215900Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
   </tr>
   <tr>
     <td class="date-td">10.09</td>
     <td>Announcement of abstract selection results</td>
     <td>
-      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Virtual+NGSymposium%3A+Abstract+selection+results&dates=20200909T220000Z%2F20200910T215900Z" target="_blank" class="btn btn-primary">Add to Google Calendar<i class="far fa-calendar-plus"></i></a>
+      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Virtual+NGSymposium%3A+Abstract+selection+results&dates=20200909T220000Z%2F20200910T215900Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
   </tr>
   <tr>
     <td class="date-td">24-25.09</td>
     <td>Virtual NGSymposium</td>
     <td>
-      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Virtual+NGSymposium+2020&dates=20200924T110000Z%2F20200925T180000Z" target="_blank" class="btn btn-primary">Add to Google Calendar<i class="far fa-calendar-plus"></i></a>
+      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Virtual+NGSymposium+2020&dates=20200924T110000Z%2F20200925T180000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
   </tr>
 </table>
