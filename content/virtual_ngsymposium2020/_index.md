@@ -22,11 +22,6 @@ Keep track of our <a href="https://www.facebook.com/NGSchool.eu/" target="_blank
 
 If you have any questions, don't hesitate to write to us at <a href="mailto:info@ngschool.eu"><b>info@ngschool.eu</b></a>, or directly to our Virtual NGSymposium coordinator <a href="/people/karolina-sienkiewicz" target="_blank">Karolina</a> at <a href="mailto:ksienkiewicz@ngschool.eu"><b>ksienkiewicz@ngschool.eu</b></a>.
 
-<br>  
-
-## Topics and keywords
-Bioinformatics, Genomics, Machine Learning, NGS
-
 <br>
 
 ## Speakers
@@ -64,6 +59,14 @@ Chris is a Professor of Artificial Intelligence at the University of Manchester 
 
 <br>
 
+## Conference schedule
+
+<div style="display: flex;">
+  <iframe src="https://docs.google.com/document/d/e/2PACX-1vSZooK-t7-u7_Of7uOzhoAR42G-gfDP1Wf5pEBDPvXFmwhAF5DeIVq-6E5Jx6-7mKru1MuOFLmz52EI/pub?embedded=true" style="width: 820px; margin: 0 auto; height: 1600px; box-shadow: 0 0 5px black;"></iframe>
+</div>
+
+<br>
+
 ## Important dates
 <div>
 <table class="table table-bordered table-striped">
@@ -94,8 +97,14 @@ Chris is a Professor of Artificial Intelligence at the University of Manchester 
     </td>
   </tr>
 </table>
-<br>
 </div>
+
+<br>  
+
+## Topics and keywords
+Bioinformatics, Genomics, Machine Learning, NGS
+
+<br>
 
 ## Registration and abstract submission 
 
@@ -106,11 +115,6 @@ Registration is necessary only when you want to submit an abstract and present y
 Please note that we also accept only limited RMarkdown formatting in the body of the abstract. You can find RMarkdown formatting cheat sheet <a href="https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf" target="_blank">here</a>. We also provide list of the accepted formatting in the form and  <a href="https://docs.google.com/document/d/15UJ3LQNgqNOH9sOfnzX8anF6BXZALTrKKIIlsyinpCY/edit?usp=sharing" target="_blank">here</a>.
 
 <br>
-
-<!-- <a href="https://forms.gle/DofDcZPCF9w5rrgE8" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Submit an abstract <i class="fas fa-play"></i></a> -->
-
-<br>
-
 
 ## Organizing Team
 * [Karolina Sienkiewicz](/people/karolina-sienkiewicz), CPHG, University of Virginia, USA
@@ -123,8 +127,3 @@ Please note that we also accept only limited RMarkdown formatting in the body of
 * [Urszula Smyczyńska](/people/urszula-smyczynska), Medical University of Lodz, Poland
 * [Szymon Grabia](/people/szymon-grabia), Medical University of Lodz, Poland
 * [Gladys Langi](/people/gladys-langi), Medical University of Bialystok, Poland
-
-<br>
-
-<!-- ## Program
-The conference will start at 3 PM on the 31<sup>st</sup> July (Friday) and will last till 1<sup>st</sup> August (Saturday) evening. We plan to invite 4-5 keynote speakers. The Scientific Committee will select about 20 abstracts for oral presentation. We will announce a detailed program in due course. -->
