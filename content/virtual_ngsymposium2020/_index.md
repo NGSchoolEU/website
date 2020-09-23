@@ -61,6 +61,8 @@ Chris is a Professor of Artificial Intelligence at the University of Manchester 
 
 ## Conference schedule
 
+Please remember that all the timeslots are given in **Central European Time (CET)**!
+
 <div style="display: flex;">
   <iframe src="https://docs.google.com/document/d/e/2PACX-1vSZooK-t7-u7_Of7uOzhoAR42G-gfDP1Wf5pEBDPvXFmwhAF5DeIVq-6E5Jx6-7mKru1MuOFLmz52EI/pub?embedded=true" style="width: 820px; margin: 0 auto; height: 1600px; box-shadow: 0 0 5px black;"></iframe>
 </div>
