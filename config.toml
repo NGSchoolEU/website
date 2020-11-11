@@ -56,14 +56,32 @@ disableLanguages = ["pl"]
   weight = 1
 
   [[menu.main]]
-  name = "About"
+  name = "About us"
   URL = "about"
   weight = 3
 
   [[menu.main]]
   name = "Society"
-  URL = "society"
   weight = 5
+  hasChildren = true
+
+    [[menu.main]]
+    parent = "Society"
+    name = "About"
+    URL = "society"
+    weight = 2
+
+    [[menu.main]]
+    parent = "Society"
+    name = "Statute"
+    URL = "statute"
+    weight = 3
+
+    [[menu.main]]
+    parent = "Society"
+    name = "Bank account"
+    URL = "bank_account"
+    weight = 4
 
   [[menu.main]]
   name = "NGSeminars"
@@ -203,7 +221,7 @@ google_analitycs_id = "UA-159044812-1"
   map_marker = "/images/marker.png"
 
 
-############################# social site ########################
+############################# social media ########################
 [[params.social]]
 icon = "fab fa-facebook-f fa-2x"
 link = "https://www.facebook.com/NGSchool.eu/"
@@ -235,7 +253,7 @@ link = "https://discord.gg/MhNeqwR"
   weight = 1
   home = "Home"
   # copyright
-  copyright = "Copyright &copy; [NGSchool](https://ngschool.eu) 2020 | Theme by [Themefisher](https://themefisher.com)"
+  copyright = "Made & maintained by Anamaria, Szymon and Ula, Copyright &copy; [NGSchool](https://ngschool.eu) 2020 | Theme by [Themefisher](https://themefisher.com)"
  
   ################################ Polish Language ########################
   [Languages.pl]
@@ -245,7 +263,7 @@ link = "https://discord.gg/MhNeqwR"
   weight = 2
   home = "Home"
   # copyright
-  copyright = "Copyright &copy; [NGSchool](https://ngschool.eu) 2020 | Theme by [Themefisher](https://themefisher.com)"
+  copyright = "Made & maintained by Anamaria, Szymon and Ula, Copyright &copy; [NGSchool](https://ngschool.eu) 2020 | Theme by [Themefisher](https://themefisher.com)"
 	
 	  # main menu
 	  [[Languages.pl.menu.main]]
