@@ -3,7 +3,7 @@ markup: "mmark"
 
 bg_image: images/ngschool/2016-014.jpg
 image: images/ngseminars2020/seminar-12.jpg
-title: "NGSeminars 2020: Introduction to Docker (10.09.2020)"
+title: "NGSeminars 2020: Using Docker in research (10.09.2020)"
 author: ngschool
 date: '2020-09-06'
 slug: webinars-12-docker
