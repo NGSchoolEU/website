@@ -13,5 +13,5 @@ information:
   label: Affiliation
 - info: lidia@ngschool.eu
   label: Contact email
-title: Lidia Lipińska
+title: Lidia Lipińska-Zubrycka
 ---

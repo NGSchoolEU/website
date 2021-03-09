@@ -13,6 +13,6 @@ information:
   label: Affiliation
 - info: glangi@ngschool.eu
   label: Contact email
-title: Gladys Langi
+title: Gladys Wojciechowska
 ---
 

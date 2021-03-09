@@ -96,6 +96,12 @@ disableLanguages = ["pl"]
 
     [[menu.main]]
     parent = "NGSchool"
+    name = "2021"
+    URL = "ngschool2021"
+    weight = 1
+
+    [[menu.main]]
+    parent = "NGSchool"
     name = "2019"
     URL = "ngschool2019"
     weight = 2
