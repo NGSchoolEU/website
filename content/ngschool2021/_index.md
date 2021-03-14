@@ -14,9 +14,9 @@ information:
 title: "NGSchool2021"
 ---
 
-This year NGSchool, our flagship annual event, comes back! But as this year is different than previous ones, we decided to make NGSchool a virtual event. We believe that in COVID-19 time it is the best way to make it accessible to all interested people wherever they live. We already miss the unique atmosphere of NGSchools and we want to ask you for a little help in recreating it in new online setting. If you are interested in participating or just like the idea of our school, we would be grateful if you answered a few questions in our survey.
+In 2021 NGSchool, our flagship annual event, comes back! But as this year as the last one is different than previous ones, we decided to make NGSchool a virtual event. We believe that in COVID-19 time it is the best way to make it accessible to all interested people wherever they live. We already miss the unique atmosphere of NGSchools and we want to ask you for a little help in recreating it in new online setting. If you are interested in participating or just like the idea of our school, we would be grateful if you answered a few questions in our survey.
 
-<a href="https://forms.gle/N1qAh4oewWosmNNe8" class="btn btn-info btn-lg btn-block" style="width: 40%; margin: 0 auto;">Fill interest form &nbsp;&nbsp;<i class="fas fa-share-square"></i></a>
+<a href="https://forms.gle/E2upreRC78xW3KUS7" class="btn btn-info btn-lg btn-block" style="width: 40%; margin: 0 auto;" target="blank">Fill interest form &nbsp;&nbsp;<i class="fas fa-share-square"></i></a>
 
 <br>
 It is not a registration form yet, but we ask you to do it, because we want to know what you are the most interested in so that we can plan an event that you actually need.
@@ -35,4 +35,4 @@ It is not a registration form yet, but we ask you to do it, because we want to k
 * [Szymon Grabia](/people/szymon-grabia), Medical University of Lodz, Poland  
 * [Gladys Wojciechowska](/people/gladys-langi), Medical University of Bialystok, Poland 
 * Natalia Zawrotna
-* Anna Erol
+* [Anna Erol] (/people/anna-erol), Medical University of Bialystok, Poland
