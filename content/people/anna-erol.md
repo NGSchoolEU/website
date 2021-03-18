@@ -7,11 +7,11 @@ image: images/people/anna-erol.jpg
 information:
 - info: "NGSchool2021"
   label: Events
-- info: "Participant, organiser"
+- info: "Organiser"
   label: Role
 - info: Medical University of Bialystok, Poland
   label: Affiliation
-# - info: glangi@ngschool.eu
-#   label: Contact email
+- info: aerol@ngschool.eu
+  label: Contact email
 title: Anna Erol
 ---
