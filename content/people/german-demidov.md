@@ -1,15 +1,15 @@
 ---
 bg_image: images/bg.jpg
-category: Organizers
+category: "Organizers (past editions)"
 description: 
 draft: false
 image: images/people/german-demidov.jpg
 information:
 - info: "NGSchool2016, NGSchool2017, NGSchool2018, NGSchool2019, NGSchool2020"
   label: Events
-- info: Speaker, organiser
+- info: "Former organizer, speaker"
   label: Role
-- info: IMGAG, University of Tübingen, Germany
+- info: "IMGAG, University of Tübingen, Germany"
   label: Affiliation
 - info: gdemidov@ngschool.eu
   label: Contact email

@@ -34,4 +34,4 @@ It is not a registration form yet, but we ask you to do it, because we want to k
 * [Urszula Smyczyńska](/people/urszula-smyczynska), Medical University of Lodz, Poland  
 * [Eugeniusz Tralle](/people/eugeniusz-tralle), IIMCB, Warsaw, Poland    
 * [Gladys Wojciechowska](/people/gladys-langi), Medical University of Bialystok, Poland 
-* Natalia Zawrotna, University of Virginia, USA
+* [Natalia Zawrotna](/people/natalia-zawrotna), University of Virginia, USA

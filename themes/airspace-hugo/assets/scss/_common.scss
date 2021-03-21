@@ -19,7 +19,12 @@ a:focus,
 a:hover {
   text-decoration: none;
   outline: 0;
-  color: $primary-color;
+  // color: $primary-color;
+  color: $link-color;
+}
+
+a:hover {
+  color: $link-hover-color;
 }
 
 blockquote {
@@ -476,11 +481,12 @@ input[type="tel"] {
     a {
       border-radius: 0;
       background: #f9f9f9;
+      color: $link-color;
 
       &:hover {
         border: 1px solid transparent;
         background: $primary-color;
-        color: $light;
+        color: $secondary-color;
       }
     }
   }
