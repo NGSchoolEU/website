@@ -15,16 +15,16 @@ information:
 title: "NGSeminars2021"
 ---
 
-As you know, our summer school NGSchool: Statistical Learning in Genomics has been moved to 2021, but this year we are organizing a series of programming workshops in bioinformatics.
+We are pleased to announce reactivation of NGSeminars!
 
-First series of online workshops will start in mid-June and they will be held on Thursdays. Webinars will last 1.5-2 hours and there will be a live broadcast when you will be able to ask questions to the speakers. Later the webinars will be also available through our <a href="https://www.youtube.com/NGSchoolEU" target="_blank">Youtube channel</a>. Below you will find the calendar of our webinars and information about speakers. Soon we will announce more details, so stay tuned!
+Second series of webinars will start in mid-June and they will be held on Wednesdays every a few weeks. Webinars will last 1.5-2 hours and there will be a live broadcast when you will be able to ask questions to the speakers. Later the webinars will be also available through our <a href="https://www.youtube.com/NGSchoolEU" target="_blank">Youtube channel</a>. Below you will find the calendar of our webinars and information about speakers. Soon we will announce more details, so stay tuned!
 
 <br>
 
 ## Calendar
 <b>Notice that all hours are given in Central European Time (CET) and the timing may be different in your timezone!</b>
 
-### NGSchool webinars: Programming for bioinformatics
+### NGSeminar - series 2
 
 <table>
   <table class="table table-bordered table-striped">
@@ -56,7 +56,7 @@ First series of online workshops will start in mid-June and they will be held on
 
 </table>
 
-Join our live streams on <b><a href="https://www.youtube.com/NGSchoolEU" target="_blank">YouTube</a> <!--or <a href="https://discord.gg/MhNeqwR" target="_blank">Discord</a></b> -->or watch webinars later in <b><a href="https://www.youtube.com/NGSchoolEU" target="_blank">Youtube</a></b>!
+Join our live streams on <b><a href="https://www.youtube.com/NGSchoolEU" target="_blank">YouTube</a> <!--or <a href="https://discord.gg/MhNeqwR" target="_blank">Discord</a>--></b> or watch webinars later on <b><a href="https://www.youtube.com/NGSchoolEU" target="_blank">Youtube</a></b>!
 
 <br>
   
