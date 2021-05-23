@@ -90,20 +90,14 @@ disableLanguages = ["pl"]
     weight = 5
 
   [[menu.main]]
-  name = "NGSeminars"
-  URL = "ngseminars"
-  weight = 7
-
-
-  [[menu.main]]
   name = "NGSchool"
   weight = 9
   hasChildren = true
 
     [[menu.main]]
     parent = "NGSchool"
-    name = "2021"
-    URL = "ngschool2021"
+    name = "2022"
+    URL = "ngschool2022"
     weight = 1
 
     [[menu.main]]
@@ -137,24 +131,51 @@ disableLanguages = ["pl"]
 
     [[menu.main]]
     parent = "NGSymposium"
+    name = "Symposium 2022"
+    URL = "ngsymposium2022"
+    weight = 1
+
+    [[menu.main]]
+    parent = "NGSymposium"
     name = "Virtual 2020"
     URL = "virtual_ngsymposium2020"
     weight = 3
 
   [[menu.main]]
+  name = "NGSeminars"
+  weight = 12
+
+    [[menu.main]]
+    parent = "NGSeminars"
+    name = "NGSeminars 2021"
+    URL = "ngseminars2021"
+    weight = 1
+
+    [[menu.main]]
+    parent = "NGSeminars"
+    name = "NGSeminars 2020"
+    URL = "ngseminars2020"
+    weight = 5
+
+  [[menu.main]]
+  name = "NGSprint"
+  URL = "ngsprint"
+  weight = 14
+
+  [[menu.main]]
   name = "People"
   URL = "people"
-  weight = 13
+  weight = 16
 
   [[menu.main]]
   name = "Photos"
   URL = "galleries"
-  weight = 15
+  weight = 18
 
   [[menu.main]]
   name = "FAQ"
   URL = "faq"
-  weight = 17  
+  weight = 20
 
 
   # footer menu
