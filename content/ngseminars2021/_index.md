@@ -39,11 +39,11 @@ Second series of webinars will start in mid-June and they will be held on Wednes
   <tr>
     <td>9.06.2021, 4-6 PM CET</td>
     <td>
-      <a href=""><b>To be announced</b></a>
+      <a href="/post/webinars2-01-coral"><b>Coral cell atlas and a quest to understand cell type evolution</b></a>
     </td>
     <td>Anamaria Elek</td>
     <td>
-       <!-- <a href="" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a> -->
+       <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Coral+cell+atlas&dates=20210609T140000Z%2F20210609T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
     <td>
       <!-- <a href="https://github.com/NGSchoolEU/linux_terminal_workshop" target="_blank"><i class="fab fa-github" style="margin-right: 5px;"></i>GitHub repository</a><br>
@@ -56,7 +56,7 @@ Second series of webinars will start in mid-June and they will be held on Wednes
 
 </table>
 
-Join our live streams on <b><a href="https://www.youtube.com/NGSchoolEU" target="_blank">YouTube</a> <!--or <a href="https://discord.gg/MhNeqwR" target="_blank">Discord</a>--></b> or watch webinars later on <b><a href="https://www.youtube.com/NGSchoolEU" target="_blank">Youtube</a></b>!
+Join our live streams on <b><a href="https://www.youtube.com/NGSchoolEU" target="_blank">YouTube</a> <!--or <a href="https://discord.gg/MhNeqwR" target="_blank">Discord</a>--></b> or watch webinars later<!-- on <b><a href="https://www.youtube.com/NGSchoolEU" target="_blank">Youtube</a></b>-->!
 
 <br>
   
