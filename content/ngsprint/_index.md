@@ -2,24 +2,33 @@
 markup: "mmark"
 
 bg_image: images/ngschool/2019-001.jpg
-description: NGSchool 2021
+description: NGSprint 2021
 draft: false
 information:
-# - info: "Białobrzegi, Poland"
-#   label: Location
+- info: "online"
+  label: Location
 # - info: "July 22 - 31, 2020"
 #   label: Date
 # - info: "35 (planned)"
 #   label: Participants
-title: "NGSchool2021"
+title: "NGSprint"
 ---
 
-In 2021 NGSchool, our flagship annual event, comes back! But as this year as the last one is different than previous ones, we decided to make NGSchool a virtual event. We believe that in COVID-19 time it is the best way to make it accessible to all interested people wherever they live. We already miss the unique atmosphere of NGSchools and we want to ask you for a little help in recreating it in new online setting. If you are interested in participating or just like the idea of our school, we would be grateful if you answered a few questions in our survey.
+Next year of NGSchool Society bring a new event - NGSprint!
 
-<a href="https://forms.gle/E2upreRC78xW3KUS7" class="btn btn-info btn-lg btn-block" style="width: 40%; margin: 0 auto;" target="blank">Register your interest form &nbsp;&nbsp;<i class="fas fa-share-square"></i></a>
+It will be an online bioinformatics hackathon conducted by NGSchool members and friends, accompanied by a few lectures by renown researchers in the field. We will concentrate on various tasks around NGS data processing and analysis, as these were the topics most often mentioned in our recent survey. By the way, great thanks to all who give us the few minutes and filled it!
 
-<br>
-It is not a registration form yet, but we ask you to do it, because we want to know what you are the most interested in so that we can plan an event that you actually need.
+We are planning to form hackathon teams working on following topics:
+1. RNAseq transcriptomics: from quality control to pathway analysis.
+2. Multiomic data integration.
+3. Cancer evolution.
+4. New generation of biomarkers: miRNA and machine learning models.
+
+Each team will be working on one topic for about a week under the guidance of mentor(s). At the end of the event, all teams will present the result of their work.
+
+Participation in the hackhaton will require registration, while lectures will be open, available to wider audience.
+
+Stay tuned, more details coming soon!
 
 <br>
 ## Organisers
