@@ -56,7 +56,7 @@ Second series of webinars will start in mid-June and they will be held on Wednes
 
 </table>
 
-Join our live streams on <b><a href="https://www.youtube.com/NGSchoolEU" target="_blank">YouTube</a> <!--or <a href="https://discord.gg/MhNeqwR" target="_blank">Discord</a>--></b> or watch webinars later<!-- on <b><a href="https://www.youtube.com/NGSchoolEU" target="_blank">Youtube</a></b>-->!
+Join our live streams on <b><a href="https://www.youtube.com/NGSchoolEU" target="_blank">YouTube</a> or <a href="https://discord.gg/MhNeqwR" target="_blank">Discord</a></b> or watch webinars later on <b><a href="https://www.youtube.com/NGSchoolEU" target="_blank">Youtube</a></b>!
 
 <br>
   

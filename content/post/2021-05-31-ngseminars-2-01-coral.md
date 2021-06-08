@@ -17,7 +17,7 @@ tags: [webinar, single-cell sequencing]
 <br>
 First, we invite you to the unique bioinformatics visit to the coral reef with Anamaria Elek.
 <br>
-Join us on Wednesday, 9<sup>th</sup> June 2021 at 4 PM CET on <a href="https://www.youtube.com/NGSchoolEU" target="_blank">YouTube</a><!--or <a href="https://discord.gg/MhNeqwR" target="_blank">Discord</a>-->!</b>
+Join us on Wednesday, 9<sup>th</sup> June 2021 at 4 PM CET on <a href="https://www.youtube.com/NGSchoolEU" target="_blank">YouTube</a> or <a href="https://discord.gg/MhNeqwR" target="_blank">Discord</a>!</b>
 
 <p style="text-align: center;"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Coral+cell+atlas&dates=20210609T140000Z%2F20210609T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a></p>
 
