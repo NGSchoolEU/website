@@ -30,4 +30,4 @@ PhD student at the Lodz University of Technology, Poland, conducting research on
 <br>
 
 ### Don't miss our next seminars!
-For details visit **[NGSeminars 2020 calendar](/ngseminars)** or **[News](/post)**.
+For details visit **[NGSeminars 2020 calendar](/ngseminars2020)** or **[News](/post)**.

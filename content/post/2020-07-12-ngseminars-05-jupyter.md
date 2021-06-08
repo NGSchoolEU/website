@@ -28,4 +28,4 @@ Join on Thursday, 16<sup>th</sup> July 2020 at 4 PM CET on <a href="https://www.
 <br>
 
 ### Don't miss our next seminars!
-For details visit **[NGSeminars 2020 calendar](/ngseminars)** or **[News](/post)**.
+For details visit **[NGSeminars 2020 calendar](/ngseminars2020)** or **[News](/post)**.

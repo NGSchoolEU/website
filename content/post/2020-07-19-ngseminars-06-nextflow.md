@@ -46,4 +46,4 @@ Apart from bioinformatics, he is doing a lot of humanitarian work, including (bu
 <br>
 
 ### Don't miss our next seminars!
-For details visit **[NGSeminars 2020 calendar](/ngseminars)** or **[News](/post)**.
+For details visit **[NGSeminars 2020 calendar](/ngseminars2020)** or **[News](/post)**.
