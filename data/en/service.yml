@@ -25,7 +25,7 @@ featured_service:
   enable : true
   service_item:
     # featured service item loop
-    - name : "[NGSchool - Summer School in Bioinformatics](../ngschool2020)"
+    - name : "[NGSchool - Summer School in Bioinformatics](../ngschool2022)"
       icon : "ion-lightbulb"
       color : "primary"
       content : "
@@ -34,7 +34,7 @@ featured_service:
       in the field."
 
     # featured service item loop
-    - name : "[NGSymposium - Conference in Computational Biology](../conference)"
+    - name : "[NGSymposium - Conference in Computational Biology](../ngsymposium2022)"
       icon : "ion-ios-chatbubble"
       color : "primary-dark"
       content : "Conference bringing bioinformaticians to showcase their research and discuss their projects with potential international collaborators."

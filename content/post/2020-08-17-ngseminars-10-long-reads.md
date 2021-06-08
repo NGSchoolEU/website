@@ -39,4 +39,4 @@ While in genomic studies third generation sequencing technologies already became
 In this talk I will give a brief introduction into long-read RNA sequencing, what kind of analysis is possible using such data, what bioinformatics challenges remain unsolved and how do we try to address them in our new tool called IsoQuant. Mostly, this talk is about the algorithms we design and technical solutions, but some biological remarks may also be included.
 
 ### Don't miss our next seminars!
-For details visit **[NGSeminars 2020 calendar](/ngseminars)** or **[News](/post)**.
+For details visit **[NGSeminars 2020 calendar](/ngseminars2020)** or **[News](/post)**.

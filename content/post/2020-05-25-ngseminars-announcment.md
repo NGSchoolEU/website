@@ -36,5 +36,5 @@ Further details about the webinars and presenters will be posted soon on our soc
 
 **Don't miss out - we are starting on 18th June! Join us to learn and have fun!**
 
-The calendar of our online events is in [NGSeminars tab](/ngseminars/).
+The calendar of our online events is in [NGSeminars tab](/ngseminars2020/).
 

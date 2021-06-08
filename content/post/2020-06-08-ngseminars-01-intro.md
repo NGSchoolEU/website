@@ -29,4 +29,4 @@ Igor Zubrycki (Ph.D.) - an assistant professor at the Lodz University of Technol
 <br>
 
 ### Don't miss our next seminars!
-For details visit **[NGSeminars 2020 calendar](/ngseminars)** or **[News](/post)**.
+For details visit **[NGSeminars 2020 calendar](/ngseminars2020)** or **[News](/post)**.

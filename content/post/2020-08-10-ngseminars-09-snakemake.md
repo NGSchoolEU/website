@@ -37,4 +37,4 @@ David is a postdoctoral researcher in Rajewsky's group at the Max Delbrück Cent
 <br>
 
 ### Don't miss our next seminars!
-For details visit **[NGSeminars 2020 calendar](/ngseminars)** or **[News](/post)**.
+For details visit **[NGSeminars 2020 calendar](/ngseminars2020)** or **[News](/post)**.

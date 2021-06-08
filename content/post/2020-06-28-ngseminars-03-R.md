@@ -29,4 +29,4 @@ Maja Kuzman - PhD student at the University of Zagreb, Croatia. With background 
 <br>
 
 ### Don't miss our next seminars!
-For details visit **[NGSeminars 2020 calendar](/ngseminars)** or **[News](/post)**.
+For details visit **[NGSeminars 2020 calendar](/ngseminars2020)** or **[News](/post)**.
