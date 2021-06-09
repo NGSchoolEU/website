@@ -16,19 +16,86 @@ title: "NGSprint"
 
 Next year of NGSchool Society bring a new event - NGSprint!
 
-It will be an online bioinformatics hackathon conducted by NGSchool members and friends, accompanied by a few lectures by renown researchers in the field. We will concentrate on various tasks around NGS data processing and analysis, as these were the topics most often mentioned in our recent survey. By the way, great thanks to all who give us the few minutes and filled it!
+It will be an online bioinformatics hackathon conducted by NGSchool members and friends, accompanied by a few lectures by renown researchers in the field. We will concentrate on various tasks around NGS data processing and analysis, as these were the topics most often mentioned in our recent survey. By the way, great thanks to all who gave us the few minutes and filled it!
 
+## Topics
 We are planning to form hackathon teams working on following topics:
 1. RNAseq transcriptomics: from quality control to pathway analysis.
-2. Multiomic data integration.
+
+* *[Anamaria Elek](/people/anamaria-elek)*
+
+<ul class='no-list-marker'>
+  <li>In this hackathon you will learn how to plan your RNA-seq experiments and analyze RNA-seq data. You will become familiar with important file formats and tools, and perform quality control, sequencing reads alignment, differential expression, functional enrichment and pathway analysis that will ultimately allow you to interpret your RNA-seq data. This hackathon is intended for people who are getting started with bioinformatics and/or this particular type of analysis.</li>
+  <li>Requirements: being familiar with linux command line, R programming language and basic theoretical principles of RNA-seq.</li>
+</ul>
+
+2. Multi-omics data integration.
+
+* *[Karolina Sienkiewicz](/people/karolina-sienkiewicz)*
+
+<ul class='no-list-marker'>
+  <li>More details coming soon.</li>
+</ul>
+
 3. Cancer evolution.
+
+* *[Katarzyna Kędzierska](/people/katarzyna-kedzierska)*
+
+<ul class='no-list-marker'>
+  <li>More details coming soon.</li>
+</ul>
+
 4. New generation of biomarkers: miRNA and machine learning models.
 
+* *[Urszula Smyczyńska](/people/urszula-smyczynska) & [Szymon Grabia](/people/szymon-grabia)*
+
+<ul class='no-list-marker'>
+  <li>MicroRNAs (miRNA) are very promising biomarkers, but development of clinically useful tools requires careful experiment planning and considerable analytical effort. Starting from expression measurement technique through normalization to the model derivation and its validation, we make a lot of decisions that affect the final result. During this hackathon, you will have the opportunity to explore real miRNA expression data and make these choices consciously under the guidance of our mentors.</li>
+  <li>Requirements: at least basic experience with Python.</li>
+</ul>
+
+<br>
 Each team will be working on one topic for about a week under the guidance of mentor(s). At the end of the event, all teams will present the result of their work.
 
-Participation in the hackhaton will require registration, while lectures will be open, available to wider audience.
-
 Stay tuned, more details coming soon!
+
+## Registration
+Registration is required if you want to participate actively in the hackhaton as a team member. Lectures will be open, available to wider audience and to watch them you don't need register.
+
+**Registration deadline: 24.07.2021 23:59 CET**
+
+<a href="" target="blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Register <i class="fas fa-play"></i></a>
+
+<br>
+
+## NGSprint FAQ
+### What is NGSprint?
+NGSprint is a hackathon - an intensive collaborative problem-solving event - in which small teams (5-8 people) work on the analysis and interpretation of real-life bioinformatics datasets. Our hackathon will feature several topics, each of which will be moderated by dedicated mentor(s), and accompanied by lectures given by experts working in the related field.
+
+### How to get a place?
+You need to carefully fill the registration form stating why you wish to participate in NGSprint. If there are more registrations than available places, we will select participants basing on your motivation
+
+### Is registration obligatory?
+Registration is obligatory for hackathon participants, because we can accommodate only a limited number of people.
+Lectures will be open and if you only plan to watch them, you don’t need to participate.
+
+### How long will it be?
+NGSprit will take place from 8th to 15th of September 2021. In the early afternoons (CET) of working days we will spend 1.5-2.5h introductory sessions, lectures and workshops. Later, every working day you will have at least 1h to discuss the tasks at hand with your mentors. The exact timing and form of meetings will be decided by your mentors and their teams. Beside lectures, workshops and sessions with mentors you will work with your team at your own pace. We don’t plan any activities on the weekend, but you are free to decide when you work on the tasks.
+
+### How will I communicate with my team and mentors?
+The main communication platform will be NGSchool Discord where every team will have their own text and voice channels. You will use a voice channel to meet with your mentors every day. You can also write to your mentors at any time and they will answer you as soon as they can.
+
+### Is the presentation of results at the end of NGSprint obligatory?
+Yes, every team will present their results to other participants. However, it will be neither an assessment nor a contest, but an opportunity to learn for everybody. We are convinced that by presenting and discussing our work, we get valuable experience and skill.
+
+### Can I join together with my own team?
+If you would like to work with your colleagues, you all should register and select the same NGSprint topics. However, please remember that there is a participant selection process and registration does not guarantee a place.
+
+### Can I apply without having my own team?
+Yes. Later you will form a team with people interested in similar topics.
+
+### Do I need any specific background to participate?
+Depending on the topic. We do not have hard entry requirements, but we would suggest you try to familiarize yourself with the requirements listed in topic descriptions. For an introduction to many of these, check out our [NGSeminars](/ngseminars2020).
 
 <br>
 ## Organisers
@@ -41,6 +108,25 @@ Stay tuned, more details coming soon!
 * [Natalia Pstrąg](/people/natalia-pstrag), UAM, Poznań, Poland  
 * [Karolina Sienkiewicz](/people/karolina-sienkiewicz), CPHG, University of Virginia, USA  
 * [Urszula Smyczyńska](/people/urszula-smyczynska), Medical University of Lodz, Poland  
-* [Eugeniusz Tralle](/people/eugeniusz-tralle), IIMCB, Warsaw, Poland    
 * [Gladys Wojciechowska](/people/gladys-langi), Medical University of Bialystok, Poland 
 * [Natalia Zawrotna](/people/natalia-zawrotna), University of Virginia, USA
+
+<style>
+  .no-list-marker {
+    list-style-type: none;
+    color: #7b7b7b;
+    margin-bottom: 0.5em;
+    text-align: justify;
+  }
+  ul {
+    list-style-type: none;
+    text-align: justify;
+  }
+  ol {
+    margin-top: 0.5em;
+    text-align: justify;
+  }
+  .container {
+    text-align: justify;
+  }
+</style>
