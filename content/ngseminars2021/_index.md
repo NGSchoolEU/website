@@ -46,10 +46,27 @@ Second series of webinars will start in mid-June and they will be held on Wednes
        <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Coral+cell+atlas&dates=20210609T140000Z%2F20210609T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
     <td>
+      <a href="https://www.youtube.com/watch?v=ewQ7_3QI33E" target="_blank"><i class="fab fa-youtube" target="_blank" style="margin-right: 5px;"></i>Youtube recording</a><br>
+      <a href="https://doi.org/10.1016/j.cell.2021.04.005" target="_blank"><i class="far fa-copy" style="margin-right: 5px;"></i>Paper from <i>Cell</i></a>
+    </td>
+  </tr>
+  <tr>
+    <td>14.07.2021, 4-6 PM CET</td>
+    <td>
+      <!-- <a href="/post/webinars2-01-coral"> -->
+        <b>Coming soon</b>
+      <!-- </a> -->
+    </td>
+    <td><a href="https://genomeinformatics.github.io/people/nurk/" target="blank">Sergey Nurk</a></td>
+    <td>
+       <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Sergey+Nurk&dates=20210714T140000Z%2F20210714T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+    </td>
+    <td>
       <!-- <a href="https://github.com/NGSchoolEU/linux_terminal_workshop" target="_blank"><i class="fab fa-github" style="margin-right: 5px;"></i>GitHub repository</a><br>
       <a href="https://youtu.be/TLpjSmm-FEM?t=5" target="_blank"><i class="fab fa-youtube" target="_blank" style="margin-right: 5px;"></i>Youtube recording</a> -->
     </td>
   </tr>
+
 
  
 
