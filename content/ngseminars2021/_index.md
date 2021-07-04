@@ -26,8 +26,7 @@ Second series of webinars will start in mid-June and they will be held on Wednes
 
 ### NGSeminar - series 2
 
-<table>
-  <table class="table table-bordered table-striped">
+<table class="table table-bordered table-striped">
   <tr>
     <th>Date</th>
     <th>Title</th>
@@ -53,24 +52,20 @@ Second series of webinars will start in mid-June and they will be held on Wednes
   <tr>
     <td>14.07.2021, 4-6 PM CET</td>
     <td>
-      <!-- <a href="/post/webinars2-01-coral"> -->
-        <b>Coming soon</b>
-      <!-- </a> -->
+      <a href="/post/webinars2-02-t2t">
+        <b>The telomere-to-telomere assembly of a human genome</b>
+      </a>
     </td>
     <td><a href="https://genomeinformatics.github.io/people/nurk/" target="blank">Sergey Nurk</a></td>
     <td>
-       <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Sergey+Nurk&dates=20210714T140000Z%2F20210714T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+       <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+T2T+assembly+of+human+genome&dates=20210714T140000Z%2F20210714T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
     <td>
       <!-- <a href="https://github.com/NGSchoolEU/linux_terminal_workshop" target="_blank"><i class="fab fa-github" style="margin-right: 5px;"></i>GitHub repository</a><br>
       <a href="https://youtu.be/TLpjSmm-FEM?t=5" target="_blank"><i class="fab fa-youtube" target="_blank" style="margin-right: 5px;"></i>Youtube recording</a> -->
+       <a href="https://www.biorxiv.org/content/10.1101/2021.05.26.445798v1" target="_blank"><i class="far fa-copy" style="margin-right: 5px;"></i>Preprint on <i>bioRxiv</i></a>
     </td>
   </tr>
-
-
- 
-
-
 </table>
 
 Join our live streams on <b><a href="https://www.youtube.com/NGSchoolEU" target="_blank">YouTube</a> or <a href="https://discord.gg/MhNeqwR" target="_blank">Discord</a></b> or watch webinars later on <b><a href="https://www.youtube.com/NGSchoolEU" target="_blank">Youtube</a></b>!
