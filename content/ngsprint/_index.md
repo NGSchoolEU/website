@@ -19,6 +19,103 @@ Next year of NGSchool Society bring a new event - NGSprint!
 
 It will be an online bioinformatics hackathon conducted by NGSchool members and friends, accompanied by a few lectures by renown researchers in the field. We will concentrate on various tasks around NGS data processing and analysis, as these were the topics most often mentioned in our recent survey. By the way, great thanks to all who gave us the few minutes and filled it!
 
+<br>
+
+## Schedule
+NGSprint will take place between 8<sup>th</sup> and 15<sup>th</sup> of September 2021. Below you can find preliminary schedule. Please remember that it may change depending on speakers' availability.
+
+<div class="d-flex justify-content-center">
+  <table class="table table-bordered table-striped">
+    <tr>
+      <th></th>
+      <th>Early afternoon (CET)</th>
+      <th>LAte afternoon (CET)</th>
+    </tr>
+    <tr>
+      <th>Day 1<br>Wednesday (8.09)</th>
+       <td>
+        Opening of NGSprint<br>
+        Teams & topics announcement<br>
+        (~1.5h)
+      </td>
+      <td>
+        1<sup>st</sup> meeting with mentor
+      </td>
+    </tr>
+    <tr>
+      <th>Day 2<br>Thursday (9.09)</th>
+      <td>
+        Lecture 1<br>
+        Lecture 2<br>
+        (2-2.5h)
+      </td>
+      <td>
+        Meeting with mentor
+      </td>
+    </tr>
+    <tr>
+      <th>Day 3<br>Friday (10.09)</th>
+      <td>
+        Soft skills workshop<br>
+        (1-2h)
+      </td>
+       <td>
+        Meeting with mentor
+      </td>
+    </tr>
+    <tr>
+      <th>Day 4<br>Saturday (11.09)</th>
+      <td colspan="2" style="text-align: center">
+        No planned activities, but you can work on the task if you want.
+      </td>
+    </tr>
+    <tr> 
+      <th>Day 5<br>Sunday (12.09)</th>
+      <td colspan="2" style="text-align: center">
+        No planned activities, but you can work on the task if you want
+      </td>
+    </tr>
+    <tr> 
+      <th>Day 6<br>Monday (13.09)</th>
+      <td>
+        Lecture 3<br>
+        Lecture 4<br>
+        (2-2.5h)
+      </td>
+      <td>
+        Meeting with mentor
+      </td>
+    </tr>
+    <tr> 
+      <th>Day 7<br>Tuesday (14.09)</th>
+      <td>
+      </td>
+      <td>
+        Meeting with mentor
+      </td>
+    </tr>
+    <tr> 
+      <th>Day 8<br>Wednesday (15.09)</th>
+      <td>
+        Presentation of your solutions<br>
+        (~1.5h)
+      </td>
+      <td>
+        Summary and closing of NGSprint<br>
+        (~0.5h)
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div class="d-flex justify-content-center">
+  <p style="text-align: center"><a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSprint&dates=20210908%2F20210915" target="_blank" class="btn btn-primary">Add NGSprint to Google Calendar <i class="far fa-calendar-plus"></i></a></p>
+</div>
+
+<br><br>
+
 ## Topics
 We are planning to form hackathon teams working on following topics:
 1. RNAseq transcriptomics: from quality control to pathway analysis
@@ -142,5 +239,8 @@ Depending on the topic. We do not have hard entry requirements, but we would sug
   }
   .container {
     text-align: justify;
+  }
+  th, td {
+    text-align: center;
   }
 </style>
