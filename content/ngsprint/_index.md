@@ -8,8 +8,8 @@ draft: false
 information:
 - info: "online"
   label: Location
-# - info: "July 22 - 31, 2020"
-#   label: Date
+- info: "September 8 - 15, 2021"
+  label: Date
 # - info: "35 (planned)"
 #   label: Participants
 title: "NGSprint"
@@ -22,7 +22,7 @@ It will be an online bioinformatics hackathon conducted by NGSchool members and 
 <br>
 
 ## Schedule
-NGSprint will take place between 8<sup>th</sup> and 15<sup>th</sup> of September 2021. Below you can find preliminary schedule. Please remember that it may change depending on speakers' availability.
+NGSprint will take place between 8<sup>th</sup> and 15<sup>th</sup> of September 2021. Below you can find tentative schedule. Please remember that it may change.
 
 <div class="d-flex justify-content-center">
   <table class="table table-bordered table-striped">
@@ -45,9 +45,13 @@ NGSprint will take place between 8<sup>th</sup> and 15<sup>th</sup> of September
     <tr>
       <th>Day 2<br>Thursday (9.09)</th>
       <td>
-        Lecture 1<br>
-        Lecture 2<br>
-        (2-2.5h)
+        Lecture 1: <i>TBA</i><br>
+        Judith Zaugg<br>
+        2-3 PM CET
+        <br><br>
+        Lecture 2: <i>Retrogenes - why to bother</i><br>
+        Izabela Makałowska<br>
+        3-4 PM CET
       </td>
       <td>
         Meeting with mentor
@@ -78,9 +82,12 @@ NGSprint will take place between 8<sup>th</sup> and 15<sup>th</sup> of September
     <tr> 
       <th>Day 6<br>Monday (13.09)</th>
       <td>
-        Lecture 3<br>
-        Lecture 4<br>
-        (2-2.5h)
+        Lecture 3: <i>TBA</i><br>
+        Wojciech Fendler<br>
+        2-3 PM CET<br><br>
+        Lecture 4: <i>Molecular subtyping of multi-omic data using SUMO</i><br>
+        Aakrosh Ratan<br>
+        3-4 PM CET
       </td>
       <td>
         Meeting with mentor
@@ -217,7 +224,7 @@ Depending on the topic. We do not have hard entry requirements, but we would sug
 * [Katarzyna Kędzierska](/people/katarzyna-kedzierska), WCHG, OX, Oxford, GB  
 * [Lidia Lipińska-Zubrycka](/people/lidia-lipinska), University of Warsaw, Poland  
 * [Natalia Pstrąg](/people/natalia-pstrag), UAM, Poznań, Poland  
-* [Karolina Sienkiewicz](/people/karolina-sienkiewicz), CPHG, University of Virginia, USA  
+* [Karolina Sienkiewicz](/people/karolina-sienkiewicz), Weill Cornell Medicine, Cornell University, USA  
 * [Urszula Smyczyńska](/people/urszula-smyczynska), Medical University of Lodz, Poland  
 * [Gladys Wojciechowska](/people/gladys-langi), Medical University of Bialystok, Poland 
 * [Natalia Zawrotna](/people/natalia-zawrotna), University of Virginia, USA

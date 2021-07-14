@@ -66,6 +66,48 @@ Second series of webinars will start in mid-June and they will be held on Wednes
        <a href="https://www.biorxiv.org/content/10.1101/2021.05.26.445798v1" target="_blank"><i class="far fa-copy" style="margin-right: 5px;"></i>Preprint on <i>bioRxiv</i></a>
     </td>
   </tr>
+  <tr>
+    <td>18.08.2021, 4-6 PM CET</td>
+    <td>
+      <!-- <a href="/post/webinars2-02-t2t"> -->
+        <b>TBA</b>
+      <!-- </a> -->
+    </td>
+    <td>TBA</td>
+    <td>
+       <!-- <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+T2T+assembly+of+human+genome&dates=20210714T140000Z%2F20210714T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a> -->
+    </td>
+    <td>
+      <!-- <a href="https://github.com/NGSchoolEU/linux_terminal_workshop" target="_blank"><i class="fab fa-github" style="margin-right: 5px;"></i>GitHub repository</a><br>
+      <a href="https://youtu.be/TLpjSmm-FEM?t=5" target="_blank"><i class="fab fa-youtube" target="_blank" style="margin-right: 5px;"></i>Youtube recording</a> -->
+    </td>
+  </tr>
+  <tr>
+    <td>September</td>
+    <td colspan="3" style="text-align: center;">
+      Break in NGSeminars due to <a href="/ngsprint" target="blank">NGSprint</a>. Don't forget to watch the lectures! 
+    </td>
+    <td>
+      <!-- <a href="https://github.com/NGSchoolEU/linux_terminal_workshop" target="_blank"><i class="fab fa-github" style="margin-right: 5px;"></i>GitHub repository</a><br>
+      <a href="https://youtu.be/TLpjSmm-FEM?t=5" target="_blank"><i class="fab fa-youtube" target="_blank" style="margin-right: 5px;"></i>Youtube recording</a> -->
+    </td>
+  </tr>
+  <tr>
+    <td>13.10.2021, 4-6 PM CET</td>
+    <td>
+      <!-- <a href="/post/webinars2-02-t2t"> -->
+        <b>TBA</b>
+      <!-- </a> -->
+    </td>
+    <td>TBA</td>
+    <td>
+       <!-- <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+T2T+assembly+of+human+genome&dates=20210714T140000Z%2F20210714T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a> -->
+    </td>
+    <td>
+      <!-- <a href="https://github.com/NGSchoolEU/linux_terminal_workshop" target="_blank"><i class="fab fa-github" style="margin-right: 5px;"></i>GitHub repository</a><br>
+      <a href="https://youtu.be/TLpjSmm-FEM?t=5" target="_blank"><i class="fab fa-youtube" target="_blank" style="margin-right: 5px;"></i>Youtube recording</a> -->
+    </td>
+  </tr>
 </table>
 
 Join our live streams on <b><a href="https://www.youtube.com/NGSchoolEU" target="_blank">YouTube</a> or <a href="https://discord.gg/MhNeqwR" target="_blank">Discord</a></b> or watch webinars later on <b><a href="https://www.youtube.com/NGSchoolEU" target="_blank">Youtube</a></b>!
@@ -80,7 +122,7 @@ Join our live streams on <b><a href="https://www.youtube.com/NGSchoolEU" target=
 * [Lidia Lipińska](/people/lidia-lipinska), University of Warsaw, Poland  
 * [Natalia Pstrąg](/people/natalia-pstrag), UAM, Poznań, Poland  
 * [Anamaria Elek](/people/anamaria-elek), CRG, Barcelona, Spain  
-* [Karolina Sienkiewicz](/people/karolina-sienkiewicz), CPHG, University of Virginia, USA  
+* [Karolina Sienkiewicz](/people/karolina-sienkiewicz), Weill Cornell Medicine, Cornell University, USA
 * [German Demidov](/people/german-demidov), IMGAG, University of Tübingen, Germany  
 * [Samantha Filipów](/people/samantha-filipow), CECAD, University of Cologne, Germany  
 * [Urszula Smyczyńska](/people/urszula-smyczynska), Medical University of Lodz, Poland  

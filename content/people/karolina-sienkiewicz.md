@@ -9,7 +9,7 @@ information:
   label: Events
 - info: "participant, organizer"
   label: Role
-- info: CPHG, University of Virginia, USA
+- info: Weill Cornell Medicine, Cornell University, USA
   label: Affiliation
 - info: ksienkiewicz@ngschool.eu
   label: Contact email
