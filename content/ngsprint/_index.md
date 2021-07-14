@@ -29,7 +29,7 @@ NGSprint will take place between 8<sup>th</sup> and 15<sup>th</sup> of September
     <tr>
       <th></th>
       <th>Early afternoon (CET)</th>
-      <th>LAte afternoon (CET)</th>
+      <th>Late afternoon (CET)</th>
     </tr>
     <tr>
       <th>Day 1<br>Wednesday (8.09)</th>

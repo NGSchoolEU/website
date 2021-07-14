@@ -75,7 +75,7 @@ Second series of webinars will start in mid-June and they will be held on Wednes
     </td>
     <td><a href="https://scholar.google.de/citations?user=Qqu7Z4QAAAAJ&hl=en" target="blank">Pavel Sinitcyn</a></td>
     <td>
-       <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Computational+Methods+in+Proteomics&dates=20210818T140000Z%2F20210714T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+       <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Computational+Methods+in+Proteomics&dates=20210818T140000Z%2F20210818T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
     <td>
       <!-- <a href="https://github.com/NGSchoolEU/linux_terminal_workshop" target="_blank"><i class="fab fa-github" style="margin-right: 5px;"></i>GitHub repository</a><br>
@@ -101,7 +101,7 @@ Second series of webinars will start in mid-June and they will be held on Wednes
     </td>
     <td><a href="/people/maire-ni-leathlobhair" target="blank">Máire Ní Leathlobhair</a></td>
     <td>
-       <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Germ+Cell+Tumours&dates=20211013T140000Z%2F20210714T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+       <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Germ+Cell+Tumours&dates=20211013T140000Z%2F20211013T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
     <td>
       <!-- <a href="https://github.com/NGSchoolEU/linux_terminal_workshop" target="_blank"><i class="fab fa-github" style="margin-right: 5px;"></i>GitHub repository</a><br>
