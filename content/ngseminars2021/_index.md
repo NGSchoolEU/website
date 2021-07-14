@@ -70,10 +70,10 @@ Second series of webinars will start in mid-June and they will be held on Wednes
     <td>18.08.2021, 4-6 PM CET</td>
     <td>
       <!-- <a href="/post/webinars2-02-t2t"> -->
-        <b>TBA</b>
+        <b>TBA</b> (Computational Methods in Proteomics)
       <!-- </a> -->
     </td>
-    <td>TBA</td>
+    <td><a href="https://scholar.google.de/citations?user=Qqu7Z4QAAAAJ&hl=en" target="blank">Pavel Sinitcyn</a></td>
     <td>
        <!-- <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+T2T+assembly+of+human+genome&dates=20210714T140000Z%2F20210714T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a> -->
     </td>
@@ -96,10 +96,10 @@ Second series of webinars will start in mid-June and they will be held on Wednes
     <td>13.10.2021, 4-6 PM CET</td>
     <td>
       <!-- <a href="/post/webinars2-02-t2t"> -->
-        <b>TBA</b>
+        <b>TBA (Germ Cell Tumours)</b>
       <!-- </a> -->
     </td>
-    <td>TBA</td>
+    <td><a href="/people/maire-ni-leathlobhair" target="blank">Máire Ní Leathlobhair</a></td>
     <td>
        <!-- <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+T2T+assembly+of+human+genome&dates=20210714T140000Z%2F20210714T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a> -->
     </td>
