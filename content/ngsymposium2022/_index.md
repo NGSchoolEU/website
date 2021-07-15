@@ -169,7 +169,7 @@ To be announced soon. -->
 * [Katarzyna Kędzierska](/people/katarzyna-kedzierska), WCHG, OX, Oxford, GB  
 * [Lidia Lipińska-Zubrycka](/people/lidia-lipinska), University of Warsaw, Poland  
 * [Natalia Pstrąg](/people/natalia-pstrag), UAM, Poznań, Poland  
-* [Karolina Sienkiewicz](/people/karolina-sienkiewicz), CPHG, University of Virginia, USA  
+* [Karolina Sienkiewicz](/people/karolina-sienkiewicz), Weill Cornell Medicine, Cornell University, USA  
 * [Urszula Smyczyńska](/people/urszula-smyczynska), Medical University of Lodz, Poland  
 * [Eugeniusz Tralle](/people/eugeniusz-tralle), IIMCB, Warsaw, Poland    
 * [Gladys Wojciechowska](/people/gladys-langi), Medical University of Bialystok, Poland 
