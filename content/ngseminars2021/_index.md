@@ -62,8 +62,8 @@ Second series of webinars will start in mid-June and they will be held on Wednes
     </td>
     <td>
       <!-- <a href="https://github.com/NGSchoolEU/linux_terminal_workshop" target="_blank"><i class="fab fa-github" style="margin-right: 5px;"></i>GitHub repository</a><br> -->
-      <a href="https://youtu.be/cjBPnIXK60U" target="_blank"><i class="fab fa-youtube" target="_blank" style="margin-right: 5px;"></i>Youtube recording</a>
-       <a href="https://www.biorxiv.org/content/10.1101/2021.05.26.445798v1" target="_blank"><i class="far fa-copy" style="margin-right: 5px;"></i>Preprint on <i>bioRxiv</i></a>
+      <a href="https://youtu.be/cjBPnIXK60U" target="_blank"><i class="fab fa-youtube" target="_blank" style="margin-right: 5px;"></i>Youtube recording</a><br>
+      <a href="https://www.biorxiv.org/content/10.1101/2021.05.26.445798v1" target="_blank"><i class="far fa-copy" style="margin-right: 5px;"></i>Preprint on <i>bioRxiv</i></a>
     </td>
   </tr>
   <tr>
