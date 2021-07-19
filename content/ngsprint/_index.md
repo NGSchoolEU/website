@@ -136,10 +136,11 @@ We are planning to form hackathon teams working on following topics:
 
 2. Multi-omics data integration
 
-* *[Karolina Sienkiewicz](/people/karolina-sienkiewicz)*
+* *[Karolina Sienkiewicz](/people/karolina-sienkiewicz)* & *[Aakrosh Ratan](/people/aakrosh-ratan)*
 
 <ul class='no-list-marker'>
-  <li>More details coming soon.</li>
+  <li>Different experimental techniques (for example, RNAseq, DNA methylation profiling, or whole-genome sequencing) capture different cellular aspects of biological organisms. Effective integration of various omics data types allows us to observe effects that manifest at both genomic and epigenomic levels and provides us with system-level insights. During this hackathon, we will explore some frequently used methods for multi-omics data integration, including latent variable modeling and matrix factorization. The goal of the workshop is to provide an overview of models, their limitations, and some hands-on experience with integrative analyses using multiple data types.</li>
+  <li>Requirements: familiarity with command-line and R programming language.</li>
 </ul>
 
 3. New generation of biomarkers: miRNA and machine learning models
