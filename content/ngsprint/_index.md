@@ -82,7 +82,7 @@ NGSprint will take place between 8<sup>th</sup> and 15<sup>th</sup> of September
     <tr> 
       <th>Day 6<br>Monday (13.09)</th>
       <td>
-        Lecture 3: <i>TBA</i><br>
+        Lecture 3: <i>The long, twisted road of microRNA biomarker discovery and development</i><br>
         Wojciech Fendler<br>
         2-3 PM CET<br><br>
         Lecture 4: <i>Molecular subtyping of multi-omic data using SUMO</i><br>
