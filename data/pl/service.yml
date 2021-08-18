@@ -34,7 +34,7 @@ featured_service:
       in the field."
 
     # featured service item loop
-    - name : "[NGSymposium - Conference in Computational Biology](../conference)"
+    - name : "[NGSymposium - Conference in Computational Biology](../virtual_ngsymposium2020)"
       icon : "ion-ios-chatbubble"
       color : "primary-dark"
       content : "Conference bringing bioinformaticians to showcase their research and discuss their projects with potential international collaborators."
