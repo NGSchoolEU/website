@@ -11,7 +11,7 @@ It’s hard to believe that it was only 40 years ago that the first techniques o
 
 With NGSchool - an annual Summer School, we aim to provide the bioinformatics course for researchers and data scientists in the early stage of their careers (while being open to strongly motivated applications with any background) to both boost research & development (R&D) in Central & Eastern Europe and close the gap in the field of genomics between Western and Central & Eastern Europe. This year, we are focusing on machine learning [NGSchool2020: Statistical Learning in Genomics](/ngschool2020)
 
-This year, we are also organising [NGSymposium in Computational Biology](/conference). This international conference will make way for exchanging knowledge and experiences between experienced and early-stage researchers as well as bioinformaticians. The meeting will be held on 31.07 - 1.08.2020 in Warsaw. 
+This year, we are also organising [NGSymposium in Computational Biology](/virtual_ngsymposium2020). This international conference will make way for exchanging knowledge and experiences between experienced and early-stage researchers as well as bioinformaticians. The meeting will be held on 31.07 - 1.08.2020 in Warsaw. 
 
 <div class="row" style="margin-top: 5px;">
 <br>

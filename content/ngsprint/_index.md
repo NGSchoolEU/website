@@ -10,8 +10,8 @@ information:
   label: Location
 - info: "September 8 - 15, 2021"
   label: Date
-# - info: "35 (planned)"
-#   label: Participants
+- info: "around 50 (planned)"
+  label: Participants
 title: "NGSprint"
 ---
 
@@ -45,7 +45,7 @@ NGSprint will take place between 8<sup>th</sup> and 15<sup>th</sup> of September
     <tr>
       <th>Day 2<br>Thursday (9.09)</th>
       <td>
-        Lecture 1: <i>TBA</i><br>
+        Lecture 1: <i>Systems epigenetics as a tool to investigate disease mechanisms</i><br>
         Judith Zaugg<br>
         2-3 PM CET
         <br><br>
@@ -183,7 +183,7 @@ Registration is required if you want to participate actively in the hackathon as
 
 **Registration deadline: 24.07.2021 23:59 CET**
 
-<a href="https://forms.gle/SFaYHGzkAgTpXNFv7" target="blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Register <i class="fas fa-play"></i></a>
+<a href="https://forms.gle/SFaYHGzkAgTpXNFv7" target="blank" class="btn btn-success btn-lg btn-block disabled" style="width: 40%; margin: 0 auto;" onclick="return false;">Register <i class="fas fa-play"></i></a>
 
 <br>
 
