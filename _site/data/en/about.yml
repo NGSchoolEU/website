@@ -1,0 +1,138 @@
+ ################################## About #####################################
+about:
+  enable : true
+  image : "images/about-01.jpg"
+  title : "We train future bioinformatics experts."
+  content : "NGSchool (Next Generation School) is a platform to share expertise in the field of Next Generation Sequencing (NGS) data analysis 
+  and general Bioinformatics.  
+  
+  
+  We organize activities for young researchers who are primarily from Central & Eastern Europe, 
+  who have a background in biology/mathematics/informatics, and who strive to improve their bioinformatics and data analysis skills.  
+  
+  
+  Summer school is our flagship annual event - so far we have organised four editions. We also co-organized a number of local events, 
+  such as workshops, symposiums, and conferences."
+
+#  button:
+#    enable : true
+#    label : "Download Company Profile"
+#    link : "#"
+
+
+      
+################################ feature #####################################
+features:
+  enable : true
+  title : " NGSchool is all about people and sharing - building a community of bioinformatics experts and enthusiasts."
+  
+  feature_item:
+    # feature item loop
+    - icon : "ion-ios-people-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "over 300 participants"
+      content : "in four editions of NGSchool"
+
+    # feature item loop
+    - icon : "ion-ios-mic-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "over 50 speakers & lecturers"
+      content : "at NGSchool and sattelite events"
+      
+    # feature item loop
+    - icon : "ion-ios-world-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "28 countries"
+      content : "represented at all our events"
+
+
+############################################# history ##################################################
+history:
+  enable: true
+  image : "images/about-02.jpg"
+  title : "We decided to make a difference."
+  content : "  
+  As many great things in life, NGSchool started from a hangout and discussion over a beer with a bunch of friendly people.  
+  
+  
+  The idea was born over lunch in Bratislava, back in summer 2015.  
+  
+  
+  The initial motivation behind NGSchool was to organise excellent & affordable training in Bioinformatics 
+  for young talented scientists. While there were many great hands-on courses in Bioinformatics at the time, 
+  all of them were expensive, especially for researchers from Central & Eastern European countries.
+  
+  
+  This is where we decided to make a difference."
+
+
+################################ feature #####################################
+quote:
+  enable : true
+  title : "This is far from typical educational initiative!"
+
+#  funfacts:
+#    # funfacts loop
+#    - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#      name : "Completed Projects"
+#      count : "8"
+#
+#    - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#      name : "Participants"
+#      count : "349"
+  
+#################################### testimonial & mission vision #######################################
+testimonial:
+  enable : true
+  # testimonial content comes from "data/*/homepage.yml" file
+
+mission_vision:
+  title : "Leaving an impression."
+  enable : true
+  image1 : "images/about-03.jpg"
+  image2 : "images/about-04.jpg"
+  image3 : "images/about-05.jpg"
+  content : "  
+  What is NGSchool like, and how people who have taken part as either organizers, speakers or participants feel about it?  
+  
+  
+  To find this out, read our story which was published as trilogy of Medium posts linked below." 
+  tabs:
+    # tab item loop
+    - name : "The Begining"
+      content : "
+      Read a bit about why, how and what we are doing, and hopefully you’ll be convinced that this is 
+      far from typical educational initiative. NGSchool is all about people and sharing, and everything that happened 
+      in the last few years is a blend of ideas, expectations, desires and experiences of numerous wonderful people.
+      Now, we would like to invite you to get to know us and become the part of this community. Enjoy the ride!
+      
+      
+      [Full text](https://medium.com/@german.m.demidov/ngschool-summer-school-in-bioinformatics-the-beginning-3810c36f051c)
+      "
+      
+    # tab item loop
+    - name : "Evolution"
+      content : "
+      How to make Eastern European bioinformatics great again?  
+      The organization of educational events is a very ill-defined problem with many variables. It is not mathematics. 
+      Oh, well, it is, but the solution to this problem is “there is no analytical solution”.
+      We work together, we put our souls into the project, we spend a lot of our personal time on it, and — we disagree.
+      Diversity is the key. Tolerance is the key. Friendship is the key.
+      
+      
+     [Full text](https://medium.com/@german.m.demidov/ngschool-summer-school-in-bioinformatics-evolution-3e796883e1c1)
+      "
+      
+    # tab item loop
+    - name : "Becoming"
+      content : "We have been teaching (and learning!) about the cutting edge technologies in bioinformatics for several years now. 
+      Many of us grew together with NGSchool, while obtaining valuable skills in both organising scientific events and science itself. 
+      How was it? Well, tough. We were always extremely tired at the end. But was it worth it? Can we recommend doing this to others?
+      Read on to find out.
+      
+      
+      [Full text](https://medium.com/@german.m.demidov/ngschool-summer-school-in-bioinformatics-becoming-763494ece10e)
+      "
+
+
+############################# call to action #################################
+cta:
+  enable : true
+  # call to action content comes from "data/*/homepage.yml"
