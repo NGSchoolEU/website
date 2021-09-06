@@ -15,7 +15,7 @@ tags: [webinar, proteomics]
 
 <b>Are you interested in proteomics?</b>
 <br>
-Let's learn more from <b>Pavel Sincityn</b>, the first author of the [recent paper on this important topic](https://www.nature.com/articles/s41587-021-00968-7)!
+Let's learn more from <b>Pavel Sinitcyn</b>, the first author of the [recent paper on this important topic](https://www.nature.com/articles/s41587-021-00968-7)!
 <br>
 Join us on Wednesday, 25<sup>th</sup> August 2021 at 4 PM CET on <a href="https://www.youtube.com/NGSchoolEU" target="_blank">YouTube</a> or <a href="https://discord.gg/MhNeqwR" target="_blank">Discord</a>!</b>
 
@@ -23,9 +23,9 @@ Join us on Wednesday, 25<sup>th</sup> August 2021 at 4 PM CET on <a href="https:
 
 <br>
 
-### Speaker: Pavel Sincityn
+### Speaker: Pavel Sinitcyn
 
-<a href="https://scholar.google.ru/citations?user=Qqu7Z4QAAAAJ" target="blank">Pavel Sincityn</a> - postdoctoral researcher at the Max Planck Institute of Biochemistry. He has got the master degree in computer science from the Lomonosov Moscow State University in 2014. In 2020 he defended his PhD thesis on methods of analysis of proteomic and sequencing data at the Max Planck Institute of Biochemistry, where he continues his work as postdoctoral fellow. His research interest concentrate on development of bioinformatic computational methods, especially for proteomics.
+<a href="https://scholar.google.ru/citations?user=Qqu7Z4QAAAAJ" target="blank">Pavel Sinitcyn</a> - postdoctoral researcher at the Max Planck Institute of Biochemistry. He has got the master degree in computer science from the Lomonosov Moscow State University in 2014. In 2020 he defended his PhD thesis on methods of analysis of proteomic and sequencing data at the Max Planck Institute of Biochemistry, where he continues his work as postdoctoral fellow. His research interest concentrate on development of bioinformatic computational methods, especially for proteomics.
 
 <img src="/images/ngseminars2021/pavel-sinitcyn.jpeg" style="width: 80%; display: block; margin-left: auto; margin-right: auto; ">
 

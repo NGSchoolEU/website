@@ -78,8 +78,7 @@ Second series of webinars will start in mid-June and they will be held on Wednes
        <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Next+generation+of+proteomics&dates=20210825T140000Z%2F20210825T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
     <td>
-      <!-- <a href="https://github.com/NGSchoolEU/linux_terminal_workshop" target="_blank"><i class="fab fa-github" style="margin-right: 5px;"></i>GitHub repository</a><br>
-      <a href="https://youtu.be/TLpjSmm-FEM?t=5" target="_blank"><i class="fab fa-youtube" target="_blank" style="margin-right: 5px;"></i>Youtube recording</a> -->
+      <a href="https://youtu.be/QfrWhnVOVms" target="_blank"><i class="fab fa-youtube" target="_blank" style="margin-right: 5px;"></i>Youtube recording</a><br>
        <a href="https://www.nature.com/articles/s41587-021-00968-7" target="_blank"><i class="far fa-copy" style="margin-right: 5px;"></i>Paper in <i>Nature Biotechnology</i></a>
     </td>
   </tr>

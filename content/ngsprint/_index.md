@@ -27,92 +27,183 @@ NGSprint will take place between 8<sup>th</sup> and 15<sup>th</sup> of September
 <div class="d-flex justify-content-center">
   <table class="table table-bordered table-striped">
     <tr>
-      <th></th>
-      <th>Early afternoon (CET)</th>
-      <th>Late afternoon (CET)</th>
+      <th>Day</th>
+      <th>Time (CET)</th>
+      <th>Activity</th>
+      <th>Platform and availability</th>
     </tr>
+    <!-- DAY 1 -->
     <tr>
-      <th>Day 1<br>Wednesday (8.09)</th>
-       <td>
-        Opening of NGSprint<br>
-        Teams & topics announcement<br>
-        (~1.5h)
-      </td>
+      <th rowspan="3" style="width: 200px;">
+        Day 1<br>
+        Wednesday (8.09)
+      </th>
+      <td style="width: 100px;">14:00-14:30</td>
+      <td>Opening of NGSprint</td>
       <td>
-        1<sup>st</sup> meeting with mentor
+        Zoom <a href="#zoom-info">*</a><br>
+        For active participants only
       </td>
     </tr>
     <tr>
-      <th>Day 2<br>Thursday (9.09)</th>
+      <td>14:30-17:30</td>
+      <td>1<sup>st</sup> meeting with mentors</td>
+      <td>
+        Discord<br>
+        For active participants only
+      </td>
+    </tr>
+    <tr>
+      <td>18:00-19:00</td>
+      <td>Networking event</td>
+      <td>
+        Zoom<br>
+        For active participants only
+      </td>
+    </tr>
+    <!-- DAY 2 -->
+    <tr>
+      <th rowspan="3" style="width: 200px;">
+        Day 2<br>
+        Thursday (9.09)
+      </th>
+      <td style="width: 100px;">14:00-15:00</td>
       <td>
         Lecture 1: <i>Systems epigenetics as a tool to investigate disease mechanisms</i><br>
-        Judith Zaugg<br>
-        2-3 PM CET
-        <br><br>
-        Lecture 2: <i>Retrogenes - why to bother</i><br>
-        Izabela Makałowska<br>
-        3-4 PM CET
+        <a href="/people/judith-zaugg" target="blank">Judith Zaugg</a>
       </td>
       <td>
-        Meeting with mentor
+        For active participants: Zoom<br>
+        For everyone: <a href="https://www.youtube.com/NGSchoolEU" target="blank">NGSchool Youtube channel</a>
       </td>
     </tr>
     <tr>
-      <th>Day 3<br>Friday (10.09)</th>
+      <td>15:00-16:00</td>
       <td>
-        Soft skills workshop<br>
-        (1-2h)
+        Lecture 2: <i>Retrogenes - why to bother</i><br>
+        Izabela Makałowska
       </td>
-       <td>
-        Meeting with mentor
+      <td>
+        For active participants: Zoom<br>
+        For everyone: <a href="https://www.youtube.com/NGSchoolEU" target="blank">NGSchool Youtube channel</a>
       </td>
     </tr>
+    <tr>
+      <td>Agreed time</td>
+      <td>Meeting with mentor</td>
+      <td>
+        Discord<br>
+        For active participants only
+      </td>
+    </tr>
+    <!-- DAY 3 -->
+    <tr>
+      <th rowspan="1" style="width: 200px;">
+        Day 3<br>
+        Friday (10.09)
+      </th>
+      <!-- <td style="width: 100px;">14:00-15:00</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr> -->
+      <td>Agreed time</td>
+      <td>Meeting with mentor</td>
+      <td>
+        Discord<br>
+        For active participants only
+      </td>
+    </tr>
+    <!-- DAY 4 -->
     <tr>
       <th>Day 4<br>Saturday (11.09)</th>
-      <td colspan="2" style="text-align: center">
+      <td colspan="3" style="text-align: center">
         No planned activities, but you can work on the task if you want.
       </td>
     </tr>
+    <!-- DAY 5 -->
     <tr> 
       <th>Day 5<br>Sunday (12.09)</th>
-      <td colspan="2" style="text-align: center">
+      <td colspan="3" style="text-align: center">
         No planned activities, but you can work on the task if you want
       </td>
     </tr>
-    <tr> 
-      <th>Day 6<br>Monday (13.09)</th>
+    <!-- DAY 6 -->
+    <tr>
+      <th rowspan="3" style="width: 200px;">
+        Day 6<br>
+        Monday (13.09)
+      </th>
+      <td style="width: 100px;">14:00-15:00</td>
       <td>
         Lecture 3: <i>The long, twisted road of microRNA biomarker discovery and development</i><br>
-        Wojciech Fendler<br>
-        2-3 PM CET<br><br>
+        <a href="/people/wojciech-fendler" target="blank">Wojciech Fendler</a>
+        </td>
+      <td>
+        For active participants: Zoom<br>
+        For everyone: <a href="https://www.youtube.com/NGSchoolEU" target="blank">NGSchool Youtube channel</a>
+      </td>
+    </tr>
+    <tr>
+      <td>15:00-16:00</td>
+      <td>
         Lecture 4: <i>Molecular subtyping of multi-omic data using SUMO</i><br>
-        Aakrosh Ratan<br>
-        3-4 PM CET
+        <a href="/people/aakrosh-ratan" target="blank">Aakrosh Ratan</a>
       </td>
       <td>
-        Meeting with mentor
-      </td>
-    </tr>
-    <tr> 
-      <th>Day 7<br>Tuesday (14.09)</th>
-      <td>
-      </td>
-      <td>
-        Meeting with mentor
+        For active participants: Zoom<br>
+        For everyone: <a href="https://www.youtube.com/NGSchoolEU" target="blank">NGSchool Youtube channel</a>
       </td>
     </tr>
-    <tr> 
-      <th>Day 8<br>Wednesday (15.09)</th>
+    <tr>
+      <td>Agreed time</td>
+      <td>Meeting with mentor</td>
       <td>
-        Presentation of your solutions<br>
-        (~1.5h)
+        Discord<br>
+        For active participants only
       </td>
+    </tr>
+    <!-- DAY 7 -->
+    <tr>
+      <th rowspan="1" style="width: 200px;">
+        Day 7<br>
+        Tuesday (14.09)
+      </th>
+      <!-- <td style="width: 100px;">14:00-15:00</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr> -->
+      <td>Agreed time</td>
+      <td>Meeting with mentor</td>
       <td>
-        Summary and closing of NGSprint<br>
-        (~0.5h)
+        Discord<br>
+        For active participants only
+      </td>
+    </tr>
+    <!-- DAY 8 -->
+    <tr>
+      <th rowspan="2" style="width: 200px;">
+        Day 8<br>
+        Wednesday (15.09)
+      </th>
+      <td style="width: 100px;">14:00-16:00</td>
+      <td>Presentation of your solutions</td>
+      <td>
+        Zoom<br>
+        For active participants only
+      </td>
+    </tr>
+    <tr>
+      <td>16:00-16:30</td>
+      <td>Summary and closing of NGSprint</td>
+      <td>
+        Zoom<br>
+        For active participants only
       </td>
     </tr>
   </table>
+  <a name="zoom-info">*</a> Zoom links will be available to active participants on the NGSprint #readme channel on <a href="https://discord.gg/MhNeqwR">Discord</a>
 </div>
 
 <br>
@@ -152,16 +243,16 @@ We are planning to form hackathon teams working on following topics:
   <li>Requirements: at least basic experience with Python.</li>
 </ul>
 
-4. Epigenetics in cancer - how chromatin dynamics help tumours grow
+<!-- 4. Epigenetics in cancer - how chromatin dynamics help tumours grow
 
 * *[Katarzyna Kędzierska](/people/katarzyna-kedzierska)*
 
 <ul class='no-list-marker'>
   <li>It is known that chromatin organisation - open and closed regions have great influence on the growth of cells. We also know that in certain cancers transcription factors (TF) play pivotal roles in tumour initiation and progression. For example, Androgen Receptor (AR) plays a crucial role in prostate cancer, especially in castration-resistant prostate cancer (CRPC). In this hackathon we will look at the chromatin accessibility data generated by the TCGA consortium as well as ChIP-seq data. We will focus on global accessibility patterns and TF binding motifs.</li>
   <li>Requirements: familiarity with command line and R/Python for data analysis.</li>
-</ul>
+</ul> -->
 
-5. Data visualization in bioinformatics
+4. Data visualization in bioinformatics
 
 * *[Katarzyna Kędzierska](/people/katarzyna-kedzierska)*
 
