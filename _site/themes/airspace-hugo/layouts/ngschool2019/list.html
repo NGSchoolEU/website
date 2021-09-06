@@ -1,0 +1,168 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<section class="portfolio-single-page section-sm">
+    <div class="container">
+        <div class="row">
+            <div class="project-details">
+                <div class="col-md-12">
+                    <ul>
+                    {{ range .Params.Information }}
+                    <li><span>{{ .label }} :</span> <strong>{{ .info | markdownify }}</strong></li>
+                    {{ end }}
+                    </ul>
+                </div>
+            </div>
+        </div>
+		<br>
+        <div class="row">
+            <div class="col-md-6">
+                <img class="img-responsive w-100" src="../images/ngschool/2019-012.jpg" alt="">
+            </div>
+            <div class="col-md-6">
+                <img class="img-responsive w-100" src="../images/ngschool/2019-010.jpg" alt="">
+            </div>
+        </div>
+
+        <br>
+
+        <div class="row">
+            <div class="col-md-12">
+                <p>
+                    NGSchool2019: Machine Learning for Biomedicine was held on 24-31 October in Białobrzegi, Poland, and was focused on Machine Learning (ML) and its application in Bioinformatics & NGS Data Analysis as well as personalised medicine.  
+                </p>
+                <p>
+                    Advances in biological and medical technologies drive continuous generation of large amounts of biomedical Big Data. 
+                    European Nucleotide Archive stores 260 million sequences comprising 339 trillion nucleotides. This will double in less than 3 years 
+                    if the current rate of growth is sustained! Given the exponential progress in sequencing technology the increase will only get steeper, 
+                    entailing an intensified demand for experts in NGS data analysis. Big Data requires applying new solution to leverage its potential. 
+                    Machine Learning (ML) is the answer to the increased complexity of research problems in science, industry and in everyday life. 
+                    It is our conviction that knowledge of the ML techniques is a crucial skill every data scientist should acquire throughout their training.
+                </p>
+                <p>
+                    We invited ~60 participants (40 students and 20 speakers). You can find all details about this edition in 
+                    <a href="https://t.co/pzJmqOh6yk?amp=1">Book of abstracts</a>. 
+                    <a href="https://github.com/NGSchoolEU/ngs19">Materials</a> from the school and 
+                    <a href="http://videolectures.net/NGSchool2019_bialobrzegi/">video recordings</a> of keynote lectures are available online.
+                </p>
+                <p>
+                    We covered the following subjects:  
+
+                    <ul>
+                        <li>introduction to Linux, programming (R and Python) and statistics</li>
+                        <li>tools for efficient and reproducible research</li>
+                        <li>modern R and Python libraries/packages for biomedical data science</li>
+                        <li>deep learning in long read sequencing data analysis</li>
+                        <li>statistical and probabilistic analysis of biomedical data</li>
+                        <li>integration of genomics data using ML for understanding gene regulation in its three dimensional context</li>
+                        <li>quality control and typical mistakes of a beginner ML user</li>
+                    </ul>
+                </p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <h2 id="program--speakers">Program & speakers</h2>
+                <p>
+                    This year we hosted introductory sessions, lectures, workshops and hackathons. First two days included introductory sessions covering Linux, 
+                    programming (R/Python) and statistics, in order to make sure all participants are at the same level and have necessary software and packages installed 
+                    and configured. Days 3-5 were filled with workshops and lectures on Machine Learning related topics given by the invited speakers. Days 6-8 consisted of 
+                    6 hackathon projects (~6 participants per each project). Every project was be guided by the mentor. On the last day we concluded all hackathon projects 
+                    with presentations, discussion and summary.
+                </p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <h2 id="social-activities">Social activities</h2>
+                <p>
+                    Similarly to previous years, we made sure there is plenty of fun beside hard working during workshops :)  
+                </p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <h2 id="organisers">Organisers</h2>
+                <p>
+                    <ul>
+                        <li><a href="/people/katarzyna-kedzierska">Katarzyna Kędzierska</a>, WCHG, OX, Oxford, GB</li>
+                        <li><a href="/people/german-demidov">German Demidov</a>, University of Tuebingen, DE</li>
+                        <li><a href="/people/samantha-filipow">Samantha Filipów</a>, IITD PAN, Wrocław, PL</li>
+                        <li><a href="/people/alina-frolova">Alina Frolova</a>, IMBG, Kyiv, UA</li>
+                        <li><a href="/people/maja-kuzman">Maja Kuzman</a>, University of Zagreb, HR</li>
+                        <li><a href="/people/maciej-lapinski">Maciej Łapiński</a>, IIMCB, Warsaw, PL</li>
+                        <li><a href="/people/leszek-pryszcz">Leszek Pryszcz</a>, CRG, ES / IIMCB, PL</li>
+                        <li><a href="/people/eugeniusz-tralle">Eugeniusz Tralle</a>, IIMCB, Warsaw, PL</li>
+                    </ul>
+                </p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12 sponsor-list">
+                <h2 id="sponsors">Sponsors</h2>
+                <div class="row">
+                    <div class="col-md-3 col-sm-6 sponsor-item">
+                        <a href="https://www.visegradfund.org/">
+                            <img src="/images/sponsors/visegrad_fund.jpg">
+                        </a>
+                    </div>
+                    <div class="col-md-3 col-sm-6 sponsor-item">
+                        <a href="https://www.biologists.com/">
+                            <img src="/images/sponsors/tCoB.jpg">
+                        </a>
+                    </div>
+                    <div class="col-md-3 col-sm-6 sponsor-item">
+                        <a href="https://www.7n.com/">
+                            <img src="/images/sponsors/7n.png">
+                        </a>
+                    </div>
+                    <div class="col-md-3 col-sm-6 sponsor-item">
+                        <a href="https://ardigen.com/">
+                            <img src="/images/sponsors/ardigen.png">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="row">
+            <a href="/galleries/ngschool2019" class="btn btn-block">
+                <span style="font-size: 150%;">
+                    <i class="far fa-images"></i> <b>Visit NGSchool2019 photo gallery</b>
+                </span>
+            </a>
+			<br>	
+            <div class="col-md-4">
+                <img class="img-responsive w-100" src="../images/ngschool/2019-006.jpg" alt="">
+            </div>
+            <div class="col-md-4">
+                <img class="img-responsive w-100" src="../images/ngschool/2019-008.jpg" alt="">
+            </div>
+            <div class="col-md-4">
+                <img class="img-responsive w-100" src="../images/ngschool/2019-009.jpg" alt="">
+            </div>
+        </div>
+
+        <br>
+
+        <div class="row">
+            <div class="col-md-6">
+                <img class="img-responsive w-100" src="../images/ngschool/2019-004.jpg" alt="">
+            </div>
+            <div class="col-md-6">
+                <img class="img-responsive w-100" src="../images/ngschool/2019-011.jpg" alt="">
+            </div>
+        </div>
+    </div>
+</section>
+
+{{ end }}

@@ -1,0 +1,52 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<section class="portfolio-work">	
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">   
+		  <div class="row">
+            <div class="col-md-6 portfolio-item">
+              <img class="img-responsive w-100" src="../images/ngschool/2019-010.jpg">
+                <div class="portfolio-content">
+                  <a class="portfolio-popup"></a>
+                  <a class="h1" href="/galleries/ngschool2019">NGSchool2019</a>
+                </div>
+            </div>
+            <div class="col-md-6 portfolio-item">
+              <img class="img-responsive w-100" src="../images/ngschool/2018-014.jpg">
+                <div class="portfolio-content">
+                  <a class="portfolio-popup"></a>
+                  <a class="h1" href="/galleries/ngschool2018">NGSchool2018</a>
+                </div>
+            </div>
+		  </div>
+		  <div class="row">
+            <div class="col-md-6 portfolio-item">
+              <img class="img-responsive w-100" src="../images/ngschool/2017-003.jpg">
+                <div class="portfolio-content">
+                  <a class="portfolio-popup"></a>
+                  <a class="h1" href="/galleries/ngschool2017">NGSchool2017</a>
+                </div>
+            </div>
+            <div class="col-md-6 portfolio-item">
+              <img class="img-responsive w-100" src="../images/ngschool/2016-007.jpg">
+                <div class="portfolio-content">
+                  <a class="portfolio-popup"></a>
+                  <a class="h1" href="/galleries/ngschool2016">NGSchool2016</a>
+                </div>
+            </div>
+		  </div>
+		</div>
+	  </div>
+	</div>
+  </div>
+		
+</section>
+
+
+{{ end }}

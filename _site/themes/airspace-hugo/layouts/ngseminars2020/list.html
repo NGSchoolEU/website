@@ -1,0 +1,45 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<section class="portfolio-single-page section-sm">
+  <div class="container">
+    <div class="row">
+		  <div class="project-details">
+			  <div class="col-md-12">
+          <ul>
+          {{ range .Params.Information }}
+            <li><span>{{ .label }} :</span> <strong>{{ .info | markdownify }}</strong></li>
+          {{ end }}
+          </ul>
+			  </div>
+      </div>
+    </div>
+
+    <div class="row" style="margin-top: 30px; margin-bottom: 0px;">
+      <div class="col-md-12">
+        <img class="img-responsive w-100" src="{{ .Params.Image | relURL }}" alt="{{ .Title }}" style="display: block; margin-left: auto; margin-right: auto; width: 30%;">
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-12">
+        <div class="project-content mt-50">
+          {{ .Content }}
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-12">
+        <div class="project-content mt-50">
+          <p>&nbsp;</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
