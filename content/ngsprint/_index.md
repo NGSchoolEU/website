@@ -81,7 +81,7 @@ NGSprint will take place between 8<sup>th</sup> and 15<sup>th</sup> of September
       <td>15:00-16:00</td>
       <td>
         Lecture 2: <i>Retrogenes - why to bother</i><br>
-        Izabela Makałowska
+        <a href="/people/izabela-makalowska" target="blank">Izabela Makałowska</a>
       </td>
       <td>
         For active participants: Zoom<br>
