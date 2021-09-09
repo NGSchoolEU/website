@@ -98,19 +98,22 @@ NGSprint will take place between 8<sup>th</sup> and 15<sup>th</sup> of September
     </tr>
     <!-- DAY 3 -->
     <tr>
-      <th rowspan="1" style="width: 200px;">
+      <th rowspan="2" style="width: 200px;">
         Day 3<br>
         Friday (10.09)
       </th>
-      <!-- <td style="width: 100px;">14:00-15:00</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr> -->
       <td>Agreed time</td>
       <td>Meeting with mentor</td>
       <td>
         Discord<br>
+        For active participants only
+      </td>      
+    </tr>
+    <tr>
+      <td style="width: 100px;">18:00-19:30</td>
+      <td>Networking event</td>
+      <td>
+        Zoom <a href="#zoom-info">*</a><br>
         For active participants only
       </td>
     </tr>
