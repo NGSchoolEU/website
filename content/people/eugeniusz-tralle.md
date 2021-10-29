@@ -1,13 +1,13 @@
 ---
 bg_image: images/bg.jpg
-category: Organizers
+category: Organizers (past editions)
 description: 
 draft: false
 image: images/people/eugeniusz-tralle.jpg
 information:
-- info: "NGSchool2017, NGSchool2018, NGSchool2019, NGSchool2020"
+- info: "NGSchool2017, NGSchool2018, NGSchool2019"
   label: Events
-- info: "Organiser"
+- info: "Former organizer"
   label: Role
 - info: IIMCB, Warsaw, Poland
   label: Affiliation

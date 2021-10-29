@@ -3,9 +3,9 @@ bg_image: images/bg.jpg
 category: Speakers
 description: 
 draft: false
-image: images/people/Aakrosh_Ratan2.jpg
+image: images/people/aakrosh-ratan.jpg
 information:
-- info: "NGSchool2020, NGSymposium2020"
+- info: "NGSchool2020, NGSymposium2020, NGSprint2021"
   label: Events
 - info: Speaker
   label: Role
