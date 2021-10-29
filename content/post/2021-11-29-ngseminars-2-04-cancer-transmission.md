@@ -6,7 +6,7 @@ image: images/ngseminars2021/seminar-04.jpg
 title: "NGSeminars 2021: The Biology of Cancer Cell Transmission (10.11.2021)"
 author: ngschool
 date: '2021-11-29'
-slug: webinars2-04-cancer-transmission
+slug: webinars2-04-cancertransmission
 categories:
   - news
   - NGSeminars 2021
