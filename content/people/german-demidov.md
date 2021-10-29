@@ -5,7 +5,7 @@ description:
 draft: false
 image: images/people/german-demidov.jpg
 information:
-- info: "NGSchool2016, NGSchool2017, NGSchool2018, NGSchool2019, NGSchool2020"
+- info: "NGSchool2016, NGSchool2017, NGSchool2018, NGSchool2019"
   label: Events
 - info: "Former organizer, speaker"
   label: Role

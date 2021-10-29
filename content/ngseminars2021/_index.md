@@ -40,7 +40,7 @@ Second series of webinars will start in mid-June and they will be held on Wednes
     <td>
       <a href="/post/webinars2-01-coral"><b>Coral cell atlas and a quest to understand cell type evolution</b></a>
     </td>
-    <td>Anamaria Elek</td>
+    <td><a href="/people/anamaria-elek">Anamaria Elek</a></td>
     <td>
        <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Coral+cell+atlas&dates=20210609T140000Z%2F20210609T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
@@ -93,15 +93,15 @@ Second series of webinars will start in mid-June and they will be held on Wednes
     </td>
   </tr>
   <tr>
-    <td>13.10.2021, 4-6 PM CET</td>
+    <td>10.11.2021, 4-6 PM CET</td>
     <td>
-      <!-- <a href="/post/webinars2-02-t2t"> -->
-        <b>TBA</b> (Germ Cell Tumours)
-      <!-- </a> -->
+      <a href="/post/webinars2-04-cancer-transmission">
+        <b>The Biology of Cancer Cell Transmission</b>
+      </a>
     </td>
-    <td><a href="/people/maire-ni-leathlobhair" target="blank">Máire Ní Leathlobhair</a></td>
+    <td><a href="/people/maire-ni-leathlobhair">Máire Ní Leathlobhair</a></td>
     <td>
-       <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Germ+Cell+Tumours&dates=20211013T140000Z%2F20211013T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+       <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+The+Biology+of+Cancer+Cell+Transmission&dates=20211110T140000Z%2F20211110T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
     <td>
       <!-- <a href="https://github.com/NGSchoolEU/linux_terminal_workshop" target="_blank"><i class="fab fa-github" style="margin-right: 5px;"></i>GitHub repository</a><br>
@@ -118,12 +118,11 @@ Join our live streams on <b><a href="https://www.youtube.com/NGSchoolEU" target=
   
 ## Organisers
 * [Szymon Grabia](/people/szymon-grabia), Medical University of Lodz, Poland  
+* [Urszula Smyczyńska](/people/urszula-smyczynska), Medical University of Lodz, Poland  
 * [Katarzyna Kędzierska](/people/katarzyna-kedzierska), WCHG, OX, Oxford, GB  
+* [Gladys Langi](/people/gladys-langi), Medical University of Bialystok, Poland  
 * [Lidia Lipińska](/people/lidia-lipinska), University of Warsaw, Poland  
 * [Natalia Pstrąg](/people/natalia-pstrag), UAM, Poznań, Poland  
-* [Anamaria Elek](/people/anamaria-elek), CRG, Barcelona, Spain  
-* [Karolina Sienkiewicz](/people/karolina-sienkiewicz), Weill Cornell Medicine, Cornell University, USA
-* [German Demidov](/people/german-demidov), IMGAG, University of Tübingen, Germany  
+* [Karolina Sienkiewicz](/people/karolina-sienkiewicz), Weill Cornell Medicine, Cornell University, USA  
 * [Samantha Filipów](/people/samantha-filipow), CECAD, University of Cologne, Germany  
-* [Urszula Smyczyńska](/people/urszula-smyczynska), Medical University of Lodz, Poland  
-* [Gladys Langi](/people/gladys-langi), Medical University of Bialystok, Poland  
+* [Anamaria Elek](/people/anamaria-elek), CRG, Barcelona, Spain  

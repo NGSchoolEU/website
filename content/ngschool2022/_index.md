@@ -27,15 +27,13 @@ Don't miss our events this year! More details coming soon.
 
 <br>
 ## Organisers
-* [Anamaria Elek](/people/anamaria-elek), CRG, Barcelona, Spain  
-* [Anna Erol] (/people/anna-erol), Medical University of Bialystok, Poland
-* [Samantha Filipów](/people/samantha-filipow), CECAD, University of Cologne, Germany
-* [Szymon Grabia](/people/szymon-grabia), Medical University of Lodz, Poland
 * [Katarzyna Kędzierska](/people/katarzyna-kedzierska), WCHG, OX, Oxford, GB  
-* [Lidia Lipińska-Zubrycka](/people/lidia-lipinska), University of Warsaw, Poland  
 * [Natalia Pstrąg](/people/natalia-pstrag), UAM, Poznań, Poland  
 * [Karolina Sienkiewicz](/people/karolina-sienkiewicz), Weill Cornell Medicine, Cornell University, USA  
+* [Lidia Lipińska-Zubrycka](/people/lidia-lipinska), University of Warsaw, Poland  
+* [Anamaria Elek](/people/anamaria-elek), CRG, Barcelona, Spain  
+* [Samantha Filipów](/people/samantha-filipow), CECAD, University of Cologne, Germany
+* [Szymon Grabia](/people/szymon-grabia), Medical University of Lodz, Poland
 * [Urszula Smyczyńska](/people/urszula-smyczynska), Medical University of Lodz, Poland  
-* [Eugeniusz Tralle](/people/eugeniusz-tralle), IIMCB, Warsaw, Poland    
 * [Gladys Wojciechowska](/people/gladys-langi), Medical University of Bialystok, Poland 
-* [Natalia Zawrotna](/people/natalia-zawrotna), University of Virginia, USA
+

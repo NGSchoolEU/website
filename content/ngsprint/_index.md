@@ -312,15 +312,13 @@ Depending on the topic. We do not have hard entry requirements, but we would sug
 
 <br>
 ## Organisers
-* [Anamaria Elek](/people/anamaria-elek), CRG, Barcelona, Spain  
-* [Anna Erol] (/people/anna-erol), Medical University of Bialystok, Poland
-* [Samantha Filipów](/people/samantha-filipow), CECAD, University of Cologne, Germany
+
 * [Szymon Grabia](/people/szymon-grabia), Medical University of Lodz, Poland
-* [Katarzyna Kędzierska](/people/katarzyna-kedzierska), WCHG, OX, Oxford, GB  
-* [Lidia Lipińska-Zubrycka](/people/lidia-lipinska), University of Warsaw, Poland  
-* [Natalia Pstrąg](/people/natalia-pstrag), UAM, Poznań, Poland  
-* [Karolina Sienkiewicz](/people/karolina-sienkiewicz), Weill Cornell Medicine, Cornell University, USA  
 * [Urszula Smyczyńska](/people/urszula-smyczynska), Medical University of Lodz, Poland  
+* [Katarzyna Kędzierska](/people/katarzyna-kedzierska), WCHG, OX, Oxford, GB  
+* [Karolina Sienkiewicz](/people/karolina-sienkiewicz), Weill Cornell Medicine, Cornell University, USA  
+* [Anamaria Elek](/people/anamaria-elek), CRG, Barcelona, Spain  
+* [Samantha Filipów](/people/samantha-filipow), CECAD, University of Cologne, Germany
 * [Gladys Wojciechowska](/people/gladys-langi), Medical University of Bialystok, Poland 
 * [Natalia Zawrotna](/people/natalia-zawrotna), University of Virginia, USA
 
