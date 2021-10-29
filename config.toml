@@ -308,3 +308,8 @@ link = "https://discord.gg/MhNeqwR"
 	  name = "Society"
 	  URL = "society"
 	  weight = 2
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
