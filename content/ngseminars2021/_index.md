@@ -93,7 +93,7 @@ Second series of webinars will start in mid-June and they will be held on Wednes
     </td>
   </tr>
   <tr>
-    <td>10.11.2021, 4-6 PM CET</td>
+    <td>10.11.2021, 3-5 PM CET</td>
     <td>
       <a href="/post/webinars2-04-cancertransmission">
         <b>The Biology of Cancer Cell Transmission</b>
