@@ -2,28 +2,31 @@
 markup: "mmark"
 
 bg_image: images/ngschool/2019-001.jpg
-description: NGSchool 2022
 draft: false
 information:
-# - info: "Białobrzegi, Poland"
-#   label: Location
-# - info: "July 22 - 31, 2020"
-#   label: Date
+ - info: "Jabłonna, Poland"
+   label: Location
+ - info: "15-23 September 2020"
+   label: Date
 # - info: "35 (planned)"
 #   label: Participants
 title: "NGSchool2022"
+description: Machine Learning in Computational Biology
 ---
 
-In 2022 NGSchool, our flagship annual event, will come back! We hope that it will be possible to finally organize an in-person event, then. We miss you and the unique atmosphere of NGSchools. In the meantime, we would be grateful if you answered a few questions in our survey so that we know what topic interest you.
+Our flagship annual summer school is finally coming back!  
+**NGSchool 2022: Machine Learning in Computational Biology** will be held in-person, from the **15th to 24th of September in Jabłonna, Poland**. 
 
-<a href="https://forms.gle/E2upreRC78xW3KUS7" class="btn btn-info btn-lg btn-block" style="width: 40%; margin: 0 auto;" target="blank">Register your interest form &nbsp;&nbsp;<i class="fas fa-share-square"></i></a>
+The topics we will cover during this year summer school include:
+
+* Introduction to statistics and machine learning in biology
+* Linear methods for regression and classification 
+* Cross-validation and model selection
+* Clustering and tree-based methods
+* Deep learning and natural language processing
 
 <br>
-It is not a registration form yet, but we ask you to do it, because we want to know what you are the most interested in so that we can plan an event that you actually need.
-
-<br>
-
-Don't miss our events this year! More details coming soon.
+Registration will be open soon. Watch this space for more details.
 
 <br>
 ## Organisers
