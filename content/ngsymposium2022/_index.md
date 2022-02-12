@@ -1,38 +1,31 @@
 ---
 markup: "mmark"
-
-bg_image: images/feature-conference.jpg
+bg_image: images/ngsymposium2022/warsaw.png
 title: NGSymposium in Computational Biology
 description: Conference for the 5<sup>th</sup> anniversary of NGSchool
 draft: false
 information:
-# - info: "Warsaw, Poland"
-#   label: Location
-# - info: "July 31 - August 1, 2020"
-#   label: Date
+ - info: "Warsaw, Poland"
+   label: Location
+ - info: "23-24 August 2022"
+   label: Date
 # - info: "200 (planned)"
 #   label: Participants
 # - info: "5 (planned)"
 #   label: Invited Speakers
 ---
 
-In 2022, we plan to organize next NGSymposium. This time, hopefully, it will be an in-person event.
+It's our great pleasure to invite you to the **NGSymposium in Computational Biology** to celebrate the 5<sup>th</sup> anniversary of NGSchool Summer Schools. The conference will bring together early-stage and senior researchers from different areas of bioinformatics. It will take place on **the 23rd and 24th of September 2022 in Warsaw**, as a satellite event to the [NGSchool2022](/ngschool2022). 
 
-<!-- We have a great pleasure to invite you to the **NGSymposium in Computational Biology** to celebrate the 5<sup>th</sup> anniversary of NGSchool Summer Schools. This international conference will serve as a platform for exchanging knowledge and experiences between established and early-stage researchers in bioinformatics. The meeting will be held on **31.07 - 1.08.2020 in Warsaw**. It will be a satellite event to the [NGSchool2020: Statistical Learning in Genomics](/ngschool2020). We will cover a wide range of topics from basic and applied biomedical sciences: bioinformatics, genomics, transcriptomics, computational biology.
+This international conference will be an excellent platform for computational biologists in central and eastern Europe to present their work, discuss it with other participants and renowned invited speakers, as well as initiate potential collaborations.
 
 ## Topics and keywords
-Bioinformatics, Genomics, Machine Learning, NGS
+We will have panels on multiomics and systems biology, cancer research, single cell transcriptomics and long-read sequencing. 
 
-<div style="width: 100%;">
-<div style="width: 48%; float: left; padding-bottom: 50px; padding-top: 50px;">
-<img class="img-responsive w-100" src="../images/conference-01.jpg">
-</div>
-<div style="width: 48%; float: right; padding-bottom: 50px; padding-top: 50px;">
-<img class="img-responsive w-100" src="../images/conference-02.jpg">
-</div>
-</div>
+More details coming soon!
 
-<br> -->
+## Registration
+Registration will be open on the 11th of April.
 
 <!-- ## Important dates
 <table class="table table-bordered table-striped">
@@ -159,21 +152,17 @@ University of Virginia, USA
 ## Scientific Advisory Board
 To be announced soon. -->
 
-<br>
-
 ## Organisers
-* [Anamaria Elek](/people/anamaria-elek), CRG, Barcelona, Spain  
-* [Anna Erol] (/people/anna-erol), Medical University of Bialystok, Poland
-* [Samantha Filipów](/people/samantha-filipow), CECAD, University of Cologne, Germany
-* [Szymon Grabia](/people/szymon-grabia), Medical University of Lodz, Poland
+
+* [Karolina Sienkiewicz](/people/karolina-sienkiewicz), Weill Cornell Medicine, Cornell University, USA  
 * [Katarzyna Kędzierska](/people/katarzyna-kedzierska), WCHG, OX, Oxford, GB  
 * [Lidia Lipińska-Zubrycka](/people/lidia-lipinska), University of Warsaw, Poland  
 * [Natalia Pstrąg](/people/natalia-pstrag), UAM, Poznań, Poland  
-* [Karolina Sienkiewicz](/people/karolina-sienkiewicz), Weill Cornell Medicine, Cornell University, USA  
+* [Anamaria Elek](/people/anamaria-elek), CRG, Barcelona, Spain  
+* [Samantha Filipów](/people/samantha-filipow), CECAD, University of Cologne, Germany
 * [Urszula Smyczyńska](/people/urszula-smyczynska), Medical University of Lodz, Poland  
-* [Eugeniusz Tralle](/people/eugeniusz-tralle), IIMCB, Warsaw, Poland    
+* [Szymon Grabia](/people/szymon-grabia), Medical University of Lodz, Poland
 * [Gladys Wojciechowska](/people/gladys-langi), Medical University of Bialystok, Poland 
-* [Natalia Zawrotna](/people/natalia-zawrotna), University of Virginia, USA
 
 
 <br>
