@@ -29,4 +29,7 @@ HUGO_VERSION = "0.64.1"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
+[dev]
+framework = "hugo"
+command = "hugo server --baseUrl https://ngschool.eu/ --appendPort=false -D"
 

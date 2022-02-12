@@ -13,7 +13,6 @@ defaultContentLanguageInSubdir = false
 # disable language
 disableLanguages = ["pl"]
 
-
 ############################# Plugins ##############################
 [params.plugins]
 

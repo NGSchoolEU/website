@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  website:
+    build: ./docker
+    container_name: ngschooleu_website
+    ports: 
+      - "9998:8888"
+    volumes:
+      - ./website:/project
