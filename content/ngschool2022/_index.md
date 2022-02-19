@@ -28,7 +28,6 @@ The topics we will cover during this year summer school include:
 <br>
 Registration will be open soon. Watch this space for more details.
 
-<br>
 
 <!-- Countdown -->
 
@@ -67,19 +66,28 @@ var x = setInterval(function() {
 
 <br>
 
-<div style="display:flex">
-     <div style="flex:1;padding-left:0px;">
-          <img src="/images/post/palacjablonna-03.jpg" width="200"/>
-     </div>
-     <div style="flex:1;padding-left:10px;">
-          <img src="/images/post/palacjablonna-05.jpg" width="344"/>
-     </div>
-     <div style="flex:1;padding-left:15px;">
-          <img src="/images/post/palacjablonna-04.jpg" width="200"/>
-     </div>
-     <div style="flex:1;padding-left:10px;">
-          <img src="/images/post/palacjablonna-07.jpg" width="345"/>
-     </div>
+<div class="row">
+  <div class="col-md-5">
+    <img class="img-responsive w-100" src="/images/post/palacjablonna-05.jpg" alt="">
+  </div>
+  <div class="col-md-3">
+    <img class="img-responsive w-100" src="/images/post/palacjablonna-03.jpg" alt="">
+  </div>
+  <div class="col-md-3">
+    <img class="img-responsive w-100" src="/images/post/palacjablonna-04.jpg" alt="">
+  </div>
+</div>
+<br>
+<div class="row">
+  <div class="col-md-4">
+    <img class="img-responsive w-100" src="/images/post/palacjablonna-06.jpg" alt="">
+  </div>
+  <div class="col-md-3">
+    <img class="img-responsive w-100" src="/images/post/palacjablonna-08.jpg" alt="">
+  </div>
+  <div class="col-md-4">
+    <img class="img-responsive w-100" src="/images/post/palacjablonna-07.jpg" alt="">
+  </div>
 </div>
 
 <br>
