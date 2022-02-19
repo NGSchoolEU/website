@@ -67,13 +67,13 @@ var x = setInterval(function() {
 <br>
 
 <div class="row">
-  <div class="col-md-5">
+  <div class="col-md-4">
     <img class="img-responsive w-100" src="/images/post/palacjablonna-05.jpg" alt="">
   </div>
-  <div class="col-md-3">
+  <div class="col-md-4">
     <img class="img-responsive w-100" src="/images/post/palacjablonna-03.jpg" alt="">
   </div>
-  <div class="col-md-3">
+  <div class="col-md-4">
     <img class="img-responsive w-100" src="/images/post/palacjablonna-04.jpg" alt="">
   </div>
 </div>
@@ -82,7 +82,7 @@ var x = setInterval(function() {
   <div class="col-md-4">
     <img class="img-responsive w-100" src="/images/post/palacjablonna-06.jpg" alt="">
   </div>
-  <div class="col-md-3">
+  <div class="col-md-4">
     <img class="img-responsive w-100" src="/images/post/palacjablonna-08.jpg" alt="">
   </div>
   <div class="col-md-4">

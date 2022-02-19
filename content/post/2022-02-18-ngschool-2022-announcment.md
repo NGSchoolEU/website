@@ -16,16 +16,17 @@ We are beyond excited to announce that our summer school is coming back to life,
 
 <b>NGSchool2022: Machine Learning in Computational Biology</b> will take place on 15-23 September 2022 in the beautiful <a href="https://www.palacjablonna.pl/index.php" target="blank">Jabłonna palace</a> near Warsaw, Poland.
 
-<div style="display:flex">
-     <div style="flex:1;padding-right:0px;">
-          <img src="/images/post/palacjablonna-03.jpg" width="200"/>
-     </div>
-     <div style="flex:1;padding-left:10px;">
-          <img src="/images/post/palacjablonna-05.jpg" width="344"/>
-     </div>
-     <div style="flex:1;padding-left:10px;">
-          <img src="/images/post/palacjablonna-04.jpg" width="200"/>
-     </div>
+
+<div class="row">
+  <div class="col-md-4">
+    <img class="img-responsive w-100" src="/images/post/palacjablonna-05.jpg" alt="">
+  </div>
+  <div class="col-md-4">
+    <img class="img-responsive w-100" src="/images/post/palacjablonna-03.jpg" alt="">
+  </div>
+  <div class="col-md-4">
+    <img class="img-responsive w-100" src="/images/post/palacjablonna-04.jpg" alt="">
+  </div>
 </div>
 
 <br>
