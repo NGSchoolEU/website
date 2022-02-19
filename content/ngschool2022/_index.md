@@ -1,12 +1,12 @@
 ---
 markup: "mmark"
 
-bg_image: images/ngschool/2019-001.jpg
+bg_image: images/post/palacjablonna-02.jpg
 draft: false
 information:
  - info: "Jabłonna, Poland"
    label: Location
- - info: "15-23 September 2020"
+ - info: "15-23 September 2022"
    label: Date
 # - info: "35 (planned)"
 #   label: Participants
@@ -15,7 +15,7 @@ description: Machine Learning in Computational Biology
 ---
 
 Our flagship annual summer school is finally coming back!  
-**NGSchool 2022: Machine Learning in Computational Biology** will be held in-person, from the **15th to 24th of September in Jabłonna, Poland**. 
+<b>NGSchool 2022: Machine Learning in Computational Biology</b> will be held in-person, from the <b>15th to 24th of September in <a href="https://www.palacjablonna.pl/index.php" target="blank">Jabłonna palace</a> near Warsaw, Poland</b>.
 
 The topics we will cover during this year summer school include:
 
@@ -67,6 +67,22 @@ var x = setInterval(function() {
 
 <br>
 
+<div style="display:flex">
+     <div style="flex:1;padding-left:0px;">
+          <img src="/images/post/palacjablonna-03.jpg" width="200"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="/images/post/palacjablonna-05.jpg" width="344"/>
+     </div>
+     <div style="flex:1;padding-left:15px;">
+          <img src="/images/post/palacjablonna-04.jpg" width="200"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="/images/post/palacjablonna-07.jpg" width="345"/>
+     </div>
+</div>
+
+<br>
 
 ## Organisers
 * [Katarzyna Kędzierska](/people/katarzyna-kedzierska), WCHG, OX, Oxford, GB  
