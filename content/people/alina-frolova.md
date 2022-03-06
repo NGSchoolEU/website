@@ -1,6 +1,6 @@
 ---
 bg_image: images/bg.jpg
-category: Organizers (past editions)
+category: Previous organizers
 description: 
 draft: false
 image: images/people/alina-frolova.jpg

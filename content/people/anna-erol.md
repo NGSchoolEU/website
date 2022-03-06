@@ -1,6 +1,6 @@
 ---
 bg_image: images/bg.jpg
-category: Organizers
+category: Previous organizers
 description: 
 draft: false
 image: images/people/anna-erol.jpg

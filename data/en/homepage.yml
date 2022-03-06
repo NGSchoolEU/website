@@ -83,77 +83,64 @@ funfacts:
   testimonial_slider:
     # testimonial item loop
     - name : "Katarzyna Kędzierska"
-      image : "images/team/katarzyna-kedzierska.jpg"
+      image : "images/people/katarzyna-kedzierska.jpg"
       link: "people/katarzyna-kedzierska/"
       designation : "WHG, University of Oxford, UK"
       content : "NGSchool President, Project Coordinator"
-
+     
     # testimonial item loop
-    - name : "German Demidov"
-      image : "images/team/german-demidov.jpg"
-      link: "people/german-demidov"
-      designation : "IMGAG, University of Tübingen, Germany"
-      content : "Participants"
-
-    # testimonial item loop                
-    - name: "Eugeniusz Tralle"
-      image: "images/team/eugeniusz-tralle.jpg"
-      link: "people/eugeniusz-tralle"
-      designation: "IIMCB, Warsaw, Poland"
-      content: "Finances"
+    - name : "Gladys Langi"
+      image : "images/people/gladys-langi.jpg"
+      link: "people/gladys-langi"
+      designation : "Medical University of Bialystok, Poland"
+      content : "NGSchool Vice President, Program"
       
     # testimonial item loop
-    - name : "Samantha Filipów"
-      image : "images/team/samantha-filipow.jpg"
-      link: "people/samantha-filipow"
-      designation : "CECAD, University of Cologne, Germany"
-      content : "PR"
-
-    # testimonial item loop
     - name : "Karolina Sienkiewicz"
-      image : "images/team/karolina-sienkiewicz.jpg"
+      image : "images/people/karolina-sienkiewicz.jpg"
       link: "people/karolina-sienkiewicz"
       designation : "CPHG, University of Virginia, USA"
+      content : "Audit Commitee, Program"
+             
+    # testimonial item loop
+    - name : "Anamaria Elek"
+      image : "images/people/anamaria-elek.jpg"
+      link: "people/anamaria-elek"
+      designation : "CRG, Barcelona, Spain"
       content : "Program"
 
     # testimonial item loop
     - name : "Natalia Pstrąg"
-      image : "images/team/natalia-pstrag.jpg"
+      image : "images/people/natalia-pstrag.jpg"
       link: "people/natalia-pstrag"
       designation : "UAM, Poznań, Poland"
-      content : "Logistics" 
-      
+      content : "Finances" 
+            
+    # testimonial item loop
+    - name : "Samantha Filipów"
+      image : "images/people/samantha-filipow.jpg"
+      link: "people/samantha-filipow"
+      designation : "CECAD, University of Cologne, Germany"
+      content : "PR"
+    
     # testimonial item loop
     - name : "Lidia Lipińska"
-      image : "images/team/lidia-lipinska.jpg"
+      image : "images/people/lidia-lipinska.jpg"
       link: "people/lidia-lipinska"
       designation : "University of Warsaw, Poland"
       content : "Logistics"           
 
     # testimonial item loop
     - name : "Urszula Smyczyńska"
-      image : "images/team/urszula-smyczynska.jpg"
+      image : "images/people/urszula-smyczynska.jpg"
       link: "people/urszula-smyczynska"
       designation : "Medical University of Lodz, Poland"
       content : "Logistics"      
-    
-    # testimonial item loop
-    - name : "Gladys Langi"
-      image : "images/team/gladys-langi.jpg"
-      link: "people/gladys-langi"
-      designation : "Medical University of Bialystok, Poland"
-      content : "Logistics"
       
     # testimonial item loop
     - name : "Szymon Grabia"
-      image : "images/team/szymon-grabia.jpg"
+      image : "images/people/szymon-grabia.jpg"
       link: "people/szymon-grabia"
       designation : "Medical University of Lodz, Poland"
       content : "IT"
 
-    # testimonial item loop
-    - name : "Anamaria Elek"
-      image : "images/team/anamaria-elek.jpg"
-      link: "people/anamaria-elek"
-      designation : "CRG, Barcelona, Spain"
-      content : "IT"
