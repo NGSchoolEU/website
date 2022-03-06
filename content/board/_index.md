@@ -10,9 +10,9 @@ title: NGSchool Society Board
 
 <br>
 <h2><b>Vice President</b></h2>
-<h2 style="margin-left: 2em;"><a href="/people/natalia-pstrag/">Natalia Pstrąg</a></h2>
+<h2 style="margin-left: 2em;"><a href="/people/gladys-langi/">Gladys Wojciechowska</a></h2>
 
 <br>
 <h2><b>Audit Committee</b></h2>
 <h2 style="margin-left: 2em;"><a href="/people/karolina-sienkiewicz/">Karolina Sienkiewicz</a></h2>
-<h2 style="margin-left: 2em;"><a href="/people/gladys-langi/">Gladys Wojciechowska</a></h2>
+
