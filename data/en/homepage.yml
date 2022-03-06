@@ -87,14 +87,21 @@ funfacts:
       link: "people/katarzyna-kedzierska/"
       designation : "WHG, University of Oxford, UK"
       content : "NGSchool President, Project Coordinator"
-     
+
+    # testimonial item loop
+    - name : "Natalia Pstrąg"
+      image : "images/people/natalia-pstrag.jpg"
+      link: "people/natalia-pstrag"
+      designation : "UAM, Poznań, Poland"
+      content : "NGSchool Vice President, Finances" 
+      
     # testimonial item loop
     - name : "Gladys Langi"
       image : "images/people/gladys-langi.jpg"
       link: "people/gladys-langi"
       designation : "Medical University of Bialystok, Poland"
       content : "NGSchool Vice President, Program"
-      
+
     # testimonial item loop
     - name : "Karolina Sienkiewicz"
       image : "images/people/karolina-sienkiewicz.jpg"
@@ -109,12 +116,6 @@ funfacts:
       designation : "CRG, Barcelona, Spain"
       content : "Program"
 
-    # testimonial item loop
-    - name : "Natalia Pstrąg"
-      image : "images/people/natalia-pstrag.jpg"
-      link: "people/natalia-pstrag"
-      designation : "UAM, Poznań, Poland"
-      content : "Finances" 
             
     # testimonial item loop
     - name : "Samantha Filipów"
