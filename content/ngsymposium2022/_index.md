@@ -7,7 +7,7 @@ draft: false
 information:
  - info: "Warsaw, Poland"
    label: Location
- - info: "23-24 August 2022"
+ - info: "23-24 September 2022"
    label: Date
 # - info: "200 (planned)"
 #   label: Participants
