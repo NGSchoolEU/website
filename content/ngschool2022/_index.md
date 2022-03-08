@@ -15,7 +15,7 @@ description: Machine Learning in Computational Biology
 ---
 
 Our flagship annual summer school is finally coming back!  
-<b>NGSchool 2022: Machine Learning in Computational Biology</b> will be held in-person, from the <b>15th to 24th of September in <a href="https://www.palacjablonna.pl/index.php" target="blank">Jabłonna palace</a> near Warsaw, Poland</b>.
+<b>NGSchool 2022: Machine Learning in Computational Biology</b> will be held in-person, from the <b>15th to 23rd of September in <a href="https://www.palacjablonna.pl/index.php" target="blank">Jabłonna palace</a> near Warsaw, Poland</b>.
 
 The topics we will cover during this year summer school include:
 
