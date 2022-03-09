@@ -18,6 +18,6 @@ After confirming there are no errors you can create a pull request and merge cha
 
 | Badge | Website |
 | --- | ---|
-| [![Netlify Status](https://api.netlify.com/api/v1/badges/3e73097f-3250-4ab0-b36d-392c86f53836/deploy-status)](https://app.netlify.com/sites/ngschool/deploys) | [beta.ngschool.eu](https://beta.ngschool.eu/) |
+| [![Netlify Status](https://api.netlify.com/api/v1/badges/3e73097f-3250-4ab0-b36d-392c86f53836/deploy-status)](https://app.netlify.com/sites/ngschool/deploys) | [ngschool.eu](https://ngschool.eu/) |
 
 
