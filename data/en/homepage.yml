@@ -82,9 +82,9 @@ funfacts:
 
   testimonial_slider:
     # testimonial item loop
-    - name : "Katarzyna Kędzierska"
-      image : "images/people/katarzyna-kedzierska.jpg"
-      link: "people/katarzyna-kedzierska/"
+    - name : "Kasia Kędzierska"
+      image : "images/people/kasia-kedzierska.jpg"
+      link: "people/kasia-kedzierska/"
       designation : "WHG, University of Oxford, UK"
       content : "NGSchool President, Project Coordinator"
 
@@ -93,14 +93,14 @@ funfacts:
       image : "images/people/natalia-pstrag.jpg"
       link: "people/natalia-pstrag"
       designation : "UAM, Poznań, Poland"
-      content : "NGSchool Vice President, Finances" 
+      content : "NGSchool Vice President, Sponsors" 
       
     # testimonial item loop
-    - name : "Gladys Langi"
+    - name : "Gladys Wojciechowska"
       image : "images/people/gladys-langi.jpg"
       link: "people/gladys-langi"
       designation : "Medical University of Bialystok, Poland"
-      content : "NGSchool Vice President, Program"
+      content : "NGSchool Vice President, Logistics"
 
     # testimonial item loop
     - name : "Karolina Sienkiewicz"
@@ -114,7 +114,7 @@ funfacts:
       image : "images/people/anamaria-elek.jpg"
       link: "people/anamaria-elek"
       designation : "CRG, Barcelona, Spain"
-      content : "Program"
+      content : "Participants"
 
             
     # testimonial item loop
@@ -125,7 +125,7 @@ funfacts:
       content : "PR"
     
     # testimonial item loop
-    - name : "Lidia Lipińska"
+    - name : "Lidia Lipińska-Zubrycka"
       image : "images/people/lidia-lipinska.jpg"
       link: "people/lidia-lipinska"
       designation : "University of Warsaw, Poland"

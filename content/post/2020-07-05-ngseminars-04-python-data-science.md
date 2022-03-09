@@ -23,11 +23,11 @@ Join on Thursday, 9<sup>th</sup> July 2020 at 4 PM CET on <a href="https://www.y
 
 If you feel you would do better with some intro go to our Youtube channel and watch <a href="https://youtu.be/sL0bPDmgsms" target="_blank">Introduction to Python seminar</a>.<br>
 
-### Speaker: Katarzyna Kędzierska
+### Speaker: Kasia Kędzierska
 
-Katarzyna Kędzierska - PhD student in Genomic Medicine and Statistics at the Wellcome Centre for Human Genetics, University of Oxford, investigating chromatin organization role in tumor evolution in endometrial cancer. She graduated at Warsaw University of Technology in Poland and before coming to Oxford she worked in the Zebrafish Developmental Genomics group at the International Institute of Molecular and Cell Biology in Warsaw, and in Ratan group at the University of Virginia. Currently the President of the NGSchool Society, she has been engaged in the NGSchool initiative from the very beginning.  
+Kasia Kędzierska - PhD student in Genomic Medicine and Statistics at the Wellcome Centre for Human Genetics, University of Oxford, investigating chromatin organization role in tumor evolution in endometrial cancer. She graduated at Warsaw University of Technology in Poland and before coming to Oxford she worked in the Zebrafish Developmental Genomics group at the International Institute of Molecular and Cell Biology in Warsaw, and in Ratan group at the University of Virginia. Currently the President of the NGSchool Society, she has been engaged in the NGSchool initiative from the very beginning.  
 
-<img src="/images/people/katarzyna-kedzierska.jpg" style="width: 60%; display: block; margin-left: auto; margin-right: auto; ">
+<img src="/images/people/kasia-kedzierska.jpg" style="width: 60%; display: block; margin-left: auto; margin-right: auto; ">
 
 <br>
 
