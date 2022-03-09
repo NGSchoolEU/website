@@ -96,7 +96,7 @@ Similarly to previous years, we'll make sure there is plenty of fun beside hard 
 [You can check photos from previous editions for a sample of that.](/galleries/)   -->
   
 ## Organisers & partners
-* [Katarzyna Kędzierska](/people/katarzyna-kedzierska), WCHG, OX, Oxford, GB  
+* [Kasia Kędzierska](/people/kasia-kedzierska), WCHG, OX, Oxford, GB  
 * [Lidia Lipińska](/people/lidia-lipinska), University of Warsaw, Poland  
 * [Natalia Pstrąg](/people/natalia-pstrag), UAM, Poznań, Poland  
 * [Anamaria Elek](/people/anamaria-elek), CRG, Barcelona, Spain  

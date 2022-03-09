@@ -173,16 +173,18 @@ Transfer title:
 
 ## Speakers
 
-### Invited Speakers
+### Keynote Speakers
 ##### [**Máire Ní Leathlobhair**](/people/maire-ni-leathlobhair/)  
-Big Data Institute, University of Oxford, UK
+Department of Microbiology, Trinity College Dublin, Ireland
 <br>
-Lecture title: ***Transmissible Cancer - A Long-Term Evolution Experiment***
+Máire is an assistant professor in Biological Data Analysis at Trinity College Dublin. Previously she was a post-doctoral researcher at Trinity College at the University of Oxford in the Cancer Genomics group led by Dr David Wedge at the Oxford Big Data Institute. She obtained her PhD degree in 2018 under the supervision of Elizabeth Murchison at Cambridge University. During her PhD she focused on understanding the origin and evolution of transmissible cancer. Currently, her main research interests lie in investigating the development of rare cancers.
 
-### Keynote speaker
-##### [**Aakrosh	Ratan**](/people/aakrosh-ratan/)
-University of Virginia, USA  
-
+### Invited Speakers
+#### [**Paweł Krawczyk**](/people/pawel-krawczyk/)
+Dziembowski's Group, International Institute of Molecular and Cell Biology in Warsaw
+<br>
+Paweł Krawczyk is a Postdoctoral Fellow in Dziembowski’s group in the International Institute of Molecular and Cell Biology in Warsaw. Before PhD, he gained experience in the Institute of Genetics and Biotechnology at the University of Warsaw (PhD), and Institute of Biochemistry and Biophysics Polish Academy of Sciences (Research assistant). He is an expert in analysis of all kinds of NGS data, from metagenomics and bacterial genomics, to transcriptomics, TAILseq and long-read sequencing data.
+Experienced biologist and talented bioinformatician, author of bioinformatics tools and packages, including nanopolish and tailfindr for the analysis of long-read sequencing data. Author and co-author of scientific papers in leading journals (including Cell, Cell Reports, Nucleic Acids Research).
 
 ##### ...and more coming soon!
 
@@ -194,7 +196,7 @@ To be announced soon. -->
 ## Organisers
 
 * [Karolina Sienkiewicz](/people/karolina-sienkiewicz), Weill Cornell Medicine, Cornell University, USA  
-* [Katarzyna Kędzierska](/people/katarzyna-kedzierska), WCHG, OX, Oxford, GB  
+* [Kasia Kędzierska](/people/kasia-kedzierska), WHG, OX, Oxford, GB  
 * [Lidia Lipińska-Zubrycka](/people/lidia-lipinska), University of Warsaw, Poland  
 * [Natalia Pstrąg](/people/natalia-pstrag), UAM, Poznań, Poland  
 * [Anamaria Elek](/people/anamaria-elek), CRG, Barcelona, Spain  

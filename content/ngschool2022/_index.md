@@ -93,7 +93,7 @@ var x = setInterval(function() {
 <br>
 
 ## Organisers
-* [Katarzyna Kędzierska](/people/katarzyna-kedzierska), WCHG, OX, Oxford, GB  
+* [Kasia Kędzierska](/people/kasia-kedzierska), WHG, OX, Oxford, GB  
 * [Natalia Pstrąg](/people/natalia-pstrag), UAM, Poznań, Poland  
 * [Karolina Sienkiewicz](/people/karolina-sienkiewicz), Weill Cornell Medicine, Cornell University, USA  
 * [Lidia Lipińska-Zubrycka](/people/lidia-lipinska), University of Warsaw, Poland  

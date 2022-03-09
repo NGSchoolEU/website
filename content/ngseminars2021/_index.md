@@ -119,7 +119,7 @@ Join our live streams on <b><a href="https://www.youtube.com/NGSchoolEU" target=
 ## Organisers
 * [Szymon Grabia](/people/szymon-grabia), Medical University of Lodz, Poland  
 * [Urszula Smyczyńska](/people/urszula-smyczynska), Medical University of Lodz, Poland  
-* [Katarzyna Kędzierska](/people/katarzyna-kedzierska), WCHG, OX, Oxford, GB  
+* [Kasia Kędzierska](/people/kasia-kedzierska), WCHG, OX, Oxford, GB  
 * [Gladys Langi](/people/gladys-langi), Medical University of Bialystok, Poland  
 * [Lidia Lipińska](/people/lidia-lipinska), University of Warsaw, Poland  
 * [Natalia Pstrąg](/people/natalia-pstrag), UAM, Poznań, Poland  

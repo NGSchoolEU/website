@@ -286,7 +286,7 @@ link = "https://discord.gg/MhNeqwR"
   weight = 1
   home = "Home"
   # copyright
-  copyright = "Made & maintained by Anamaria, Szymon and Ula, Copyright &copy; [NGSchool](https://ngschool.eu) 2020 | Theme by [Themefisher](https://themefisher.com)"
+  copyright = "Made & maintained by Anamaria, Szymon and Ula, Copyright &copy; [NGSchool](https://ngschool.eu) 2020-2022 | Theme by [Themefisher](https://themefisher.com)"
  
   ################################ Polish Language ########################
   [Languages.pl]
@@ -296,7 +296,7 @@ link = "https://discord.gg/MhNeqwR"
   weight = 2
   home = "Home"
   # copyright
-  copyright = "Made & maintained by Anamaria, Szymon and Ula, Copyright &copy; [NGSchool](https://ngschool.eu) 2020 | Theme by [Themefisher](https://themefisher.com)"
+  copyright = "Strona stworzona i utrzymywana przez Anamarię, Szymona i Ulę, Copyright &copy; [NGSchool](https://ngschool.eu) 2020-2022 | Theme by [Themefisher](https://themefisher.com)"
 	
 	  # main menu
 	  [[Languages.pl.menu.main]]

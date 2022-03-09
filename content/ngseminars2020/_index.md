@@ -52,7 +52,7 @@ First series of online workshops will start in mid-June and they will be held on
   <tr>
     <td>25.06.2020, 4-6 PM CET</td>
     <td><a href="/post/webinars-02-python"><b>Introduction to Python</b></a></td>
-    <td>Katarzyna Kędzierska</td>
+    <td>Kasia Kędzierska</td>
     <td>
       <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Introduction+to+Python&dates=20200625T140000Z%2F20200625T160000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a></td>
     <td>
@@ -76,7 +76,7 @@ First series of online workshops will start in mid-June and they will be held on
 
   <td>09.07.2020, 4-6 PM CET</td>
     <td><b><a href="/post/webinars-04-python">Python for Data Science</a></b></td>
-    <td>Katarzyna Kędzierska</td>
+    <td>Kasia Kędzierska</td>
     <td>
       <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSeminar%3A+Python+for+Data+Science&dates=20200709T140000Z%2F20200709T160000Z" target="_blank" class="btn btn-primary"> Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
@@ -214,7 +214,7 @@ Join our live streams on <b><a href="https://www.youtube.com/NGSchoolEU" target=
   
 ## Organisers
 * [Szymon Grabia](/people/szymon-grabia), Medical University of Lodz, Poland  
-* [Katarzyna Kędzierska](/people/katarzyna-kedzierska), WCHG, OX, Oxford, GB  
+* [Kasia Kędzierska](/people/kasia-kedzierska), WCHG, OX, Oxford, GB  
 * [Lidia Lipińska](/people/lidia-lipinska), University of Warsaw, Poland  
 * [Natalia Pstrąg](/people/natalia-pstrag), UAM, Poznań, Poland  
 * [Anamaria Elek](/people/anamaria-elek), CRG, Barcelona, Spain  

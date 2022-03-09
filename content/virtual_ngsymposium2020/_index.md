@@ -120,7 +120,7 @@ Please note that we also accept only limited RMarkdown formatting in the body of
 
 ## Organizing Team
 * [Karolina Sienkiewicz](/people/karolina-sienkiewicz), CPHG, University of Virginia, USA
-* [Katarzyna Kędzierska](/people/katarzyna-kedzierska), WCHG, University of Oxford, UK
+* [Kasia Kędzierska](/people/kasia-kedzierska), WCHG, University of Oxford, UK
 * [Lidia Lipińska](/people/lidia-lipinska), University of Warsaw, Poland
 * [Natalia Pstrąg](/people/natalia-pstrag), UAM, Poznań, Poland
 * [Anamaria Elek](/people/anamaria-elek), CRG, Barcelona, Spain
