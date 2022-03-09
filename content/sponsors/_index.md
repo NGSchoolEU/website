@@ -9,9 +9,9 @@ draft: false
 
 It’s hard to believe that it was only 40 years ago that the first techniques of sequencing were developed. In that period tremendous progress was made - long and laborious protocols were replaced by easy to use kits, sample prep can take as little as 1 hour and sequencers can be the size of a USB stick. And the field is still dynamically growing. Next Generation Sequencing (NGS) is rapidly revolutionizing biomedical research and clinical diagnostics while still growing and evolving. There’s no doubt that the influence of sequencing will only expand.
 
-With NGSchool - an annual Summer School, we aim to provide the bioinformatics course for researchers and data scientists in the early stage of their careers (while being open to strongly motivated applications with any background) to both boost research & development (R&D) in Central & Eastern Europe and close the gap in the field of genomics between Western and Central & Eastern Europe. This year, we are focusing on machine learning [NGSchool2020: Statistical Learning in Genomics](/ngschool2020)
+With NGSchool - an annual Summer School, we aim to provide the bioinformatics course for researchers and data scientists in the early stage of their careers (while being open to strongly motivated applications with any background) to both boost research & development (R&D) in Central & Eastern Europe and close the gap in the field of genomics between Western and Central & Eastern Europe. This year, we are focusing on machine learning [NGSchool2022: Machine Learning in Computational Biology](/ngschool2022)
 
-This year, we are also organising [NGSymposium in Computational Biology](/virtual_ngsymposium2020). This international conference will make way for exchanging knowledge and experiences between experienced and early-stage researchers as well as bioinformaticians. The meeting will be held on 31.07 - 1.08.2020 in Warsaw. 
+This year, we are also organising [NGSymposium in Computational Biology](/ngsymposium2022). This international conference will make way for exchanging knowledge and experiences between experienced and early-stage researchers as well as bioinformaticians. The meeting will be held on 23-24.09.2022 in Warsaw. 
 
 <div class="row" style="margin-top: 5px;">
 <br>
@@ -27,21 +27,14 @@ This year, we are also organising [NGSymposium in Computational Biology](/virtua
 
 We plan that the event will be attended by 45 participants (35 students and 10 lecturers). In the previous editions of the summer school, we have received over **650 applications** in total from more than **40 countries**. The selection process is very competitive and throughout the years we were able to create a network of highly motivated and brilliant computational biologists and data scientists. For your company, the school will be an extraordinary **recruiting opportunity**.
 
-Our conference will gather abour 200 international researchers and students and will be a great place to **advertise your company and increse its visibility**.  
+Our conference will gather about 200 international researchers and students and will be a great place to **advertise your company and increse its visibility**.  
 
-Similarly, as in the previous year, the project will be intensively advertised at several conferences, through social media and by personal recommendation in order to attract best participants.   
+Similarly, as in the previous years, the project will be intensively advertised at several conferences, through social media and by personal recommendation in order to attract best participants.   
 
 ## How can you support us?
 
 We welcome all kinds of help, however, we seek financial support first of all as our mission is to provide equal possibilities to all the students, especially from developing countries, by providing them with travel grants and registration fee discounts. We offer five Sponsor Packages, however we are keen on preparing a tailored sponsorship collaboration. Contact us for the details on each of the packages.
 
-### Sponsorship options
-
-* **ADS**: advertisement of the sponsor through our social media and extensive alumni network  
-* **LEARN**: **ADS** + participant at the school   
-* **TEACH**: **ADS** + talk at the school + hackathon   
-* **FULL**: **TEACH** + participant at the school  
-* **2EVENTS**: **FULL** + talk at the conference   
 
 <div class="row" style="margin-top: 5px;">
 <br>
@@ -54,4 +47,4 @@ We welcome all kinds of help, however, we seek financial support first of all as
 
 ## [Contact us](/contact)
   
-If you are interested in our offer or would like to learn more about NGSchool, please contact us directly. We are looking forward to initiating rewarding and lasting professional relationships.  
+If you are interested in our offer or would like to learn more about NGSchool, please contact us directly and our team will be happy to show you our sponsors offer. We are looking forward to initiating rewarding and lasting professional relationships.  
