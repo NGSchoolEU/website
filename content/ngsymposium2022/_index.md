@@ -20,7 +20,7 @@ It's our great pleasure to invite you to the **NGSymposium in Computational Biol
 This international conference will be an excellent platform for computational biologists in central and eastern Europe to present their work, discuss it with other participants and renowned invited speakers, as well as initiate potential collaborations.
 
 ## Topics and keywords
-We will have panels on multiomics and systems biology, cancer research, single cell transcriptomics and long-read sequencing. 
+We will have panels on **multiomics and systems biology**, **cancer research**, **single cell transcriptomics** and **long-read sequencing**. 
 
 More details coming soon!
 
@@ -175,19 +175,23 @@ Transfer title:
 
 ## Speakers
 
-##### [**Máire Ní Leathlobhair**](/people/maire-ni-leathlobhair/)  
+<h3><a href="/people/maire-ni-leathlobhair/" target="blank">Máire Ní Leathlobhair</a></h3>
 Department of Microbiology, Trinity College Dublin, Ireland
 <br>
 <!-- Máire is an assistant professor in Biological Data Analysis at Trinity College Dublin. Previously she was a post-doctoral researcher at Trinity College at the University of Oxford in the Cancer Genomics group led by Dr David Wedge at the Oxford Big Data Institute. She obtained her PhD degree in 2018 under the supervision of Elizabeth Murchison at Cambridge University. During her PhD she focused on understanding the origin and evolution of transmissible cancer. Currently, her main research interests lie in investigating the development of rare cancers. -->
 
-##### [**Paweł Krawczyk**](/people/pawel-krawczyk/)
+<h3><a href="https://p-cmrc.cat/research/plass-group/" target="blank">Mireya Plass</a></h3>
+Bellvitge Biomedical Research Institute (IDIBELL), Hospitalet de Llobregat, Barcelona, Spain
+<br>
+
+<h3><a href="/people/pawel-krawczyk/" target="blank">Paweł Krawczyk</a></h3>
 Dziembowski's Group, International Institute of Molecular and Cell Biology in Warsaw
 <br>
 <!-- Paweł Krawczyk is a Postdoctoral Fellow in Dziembowski’s group in the International Institute of Molecular and Cell Biology in Warsaw. Before PhD, he gained experience in the Institute of Genetics and Biotechnology at the University of Warsaw (PhD), and Institute of Biochemistry and Biophysics Polish Academy of Sciences (Research assistant). He is an expert in analysis of all kinds of NGS data, from metagenomics and bacterial genomics, to transcriptomics, TAILseq and long-read sequencing data.
 Experienced biologist and talented bioinformatician, author of bioinformatics tools and packages, including nanopolish and tailfindr for the analysis of long-read sequencing data. Author and co-author of scientific papers in leading journals (including Cell, Cell Reports, Nucleic Acids Research). -->
+<br>
 
-
-#### ...and more coming soon!  
+...and more coming soon!
 
 <br>
 
