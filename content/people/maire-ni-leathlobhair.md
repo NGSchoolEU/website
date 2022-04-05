@@ -5,11 +5,11 @@ description:
 draft: false
 image: images/people/maire-ni-leathlobhair.jpg
 information:
-- info: "NGSymposium2020"
+- info: "NGSeminars2021, NGSymposium2022"
   label: Events
 - info: Speaker
   label: Role
-- info: "Big Data Institute, University of Oxford, UK"
+- info: "Microbiology, Trinity College Dublin"
   label: Affiliation
 title: Máire Ní Leathlobhair
 ---
