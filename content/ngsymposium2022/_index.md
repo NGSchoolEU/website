@@ -24,8 +24,53 @@ We will have panels on **multiomics and systems biology**, **cancer research**, 
 
 More details coming soon!
 
-## Registration
-Registration will be open on the 11th of April.
+## Timeline
+
+Registration open: **11.04**  
+
+Abstract submission deadline: **23.05**  
+
+Results announced: **w/c 20.06**  
+
+Early bird payment deadline: **11.07**  
+
+Final deadline for registration and payment: **20.08**  
+
+## Registration fees
+<hr>
+<table style="width:60%">
+  <tr>
+    <td></td>
+    <td><b>Early Bird (until 11.07)</b></td>
+    <td><b>Normal fee (after 11.07)</b></td>
+  </tr>
+  <tr>
+    <td>Students</td>
+    <td>40 EUR / 185 PLN</td>
+    <td>50 EUR / 255 PLN</td>
+  </tr>
+  <tr>
+    <td>Academics</td>
+    <td>75 EUR / 350 PLN</td>
+    <td>100 EUR / 460 PLN</td>
+  </tr>
+  <tr>
+    <td>Industry</td>
+    <td>120 EUR / 555 PLN</td>
+    <td>150 EUR / 695 PLN</td>
+  </tr>
+</table> 
+<hr>
+<table style="width:40%">
+  <tr>
+    <td>Virtual participation</td>
+    <td>20 EUR / 93 PLN</td>
+  </tr>
+  <tr>
+    <td>Networking dinner</td>
+    <td>20 EUR / 93 PLN</td>
+  </tr>
+</table> 
 
 <br>
 
