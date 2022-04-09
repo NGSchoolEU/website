@@ -25,12 +25,17 @@ The topics we will cover during this year summer school include:
 * Clustering and tree-based methods
 * Deep learning and natural language processing
 
-<br>
+## Registration
+
 Registration open: <b>11.04 - 30.05</b>
 
 Selection results: <b>w/c 04.07</b>
 
 Fee payment deadline: <b>25.07</b>
+
+The registration fee for the selected participants is 200 EUR for academia and 300 EUR for industry. This fully covers the costs of accommodation and board during the summer school.
+
+We try to make our events accessible and affordable for all, and keep the registration fees to a minimum. We understand that in some circumstances even the fees we set can be challenging. We don’t want the money to be a limiting factor in anyone’s participation - if you find it difficult to fund your registration fee, please still consider applying and [reach out](info@ngschool.eu) explaining your situation and we will try our best to help you with a reduced fee or a waiver.
 
 <!-- Countdown -->
 
