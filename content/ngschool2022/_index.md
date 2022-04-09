@@ -26,8 +26,11 @@ The topics we will cover during this year summer school include:
 * Deep learning and natural language processing
 
 <br>
-Registration will be open soon. Watch this space for more details.
+Registration open: <b>11.04 - 30.05</b>
 
+Selection results: <b>w/c 04.07</b>
+
+Fee payment deadline: <b>25.07</b>
 
 <!-- Countdown -->
 

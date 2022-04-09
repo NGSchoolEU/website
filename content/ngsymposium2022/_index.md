@@ -24,8 +24,17 @@ We will have panels on **multiomics and systems biology**, **cancer research**, 
 
 More details coming soon!
 
-## Registration
-Registration will be open on the 11th of April.
+## Timeline
+
+Registration open: **11.04**  
+
+Abstract submission deadline: **23.05**  
+
+Results announced: **w/c 20.06**  
+
+Early bird payment deadline: **11.07**  
+
+Final deadline for registration and payment: **20.08**  
 
 <br>
 
