@@ -89,7 +89,7 @@ var x = setInterval(function() {
   </tr>
    <tr>
     <td class="date-td" style="text-align: center;">11.04</td>
-    <td>Registration open</td>
+    <td>Registration opens</td>
     <td>
       <a href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MGtoZ2xmM28wcWtqa3V0ZGFrdjVqYjFxbXQgaW5mb0BuZ3NjaG9vbC5ldQ&amp;tmsrc=info%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
@@ -218,7 +218,7 @@ In registration form you will be asked for some basic information about yourself
 
 <br>
 
-### Statement on Russian war in Ukraine
+### For attendees from Russian institutions
 
 NGSchool condemns the aggression against Ukraine in the strongest possible terms and stands in solidarity with our colleagues in Ukraine. Since Russian Universities publicly supported the war we are unable to accept participants affiliated with those institutions. However, we note that many Russian academics, at great personal peril, have publicly criticized this invasion. We would like to support all those harmed by Putin's regime and therefore extend our invitation to Russian academics and students provided they will come as individuals, without affiliation. We will not be able to accept payments for registration fees from Russian universities and companies and will not be able to provide receipts to those organizations.
 
