@@ -212,7 +212,7 @@ In order for your abstract to be considered in the evaluation you need to submit
 
 ### Registration
 
-In registration form you will be asked for some basic information about yourself, including dietary preferences etc. Please do remember that you your registration is not finalized until the transfer for the conference fee reaches our account.
+In registration form you will be asked for some basic information about yourself, including dietary preferences etc. Please do remember that your registration is not finalized until the transfer for the conference fee reaches our account.
   
 <a href="https://forms.gle/jRAMaQLzWFfm8epz6" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Register (form open until 20.08) <i class="fas fa-play"></i></a>
 
