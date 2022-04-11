@@ -197,14 +197,19 @@ In registration form you will be asked for providing us with some basic informat
 Registration of passive participants will be open after closing of registration of active participants.
 
 -->
+<br>
 
-<a href="https://forms.gle/iXj2neHHMaV39avH9" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Submit an abstract (open until 23.05) <i class="fas fa-play"></i></a>
+<table style="width:80%">
+  <tr>
+    <td><a href="https://forms.gle/iXj2neHHMaV39avH9" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 80%; margin: 0 auto;">Submit an abstract (form open until 23.05) <i class="fas fa-play"></i></a></td>
+    <td><a href="https://forms.gle/jRAMaQLzWFfm8epz6" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 80%; margin: 0 auto;">Register (form open until 20.08) <i class="fas fa-play"></i></a></td>
+  </tr>
+</table> 
 
-<a href="https://forms.gle/jRAMaQLzWFfm8epz6" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Register (until 20.08) <i class="fas fa-play"></i></a>
+  
+### Statement on Russian war in Ukraine
 
-## Statement on Russia 
-
-NGSchool condemns the aggression against Ukraine in the strongest possible terms and stands in solidarity with our colleagues in Ukraine. Since Russian Universities publicly supported the war we are unable to accept participants affiliated with those institutions. However, we note that many Russian academics, at great personal peril, have publicly criticised this invasion. We would like to support all those harmed by Putin's regime and therefore extend our invitation to Russian academics and students provided they will come as individuals, without affiliation. We will not be able to accept payments for registration fees from Russian universities and companies and will not be able to provide receipts to those organisations.
+NGSchool condemns the aggression against Ukraine in the strongest possible terms and stands in solidarity with our colleagues in Ukraine. Since Russian Universities publicly supported the war we are unable to accept participants affiliated with those institutions. However, we note that many Russian academics, at great personal peril, have publicly criticized this invasion. We would like to support all those harmed by Putin's regime and therefore extend our invitation to Russian academics and students provided they will come as individuals, without affiliation. We will not be able to accept payments for registration fees from Russian universities and companies and will not be able to provide receipts to those organizations.
 
 
 <br>
