@@ -134,6 +134,9 @@ var x = setInterval(function() {
 <br>
 
 ## Registration fees
+
+Registration fee covers registration package, coffee breaks and lunch.
+
 <hr>
 <table style="width:60%">
   <tr>
@@ -177,40 +180,7 @@ We try to make our events accessible and affordable for all, and keep the regist
 NGSymposium2020 will be held on 31 of July and 1 of August 2020 in Warsaw, Poland.
 
 <b>Due to COVID-19 pandemic the dates and venue may be subjected to changes. We will inform about them here and in our social media channels as soon as final decisions are made.</b>
-
-<br> -->
-
-## Registration and abstract submission 
-
-Registration and abstract submission will be open from **April, 11 to May 23, 23:59 CET**. 
-
-In order for your Abstract to be considered in the evaluation 
-
-In registration form you will be asked for providing us with some basic information about yourself. You will also be able to submit your abstract. You can save your abstract s form after filling it partially and come back later to supply more data e.g. upload an abstract.
-
-<!-- Registration of active participants will be open from February, 27 12 PM CET. In registration forms you will be asked for providing us with some basic information about yourself. You will also be able to submit your abstract. You can save your registration form after filling it partially and come back later to supply more data e.g. upload an abstract.
-
-<!-- <b>The registration will be held open at least than till the beginning of May, when we plan to make final decision on form of our events with regard to COVID-19 pandemic situation.</b>
-
-<!--Please note that we also accept only limited RMarkdown formatting in the body of the abstract. You can find RMarkdown formatting cheat sheet [here](https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf). We also provide list of the accepted formatting in the form and [here](https://docs.google.com/document/d/15UJ3LQNgqNOH9sOfnzX8anF6BXZALTrKKIIlsyinpCY/edit?usp=sharing).
-
-Registration of passive participants will be open after closing of registration of active participants.
-
 -->
-<br>
-
-<table style="width:80%">
-  <tr>
-    <td><a href="https://forms.gle/iXj2neHHMaV39avH9" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 80%; margin: 0 auto;">Submit an abstract (form open until 23.05) <i class="fas fa-play"></i></a></td>
-    <td><a href="https://forms.gle/jRAMaQLzWFfm8epz6" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 80%; margin: 0 auto;">Register (form open until 20.08) <i class="fas fa-play"></i></a></td>
-  </tr>
-</table> 
-
-  
-### Statement on Russian war in Ukraine
-
-NGSchool condemns the aggression against Ukraine in the strongest possible terms and stands in solidarity with our colleagues in Ukraine. Since Russian Universities publicly supported the war we are unable to accept participants affiliated with those institutions. However, we note that many Russian academics, at great personal peril, have publicly criticized this invasion. We would like to support all those harmed by Putin's regime and therefore extend our invitation to Russian academics and students provided they will come as individuals, without affiliation. We will not be able to accept payments for registration fees from Russian universities and companies and will not be able to provide receipts to those organizations.
-
 
 <br>
 
@@ -227,6 +197,33 @@ Transfer title: **NGSymposium2022 Name Surname**
 <br>
 
 
+
+## Registration 
+
+### Abstract submission 
+
+Abstract submission will be open from **April, 11 to May 23, 23:59 CET**. 
+
+In order for your abstract to be considered in the evaluation you need to submit it using the form below. Please note that we also accept only limited RMarkdown formatting in the body of the abstract. You can find RMarkdown formatting cheat sheet [here](https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf). We also provide list of the accepted formatting in the form and [here](https://docs.google.com/document/d/e/2PACX-1vRG10DEOL8JOKgfP6eUC4S2L-D3EStaC5TVRKkUT4y75gTnOCbQxLQSpifzddVP9VGUpT0typGrNNYz/pub).
+
+
+<a href="https://forms.gle/iXj2neHHMaV39avH9" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Submit an abstract (form open until 23.05) <i class="fas fa-play"></i></a>
+
+
+### Registration
+
+In registration form you will be asked for some basic information about yourself, including dietary preferences etc. Please do remember that you your registration is not finalized until the transfer for the conference fee reaches our account.
+  
+<a href="https://forms.gle/jRAMaQLzWFfm8epz6" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Register (form open until 20.08) <i class="fas fa-play"></i></a>
+
+<br>
+
+### Statement on Russian war in Ukraine
+
+NGSchool condemns the aggression against Ukraine in the strongest possible terms and stands in solidarity with our colleagues in Ukraine. Since Russian Universities publicly supported the war we are unable to accept participants affiliated with those institutions. However, we note that many Russian academics, at great personal peril, have publicly criticized this invasion. We would like to support all those harmed by Putin's regime and therefore extend our invitation to Russian academics and students provided they will come as individuals, without affiliation. We will not be able to accept payments for registration fees from Russian universities and companies and will not be able to provide receipts to those organizations.
+
+
+<br>
 
 ## Scientific Advisory Board
 To be announced soon. 
