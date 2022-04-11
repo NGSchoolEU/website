@@ -25,18 +25,59 @@ The topics we will cover during this year summer school include:
 * Clustering and tree-based methods
 * Deep learning and natural language processing
 
+## Important dates
+<table class="table table-bordered table-striped">
+  <tr>
+    <th style="text-align: center">Date</th>
+    <th style="text-align: center">Event</th>
+    <th></th>
+  </tr>
+   <tr>
+    <td class="date-td" style="text-align: center;">11.04</td>
+    <td>Registration opens</td>
+    <td>
+      <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MDB1bWx1czlvdXFmcGk1OWJnNTQxc2d1bXYgaW5mb0BuZ3NjaG9vbC5ldQ&tmsrc=info%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+    </td>
+  </tr>
+  <tr>
+    <td class="date-td" style="text-align: center;">30.05</td>
+    <td>Registration deadline</td>
+    <td>
+      <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MmlrcHFqbHRxMmY0dTlmNGU2am8xMXJmMXUgaW5mb0BuZ3NjaG9vbC5ldQ&tmsrc=info%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+    </td>
+  </tr>
+  <tr>
+    <td class="date-td" style="text-align: center;">w/c 04.07</td>
+    <td>Selection results announcement</td>
+    <td>
+      <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MWNnZ2NsdWJmNGJzZW5kaGh2ZXY4aHNzazEgaW5mb0BuZ3NjaG9vbC5ldQ&tmsrc=info%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+    </td>
+  </tr>
+  <tr>
+    <td class="date-td" style="text-align: center;">25.07</td>
+    <td>Fee payment deadline</td>
+    <td>
+      <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MDlsbGgzbHZpZThsODB2aXNjZzAyYWhuYTQgaW5mb0BuZ3NjaG9vbC5ldQ&tmsrc=info%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+    </td>
+  </tr>
+</table>
+
 ## Registration
 
-Registration open: <b>11.04 - 30.05</b>
+This form consist of several sections in which we ask for your motivation for applying to the school and QUIZ with questions from Coding, Statistics & probability and Biological study design & interpretation. We estimate it takes approximately 1 to 2 hours to fill the entire form, but you don't need to do it all in one go. As long as you use the same email address, your progress will be saved, even if you close the form before submitting it, and you will be able to continue where you previously left off, as well as modify all your responses. Once you reach the end and submit the form, you will no longer be able to modify your responses.
 
-Selection results: <b>w/c 04.07</b>
+The deadline to submit your application is 30.05.2022 at 23:59 CET. Selection results will be announced in the beginning of July. If you have any question or problems get in touch via email: info@ngschool.eu.
 
-Fee payment deadline: <b>25.07</b>
+<a href="https://forms.gle/cYtJWA7bi5RRywWA7" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Registration form (open until 30.05) <i class="fas fa-play"></i></a>
 
-The registration fee for the selected participants is 200 EUR for academia and 300 EUR for industry. This fully covers the costs of accommodation and board during the summer school.
 
-We try to make our events accessible and affordable for all, and keep the registration fees to a minimum. We understand that in some circumstances even the fees we set can be challenging. We don’t want the money to be a limiting factor in anyone’s participation - if you find it difficult to fund your registration fee, please still consider applying and [reach out](info@ngschool.eu) explaining your situation and we will try our best to help you with a reduced fee or a waiver.
+### Registration fee
 
+The registration fee for the selected participants is 200 EUR for academia and 400 EUR for industry. This **fully covers the cost of accommodation and board** during the summer school.
+
+We try to make our events accessible and affordable for all, and keep the registration fees to a minimum. We understand that in some circumstances even the fees we set can be challenging. We don't want the money to be a limiting factor in anyone's participation - if you find it difficult to fund your registration fee, please still consider applying and [reach out](info@ngschool.eu) explaining your situation and we will try our best to help you with a reduced fee or a waiver.
+
+<br>
 <!-- Countdown -->
 
 <h2 id="demo"></h2>
@@ -74,6 +115,12 @@ var x = setInterval(function() {
 
 <br>
 
+#### For participants applying from Russian institutions
+
+NGSchool condemns the aggression against Ukraine in the strongest possible terms and stands in solidarity with our colleagues in Ukraine. Since Russian Universities publicly supported the war we are unable to accept participants affiliated with those institutions. However, we note that many Russian academics, at great personal peril, have publicly criticized this invasion. We would like to support all those harmed by Putin's regime and therefore extend our invitation to Russian academics and students provided they will come as individuals, without affiliation. We will not be able to accept payments for registration fees from Russian universities and companies and will not be able to provide receipts to those organizations.
+
+<br>
+
 <div class="row">
   <div class="col-md-4">
     <img class="img-responsive w-100" src="/images/post/palacjablonna-05.jpg" alt="">
@@ -101,12 +148,12 @@ var x = setInterval(function() {
 <br>
 
 ## Organisers
-* [Kasia Kędzierska](/people/kasia-kedzierska), WHG, OX, Oxford, GB  
-* [Natalia Pstrąg](/people/natalia-pstrag), UAM, Poznań, Poland  
-* [Karolina Sienkiewicz](/people/karolina-sienkiewicz), Weill Cornell Medicine, Cornell University, USA  
-* [Lidia Lipińska-Zubrycka](/people/lidia-lipinska), University of Warsaw, Poland  
 * [Anamaria Elek](/people/anamaria-elek), CRG, Barcelona, Spain  
 * [Samantha Filipów](/people/samantha-filipow), CECAD, University of Cologne, Germany
 * [Szymon Grabia](/people/szymon-grabia), Medical University of Lodz, Poland
+* [Kasia Kędzierska](/people/kasia-kedzierska), WHG, Oxford, United Kingdom  
+* [Lidia Lipińska-Zubrycka](/people/lidia-lipinska), University of Warsaw, Poland  
+* [Natalia Pstrąg](/people/natalia-pstrag), UAM, Poznań, Poland  
+* [Karolina Sienkiewicz](/people/karolina-sienkiewicz), Weill Cornell Medicine, Cornell University, USA  
 * [Urszula Smyczyńska](/people/urszula-smyczynska), Medical University of Lodz, Poland  
 * [Gladys Wojciechowska](/people/gladys-langi), Medical University of Bialystok, Poland 

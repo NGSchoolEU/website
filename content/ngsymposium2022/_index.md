@@ -2,7 +2,7 @@
 markup: "mmark"
 bg_image: images/ngsymposium2022/warsaw.png
 title: NGSymposium in Computational Biology
-description: Conference for the 5<sup>th</sup> anniversary of NGSchool
+description: Conference for the 5<sup>th</sup> edition of NGSchool
 draft: false
 information:
  - info: "Warsaw, Poland"
@@ -15,66 +15,35 @@ information:
 #   label: Invited Speakers
 ---
 
-It's our great pleasure to invite you to the **NGSymposium in Computational Biology** to celebrate the 5<sup>th</sup> anniversary of NGSchool Summer Schools. The conference will bring together early-stage and senior researchers from different areas of bioinformatics. It will take place on **the 23rd and 24th of September 2022 in Warsaw**, as a satellite event to the [NGSchool2022](/ngschool2022). 
+It's our great pleasure to invite you to the **NGSymposium in Computational Biology** to celebrate the 5<sup>th</sup> edition of NGSchool Summer Schools. The conference will bring together early-stage and senior researchers from different areas of bioinformatics. It will take place on **the 23rd and 24th of September 2022 in Warsaw**, as a satellite event to the [NGSchool2022](/ngschool2022). 
 
 This international conference will be an excellent platform for computational biologists in central and eastern Europe to present their work, discuss it with other participants and renowned invited speakers, as well as initiate potential collaborations.
 
 ## Topics and keywords
 We will have panels on **multiomics and systems biology**, **cancer research**, **single cell transcriptomics** and **long-read sequencing**. 
 
-More details coming soon!
+## Speakers
 
-## Timeline
+<h3><a href="/people/maire-ni-leathlobhair/" target="blank">Máire Ní Leathlobhair</a></h3>
+Department of Microbiology, Trinity College Dublin, Ireland
+<br>
+<!-- Máire is an assistant professor in Biological Data Analysis at Trinity College Dublin. Previously she was a post-doctoral researcher at Trinity College at the University of Oxford in the Cancer Genomics group led by Dr David Wedge at the Oxford Big Data Institute. She obtained her PhD degree in 2018 under the supervision of Elizabeth Murchison at Cambridge University. During her PhD she focused on understanding the origin and evolution of transmissible cancer. Currently, her main research interests lie in investigating the development of rare cancers. -->
 
-Registration open: **11.04**  
-
-Abstract submission deadline: **23.05**  
-
-Results announced: **w/c 20.06**  
-
-Early bird payment deadline: **11.07**  
-
-Final deadline for registration and payment: **20.08**  
-
-## Registration fees
-<hr>
-<table style="width:60%">
-  <tr>
-    <td></td>
-    <td><b>Early Bird (until 11.07)</b></td>
-    <td><b>Normal fee (after 11.07)</b></td>
-  </tr>
-  <tr>
-    <td>Students</td>
-    <td>40 EUR / 185 PLN</td>
-    <td>50 EUR / 255 PLN</td>
-  </tr>
-  <tr>
-    <td>Academics</td>
-    <td>75 EUR / 350 PLN</td>
-    <td>100 EUR / 460 PLN</td>
-  </tr>
-  <tr>
-    <td>Industry</td>
-    <td>120 EUR / 555 PLN</td>
-    <td>150 EUR / 695 PLN</td>
-  </tr>
-</table> 
-<hr>
-<table style="width:40%">
-  <tr>
-    <td>Virtual participation</td>
-    <td>20 EUR / 93 PLN</td>
-  </tr>
-  <tr>
-    <td>Networking dinner</td>
-    <td>20 EUR / 93 PLN</td>
-  </tr>
-</table> 
-
+<h3><a href="https://p-cmrc.cat/research/plass-group/" target="blank">Mireya Plass</a></h3>
+Bellvitge Biomedical Research Institute (IDIBELL), Hospitalet de Llobregat, Barcelona, Spain
 <br>
 
+<h3><a href="/people/pawel-krawczyk/" target="blank">Paweł Krawczyk</a></h3>
+Dziembowski's Group, International Institute of Molecular and Cell Biology in Warsaw
+<br>
+<!-- Paweł Krawczyk is a Postdoctoral Fellow in Dziembowski’s group in the International Institute of Molecular and Cell Biology in Warsaw. Before PhD, he gained experience in the Institute of Genetics and Biotechnology at the University of Warsaw (PhD), and Institute of Biochemistry and Biophysics Polish Academy of Sciences (Research assistant). He is an expert in analysis of all kinds of NGS data, from metagenomics and bacterial genomics, to transcriptomics, TAILseq and long-read sequencing data.
+Experienced biologist and talented bioinformatician, author of bioinformatics tools and packages, including nanopolish and tailfindr for the analysis of long-read sequencing data. Author and co-author of scientific papers in leading journals (including Cell, Cell Reports, Nucleic Acids Research). -->
+<br>
+
+...and more coming soon!
+
 <!-- Countdown -->
+<br>
 
 <h2 id="demo"></h2>
 
@@ -111,132 +80,148 @@ var x = setInterval(function() {
 
 <br>
 
-<!-- ## Important dates
+## Important dates
 <table class="table table-bordered table-striped">
   <tr>
-    <th>Date</th>
-    <th>Event</th>
+    <th style="text-align: center">Date</th>
+    <th style="text-align: center">Event</th>
     <th></th>
   </tr>
    <tr>
-    <td class="date-td">27.03</td>
-    <td>Deadline of early bird registration of active participants</td>
+    <td class="date-td" style="text-align: center;">11.04</td>
+    <td>Registration opens</td>
     <td>
-      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSymposium%3A+Early+bird+registration&details=NGSymposium%3A+Deadline+of+early+bird+registration+of+active+participant&dates=20200326T230000Z%2F20200327T225900Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+      <a href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MGtoZ2xmM28wcWtqa3V0ZGFrdjVqYjFxbXQgaW5mb0BuZ3NjaG9vbC5ldQ&amp;tmsrc=info%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
   </tr>
   <tr>
-    <td class="date-td">17.04</td>
-    <td>Deadline of active participants' registration</td>
+    <td class="date-td" style="text-align: center;">23.05</td>
+    <td>Abstract submission deadline</td>
     <td>
-      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSymposium%3A+Registration&details=NGSymposium%3A+Deadline+of+registration+for+active+participant&dates=20200416T220000Z%2F20200417T215900Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+      <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=NzdxZGJkMW40bW4yNDJvdTRiMWo0OGMzMmQgaW5mb0BuZ3NjaG9vbC5ldQ&tmsrc=info%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
   </tr>
   <tr>
-    <td class="date-td">5.06</td>
+    <td class="date-td" style="text-align: center;">w/c 20.06</td>
     <td>Abstract selection results announcement</td>
     <td>
-      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSymposium%3A+Abstract+selection+results+announcement&dates=20200604T220000Z%2F20200605T215900Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+      <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=M3UwcnQ4c3E1c3M4MzQ4cnI4ZnFsb2Z1M3MgaW5mb0BuZ3NjaG9vbC5ldQ&tmsrc=info%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
   </tr>
   <tr>
-    <td class="date-td">31.07 - 1.08</td>
-    <td>NGSymposium in Computational Biology</td>
+    <td class="date-td" style="text-align: center;">11.07</td>
+    <td>Early Bird payment deadline</td>
     <td>
-      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=NGSymposium2020&dates=20200731T130000Z%2F20200801T163000Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+      <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=M24wc2JlbWVtazI2NWI1OW03dmxpbGl1a3UgaW5mb0BuZ3NjaG9vbC5ldQ&tmsrc=info%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+    </td>
+  </tr>
+    <tr>
+    <td class="date-td" style="text-align: center;">20.08</td>
+    <td>Registration and Conference Fee payment deadline</td>
+    <td>
+      <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MGluMmFna2xlYm9ucjh0ZXVodmhycWpqdWcgaW5mb0BuZ3NjaG9vbC5ldQ&tmsrc=info%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+    </td>
+  </tr>
+  <tr>
+    <td class="date-td" style="text-align: center;">23 - 24.09</td>
+    <td>NGSymposium2022 in Computational Biology</td>
+    <td>
+      <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=Nmc4OTRtaDVsZzczMmhpMmk3YzBxN210MmggaW5mb0BuZ3NjaG9vbC5ldQ&tmsrc=info%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
   </tr>
 </table>
 
-<br> -->
-<!-- 
-## Venue and dates
+<br>
+
+## Registration fees
+
+Registration fee covers registration package, coffee breaks and lunch.
+
+<hr>
+<table style="width:60%">
+  <tr>
+    <td></td>
+    <td><b>Early Bird (until 11.07)</b></td>
+    <td><b>Normal fee (after 11.07)</b></td>
+  </tr>
+  <tr>
+    <td>Students</td>
+    <td>65 EUR / 300 PLN</td>
+    <td>80 EUR / 370 PLN</td>
+  </tr>
+  <tr>
+    <td>Academics</td>
+    <td>120 EUR / 555 PLN</td>
+    <td>145 EUR / 670 PLN</td>
+  </tr>
+  <tr>
+    <td>Industry</td>
+    <td>165 EUR / 765 PLN</td>
+    <td>200 EUR / 925 PLN</td>
+  </tr>
+</table> 
+<hr>
+<table style="width:40%">
+  <tr>
+    <td>Virtual participation</td>
+    <td>20 EUR / 95 PLN</td>
+  </tr>
+  <tr>
+    <td>Networking event</td>
+    <td>20 EUR / 95 PLN</td>
+  </tr>
+</table> 
+
+<br> 
+
+We try to make our events accessible and affordable for all, and keep the registration fees to a minimum. We understand that in some circumstances even the fees we set can be challenging. We don't want the money to be a limiting factor in anyone's participation - if you find it difficult to fund your registration fee, please send us an email (info@ngschool.eu) explaining your situation and we will try our best to help you with a reduced fee or a waiver.
+
+<!-- ## Venue and dates
 NGSymposium2020 will be held on 31 of July and 1 of August 2020 in Warsaw, Poland.
 
 <b>Due to COVID-19 pandemic the dates and venue may be subjected to changes. We will inform about them here and in our social media channels as soon as final decisions are made.</b>
-
-<br>
-
-## Registration and abstract submission -->
-
-<!-- Registration of active participants will be open from February, 27 12 PM CET to April 17, 23:59 CET. In registration forms you will be asked for providing us with some basic information about yourself. You will also be able to submit your abstract. You can save your registration form after filling it partially and come back later to supply more data e.g. upload an abstract. -->
-<!-- Registration of active participants will be open from February, 27 12 PM CET. In registration forms you will be asked for providing us with some basic information about yourself. You will also be able to submit your abstract. You can save your registration form after filling it partially and come back later to supply more data e.g. upload an abstract.
-
-<b>The registration will be held open at least than till the beginning of May, when we plan to make final decision on form of our events with regard to COVID-19 pandemic situation.</b>
-
-Please note that we also accept only limited RMarkdown formatting in the body of the abstract. You can find RMarkdown formatting cheat sheet [here](https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf). We also provide list of the accepted formatting in the form and [here](https://docs.google.com/document/d/15UJ3LQNgqNOH9sOfnzX8anF6BXZALTrKKIIlsyinpCY/edit?usp=sharing).
-
-Registration of passive participants will be open after closing of registration of active participants.
-
-<a href="https://forms.gle/ACi1djPx7FNQaMDf8" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Register <i class="fas fa-play"></i></a>
-
-<br>
-
-## Pricing
-<b>Please, do not transfer registration fee until we notify you! All payments are postponed until the beginning of May when we plan to make final decision about our events this year.</b>
-
-<table class="table table-bordered table-striped" style="vertical-align: center;">
-  <tr>
-    <th></th>
-    <th style="text-align: center;">Early bird registration fee (until 27.03)</th>
-    <th style="text-align: center;">Regular registration fee (from 28.03 onwards)</th>
-  </tr>
-  <tr>
-    <td style="text-align: right;">Students (masters, PhD)</td>
-    <td colspan="2" style="text-align: center;">30 EUR / 130 PLN</td>
-  </tr>
-  <tr>
-    <td style="text-align: right;">Academia</td>
-    <td style="text-align: center;">45 EUR / 195 PLN</td>
-    <td style="text-align: center;">75 EUR / 320 PLN</td>
-  </tr>
-  <tr>
-    <td style="text-align: right;">Industry</td>
-    <td style="text-align: center;">75 EUR / 320 PLN</td>
-    <td style="text-align: center;">110 EUR / 470 PLN</td>
-  </tr>
-</table>
-
-The registration fee covers participation in the conference, as well as, coffee and lunch breaks.
-
-Please note that early bird registration fee applies only to active participants registration, since we encourage everybody to present their own work.
+-->
 
 <br>
 
 #### Payment details
 Account holder: **Stowarzyszenie NGSchool** / **NGSchool Society**
 
-BIC/SWIFT: **BREXPLPWMBK**
+BIC/SWIFT: **TRWIBEB1XXX**
 
 Account numbers:
-* For payments in PLN: **PL67 1140 2004 0000 3102 7868 6219**
-* For payments in EUR: **PL40 1140 2004 0000 3112 0774 0774**
-
-Transfer title: 
-   NGSymposium Name Surname
+* For payments in PLN: **62 1020 1026 3741 0000 0000 3246**
+* For payments in EUR: **BE43 9670 2250 7501**  
+  
+Transfer title: **NGSymposium2022 Name Surname**
 <br>
 
--->
 
-## Speakers
 
-<h3><a href="/people/maire-ni-leathlobhair/" target="blank">Máire Ní Leathlobhair</a></h3>
-Department of Microbiology, Trinity College Dublin, Ireland
+## Registration 
+
+### Abstract submission 
+
+Abstract submission will be open from **April, 11 to May 23, 23:59 CET**. 
+
+In order for your abstract to be considered in the evaluation you need to submit it using the form below. Please note that we also accept only limited RMarkdown formatting in the body of the abstract. You can find RMarkdown formatting cheat sheet [here](https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf). We also provide list of the accepted formatting in the form and [here](https://docs.google.com/document/d/e/2PACX-1vRG10DEOL8JOKgfP6eUC4S2L-D3EStaC5TVRKkUT4y75gTnOCbQxLQSpifzddVP9VGUpT0typGrNNYz/pub).
+
+
+<a href="https://forms.gle/iXj2neHHMaV39avH9" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Submit an abstract (form open until 23.05) <i class="fas fa-play"></i></a>
+
+
+### Registration
+
+In registration form you will be asked for some basic information about yourself, including dietary preferences etc. Please do remember that you your registration is not finalized until the transfer for the conference fee reaches our account.
+  
+<a href="https://forms.gle/jRAMaQLzWFfm8epz6" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Register (form open until 20.08) <i class="fas fa-play"></i></a>
+
 <br>
-<!-- Máire is an assistant professor in Biological Data Analysis at Trinity College Dublin. Previously she was a post-doctoral researcher at Trinity College at the University of Oxford in the Cancer Genomics group led by Dr David Wedge at the Oxford Big Data Institute. She obtained her PhD degree in 2018 under the supervision of Elizabeth Murchison at Cambridge University. During her PhD she focused on understanding the origin and evolution of transmissible cancer. Currently, her main research interests lie in investigating the development of rare cancers. -->
 
-<h3><a href="https://p-cmrc.cat/research/plass-group/" target="blank">Mireya Plass</a></h3>
-Bellvitge Biomedical Research Institute (IDIBELL), Hospitalet de Llobregat, Barcelona, Spain
-<br>
+### For attendees from Russian institutions
 
-<h3><a href="/people/pawel-krawczyk/" target="blank">Paweł Krawczyk</a></h3>
-Dziembowski's Group, International Institute of Molecular and Cell Biology in Warsaw
-<br>
-<!-- Paweł Krawczyk is a Postdoctoral Fellow in Dziembowski’s group in the International Institute of Molecular and Cell Biology in Warsaw. Before PhD, he gained experience in the Institute of Genetics and Biotechnology at the University of Warsaw (PhD), and Institute of Biochemistry and Biophysics Polish Academy of Sciences (Research assistant). He is an expert in analysis of all kinds of NGS data, from metagenomics and bacterial genomics, to transcriptomics, TAILseq and long-read sequencing data.
-Experienced biologist and talented bioinformatician, author of bioinformatics tools and packages, including nanopolish and tailfindr for the analysis of long-read sequencing data. Author and co-author of scientific papers in leading journals (including Cell, Cell Reports, Nucleic Acids Research). -->
-<br>
+NGSchool condemns the aggression against Ukraine in the strongest possible terms and stands in solidarity with our colleagues in Ukraine. Since Russian Universities publicly supported the war we are unable to accept participants affiliated with those institutions. However, we note that many Russian academics, at great personal peril, have publicly criticized this invasion. We would like to support all those harmed by Putin's regime and therefore extend our invitation to Russian academics and students provided they will come as individuals, without affiliation. We will not be able to accept payments for registration fees from Russian universities and companies and will not be able to provide receipts to those organizations.
 
-...and more coming soon!
 
 <br>
 
