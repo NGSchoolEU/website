@@ -73,7 +73,7 @@ The deadline to submit your application is 30.05.2022 at 23:59 CET. Selection re
 
 ### Registration fee
 
-The registration fee for the selected participants is 200 EUR for academia and 400 EUR for industry. This **fully covers the cost of accommodation and board** during the summer school.
+The registration fee for the selected participants is 200 EUR / 925 PLN for academia and 650 EUR / 3 010 PLN for industry. This **fully covers the cost of accommodation and board** during the summer school.
 
 We try to make our events accessible and affordable for all, and keep the registration fees to a minimum. We understand that in some circumstances even the fees we set can be challenging. We don't want the money to be a limiting factor in anyone's participation - if you find it difficult to fund your registration fee, please still consider applying and [reach out](info@ngschool.eu) explaining your situation and we will try our best to help you with a reduced fee or a waiver.
 
