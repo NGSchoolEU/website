@@ -251,13 +251,13 @@ In order for your abstract to be considered in the evaluation you need to submit
 
 In registration form you will be asked for some basic information about yourself, including dietary preferences etc. Please do remember that your registration is not finalized until the transfer for the conference fee reaches our account.
   
-<a href="https://forms.gle/jRAMaQLzWFfm8epz6" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">In person registration (form open until 20.08) <i class="fas fa-play"></i></a>
+<a href="https://forms.gle/jRAMaQLzWFfm8epz6" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">In person participation (form open until 20.08) <i class="fas fa-play"></i></a>
 
 ### Registration - virtual participation  
 
 In this registration form you will be asked for some basic information about yourself. Please do remember that your registration is not finalized until the transfer for the conference fee reaches our account.
   
-<a href="https://forms.gle/2JH7LunfkQ4NkicFA" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Virtual registration (form open until 20.08) <i class="fas fa-play"></i></a>
+<a href="https://forms.gle/2JH7LunfkQ4NkicFA" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Virtual participation (form open until 20.08) <i class="fas fa-play"></i></a>
 
 <br>
 
