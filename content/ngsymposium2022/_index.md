@@ -19,25 +19,41 @@ It's our great pleasure to invite you to the **NGSymposium in Computational Biol
 
 This international conference will be an excellent platform for computational biologists in central and eastern Europe to present their work, discuss it with other participants and renowned invited speakers, as well as initiate potential collaborations.
 
-## Topics and keywords
+Jump to:
+* <a href='#topics'>Topics and keywords</a>  
+* <a href='#speakers'>Speakers</a>  
+* <a href='#dates'>Important dates</a>  
+* <a href='#format'>Format</a>  
+* <a href='#fees'>Conference fees</a>  
+* <a href='#registration'>Registration</a>  
+* <a href='#aboard'>Scientific Advisory Board</a>  
+* <a href='#organisers'>Organisers, Sponsors and Partners</a> 
+
+<h2 id='topics'>Topics and keywords</h2>  
+
 We will have panels on **multiomics and systems biology**, **cancer research**, **single cell transcriptomics** and **long-read sequencing**. 
 
-## Speakers
+<h2 id='speakers'>Speakers</h2>  
 
-<h3><a href="/people/maire-ni-leathlobhair/" target="blank">Máire Ní Leathlobhair</a></h3>
+<h3><a href="/people/maire-ni-leathlobhair/">Máire Ní Leathlobhair</a></h3>
 Department of Microbiology, Trinity College Dublin, Ireland
 <br>
-<!-- Máire is an assistant professor in Biological Data Analysis at Trinity College Dublin. Previously she was a post-doctoral researcher at Trinity College at the University of Oxford in the Cancer Genomics group led by Dr David Wedge at the Oxford Big Data Institute. She obtained her PhD degree in 2018 under the supervision of Elizabeth Murchison at Cambridge University. During her PhD she focused on understanding the origin and evolution of transmissible cancer. Currently, her main research interests lie in investigating the development of rare cancers. -->
 
 <h3><a href="https://p-cmrc.cat/research/plass-group/" target="blank">Mireya Plass</a></h3>
 Bellvitge Biomedical Research Institute (IDIBELL), Hospitalet de Llobregat, Barcelona, Spain
 <br>
 
-<h3><a href="/people/pawel-krawczyk/" target="blank">Paweł Krawczyk</a></h3>
+<h3><a href="/people/wojciech-wodo/">Wojciech Wodo</a></h3>
+Wroclaw University of Science and Technology, Poland
+<br>
+
+<h3><a href="https://www.haensel-hertsch-lab.cmmc-uni-koeln.de/team" target="blank">Michaela Höhne</a></h3>
+Hänsel-Hertsch Lab, Center for Molecular Medicine Cologne CMMC, University of Cologne, Germany
+<br>
+
+<h3><a href="/people/pawel-krawczyk/">Paweł Krawczyk</a></h3>
 Dziembowski's Group, International Institute of Molecular and Cell Biology in Warsaw
 <br>
-<!-- Paweł Krawczyk is a Postdoctoral Fellow in Dziembowski’s group in the International Institute of Molecular and Cell Biology in Warsaw. Before PhD, he gained experience in the Institute of Genetics and Biotechnology at the University of Warsaw (PhD), and Institute of Biochemistry and Biophysics Polish Academy of Sciences (Research assistant). He is an expert in analysis of all kinds of NGS data, from metagenomics and bacterial genomics, to transcriptomics, TAILseq and long-read sequencing data.
-Experienced biologist and talented bioinformatician, author of bioinformatics tools and packages, including nanopolish and tailfindr for the analysis of long-read sequencing data. Author and co-author of scientific papers in leading journals (including Cell, Cell Reports, Nucleic Acids Research). -->
 <br>
 
 ...and more coming soon!
@@ -80,7 +96,7 @@ var x = setInterval(function() {
 
 <br>
 
-## Important dates
+<h2 id='dates'>Important dates</h2>
 <table class="table table-bordered table-striped">
   <tr>
     <th style="text-align: center">Date</th>
@@ -133,35 +149,43 @@ var x = setInterval(function() {
 
 <br>
 
-## Registration fees
+<h2 id='format'>Format</h2>  
 
-Registration fee covers registration package, coffee breaks and lunch.
+NGSymposium will be held in person, in Warsaw. However, to increase the reach of the conference we will offer virtual participation to those that cannot join us in person. Included in virtual participation will be: live-streamed talks with ability to ask questions in real time, live-streamed poster spotlight session, abstract book and access to PDFs of posters (we will encourage participants to provide PDF versions of their poster to share with virtual audience).
+
+<h2 id='fees'>Conference fees</h2>  
+
+Registration fee covers **registration package, coffee breaks (both days) and lunch on 24.09**. Registration fee also contributes to the cost of conference venue rental, and accommodation, board & travel costs of invited speakers. Our events are non-profit and all organizers are volunteering their time. We apply for funding that allows us to subsidize the cost of the events and with current funding schemes we are unable to offer remuneration to invited speakers. 
 
 <hr>
-<table style="width:60%">
+<table class="table table-bordered table-striped" style="width:80%">
   <tr>
     <td></td>
-    <td><b>Early Bird (until 11.07)</b></td>
-    <td><b>Normal fee (after 11.07)</b></td>
+    <th style="text-align: center;">Early Bird (until 11.07)</td>
+    <th style="text-align: center;">Standard (after 11.07)</td>
   </tr>
   <tr>
-    <td>Students</td>
-    <td>65 EUR / 300 PLN</td>
-    <td>80 EUR / 370 PLN</td>
+    <td >Students</td>
+    <td style="text-align: center;">65 EUR / 300 PLN</td>
+    <td style="text-align: center;">80 EUR / 370 PLN</td>
   </tr>
   <tr>
     <td>Academics</td>
-    <td>120 EUR / 555 PLN</td>
-    <td>145 EUR / 670 PLN</td>
+    <td style="text-align: center;">120 EUR / 555 PLN</td>
+    <td style="text-align: center;">145 EUR / 670 PLN</td>
+  </tr>
+  <tr>
+    <td>Academics full</td>
+    <td colspan=2 style="text-align: center;">200 EUR / 925 PLN</td>
   </tr>
   <tr>
     <td>Industry</td>
-    <td>165 EUR / 765 PLN</td>
-    <td>200 EUR / 925 PLN</td>
+    <td style="text-align: center;">200 EUR / 925 PLN</td>
+    <td style="text-align: center;">250 EUR / 1160 PLN</td>
   </tr>
 </table> 
 <hr>
-<table style="width:40%">
+<table style="width:60%">
   <tr>
     <td>Virtual participation</td>
     <td>20 EUR / 95 PLN</td>
@@ -172,7 +196,14 @@ Registration fee covers registration package, coffee breaks and lunch.
   </tr>
 </table> 
 
-<br> 
+<br>
+
+#### Academics full  
+
+We set the registration fees with highly variable incomes in the Central and Easter Europe in mind. We work hard to secure funding that would allow us to subsidize the cost of the events, which we pass on to our attendees. If you are coming from a high income country and/or are able to cover the full fee we would ask you to please consider paying the full amount. That will allow us to direct the funds from Sponsors and Grants to support researchers in need.  
+<br>
+
+#### Affordability  
 
 We try to make our events accessible and affordable for all, and keep the registration fees to a minimum. We understand that in some circumstances even the fees we set can be challenging. We don't want the money to be a limiting factor in anyone's participation - if you find it difficult to fund your registration fee, please send us an email (info@ngschool.eu) explaining your situation and we will try our best to help you with a reduced fee or a waiver.
 
@@ -197,26 +228,39 @@ Transfer title: **NGSymposium2022 Name Surname**
 <br>
 
 
-
-## Registration 
+<h2 id='registration'>Registration</h2>  
 
 ### Abstract submission 
 
 Abstract submission will be open from **April, 11 to May 23, 23:59 CET**. 
 
-In order for your abstract to be considered in the evaluation you need to submit it using the form below. Please note that we also accept only limited RMarkdown formatting in the body of the abstract. You can find RMarkdown formatting cheat sheet [here](https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf). We also provide list of the accepted formatting in the form and [here](https://docs.google.com/document/d/e/2PACX-1vRG10DEOL8JOKgfP6eUC4S2L-D3EStaC5TVRKkUT4y75gTnOCbQxLQSpifzddVP9VGUpT0typGrNNYz/pub).
+You can select for the abstract to be considered by the Scientific Advisory Board for:
+
+* an oral presentation,
+* mini oral presentation during 'Posters Spotlight',
+* poster presentation.  
+<br>
+
+In order for your abstract to be considered in the evaluation you need to submit it using the form below. Please note that we accept only limited RMarkdown formatting in the body of the abstract. You can find RMarkdown formatting cheat sheet [here](https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf). We also provide list of the accepted formatting in the form and [here](https://docs.google.com/document/d/e/2PACX-1vRG10DEOL8JOKgfP6eUC4S2L-D3EStaC5TVRKkUT4y75gTnOCbQxLQSpifzddVP9VGUpT0typGrNNYz/pub).
 
 
 <a href="https://forms.gle/iXj2neHHMaV39avH9" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Submit an abstract (form open until 23.05) <i class="fas fa-play"></i></a>
 
 
-### Registration
+### Registration - in person  
 
 In registration form you will be asked for some basic information about yourself, including dietary preferences etc. Please do remember that your registration is not finalized until the transfer for the conference fee reaches our account.
   
-<a href="https://forms.gle/jRAMaQLzWFfm8epz6" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Register (form open until 20.08) <i class="fas fa-play"></i></a>
+<a href="https://forms.gle/jRAMaQLzWFfm8epz6" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">In person registration (form open until 20.08) <i class="fas fa-play"></i></a>
+
+### Registration - virtual participation  
+
+In this registration form you will be asked for some basic information about yourself. Please do remember that your registration is not finalized until the transfer for the conference fee reaches our account.
+  
+<a href="https://forms.gle/2JH7LunfkQ4NkicFA" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Virtual registration (form open until 20.08) <i class="fas fa-play"></i></a>
 
 <br>
+
 
 ### For attendees from Russian institutions
 
@@ -225,10 +269,10 @@ NGSchool condemns the aggression against Ukraine in the strongest possible terms
 
 <br>
 
-## Scientific Advisory Board
+<h2 id='aboard'>Scientific Advisory Board</h2>  
 To be announced soon. 
 
-## Organisers
+<h2 id='organisers'>Organisers</h2>  
 
 * [Karolina Sienkiewicz](/people/karolina-sienkiewicz), Weill Cornell Medicine, Cornell University, USA  
 * [Kasia Kędzierska](/people/kasia-kedzierska), WHG, OX, Oxford, GB  
