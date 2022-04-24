@@ -275,6 +275,12 @@ In this registration form you will be asked for some basic information about you
 
 </div>
 
+### Further information
+
+If you have any questions regarding NGSchool2022 please first refer to our [FAQ page](/faq). If you cannot find an answer to your question there or need further explanation, you can reach us using [contact form](/contact).
+
+<br><br>
+
 <div class="alert alert-warning text-justify">
 <h3 class="text-center">For attendees from Russian institutions</h3>
 
