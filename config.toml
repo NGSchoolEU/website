@@ -191,7 +191,7 @@ disableLanguages = ["pl"]
 
 
   [[menu.main]]
-  name = "Donae"
+  name = "Donate"
   URL = "bank_account"
   weight = 25
 
