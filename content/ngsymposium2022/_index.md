@@ -24,6 +24,7 @@ Jump to:
 * <a href='#speakers'>Speakers</a>  
 * <a href='#dates'>Important dates</a>  
 * <a href='#format'>Format</a>  
+* <a href='#progrm'>Program</a>  
 * <a href='#fees'>Conference fees</a>  
 * <a href='#registration'>Registration</a>  
 * <a href='#aboard'>Scientific Advisory Board</a>  
@@ -190,7 +191,7 @@ NGSymposium will be held in person, in Warsaw. However, to increase the reach of
 </div>
 
 <div>
-<h2 id='fees'>Program</h2>  
+<h2 id='program'>Program</h2>  
 
 <div style="display: flex;">
   <div class="col-md-12">
