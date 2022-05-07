@@ -30,11 +30,11 @@ The topics we will cover during this year summer school include:
 Jump to:
 * <a href='#dates'>Important dates</a>  
 * <a href='#speakers'>Speakers and tutors</a>  
-* <a href='#progrm'>Program</a>  
+* <a href='#program'>Program</a>  
 * <a href='#registration'>Registration</a>  
 * <a href='#more'>More information</a>  
-* <a href='#aboard'>Venue</a>  
-* <a href='#organisers'>Organisers, Sponsors and Partners</a> 
+* <a href='#venue'>Venue</a>  
+* <a href='#organisers'>Organisers</a> 
 
 <h2 id='dates'>Important dates</h2>  
 
@@ -226,9 +226,10 @@ var x = setInterval(function() {
 
 <div>
 <h2 id='program'>Program</h2> 
-  <div class="col-md-12">
+  <div style="display: flex;">
   <iframe width=100% height=900 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrfzJCd5nqRsDXTot4yzigHV20jf_tPYnO5KxGGxpnb6e2Km0nRf3mGyYaCdqEmAdmWVwlnVB8v72G/pubhtml?gid=622340577&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
   </div>
+  <br>
 </div>
 
 <div>
