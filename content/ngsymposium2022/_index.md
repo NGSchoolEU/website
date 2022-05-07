@@ -24,11 +24,11 @@ Jump to:
 * <a href='#speakers'>Speakers</a>  
 * <a href='#dates'>Important dates</a>  
 * <a href='#format'>Format</a>  
-* <a href='#progrm'>Program</a>  
+* <a href='#program'>Program</a>  
 * <a href='#fees'>Conference fees</a>  
 * <a href='#registration'>Registration</a>  
 * <a href='#aboard'>Scientific Advisory Board</a>  
-* <a href='#organisers'>Organisers, Sponsors and Partners</a> 
+* <a href='#organisers'>Organisers</a> 
 
 <h2 id='topics'>Topics and keywords</h2>  
 
@@ -190,12 +190,10 @@ NGSymposium will be held in person, in Warsaw. However, to increase the reach of
 
 <div>
 <h2 id='program'>Program</h2>  
-
 <div style="display: flex;">
-  <div class="col-md-12">
-  <iframe width=60% height=600 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9WhH9Nf2zuqIfDPSb7jubseT0sOfoXZlCYKl-e8M7mED1Y_aigzudyX_dcKzQZKAEALq7HjOxooUY/pubhtml?gid=421558725&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-  </div>
+  <iframe width=60% height=550 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9WhH9Nf2zuqIfDPSb7jubseT0sOfoXZlCYKl-e8M7mED1Y_aigzudyX_dcKzQZKAEALq7HjOxooUY/pubhtml?gid=421558725&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 </div>
+<br>
 </div>
 
 <div>
