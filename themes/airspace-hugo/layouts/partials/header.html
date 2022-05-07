@@ -27,7 +27,14 @@
                   aria-expanded="false">{{ .Name }} <span class="ion-ios-arrow-down"></span></a>
                 <ul class="dropdown-menu">
                   {{ range .Children }}
-                  <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+                  {{ if .HasChildren }}
+                  <li><p style="padding: 15px 0 0 15px;  font-weight: bold;">{{ .Name }}</p></li>
+                    {{ range .Children }}
+                    <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+                    {{ end }}
+                  {{ else }}
+                  <li><a href="{{ .URL | relLangURL }}" style="font-weight: bold;">{{ .Name }}</a></li>
+                  {{ end }}
                   {{ end }}
                 </ul>
               </li>

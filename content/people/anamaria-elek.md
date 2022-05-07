@@ -5,11 +5,11 @@ description:
 draft: false
 image: images/people/anamaria-elek.jpg
 information:
-- info: "NGSchool2018, NGSeminars2020, NGSymposium2020, NGSeminars2021, NGSprint2021"
+- info: "NGSchool2018, NGSeminars2020, NGSymposium2020, NGSeminars2021, NGSprint2021, NGSchool2022"
   label: Events
 - info: "participant, organizer"
   label: Role
-- info: CRG, Barcelona, Spain
+- info: Centre for Genomic Regulation (CRG), Barcelona, Spain
   label: Affiliation
 - info: aelek@ngschool.eu
   label: Contact email

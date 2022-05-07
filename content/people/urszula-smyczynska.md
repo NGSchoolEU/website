@@ -5,7 +5,7 @@ description:
 draft: false
 image: images/people/urszula-smyczynska.jpg
 information:
-- info: "NGSchool2018, NGSchool2019, NGSchool2020, NGSeminars2021, NGSprint2021"
+- info: "NGSchool2018, NGSchool2019, NGSchool2020, NGSeminars2021, NGSprint2021, NGSchool2022"
   label: Events
 - info: "Participant, organiser"
   label: Role

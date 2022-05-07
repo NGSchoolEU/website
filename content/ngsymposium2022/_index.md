@@ -24,6 +24,7 @@ Jump to:
 * <a href='#speakers'>Speakers</a>  
 * <a href='#dates'>Important dates</a>  
 * <a href='#format'>Format</a>  
+* <a href='#progrm'>Program</a>  
 * <a href='#fees'>Conference fees</a>  
 * <a href='#registration'>Registration</a>  
 * <a href='#aboard'>Scientific Advisory Board</a>  
@@ -33,29 +34,62 @@ Jump to:
 
 We will have panels on **multiomics and systems biology**, **cancer research**, **single cell transcriptomics** and **long-read sequencing**. 
 
+<div>
 <h2 id='speakers'>Speakers</h2>  
 
-<h3><a href="/people/maire-ni-leathlobhair/">Máire Ní Leathlobhair</a></h3>
-Department of Microbiology, Trinity College Dublin, Ireland
+  <div class="row">
+    <div class="col-md-2">
+      <img class="img-responsive w-100" src="/images/people/maire-ni-leathlobhair.jpg" alt="">
+    </div>
+    <div class="col-md-4">
+      <h3><a href="/people/maire-ni-leathlobhair/" target="_blank">Máire Ní Leathlobhair</a></h3>
+      <h4>Department of Microbiology, Trinity College Dublin, Ireland</h4>
+    </div>
+  </div>
+  <br>
+  <div class="row">
+    <div class="col-md-2">
+      <img class="img-responsive w-100" src="/images/people/mireya-plass.png" alt="">
+    </div>
+    <div class="col-md-4">
+      <h3><a href="/people/mireya-plass/" target="_blank">Mireya Plass</a></h3>
+      <h4>Bellvitge Biomedical Research Institute (IDIBELL), Barcelona, Spain</h4>
+    </div>
+  </div>
+  <br>
+  <div class="row">
+    <div class="col-md-2">
+      <img class="img-responsive w-100" src="/images/people/wojciech-wodo.jpeg" alt="">
+    </div>
+    <div class="col-md-4">
+      <h3><a href="/people/wojciech-wodo/" target="_blank">Wojciech Wodo</a></h3>
+      <h4>Wroclaw University of Science and Technology, Poland</h4>
+    </div>
+  </div>
+  <br>
+  <div class="row">
+    <div class="col-md-2">
+      <img class="img-responsive w-100" src="/images/people/michaela-hohne.png" alt="">
+    </div>
+    <div class="col-md-4">
+      <h3><a href="/people/michaela-hohne" target="_blank">Michaela Höhne</a></h3>
+      <h4>Center for Molecular Medicine Cologne (CMMC), University of Cologne, Germany</h4>
+    </div>
+  </div>
+  <br>
+  <div class="row">
+    <div class="col-md-2">
+      <img class="img-responsive w-100" src="/images/people/pawel-krawczyk.png" alt="">
+    </div>
+    <div class="col-md-4">
+      <h3><a href="/people/pawel-krawczyk/" target="_blank">Paweł Krawczyk</a></h3>
+      <h4>International Institute of Molecular and Cell Biology in Warsaw, Poland</h4>
+    </div>
+  </div>
+</div>
 <br>
 
-<h3><a href="https://p-cmrc.cat/research/plass-group/" target="blank">Mireya Plass</a></h3>
-Bellvitge Biomedical Research Institute (IDIBELL), Hospitalet de Llobregat, Barcelona, Spain
-<br>
-
-<h3><a href="/people/wojciech-wodo/">Wojciech Wodo</a></h3>
-Wroclaw University of Science and Technology, Poland
-<br>
-
-<h3><a href="https://www.haensel-hertsch-lab.cmmc-uni-koeln.de/team" target="blank">Michaela Höhne</a></h3>
-Hänsel-Hertsch Lab, Center for Molecular Medicine Cologne CMMC, University of Cologne, Germany
-<br>
-
-<h3><a href="/people/pawel-krawczyk/">Paweł Krawczyk</a></h3>
-Dziembowski's Group, International Institute of Molecular and Cell Biology in Warsaw
-<br>
-<br>
-
+<div>
 <h2 id='dates'>Important dates</h2>
 <table class="table table-bordered table-striped">
   <tr>
@@ -108,6 +142,7 @@ Dziembowski's Group, International Institute of Molecular and Cell Biology in Wa
 </table>
 
 <br>
+</div>
 
 <div class="alert alert-info">
 <!-- Countdown -->
@@ -147,13 +182,26 @@ var x = setInterval(function() {
 
 <br>
 
+<div>
 <h2 id='format'>Format</h2>  
 
 NGSymposium will be held in person, in Warsaw. However, to increase the reach of the conference we will offer virtual participation to those that cannot join us in person. Included in virtual participation will be: live-streamed talks with ability to ask questions in real time, live-streamed poster spotlight session, abstract book and access to PDFs of posters (we will encourage participants to provide PDF versions of their poster to share with virtual audience).
+</div>
 
+<div>
+<h2 id='program'>Program</h2>  
+
+<div style="display: flex;">
+  <div class="col-md-12">
+  <iframe width=60% height=600 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9WhH9Nf2zuqIfDPSb7jubseT0sOfoXZlCYKl-e8M7mED1Y_aigzudyX_dcKzQZKAEALq7HjOxooUY/pubhtml?gid=421558725&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+  </div>
+</div>
+</div>
+
+<div>
 <h2 id='fees'>Conference fees</h2>  
 
-Registration fee covers **registration package, coffee breaks (both days) and lunch on 24.09**. Registration fee also contributes to the cost of conference venue rental, and accommodation, board & travel costs of invited speakers. Our events are non-profit and all organizers are volunteering their time. We apply for funding that allows us to subsidize the cost of the events and with current funding schemes we are unable to offer remuneration to invited speakers. 
+Registration fee covers registration package, coffee breaks (both days) and lunch on 24.09. Registration fee also contributes to the cost of conference venue rental, and accommodation, board & travel costs of invited speakers. Our events are non-profit and all organizers are volunteering their time. We apply for funding that allows us to subsidize the cost of the events and with current funding schemes we are unable to offer remuneration to invited speakers. 
 
 <hr>
 <table class="table table-bordered table-striped" style="width:80%">
@@ -196,8 +244,6 @@ Registration fee covers **registration package, coffee breaks (both days) and lu
 
 <br>
 
-
-
 <h4>Academics full</h4>
 
 We set the registration fees with highly variable incomes in the Central and Easter Europe in mind. We work hard to secure funding that would allow us to subsidize the cost of the events, which we pass on to our attendees. If you are coming from a high income country and/or are able to cover the full fee we would ask you to please consider paying the full amount. That will allow us to direct the funds from Sponsors and Grants to support researchers in need.  
@@ -234,8 +280,6 @@ Transfer title: <b>NGSymposium2022 Name Surname</b>
 </div>
 
 <br>
-
-<div>
 
 <h2 id='registration'>Registration</h2>  
 

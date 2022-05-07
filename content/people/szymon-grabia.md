@@ -5,7 +5,7 @@ description:
 draft: false
 image: images/people/szymon-grabia.jpg
 information:
-- info: "NGSchool2019, NGSeminars2020, NGSymposium2020, NGSeminars2021, NGSprint2021"
+- info: "NGSchool2019, NGSeminars2020, NGSymposium2020, NGSeminars2021, NGSprint2021, NGSchool2022"
   label: Events
 - info: "participant, organizer"
   label: Role
