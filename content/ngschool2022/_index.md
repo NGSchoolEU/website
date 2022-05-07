@@ -158,7 +158,7 @@ var x = setInterval(function() {
     </div>
     <div class="col-md-4">
       <h3><a href="/people/miron-kursa/" target="_blank">Miron Kursa</a></h3>
-      <h4></h4>
+      <h4>Interdisciplinary Centre for Mathematical and Computational Modelling, University of Warsaw, Poland</h4>
     </div>
     <div class="col-md-2">
       <img class="img-responsive w-100" src="/images/people/karolina-sienkiewicz.jpg" alt="">
@@ -209,14 +209,14 @@ var x = setInterval(function() {
     </div>
     <div class="col-md-4">
       <h3><a href="/people/leopold-parts/" target="_blank">Leopold Parts</a></h3>
-      <h4> </h4>
+      <h4>Wellcome Sanger Institute, Cambridge, UK</h4>
     </div>
         <div class="col-md-2">
       <img class="img-responsive w-100" src="/images/people/dmytro-fishman.jpg" alt="">
     </div>
     <div class="col-md-4">
       <h3><a href="/people/dmytro-fishman/" target="_blank">Dmytro Fishman</a></h3>
-      <h4> </h4>
+      <h4>University of Tartu, Estonia</h4>
     </div>
   </div>
   <br>
@@ -254,6 +254,7 @@ We try to make our events accessible and affordable for all, and keep the regist
 <h4 class="text-center">For participants applying from Russian institutions</h4>
 
 NGSchool condemns the aggression against Ukraine in the strongest possible terms and stands in solidarity with our colleagues in Ukraine. Since Russian Universities publicly supported the war we are unable to accept participants affiliated with those institutions. However, we note that many Russian academics, at great personal peril, have publicly criticized this invasion. We would like to support all those harmed by Putin's regime and therefore extend our invitation to Russian academics and students provided they will come as individuals, without affiliation. We will not be able to accept payments for registration fees from Russian universities and companies and will not be able to provide receipts to those organizations.
+
 
 </div>
 <div>

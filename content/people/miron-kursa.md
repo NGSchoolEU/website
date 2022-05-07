@@ -9,7 +9,7 @@ information:
   label: Events
 - info: Speaker
   label: Role
-- info: ""
+- info: "Interdisciplinary Centre for Mathematical and Computational Modelling, University of Warsaw, Poland"
   label: Affiliation
 title: Miron Kursa
 ---
