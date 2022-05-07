@@ -56,11 +56,6 @@ Dziembowski's Group, International Institute of Molecular and Cell Biology in Wa
 <br>
 <br>
 
-...and more coming soon!
-
-
-<br>
-
 <h2 id='dates'>Important dates</h2>
 <table class="table table-bordered table-striped">
   <tr>
@@ -221,7 +216,9 @@ NGSymposium2020 will be held on 31 of July and 1 of August 2020 in Warsaw, Polan
 <br>
 
 <h4>Payment details</h4>
+<br>
 Account holder: <b>Stowarzyszenie NGSchool</b>/<b>NGSchool Society</b>
+<br>
 
 BIC/SWIFT: <b>TRWIBEB1XXX</b>
 
