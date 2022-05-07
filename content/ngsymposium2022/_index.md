@@ -151,6 +151,16 @@ var x = setInterval(function() {
 
 NGSymposium will be held in person, in Warsaw. However, to increase the reach of the conference we will offer virtual participation to those that cannot join us in person. Included in virtual participation will be: live-streamed talks with ability to ask questions in real time, live-streamed poster spotlight session, abstract book and access to PDFs of posters (we will encourage participants to provide PDF versions of their poster to share with virtual audience).
 
+
+<h2 id='fees'>Program</h2>  
+
+<div class="row">
+  <div class="col-md-12">
+  <iframe width=60% height=600 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9WhH9Nf2zuqIfDPSb7jubseT0sOfoXZlCYKl-e8M7mED1Y_aigzudyX_dcKzQZKAEALq7HjOxooUY/pubhtml?gid=421558725&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+  </div>
+</div>
+
+
 <h2 id='fees'>Conference fees</h2>  
 
 Registration fee covers **registration package, coffee breaks (both days) and lunch on 24.09**. Registration fee also contributes to the cost of conference venue rental, and accommodation, board & travel costs of invited speakers. Our events are non-profit and all organizers are volunteering their time. We apply for funding that allows us to subsidize the cost of the events and with current funding schemes we are unable to offer remuneration to invited speakers. 
