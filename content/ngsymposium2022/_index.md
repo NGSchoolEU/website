@@ -56,46 +56,6 @@ Dziembowski's Group, International Institute of Molecular and Cell Biology in Wa
 <br>
 <br>
 
-...and more coming soon!
-
-<!-- Countdown -->
-<br>
-
-<h2 id="demo"></h2>
-
-<script>
-// Set the date we're counting down to
-var countDownDate = new Date("Sep 23, 2022 12:00:00").getTime();
-
-// Update the count down every 1 second
-var x = setInterval(function() {
-
-  // Get today's date and time
-  var now = new Date().getTime();
-
-  // Find the distance between now and the count down date
-  var distance = countDownDate - now;
-
-  // Time calculations for days, hours, minutes and seconds
-  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-
-  // Display the result in the element with id="demo"
-  document.getElementById("demo").innerHTML = "NGSymposium starts in " + days + " days " + hours + " hours "
-  + minutes + " min and " + seconds + " sec!";
-
-  // If the count down is finished, write some text
-  if (distance < 0) {
-    clearInterval(x);
-    document.getElementById("demo").innerHTML = "NGSymposium is here!";
-  }
-}, 1000);
-</script>
-
-<br>
-
 <h2 id='dates'>Important dates</h2>
 <table class="table table-bordered table-striped">
   <tr>
@@ -149,6 +109,44 @@ var x = setInterval(function() {
 
 <br>
 
+<div class="alert alert-info">
+<!-- Countdown -->
+<h2 id="demo" class="text-center"></h2>
+
+<script>
+// Set the date we're counting down to
+var countDownDate = new Date("Sep 23, 2022 12:00:00").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get today's date and time
+  var now = new Date().getTime();
+
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+  // Display the result in the element with id="demo"
+  document.getElementById("demo").innerHTML = "NGSymposium starts in " + days + " days " + hours + " hours "
+  + minutes + " min and " + seconds + " sec!";
+
+  // If the count down is finished, write some text
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("demo").innerHTML = "NGSymposium is here!";
+  }
+}, 1000);
+</script>
+</div>
+
+<br>
+
 <h2 id='format'>Format</h2>  
 
 NGSymposium will be held in person, in Warsaw. However, to increase the reach of the conference we will offer virtual participation to those that cannot join us in person. Included in virtual participation will be: live-streamed talks with ability to ask questions in real time, live-streamed poster spotlight session, abstract book and access to PDFs of posters (we will encourage participants to provide PDF versions of their poster to share with virtual audience).
@@ -198,12 +196,14 @@ Registration fee covers **registration package, coffee breaks (both days) and lu
 
 <br>
 
-#### Academics full  
+
+
+<h4>Academics full</h4>
 
 We set the registration fees with highly variable incomes in the Central and Easter Europe in mind. We work hard to secure funding that would allow us to subsidize the cost of the events, which we pass on to our attendees. If you are coming from a high income country and/or are able to cover the full fee we would ask you to please consider paying the full amount. That will allow us to direct the funds from Sponsors and Grants to support researchers in need.  
 <br>
 
-#### Affordability  
+<h4>Affordability</h4>
 
 We try to make our events accessible and affordable for all, and keep the registration fees to a minimum. We understand that in some circumstances even the fees we set can be challenging. We don't want the money to be a limiting factor in anyone's participation - if you find it difficult to fund your registration fee, please send us an email (info@ngschool.eu) explaining your situation and we will try our best to help you with a reduced fee or a waiver.
 
@@ -215,29 +215,38 @@ NGSymposium2020 will be held on 31 of July and 1 of August 2020 in Warsaw, Polan
 
 <br>
 
-#### Payment details
-Account holder: **Stowarzyszenie NGSchool** / **NGSchool Society**
-
-BIC/SWIFT: **TRWIBEB1XXX**
-
-Account numbers:
-* For payments in PLN: **62 1020 1026 3741 0000 0000 3246**
-* For payments in EUR: **BE43 9670 2250 7501**  
-  
-Transfer title: **NGSymposium2022 Name Surname**
+<h4>Payment details</h4>
+<br>
+Account holder: <b>Stowarzyszenie NGSchool</b>/<b>NGSchool Society</b>
 <br>
 
+BIC/SWIFT: <b>TRWIBEB1XXX</b>
+
+Account numbers:
+<ul>
+  <li>For payments in PLN: <b>62 1020 1026 3741 0000 0000 3246</b></li>
+  <li>For payments in EUR: <b>BE43 9670 2250 7501</b></li>
+</ul>
+
+Transfer title: <b>NGSymposium2022 Name Surname</b>
+<br>
+
+</div>
+
+<br>
+
+<div>
 
 <h2 id='registration'>Registration</h2>  
 
-### Abstract submission 
+<h3>Abstract submission</h3>
 
 Abstract submission will be open from **April, 11 to May 23, 23:59 CET**. 
 
 You can select for the abstract to be considered by the Scientific Advisory Board for:
 
 * an oral presentation,
-* mini oral presentation during 'Posters Spotlight',
+* mini oral presentation during <i>Posters Spotlight</i>,
 * poster presentation.  
 <br>
 
@@ -247,13 +256,13 @@ In order for your abstract to be considered in the evaluation you need to submit
 <a href="https://forms.gle/iXj2neHHMaV39avH9" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Submit an abstract (form open until 23.05) <i class="fas fa-play"></i></a>
 
 
-### Registration - in person  
+<h3>Registration - in person</h3>
 
 In registration form you will be asked for some basic information about yourself, including dietary preferences etc. Please do remember that your registration is not finalized until the transfer for the conference fee reaches our account.
   
 <a href="https://forms.gle/jRAMaQLzWFfm8epz6" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">In person participation (form open until 20.08) <i class="fas fa-play"></i></a>
 
-### Registration - virtual participation  
+<h3>Registration - virtual participation</h3>
 
 In this registration form you will be asked for some basic information about yourself. Please do remember that your registration is not finalized until the transfer for the conference fee reaches our account.
   
@@ -261,11 +270,19 @@ In this registration form you will be asked for some basic information about you
 
 <br>
 
+</div>
 
-### For attendees from Russian institutions
+### Further information
+
+If you have any questions regarding NGSchool2022 please first refer to our [FAQ page](/faq). If you cannot find an answer to your question there or need further explanation, you can reach us using [contact form](/contact).
+
+<br><br>
+
+<div class="alert alert-warning text-justify">
+<h3 class="text-center">For attendees from Russian institutions</h3>
 
 NGSchool condemns the aggression against Ukraine in the strongest possible terms and stands in solidarity with our colleagues in Ukraine. Since Russian Universities publicly supported the war we are unable to accept participants affiliated with those institutions. However, we note that many Russian academics, at great personal peril, have publicly criticized this invasion. We would like to support all those harmed by Putin's regime and therefore extend our invitation to Russian academics and students provided they will come as individuals, without affiliation. We will not be able to accept payments for registration fees from Russian universities and companies and will not be able to provide receipts to those organizations.
-
+</div>
 
 <br>
 
