@@ -15,7 +15,7 @@ description: Machine Learning in Computational Biology
 ---
 
 Our flagship annual summer school is finally coming back!  
-<b>NGSchool 2022: Machine Learning in Computational Biology</b> will be held in-person, from the <b>15th to 23rd of September in <a href="https://www.palacjablonna.pl/index.php" target="blank">Jabłonna palace</a> near Warsaw, Poland</b>.
+<b>NGSchool 2022: Machine Learning in Computational Biology</b> will be held in-person, from the <b>15th to 23rd of September in <a href="https://www.palacjablonna.pl/index.php" target="_blank">Jabłonna palace</a> near Warsaw, Poland</b>.
 
 The topics we will cover during this year summer school include:
 
@@ -25,7 +25,19 @@ The topics we will cover during this year summer school include:
 * Clustering and tree-based methods
 * Deep learning and natural language processing
 
-## Important dates
+</br>
+
+Jump to:
+* <a href='#dates'>Important dates</a>  
+* <a href='#speakers'>Speakers and tutors</a>  
+* <a href='#progrm'>Program</a>  
+* <a href='#registration'>Registration</a>  
+* <a href='#more'>More information</a>  
+* <a href='#aboard'>Venue</a>  
+* <a href='#organisers'>Organisers, Sponsors and Partners</a> 
+
+<h2 id='dates'>Important dates</h2>  
+
 <table class="table table-bordered table-striped">
   <tr>
     <th style="text-align: center">Date</th>
@@ -103,32 +115,138 @@ var x = setInterval(function() {
 
 <br>
 
-## Program
+<div>
+<h2 id='speakers'>Speakers and tutors</h2> 
 
-<div class="row">
+  <div class="row">
+    <div class="col-md-2">
+      <img class="img-responsive w-100" src="/images/people/urszula-smyczynska.jpg" alt="">
+    </div>
+    <div class="col-md-4">
+      <h3><a href="/people/urszula-smyczynska/" target="_blank">Urszula Smyczyńska</a></h3>
+      <h4>Medical University of Lodz, Poland</h4>
+    </div>
+        <div class="col-md-2">
+      <img class="img-responsive w-100" src="/images/people/szymon-grabia.jpg" alt="">
+    </div>
+    <div class="col-md-4">
+      <h3><a href="/people/szymon-grabia/" target="_blank">Szymon Grabia</a></h3>
+      <h4>Medical University of Lodz, Poland</h4>
+    </div>
+  </div>
+  <br>
+  <div class="row">
+    <div class="col-md-2">
+      <img class="img-responsive w-100" src="/images/people/gladys-wojciechowska.jpeg" alt="">
+    </div>
+    <div class="col-md-4">
+      <h3><a href="/people/gladys-wojciechowska/" target="_blank">Gladys Wojciechowska</a></h3>
+      <h4>Medical University of Bialystok, Poland</h4>
+    </div>
+    <div class="col-md-2">
+      <img class="img-responsive w-100" src="/images/people/nuno-sepulveda.jpg" alt="">
+    </div>
+    <div class="col-md-4">
+      <h3><a href="/people/nuno-sepulveda/" target="_blank">Nuno Sepúlveda</a></h3>
+      <h4>Department of Mathematics and Information Science, Warsaw University of Technology, Poland</h4>
+    </div>
+  </div>
+  <br>
+  <div class="row">
+    <div class="col-md-2">
+      <img class="img-responsive w-100" src="/images/people/profile-picture.jpg" alt="">
+    </div>
+    <div class="col-md-4">
+      <h3><a href="/people/miron-kursa/" target="_blank">Miron Kursa</a></h3>
+      <h4></h4>
+    </div>
+    <div class="col-md-2">
+      <img class="img-responsive w-100" src="/images/people/karolina-sienkiewicz.jpg" alt="">
+    </div>
+    <div class="col-md-4">
+      <h3><a href="/people/karolina-sienkiewicz/" target="_blank">Karolina Sienkiewicz</a></h3>
+      <h4>Weill Cornell Medicine, Cornell University, New York, USA</h4>
+    </div>
+  </div>
+  <br>
+  <div class="row">
+    <div class="col-md-2">
+      <img class="img-responsive w-100" src="/images/people/krzysztof-geras.jpg" alt="">
+    </div>
+    <div class="col-md-4">
+      <h3><a href="/people/kszysztof-geras/" target="_blank">Kszysztof Geras</a></h3>
+      <h4>New York University School of Medicine, USA</h4>
+    </div>
+        <div class="col-md-2">
+      <img class="img-responsive w-100" src="/images/people/german-demidov.jpg" alt="">
+    </div>
+    <div class="col-md-4">
+      <h3><a href="/people/german-demidov/" target="_blank">German Demidov</a></h3>
+      <h4>Institute of Medical Genetics and Applied Genomics, University of Tübingen, Germany</h4>
+    </div>
+  </div>
+  <br>
+  <div class="row">
+    <div class="col-md-2">
+      <img class="img-responsive w-100" src="/images/people/maja-kuzman.jpg" alt="">
+    </div>
+    <div class="col-md-4">
+      <h3><a href="/people/maja-kuzman/" target="_blank">Maja Kuzman</a></h3>
+      <h4>C2i Genomics</h4>
+    </div>
+        <div class="col-md-2">
+      <img class="img-responsive w-100" src="/images/people/anamaria-elek.jpg" alt="">
+    </div>
+    <div class="col-md-4">
+      <h3><a href="/people/anamaria-elek/" target="_blank">Anamaria Elek</a></h3>
+      <h4>Centre for Genomic Regulation, Barcelona, Spain</h4>
+    </div>
+  </div>
+  <br>
+  <div class="row">
+    <div class="col-md-2">
+      <img class="img-responsive w-100" src="/images/people/leopold-parts.jpg" alt="">
+    </div>
+    <div class="col-md-4">
+      <h3><a href="/people/leopold-parts/" target="_blank">Leopold Parts</a></h3>
+      <h4> </h4>
+    </div>
+        <div class="col-md-2">
+      <img class="img-responsive w-100" src="/images/people/dmytro-fishman.jpg" alt="">
+    </div>
+    <div class="col-md-4">
+      <h3><a href="/people/dmytro-fishman/" target="_blank">Dmytro Fishman</a></h3>
+      <h4> </h4>
+    </div>
+  </div>
+  <br>
+</div>
+
+
+
+<div>
+<h2 id='program'>Program</h2> 
   <div class="col-md-12">
-  <iframe width=100% height=900 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrfzJCd5nqRsDXTot4yzigHV20jf_tPYnO5KxGGxpnb6e2Km0nRf3mGyYaCdqEmAdmWVwlnVB8v72G/htmlembed?gid=622340577&single=true&widget=true&headers=false&chrome=false"></iframe>
+  <iframe width=100% height=900 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrfzJCd5nqRsDXTot4yzigHV20jf_tPYnO5KxGGxpnb6e2Km0nRf3mGyYaCdqEmAdmWVwlnVB8v72G/pubhtml?gid=622340577&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
   </div>
 </div>
 
-## Registration
-
-This form consist of several sections in which we ask for your motivation for applying to the school and QUIZ with questions from Coding, Statistics & probability and Biological study design & interpretation. We estimate it takes approximately 1 to 2 hours to fill the entire form, but you don't need to do it all in one go. As long as you use the same email address, your progress will be saved, even if you close the form before submitting it, and you will be able to continue where you previously left off, as well as modify all your responses. Once you reach the end and submit the form, you will no longer be able to modify your responses.
-
+<div>
+<h2 id='registration'>Registration</h2> 
+<h3>Registration form</h3> 
+<p>
+The registration form consist of several sections in which we ask for your motivation for applying to the school, and the quiz with questions from Coding, Statistics & probability and Biological study design & interpretation. We estimate it takes approximately 1 to 2 hours to fill the entire form, but you don't need to do it all in one go. As long as you use the same email address, your progress will be saved, even if you close the form before submitting it, and you will be able to continue where you previously left off, as well as modify all your responses. Once you reach the end and submit the form, you will no longer be able to modify your responses.
+</p>
+<p>
 The deadline to submit your application is 30.05.2022 at 23:59 CET. Selection results will be announced in the beginning of July. If you have any question or problems get in touch via email: info@ngschool.eu.
-
+</p>
 <a href="https://forms.gle/cYtJWA7bi5RRywWA7" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Registration form (open until 30.05) <i class="fas fa-play"></i></a>
-
-
-### Registration fee
-
-The registration fee for the selected participants is 200 EUR / 925 PLN for academia and 650 EUR / 3 010 PLN for industry. This **fully covers the cost of accommodation and board** during the summer school.
-
-We try to make our events accessible and affordable for all, and keep the registration fees to a minimum. We understand that in some circumstances even the fees we set can be challenging. We don't want the money to be a limiting factor in anyone's participation - if you find it difficult to fund your registration fee, please still consider applying and [reach out](info@ngschool.eu) explaining your situation and we will try our best to help you with a reduced fee or a waiver.
-
-### Further information
-
-If you have any questions regarding NGSchool2022 please first refer to our [FAQ page](/faq). If you cannot find an answer to your question there or need further explanation, you can reach us using [contact form](/contact).
+<h3>Registration fee</h3> 
+<p>
+The registration fee for the selected participants is 200 EUR / 925 PLN for academia and 650 EUR / 3 010 PLN for industry. This fully covers the cost of accommodation and board during the summer school.
+We try to make our events accessible and affordable for all, and keep the registration fees to a minimum. We understand that in some circumstances even the fees we set can be challenging. We don't want the money to be a limiting factor in anyone's participation - if you find it difficult to fund your registration fee, please still consider applying and <a href="info@ngschool.eu" target="_blank">reach out</a> explaining your situation and we will try our best to help you with a reduced fee or a waiver.
+</p>
+</div>
 
 <br>
 
@@ -138,12 +256,18 @@ If you have any questions regarding NGSchool2022 please first refer to our [FAQ 
 NGSchool condemns the aggression against Ukraine in the strongest possible terms and stands in solidarity with our colleagues in Ukraine. Since Russian Universities publicly supported the war we are unable to accept participants affiliated with those institutions. However, we note that many Russian academics, at great personal peril, have publicly criticized this invasion. We would like to support all those harmed by Putin's regime and therefore extend our invitation to Russian academics and students provided they will come as individuals, without affiliation. We will not be able to accept payments for registration fees from Russian universities and companies and will not be able to provide receipts to those organizations.
 
 </div>
+<div>
+<h2 id='more'>More information</h2> 
+<p>
+If you have any questions regarding NGSchool2022 please first refer to our <a href="/faq" target="_blank">FAQ page</a>. If you cannot find an answer to your question there or need further explanation, you can reach us using <a href="/contact" target="_blank">contact form</a>.
+</p>
+</div>
 
-<br>
-
-## Venue
-NGSchool2022 will take place in <a href="https://www.palacjablonna.pl/index.php" target="blank">Jabłonna palace</a> that belongs to Polish Academy of Sciences.
-
+<div>
+<h2 id='venue'>Venue</h2> 
+<p>
+NGSchool2022 will take place in <a href="https://www.palacjablonna.pl/index.php" target="_blank">Jabłonna palace</a> that belongs to Polish Academy of Sciences.
+</p>
 <div class="row">
   <div class="col-md-4">
     <img class="img-responsive w-100" src="/images/post/palacjablonna-05.jpg" alt="">
@@ -168,6 +292,7 @@ NGSchool2022 will take place in <a href="https://www.palacjablonna.pl/index.php"
   </div>
 </div>
 
+</div>
 <br>
 
 ## Organisers

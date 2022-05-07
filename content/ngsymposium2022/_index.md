@@ -42,7 +42,7 @@ We will have panels on **multiomics and systems biology**, **cancer research**, 
       <img class="img-responsive w-100" src="/images/people/maire-ni-leathlobhair.jpg" alt="">
     </div>
     <div class="col-md-4">
-      <h3><a href="/people/maire-ni-leathlobhair/ target="blank">Máire Ní Leathlobhair</a></h3>
+      <h3><a href="/people/maire-ni-leathlobhair/" target="_blank">Máire Ní Leathlobhair</a></h3>
       <h4>Department of Microbiology, Trinity College Dublin, Ireland</h4>
     </div>
   </div>
@@ -52,7 +52,7 @@ We will have panels on **multiomics and systems biology**, **cancer research**, 
       <img class="img-responsive w-100" src="/images/people/mireya-plass.png" alt="">
     </div>
     <div class="col-md-4">
-      <h3><a href="/people/mireya-plass/ target="blank">Mireya Plass</a></h3>
+      <h3><a href="/people/mireya-plass/" target="_blank">Mireya Plass</a></h3>
       <h4>Bellvitge Biomedical Research Institute (IDIBELL), Barcelona, Spain</h4>
     </div>
   </div>
@@ -62,7 +62,7 @@ We will have panels on **multiomics and systems biology**, **cancer research**, 
       <img class="img-responsive w-100" src="/images/people/wojciech-wodo.jpeg" alt="">
     </div>
     <div class="col-md-4">
-      <h3><a href="/people/wojciech-wodo/ target="blank">Wojciech Wodo</a></h3>
+      <h3><a href="/people/wojciech-wodo/" target="_blank">Wojciech Wodo</a></h3>
       <h4>Wroclaw University of Science and Technology, Poland</h4>
     </div>
   </div>
@@ -72,7 +72,7 @@ We will have panels on **multiomics and systems biology**, **cancer research**, 
       <img class="img-responsive w-100" src="/images/people/michaela-hohne.png" alt="">
     </div>
     <div class="col-md-4">
-      <h3><a href="https://www.haensel-hertsch-lab.cmmc-uni-koeln.de/team" target="blank">Michaela Höhne</a></h3>
+      <h3><a href="/people/michaela-hohne" target="_blank">Michaela Höhne</a></h3>
       <h4>Center for Molecular Medicine Cologne (CMMC), University of Cologne, Germany</h4>
     </div>
   </div>
@@ -82,14 +82,12 @@ We will have panels on **multiomics and systems biology**, **cancer research**, 
       <img class="img-responsive w-100" src="/images/people/pawel-krawczyk.png" alt="">
     </div>
     <div class="col-md-4">
-      <h3><a href="/people/pawel-krawczyk/" target="blank">Paweł Krawczyk</a></h3>
+      <h3><a href="/people/pawel-krawczyk/" target="_blank">Paweł Krawczyk</a></h3>
       <h4>International Institute of Molecular and Cell Biology in Warsaw, Poland</h4>
     </div>
   </div>
 </div>
 <br>
-
-
 
 <div>
 <h2 id='dates'>Important dates</h2>
@@ -203,7 +201,7 @@ NGSymposium will be held in person, in Warsaw. However, to increase the reach of
 <div>
 <h2 id='fees'>Conference fees</h2>  
 
-Registration fee covers **registration package, coffee breaks (both days) and lunch on 24.09**. Registration fee also contributes to the cost of conference venue rental, and accommodation, board & travel costs of invited speakers. Our events are non-profit and all organizers are volunteering their time. We apply for funding that allows us to subsidize the cost of the events and with current funding schemes we are unable to offer remuneration to invited speakers. 
+Registration fee covers registration package, coffee breaks (both days) and lunch on 24.09. Registration fee also contributes to the cost of conference venue rental, and accommodation, board & travel costs of invited speakers. Our events are non-profit and all organizers are volunteering their time. We apply for funding that allows us to subsidize the cost of the events and with current funding schemes we are unable to offer remuneration to invited speakers. 
 
 <hr>
 <table class="table table-bordered table-striped" style="width:80%">

@@ -5,7 +5,7 @@ description:
 draft: false
 image: images/people/kasia-kedzierska.jpg
 information:
-- info: "NGSchool2017, NGSchool2018, NGSchool2019, NGSeminars2020, NGSymposium2020, NGSeminars2021, NGSprint2021"
+- info: "NGSchool2017, NGSchool2018, NGSchool2019, NGSeminars2020, NGSymposium2020, NGSeminars2021, NGSprint2021, NGSchool2022"
   label: Events
 - info: "speaker, organizer"
   label: Role
