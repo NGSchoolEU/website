@@ -44,6 +44,7 @@ We will have panels on **multiomics and systems biology**, **cancer research**, 
     <div class="col-md-4">
       <h3><a href="/people/maire-ni-leathlobhair/" target="_blank">Máire Ní Leathlobhair</a></h3>
       <h4>Department of Microbiology, Trinity College Dublin, Ireland</h4>
+      <h5><i>Inferring timelines of pre-cancerous evolution</i></h5>
     </div>
   </div>
   <br>
@@ -53,7 +54,8 @@ We will have panels on **multiomics and systems biology**, **cancer research**, 
     </div>
     <div class="col-md-4">
       <h3><a href="/people/mireya-plass/" target="_blank">Mireya Plass</a></h3>
-      <h4>Bellvitge Biomedical Research Institute (IDIBELL), Barcelona, Spain</h4>
+      <h4>Bellvitge Biomedical Research Institute, Barcelona, Spain</h4>
+      <h5><i>single cell transcriptomics</i></h5>
     </div>
   </div>
   <br>
@@ -64,6 +66,7 @@ We will have panels on **multiomics and systems biology**, **cancer research**, 
     <div class="col-md-4">
       <h3><a href="/people/wojciech-wodo/" target="_blank">Wojciech Wodo</a></h3>
       <h4>Wroclaw University of Science and Technology, Poland</h4>
+      <h5><i>cybersecurity and biometrics</i></h5>
     </div>
   </div>
   <br>
@@ -73,7 +76,8 @@ We will have panels on **multiomics and systems biology**, **cancer research**, 
     </div>
     <div class="col-md-4">
       <h3><a href="/people/michaela-hohne" target="_blank">Michaela Höhne</a></h3>
-      <h4>Center for Molecular Medicine Cologne (CMMC), University of Cologne, Germany</h4>
+      <h4>Center for Molecular Medicine Cologne, University of Cologne, Germany</h4>
+      <h5><i>cancer epigenetics</i></h5>
     </div>
   </div>
   <br>
@@ -84,6 +88,18 @@ We will have panels on **multiomics and systems biology**, **cancer research**, 
     <div class="col-md-4">
       <h3><a href="/people/pawel-krawczyk/" target="_blank">Paweł Krawczyk</a></h3>
       <h4>International Institute of Molecular and Cell Biology in Warsaw, Poland</h4>
+      <h5><i>long read sequencing</i></h5>
+    </div>
+  </div>
+  <br>
+  <div class="row">
+    <div class="col-md-2">
+      <img class="img-responsive w-100" src="/images/people/joanna-sulkowska.jpg" alt="">
+    </div>
+    <div class="col-md-4">
+      <h3><a href="/people/joanna-sulkowska/" target="_blank">Joanna Sulkowska</a></h3>
+      <h4>Centre of New Technologies, University of Warsaw, Poland</h4>
+      <h5><i>structural biology</i></h5>
     </div>
   </div>
 </div>

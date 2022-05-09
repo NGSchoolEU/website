@@ -126,7 +126,7 @@ var x = setInterval(function() {
       <h3><a href="/people/urszula-smyczynska/" target="_blank">Urszula Smyczyńska</a></h3>
       <h4>Medical University of Lodz, Poland</h4>
     </div>
-        <div class="col-md-2">
+    <div class="col-md-2">
       <img class="img-responsive w-100" src="/images/people/szymon-grabia.jpg" alt="">
     </div>
     <div class="col-md-4">
@@ -137,28 +137,11 @@ var x = setInterval(function() {
   <br>
   <div class="row">
     <div class="col-md-2">
-      <img class="img-responsive w-100" src="/images/people/gladys-wojciechowska.jpeg" alt="">
-    </div>
-    <div class="col-md-4">
-      <h3><a href="/people/gladys-wojciechowska/" target="_blank">Gladys Wojciechowska</a></h3>
-      <h4>Medical University of Bialystok, Poland</h4>
-    </div>
-    <div class="col-md-2">
       <img class="img-responsive w-100" src="/images/people/nuno-sepulveda.jpg" alt="">
     </div>
     <div class="col-md-4">
       <h3><a href="/people/nuno-sepulveda/" target="_blank">Nuno Sepúlveda</a></h3>
       <h4>Department of Mathematics and Information Science, Warsaw University of Technology, Poland</h4>
-    </div>
-  </div>
-  <br>
-  <div class="row">
-    <div class="col-md-2">
-      <img class="img-responsive w-100" src="/images/people/profile-picture.jpg" alt="">
-    </div>
-    <div class="col-md-4">
-      <h3><a href="/people/miron-kursa/" target="_blank">Miron Kursa</a></h3>
-      <h4>Interdisciplinary Centre for Mathematical and Computational Modelling, University of Warsaw, Poland</h4>
     </div>
     <div class="col-md-2">
       <img class="img-responsive w-100" src="/images/people/karolina-sienkiewicz.jpg" alt="">
@@ -177,29 +160,12 @@ var x = setInterval(function() {
       <h3><a href="/people/kszysztof-geras/" target="_blank">Kszysztof Geras</a></h3>
       <h4>New York University School of Medicine, USA</h4>
     </div>
-        <div class="col-md-2">
+    <div class="col-md-2">
       <img class="img-responsive w-100" src="/images/people/german-demidov.jpg" alt="">
     </div>
     <div class="col-md-4">
       <h3><a href="/people/german-demidov/" target="_blank">German Demidov</a></h3>
       <h4>Institute of Medical Genetics and Applied Genomics, University of Tübingen, Germany</h4>
-    </div>
-  </div>
-  <br>
-  <div class="row">
-    <div class="col-md-2">
-      <img class="img-responsive w-100" src="/images/people/maja-kuzman.jpg" alt="">
-    </div>
-    <div class="col-md-4">
-      <h3><a href="/people/maja-kuzman/" target="_blank">Maja Kuzman</a></h3>
-      <h4>C2i Genomics</h4>
-    </div>
-        <div class="col-md-2">
-      <img class="img-responsive w-100" src="/images/people/anamaria-elek.jpg" alt="">
-    </div>
-    <div class="col-md-4">
-      <h3><a href="/people/anamaria-elek/" target="_blank">Anamaria Elek</a></h3>
-      <h4>Centre for Genomic Regulation, Barcelona, Spain</h4>
     </div>
   </div>
   <br>
@@ -211,12 +177,46 @@ var x = setInterval(function() {
       <h3><a href="/people/leopold-parts/" target="_blank">Leopold Parts</a></h3>
       <h4>Wellcome Sanger Institute, Cambridge, UK</h4>
     </div>
-        <div class="col-md-2">
+    <div class="col-md-2">
       <img class="img-responsive w-100" src="/images/people/dmytro-fishman.jpg" alt="">
     </div>
     <div class="col-md-4">
       <h3><a href="/people/dmytro-fishman/" target="_blank">Dmytro Fishman</a></h3>
       <h4>University of Tartu, Estonia</h4>
+    </div>
+  </div>
+  <br>
+  <div class="row">
+    <div class="col-md-2">
+      <img class="img-responsive w-100" src="/images/people/maja-kuzman.jpg" alt="">
+    </div>
+    <div class="col-md-4">
+      <h3><a href="/people/maja-kuzman/" target="_blank">Maja Kuzman</a></h3>
+      <h4>C2i Genomics</h4>
+    </div>
+    <div class="col-md-2">
+      <img class="img-responsive w-100" src="/images/people/anamaria-elek.jpg" alt="">
+    </div>
+    <div class="col-md-4">
+      <h3><a href="/people/anamaria-elek/" target="_blank">Anamaria Elek</a></h3>
+      <h4>Centre for Genomic Regulation, Barcelona, Spain</h4>
+    </div>
+  </div>
+  <br>
+  <div class="row">
+    <div class="col-md-2">
+      <img class="img-responsive w-100" src="/images/people/profile-picture.jpg" alt="">
+    </div>
+    <div class="col-md-4">
+      <h3><a href="/people/miron-kursa/" target="_blank">Miron Kursa</a></h3>
+      <h4>Interdisciplinary Centre for Mathematical and Computational Modelling, University of Warsaw, Poland</h4>
+    </div>
+    <div class="col-md-2">
+      <img class="img-responsive w-100" src="/images/people/noura-al-moubayed.jpg" alt="">
+    </div>
+    <div class="col-md-4">
+      <h3><a href="/people/noura-al-moubayed/" target="_blank">Noura Al Moubayed</a></h3>
+      <h4>Durham University, UK</h4>
     </div>
   </div>
   <br>
