@@ -126,7 +126,7 @@ var x = setInterval(function() {
       <h3><a href="/people/urszula-smyczynska/" target="_blank">Urszula Smyczyńska</a></h3>
       <h4>Medical University of Lodz, Poland</h4>
     </div>
-        <div class="col-md-2">
+    <div class="col-md-2">
       <img class="img-responsive w-100" src="/images/people/szymon-grabia.jpg" alt="">
     </div>
     <div class="col-md-4">
@@ -177,7 +177,7 @@ var x = setInterval(function() {
       <h3><a href="/people/kszysztof-geras/" target="_blank">Kszysztof Geras</a></h3>
       <h4>New York University School of Medicine, USA</h4>
     </div>
-        <div class="col-md-2">
+    <div class="col-md-2">
       <img class="img-responsive w-100" src="/images/people/german-demidov.jpg" alt="">
     </div>
     <div class="col-md-4">
@@ -194,7 +194,7 @@ var x = setInterval(function() {
       <h3><a href="/people/maja-kuzman/" target="_blank">Maja Kuzman</a></h3>
       <h4>C2i Genomics</h4>
     </div>
-        <div class="col-md-2">
+    <div class="col-md-2">
       <img class="img-responsive w-100" src="/images/people/anamaria-elek.jpg" alt="">
     </div>
     <div class="col-md-4">
@@ -211,12 +211,22 @@ var x = setInterval(function() {
       <h3><a href="/people/leopold-parts/" target="_blank">Leopold Parts</a></h3>
       <h4>Wellcome Sanger Institute, Cambridge, UK</h4>
     </div>
-        <div class="col-md-2">
+    <div class="col-md-2">
       <img class="img-responsive w-100" src="/images/people/dmytro-fishman.jpg" alt="">
     </div>
     <div class="col-md-4">
       <h3><a href="/people/dmytro-fishman/" target="_blank">Dmytro Fishman</a></h3>
       <h4>University of Tartu, Estonia</h4>
+    </div>
+  </div>
+  <br>
+  <div class="row">
+    <div class="col-md-2">
+      <img class="img-responsive w-100" src="/images/people/noura-al-moubayed.jpg" alt="">
+    </div>
+    <div class="col-md-4">
+      <h3><a href="/people/noura-al-moubayed/" target="_blank">Noura Al Moubayed</a></h3>
+      <h4>Durham University, UK</h4>
     </div>
   </div>
   <br>
