@@ -247,6 +247,11 @@ The deadline to submit your application is 30.05.2022 at 23:59 CET. Selection re
 The registration fee for the selected participants is 200 EUR / 925 PLN for academia and 650 EUR / 3 010 PLN for industry. This fully covers the cost of accommodation and board during the summer school.
 We try to make our events accessible and affordable for all, and keep the registration fees to a minimum. We understand that in some circumstances even the fees we set can be challenging. We don't want the money to be a limiting factor in anyone's participation - if you find it difficult to fund your registration fee, please still consider applying and <a href="info@ngschool.eu" target="_blank">reach out</a> explaining your situation and we will try our best to help you with a reduced fee or a waiver.
 </p>
+<br>
+<h4 class="text-center">Registration fee waiver for participants applying from Ukraine</h4> 
+<p>
+NGSchool's mission is to promote and support science. We want to help by doing what we do best: supporting  scientists. With this in mind, we are offering a fee waiver for accepted applicants from Ukraine or Ukrainians who were displaced as an effect of Russian aggression. Additionally, as in previous years, we will support participants with travel grants. Please mention your situation in the Bursary section of the Registration Form.
+</p>
 </div>
 
 <br>
