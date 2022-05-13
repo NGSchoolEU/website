@@ -77,6 +77,43 @@ Jump to:
 <br>
 
 <!-- Countdown -->
+<div class="alert alert-warning" style="color:black;background-color:#fce5cd;border-color:#fce5cd">
+<h2 id="ngschool_reg" class="text-center"></h2>
+
+<script>
+// Set the date we're counting down to
+var countDownDateReg = new Date("May 30, 2022 12:00:00").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get today's date and time
+  var now = new Date().getTime();
+
+  // Find the distance between now and the count down date
+  var distance = countDownDateReg - now;
+
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+  // Display the result in the element with id="demo"
+  document.getElementById("ngschool_reg").innerHTML = "NGSchool2022 registration closes in " + days + " days " + hours + " hours "
+  + minutes + " min and " + seconds + " sec!";
+
+  // If the count down is finished, write some text
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("ngschool_reg").innerHTML = "Registration for NGSchool2022 is closed!";
+  }
+}, 1000);
+</script>
+
+</div>
+
+<!-- Countdown -->
 <div class="alert alert-info">
 <h2 id="demo" class="text-center"></h2>
 
@@ -248,12 +285,12 @@ The registration fee for the selected participants is 200 EUR / 925 PLN for acad
 We try to make our events accessible and affordable for all, and keep the registration fees to a minimum. We understand that in some circumstances even the fees we set can be challenging. We don't want the money to be a limiting factor in anyone's participation - if you find it difficult to fund your registration fee, please still consider applying and <a href="info@ngschool.eu" target="_blank">reach out</a> explaining your situation and we will try our best to help you with a reduced fee or a waiver.
 </p>
 <br>
-<h4 class="text-center">Registration fee waiver for participants applying from Ukraine</h4> 
+<div class="alert alert-info text-justify">
+<h4 class="text-center">Registration fee waiver for Ukrainian participants</h4> 
 <p>
 NGSchool's mission is to promote and support science. We want to help by doing what we do best: supporting  scientists. With this in mind, we are offering a fee waiver for accepted applicants from Ukraine or Ukrainians who were displaced as an effect of Russian aggression. Additionally, as in previous years, we will support participants with travel grants. Please mention your situation in the Bursary section of the Registration Form.
 </p>
 </div>
-
 <br>
 
 <div class="alert alert-warning text-justify">
