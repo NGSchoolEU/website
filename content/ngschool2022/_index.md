@@ -181,11 +181,28 @@ var x = setInterval(function() {
       <h4>Department of Mathematics and Information Science, Warsaw University of Technology, Poland</h4>
     </div>
     <div class="col-md-2">
+      <img class="img-responsive w-100" src="/images/people/joao-torrado-maltao.jpg" alt="">
+    </div>
+    <div class="col-md-4">
+      <h3><a href="/people/joao-torrado-maltao/" target="_blank">João Torrado Malato</a></h3>
+      <h4>University of Lisbon, Portugal and Warsaw University, Poland</h4>
+    </div>
+  </div>
+  <br>
+  <div class="row">
+    <div class="col-md-2">
       <img class="img-responsive w-100" src="/images/people/karolina-sienkiewicz.jpg" alt="">
     </div>
     <div class="col-md-4">
       <h3><a href="/people/karolina-sienkiewicz/" target="_blank">Karolina Sienkiewicz</a></h3>
       <h4>Weill Cornell Medicine, Cornell University, New York, USA</h4>
+    </div>
+    <div class="col-md-2">
+      <img class="img-responsive w-100" src="/images/people/profile-picture.jpg" alt="">
+    </div>
+    <div class="col-md-4">
+      <h3><a href="/people/miron-kursa/" target="_blank">Miron Kursa</a></h3>
+      <h4>Interdisciplinary Centre for Mathematical and Computational Modelling, University of Warsaw, Poland</h4>
     </div>
   </div>
   <br>
@@ -225,6 +242,23 @@ var x = setInterval(function() {
   <br>
   <div class="row">
     <div class="col-md-2">
+      <img class="img-responsive w-100" src="/images/people/noura-al-moubayed.jpg" alt="">
+    </div>
+    <div class="col-md-4">
+      <h3><a href="/people/noura-al-moubayed/" target="_blank">Noura Al Moubayed</a></h3>
+      <h4>Durham University, UK</h4>
+    </div>
+    <div class="col-md-2">
+      <img class="img-responsive w-100" src="/images/people/profile-picture.jpg" alt="">
+    </div>
+    <div class="col-md-4">
+      <h3><a href="/people/sean-farell/" target="_blank">Sean Farrell</a></h3>
+      <h4>Durham University, UK</h4>
+    </div>
+  </div>
+  <br>
+  <div class="row">
+    <div class="col-md-2">
       <img class="img-responsive w-100" src="/images/people/maja-kuzman.jpg" alt="">
     </div>
     <div class="col-md-4">
@@ -237,23 +271,6 @@ var x = setInterval(function() {
     <div class="col-md-4">
       <h3><a href="/people/anamaria-elek/" target="_blank">Anamaria Elek</a></h3>
       <h4>Centre for Genomic Regulation, Barcelona, Spain</h4>
-    </div>
-  </div>
-  <br>
-  <div class="row">
-    <div class="col-md-2">
-      <img class="img-responsive w-100" src="/images/people/profile-picture.jpg" alt="">
-    </div>
-    <div class="col-md-4">
-      <h3><a href="/people/miron-kursa/" target="_blank">Miron Kursa</a></h3>
-      <h4>Interdisciplinary Centre for Mathematical and Computational Modelling, University of Warsaw, Poland</h4>
-    </div>
-    <div class="col-md-2">
-      <img class="img-responsive w-100" src="/images/people/noura-al-moubayed.jpg" alt="">
-    </div>
-    <div class="col-md-4">
-      <h3><a href="/people/noura-al-moubayed/" target="_blank">Noura Al Moubayed</a></h3>
-      <h4>Durham University, UK</h4>
     </div>
   </div>
   <br>
