@@ -52,7 +52,7 @@ Jump to:
     </td>
   </tr>
   <tr>
-    <td class="date-td" style="text-align: center;">30.05</td>
+    <td class="date-td" style="text-align: center;"><strike>30.05</strike><span style="color: red;"><b>13.06</b></span></td>
     <td>Registration deadline</td>
     <td>
       <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MmlrcHFqbHRxMmY0dTlmNGU2am8xMXJmMXUgaW5mb0BuZ3NjaG9vbC5ldQ&tmsrc=info%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
@@ -82,7 +82,7 @@ Jump to:
 
 <script>
 // Set the date we're counting down to
-var countDownDateReg = new Date("May 30, 2022 12:00:00").getTime();
+var countDownDateReg = new Date("June 13, 2022 12:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
@@ -293,9 +293,9 @@ var x = setInterval(function() {
 The registration form consist of several sections in which we ask for your motivation for applying to the school, and the quiz with questions from Coding, Statistics & probability and Biological study design & interpretation. We estimate it takes approximately 1 to 2 hours to fill the entire form, but you don't need to do it all in one go. As long as you use the same email address, your progress will be saved, even if you close the form before submitting it, and you will be able to continue where you previously left off, as well as modify all your responses. Once you reach the end and submit the form, you will no longer be able to modify your responses.
 </p>
 <p>
-The deadline to submit your application is 30.05.2022 at 23:59 CET. Selection results will be announced in the beginning of July. If you have any question or problems get in touch via email: info@ngschool.eu.
+The deadline to submit your application is 13.06.2022 at 23:59 CET. Selection results will be announced in the beginning of July. If you have any question or problems get in touch via email: info@ngschool.eu.
 </p>
-<a href="https://forms.gle/cYtJWA7bi5RRywWA7" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Registration form (open until 30.05) <i class="fas fa-play"></i></a>
+<a href="https://forms.gle/cYtJWA7bi5RRywWA7" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Registration form (open until 13.06) <i class="fas fa-play"></i></a>
 <h3>Registration fee</h3> 
 <p>
 The registration fee for the selected participants is 200 EUR / 925 PLN for academia and 650 EUR / 3 010 PLN for industry. This fully covers the cost of accommodation and board during the summer school.
