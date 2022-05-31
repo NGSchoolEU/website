@@ -55,7 +55,7 @@ We will have panels on **multiomics and systems biology**, **cancer research**, 
     <div class="col-md-4">
       <h3><a href="/people/mireya-plass/" target="_blank">Mireya Plass</a></h3>
       <h4>Bellvitge Biomedical Research Institute, Barcelona, Spain</h4>
-      <h5><i>single cell transcriptomics</i></h5>
+      <h5><i>SCALPEL, a new tool for isoform quantification at the single-cell level</i></h5>
     </div>
   </div>
   <br>
@@ -77,7 +77,7 @@ We will have panels on **multiomics and systems biology**, **cancer research**, 
     <div class="col-md-4">
       <h3><a href="/people/michaela-hohne" target="_blank">Michaela Höhne</a></h3>
       <h4>Center for Molecular Medicine Cologne, University of Cologne, Germany</h4>
-      <h5><i>cancer epigenetics</i></h5>
+      <h5><i>Changes in the (epi)genome of tumours and their TME</i></h5>
     </div>
   </div>
   <br>
@@ -99,7 +99,7 @@ We will have panels on **multiomics and systems biology**, **cancer research**, 
     <div class="col-md-4">
       <h3><a href="/people/joanna-sulkowska/" target="_blank">Joanna Sulkowska</a></h3>
       <h4>Centre of New Technologies, University of Warsaw, Poland</h4>
-      <h5><i>structural biology</i></h5>
+      <h5><i>How many knotted proteins are within the human proteome, prediction based on AlphaFold</i></h5>
     </div>
   </div>
 </div>

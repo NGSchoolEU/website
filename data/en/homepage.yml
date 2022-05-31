@@ -12,18 +12,16 @@ banner:
 ############################# About #################################
 about:
   enable : true
-  title : "About us"
-  description : "
-              
-  Once upon a time, when druids were stitching ropes with the DNA in the forests of Britannia, 
-  when Frankonian wizards were boiling DNA and making healing potions from the decoctions, 
-  and when the Vikings were sequencing dinosaurs, deep in the mountains of Vysoké Tatry, 
-  wiedźmini decided to reunite in a free society of sorcerers to share the wisdom 
-  of the bioinformatic magic with the most talented apprentices. 
-  They called it NGSchool."
-  content : "Epics of Eastern, Central and Balkan Slavs, IX century, Great Moravia"
-  image : "images/wrapper-img.png"
-
+  title : "Upcoming events in 2022"
+  content : "
+  [NGSchool 2022: Machine Learning in Computational Biology](/ngschool2022/) will be held in-person, 
+  from the 15th to 23rd of September in Jabłonna palace near Warsaw, Poland.  
+ <br/>
+  Immediately after that, on the 23rd and 24th of September, join us in Warsaw
+  for the [NGSymposium in Computational Biology](/ngsymposium2022/) to celebrate the 5th edition of NGSchool Summer Schools.
+  "
+  description : "Our flagship annual summer school is finally coming back, accompanied by a sattelite conference!"
+  image : "images/wrapper-img-minimal.png"
 
 ######################### NGSchool Society ###############################
 portfolio:
