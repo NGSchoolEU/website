@@ -36,18 +36,6 @@ We will have panels on **multiomics and systems biology**, **cancer research**, 
 
 <div>
 <h2 id='speakers'>Speakers</h2>  
-
-  <div class="row">
-    <div class="col-md-2">
-      <img class="img-responsive w-100" src="/images/people/maire-ni-leathlobhair.jpg" alt="">
-    </div>
-    <div class="col-md-4">
-      <h3><a href="/people/maire-ni-leathlobhair/" target="_blank">Máire Ní Leathlobhair</a></h3>
-      <h4>Department of Microbiology, Trinity College Dublin, Ireland</h4>
-      <h5><i>Inferring timelines of pre-cancerous evolution</i></h5>
-    </div>
-  </div>
-  <br>
   <div class="row">
     <div class="col-md-2">
       <img class="img-responsive w-100" src="/images/people/mireya-plass.png" alt="">
@@ -59,28 +47,31 @@ We will have panels on **multiomics and systems biology**, **cancer research**, 
     </div>
   </div>
   <br>
+  
   <div class="row">
     <div class="col-md-2">
-      <img class="img-responsive w-100" src="/images/people/wojciech-wodo.jpeg" alt="">
+      <img class="img-responsive w-100" src="/images/people/maire-ni-leathlobhair.jpg" alt="">
     </div>
     <div class="col-md-4">
-      <h3><a href="/people/wojciech-wodo/" target="_blank">Wojciech Wodo</a></h3>
-      <h4>Wroclaw University of Science and Technology, Poland</h4>
-      <h5><i>cybersecurity and biometrics</i></h5>
+      <h3><a href="/people/maire-ni-leathlobhair/" target="_blank">Máire Ní Leathlobhair</a></h3>
+      <h4>Department of Microbiology, Trinity College Dublin, Ireland</h4>
+      <h5><i>Inferring timelines of pre-cancerous evolution</i></h5>
     </div>
   </div>
   <br>
+  
   <div class="row">
     <div class="col-md-2">
-      <img class="img-responsive w-100" src="/images/people/michaela-hohne.png" alt="">
+      <img class="img-responsive w-100" src="/images/people/joanna-sulkowska.jpg" alt="">
     </div>
     <div class="col-md-4">
-      <h3><a href="/people/michaela-hohne" target="_blank">Michaela Höhne</a></h3>
-      <h4>Center for Molecular Medicine Cologne, University of Cologne, Germany</h4>
-      <h5><i>Changes in the (epi)genome of tumours and their TME</i></h5>
+      <h3><a href="/people/joanna-sulkowska/" target="_blank">Joanna Sulkowska</a></h3>
+      <h4>Centre of New Technologies, University of Warsaw, Poland</h4>
+      <h5><i>How many knotted proteins are within the human proteome, prediction based on AlphaFold</i></h5>
     </div>
   </div>
   <br>
+  
   <div class="row">
     <div class="col-md-2">
       <img class="img-responsive w-100" src="/images/people/pawel-krawczyk.png" alt="">
@@ -92,16 +83,31 @@ We will have panels on **multiomics and systems biology**, **cancer research**, 
     </div>
   </div>
   <br>
+  
   <div class="row">
     <div class="col-md-2">
-      <img class="img-responsive w-100" src="/images/people/joanna-sulkowska.jpg" alt="">
+      <img class="img-responsive w-100" src="/images/people/wojciech-wodo.jpeg" alt="">
     </div>
     <div class="col-md-4">
-      <h3><a href="/people/joanna-sulkowska/" target="_blank">Joanna Sulkowska</a></h3>
-      <h4>Centre of New Technologies, University of Warsaw, Poland</h4>
-      <h5><i>How many knotted proteins are within the human proteome, prediction based on AlphaFold</i></h5>
+      <h3><a href="/people/wojciech-wodo/" target="_blank">Wojciech Wodo</a></h3>
+      <h4>Wroclaw University of Science and Technology, Poland</h4>
+      <h5><i>cybersecurity and biometrics</i></h5>
     </div>
   </div>
+  <br>
+  
+  
+  <div class="row">
+    <div class="col-md-2">
+      <img class="img-responsive w-100" src="/images/people/michaela-hohne.png" alt="">
+    </div>
+    <div class="col-md-4">
+      <h3><a href="/people/michaela-hohne" target="_blank">Michaela Höhne</a></h3>
+      <h4>Center for Molecular Medicine Cologne, University of Cologne, Germany</h4>
+      <h5><i>Changes in the (epi)genome of tumours and their TME</i></h5>
+    </div>
+  </div>
+  <br>
 </div>
 <br>
 
@@ -301,9 +307,13 @@ Registration fee covers registration package, coffee breaks (both days) and lunc
 We set the registration fees with highly variable incomes in the Central and Easter Europe in mind. We work hard to secure funding that would allow us to subsidize the cost of the events, which we pass on to our attendees. If you are coming from a high income country and/or are able to cover the full fee we would ask you to please consider paying the full amount. That will allow us to direct the funds from Sponsors and Grants to support researchers in need.  
 <br>
 
+<div class="alert alert-warning" style="color:black;background-color:#cfe1b9;border-color:#cfe1b9">
+
 <h4>Affordability</h4>
 
 We try to make our events accessible and affordable for all, and keep the registration fees to a minimum. We understand that in some circumstances even the fees we set can be challenging. We don't want the money to be a limiting factor in anyone's participation - if you find it difficult to fund your registration fee, please send us an email (info@ngschool.eu) explaining your situation and we will try our best to help you with a reduced fee or a waiver.
+
+</div>
 
 <!-- ## Venue and dates
 NGSymposium2020 will be held on 31 of July and 1 of August 2020 in Warsaw, Poland.
