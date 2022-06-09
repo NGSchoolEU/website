@@ -171,8 +171,6 @@ var x = setInterval(function() {
       <h4>Medical University of Lodz, Poland</h4>
     </div>
   </div>
-  
-  
   <br>
   <div class="row">
     <div class="col-md-2">
@@ -190,8 +188,6 @@ var x = setInterval(function() {
       <h4>University of Lisbon, Portugal and Warsaw University, Poland</h4>
     </div>
   </div>
-  
-  
   <br>
   <div class="row">
    <div class="col-md-2">
@@ -209,8 +205,6 @@ var x = setInterval(function() {
       <h4>New York University School of Medicine, USA</h4>
     </div>
   </div>
-  
-  
   <br>
   <div class="row">
     <div class="col-md-2">
@@ -228,8 +222,6 @@ var x = setInterval(function() {
       <h4>Weill Cornell Medicine, Cornell University, New York, USA</h4>
     </div>
   </div>
-  
-  
   <br>
   <div class="row">
     <div class="col-md-2">
@@ -282,7 +274,6 @@ var x = setInterval(function() {
     </div>
   </div>
   <br>
-  
   <div class="row">
      <div class="col-md-2">
       <img class="img-responsive w-100" src="/images/people/profile-picture.jpg" alt="">
