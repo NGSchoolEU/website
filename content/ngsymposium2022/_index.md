@@ -79,7 +79,7 @@ We will have panels on **multiomics and systems biology**, **cancer research**, 
     <div class="col-md-4">
       <h3><a href="/people/pawel-krawczyk/" target="_blank">Paweł Krawczyk</a></h3>
       <h4>International Institute of Molecular and Cell Biology in Warsaw, Poland</h4>
-      <h5><i>long read sequencing</i></h5>
+      <h5><i>Direct RNA nanopore sequencing for transcriptome-wide polyadenylation analysis</i></h5>
     </div>
   </div>
   <br>
