@@ -127,17 +127,17 @@ We will have panels on **multiomics and systems biology**, **cancer research**, 
     </td>
   </tr>
   <tr>
-    <td class="date-td" style="text-align: center;"><strike>23.05</strike><span style="color: red;"><b>13.06</b></span></td>
+    <td class="date-td" style="text-align: center;"><strike>13.06</strike><span style="color: red;"><b>20.06</b></span></td>
     <td>Abstract submission deadline</td>
     <td>
-      <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=NzdxZGJkMW40bW4yNDJvdTRiMWo0OGMzMmQgaW5mb0BuZ3NjaG9vbC5ldQ&tmsrc=info%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+      <a href="https://calendar.google.com/calendar/u/0/r/eventedit?text=NGSymposium2022%20Abstract%20Submission%20Deadline&dates=20220620T215900Z/20220620T215959Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
   </tr>
   <tr>
     <td class="date-td" style="text-align: center;">w/c 20.06</td>
     <td>Abstract selection results announcement</td>
     <td>
-      <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=M3UwcnQ4c3E1c3M4MzQ4cnI4ZnFsb2Z1M3MgaW5mb0BuZ3NjaG9vbC5ldQ&tmsrc=info%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+      <a href="https://calendar.google.com/calendar/u/0/r/eventedit?text=NGSymposium2022%20Abstract%20Submission%20Deadline&dates=20220627/20220702" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
     </td>
   </tr>
   <tr>
@@ -172,7 +172,7 @@ We will have panels on **multiomics and systems biology**, **cancer research**, 
 
 <script>
 // Set the date we're counting down to
-var countDownDateReg = new Date("June 13, 2022 23:59:59").getTime();
+var countDownDateReg = new Date("June 20, 2022 23:59:59").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
@@ -359,7 +359,7 @@ You can select for the abstract to be considered by the Scientific Advisory Boar
 In order for your abstract to be considered in the evaluation you need to submit it using the form below. Please note that we accept only limited RMarkdown formatting in the body of the abstract. You can find RMarkdown formatting cheat sheet [here](https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf). We also provide list of the accepted formatting in the form and [here](https://docs.google.com/document/d/e/2PACX-1vRG10DEOL8JOKgfP6eUC4S2L-D3EStaC5TVRKkUT4y75gTnOCbQxLQSpifzddVP9VGUpT0typGrNNYz/pub).
 
 
-<a href="https://forms.gle/iXj2neHHMaV39avH9" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Submit an abstract (form open until 13.06) <i class="fas fa-play"></i></a>
+<a href="https://forms.gle/iXj2neHHMaV39avH9" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Submit an abstract (form open until 20.06) <i class="fas fa-play"></i></a>
 
 
 <h3>Registration - in person</h3>
