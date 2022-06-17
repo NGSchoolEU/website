@@ -169,6 +169,10 @@ Take a hypothetical scenario for SP1. If we tested 10,000 people, 100 of which h
 
 In the SP2 scenario, the prevalence of disease is 10 times higher, so 1,000 out of 10,000 cases would be positive. Now the test with 95% accuracy would report 0.95 x 1,000 = 950 TP and 0.95 x 9,000 = 8,550 TN. It would also wrongly report 0.05 x 1,000 = 50 FN and 0.05 x 9,000 = 450 FP. Fraction of TP out of all the positives reported by the test now is 950 / (950 + 450) = 0.68.
 
+Note:  
+
+The explained solutions assume that the reported accuracy of the test is the same for both groups of people (healthy and patients). As this was not stated explicitly, we will accept as correct answers those that said there was not enough information to calculate this.
+
 ### SP3
 In a study that looked at the effect of substance A on the global gene expression levels of 20 thousand genes in 10 cell line samples, authors report significantly reduced and increased expression for 1287 and 446 genes, respectively (t-test, p value<0.05). Which of the following problems occurs in this analysis?  
 
