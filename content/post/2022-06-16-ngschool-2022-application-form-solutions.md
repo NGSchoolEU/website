@@ -12,9 +12,11 @@ categories:
 tags: [ngschool]
 ---
 
-Registration for <a href=/ngschool2022 target=”_blank”>**NGSchool 2022: Machine Learning in Computational Biology**</a> has been closed! Thank you to all who took time to answer the questions and solve the problems in the registration form. Here we provide you the solutions.
+Registration for <a href=/ngschool2022 target=”_blank”>**NGSchool 2022: Machine Learning in Computational Biology**</a> is now closed. Thank you to all who took time to answer the questions and solve the problems in the registration form. Here we publish the solutions.
 
 ## Coding questions
+
+The following questions were meant to ensure that the applicants have basic coding skills and will be able to follow the practical part of the school. We accepted solutions in any programming language, but we recommend using Python or R, as the practical part of the NGSchool program will be conducted using those. 
 
 ### C1 - Fibonacci sequence 
 The Fibonacci sequence starts with 0 and 1 (positions 1 and 2). Each next element is a sum of two preceding elements. What is the difference between elements at positions 55th and 45th multiplied by the element at position 5th?  
@@ -25,10 +27,19 @@ The Fibonacci sequence starts with 0 and 1 (positions 1 and 2). Each next elemen
 
 <a href=https://github.com/NGSchoolEU/ngs22_registration_form/blob/1cc647a3733e2c8a21b47aa497b4ca8c42457aa8/data/brca2.fasta target="_blank">Here</a> you can find the aminoacid sequence of BRCA2 (each letter represents one amino acid). Which amino acids are the most and the least frequent ones in this sequence and how many times they are present?  
 
-**Solution:** Least frequent tryptophan (W, 20 times), most frequent serine (S, 381 times)
+**A)** Least frequent: threonine (T, 30 times), most frequent: serine (S, 318 times)  
+**B)** Least frequent: tyrosine (Y, 79 times), most frequent: lysine (K, 322 times)  
+**C)** Least frequent: cysteine (C, 76 times), most frequent: selenocysteine (U, 413 times)  
+**D)** Least frequent: tryptophan (W, 20 times), most frequent: serine (S, 381 times)  
+**E)** Least frequent: phenylalanine (F, 18 times), most frequent: selenocysteine (U, 238 times)  
+
+**Solution:** D)
 
 ### C3 - Gene mutations
-<a href=https://github.com/NGSchoolEU/ngs22_registration_form/blob/main/data/mt-cyb.fasta target="_blank">Here</a> you will find 2 nucleotide sequences. They come from the MT-CYB gene that is quite special, because it consists of only 1 exon, thus the whole sequence is a coding region. First sequence is a reference one and the second is one with some mutation. Which of the mutations is present in this sequence and what it results in? *add codon table
+<a href=https://github.com/NGSchoolEU/ngs22_registration_form/blob/main/data/mt-cyb.fasta target="_blank">Here</a> you will find 2 nucleotide sequences. They come from the MT-CYB gene that is quite special, because it consists of only 1 exon, thus the whole sequence is a coding region. First sequence is a reference one and the second is one with some mutation. Which of the mutations is present in this sequence and what it results in?  
+
+<img src="/images/post/ngschool2022-solutions-C3.jpg" style="width: 80%; display: block; margin-left: auto; margin-right: auto; ">
+<br/><br/> 
 
 **A)** G to A at position 752, resulting in change from glycine to asparagine  
 **B)** G to A at position 869, resulting in change from glycine to threonine  
@@ -53,6 +64,8 @@ Single-cell RNA sequencing (scRNA-seq) is arguably the most dramatically growing
 
 ## Statistics and probability 
 
+The following questions were supposed to make sure that you are familiar with basic concepts in probability and statistics.  
+
 ### SP1 and SP2
 
 Celiac disease is an autoimmune disease that affects 1 in 100 worldwide. For people that have this disease, the ingestion of gluten causes serious damage in the small intestine and, if untreated, it can lead to development of other long-term health conditions. Celiac disease is hereditary - people with a first-degree relative with celiac disease (parent, child, sibling) have a 1 in 10 risk of developing celiac disease. A new diagnostic test has appeared on the market that claims to have a 95% accuracy in early detection of celiac disease.
@@ -63,6 +76,13 @@ Celiac disease is an autoimmune disease that affects 1 in 100 worldwide. For peo
 **SP2:** What is the probability that a person who gets a positive result actually has Celiac disease, if they also have a first-degree relative diagnosed with it?  
 **Solution:** 0.68
 
+Explanation:
+
+An accuracy of a test is measured as the number of cases it correctly detects as positives (true positive, TP), plus the number of controls it correctly reports as negative (true negative, TN), out of the total number of samples tested (including TP, TN, and false positives FP, and false negatives FN).  
+
+Take a hypothetical scenario for SP1. If we tested 10,000 people, 100 of which have Celiac disease, a test with 0.95 accuracy would report 0.95 x 100 = 95 TP and 0.95 x 9,900 = 9,405 TN. It would also wrongly report 0.05 x 100 = 5 FN (people with disease who would get a negative test result), and 0.05 x 9,900 = 495 FP. Fraction of TP out of all the positives reported by the test is 95 / (95 + 495) = 0.16.  
+
+In the SP2 scenario, the prevalence of disease is 10 times higher, so 1,000 out of 10,000 cases would be positive. Now the test with 95% accuracy would report 0.95 x 1,000 = 950 TP and 0.95 x 9,000 = 8,550 TN. It would also wrongly report 0.05 x 1,000 = 50 FN and 0.05 x 9,000 = 450 FP. Fraction of TP out of all the positives reported by the test now is 950 / (950 + 450) = 0.68.
 
 ### SP3
 In a study that looked at the effect of substance A on the global gene expression levels of 20 thousand genes in 10 cell line samples, authors report significantly reduced and increased expression for 1287 and 446 genes, respectively (t-test, p value<0.05). Which of the following problems occurs in this analysis?  
@@ -87,7 +107,8 @@ In the same experiment, their favourite gene X is found to be differentially exp
 **Solution:** B)
 
 ### SP6
-Select all relationships, which should be modelled with linear regression (multiple choice)
+Select all relationships, which should be modelled with linear regression (multiple choice)  
+
 **A)** protein concentration dependance on gene expression  
 **B)** birth weight dependance on duration of pregnancy in weeks  
 **C)** Alzheimer’s disease occurrence depending on gender and age  
@@ -98,6 +119,8 @@ Select all relationships, which should be modelled with linear regression (multi
 **Solution:** A), B), D)
 
 ## Biological study design and interpretation
+
+The last set of question checked that the applicants understand basics of biological study design and can critically interpret presented results.  
 
 ### R1
 In the picture below you can find a figure and fragment of its description from the <a href=https://www.karger.com/Article/FullText/493214 target="_blank">paper</a> on the role of metformin in survival of pancreatic cancer patients. The paper describes a metaanalysis that is a statistical compilation of many similar studies on the specific topic. This metaanalysis included randomised clinical trials and observational studies done in many clinics. 
