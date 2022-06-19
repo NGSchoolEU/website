@@ -120,6 +120,8 @@ dups[,.N,.(Authors,Journal,DOI)][order(-N)]
 # count only unique entries
 length(unique(dups$DOI)) # 146
 ```
+
+Half of the applicants answered this wrongly only because of not removing one duplicated study entry. Only 4% of applicants got it right.
 <br/>  
 
 **C5:** After excluding the studies that report data from more than one organism, for which organism there are the most published studies, and how many?  
@@ -131,8 +133,16 @@ scst <- scs[!DOI %in% dups$DOI]
 # select nonduplicated entries
 sc_studies <- scst[,.N,.(Authors,Journal,DOI,Organism)][order(-N)]
 # summarize number of studies by organism
-sc_studies[,.(N=sum(N)),Organism][Organism!=""][order(-N)] # Mouse 632
+sc_studies[,.N,Organism][Organism!=""][order(-N)][1] # Mouse 632
 ```
+
+So much as 56% of applicants got this right - higher than C4 or C6 primarily because there are no duplicated study entries for mouse, which has the most studies.
+
+```
+# same result even if we don't remove duplicated entry
+scst[,.N,Organism][Organism!=""][order(-N)][1] # Mouse 632
+```
+
 <br/>  
 
 **C6:** After excluding the studies that report data from more than one organism, for which organism there are most reported cells, and how many?  
@@ -144,7 +154,16 @@ sc <- scst[!is.na(`Reported cells total`)][,Cells:=as.integer(stringr::str_remov
 # select nonduplicated entries
 sc_cells <- sc[,.N,.(Authors,Journal,DOI,Organism,Cells)][order(-N)]
 # summarize number of cells by organism
-sc_cells[,.(N=sum(Cells,na.rm=TRUE)),Organism][Organism!=""][order(-N)] # Human 36084826
+sc_cells[,.(N=sum(Cells,na.rm=TRUE)),Organism][Organism!=""][order(-N)][1] # Human 36084826
+```
+
+Most wrong answers here include not parsing the cell number correctly and not removing same duplicated study as in C4.
+
+```
+# without parsing cell number stored as character
+scst[,.(N=sum(as.integer(`Reported cells total`),na.rm=TRUE)),Organism][order(-N)][1] # Mouse 48131
+# without removing duplicated entries
+sc[,.(N=sum(Cells,na.rm=TRUE)),Organism][Organism!=""][order(-N)][1] # Human 36199222
 ```
 
 ## Statistics and probability 
@@ -240,6 +259,22 @@ Which of the following is true about this figure?
 **E)** Lung cancers (LUAD and LUSC) have more C to A mutations than other cancers  
 
 **Solution:** E)
+
+### R3
+
+In the picture you can see a figure from the [paper](10.1056/NEJMra1400972) on acute lymphoblastic leukaemia in children. The figure shows how the survival rate of the patients enrolled in clinical trials changed from 1968 to 2009.  
+
+<img src="/images/post/ngschool2022-solutions-R3.jpg" style="width: 80%; display: block; margin-left: auto; margin-right: auto; ">
+<br/><br/> 
+
+Select all answers that correctly describe this plot.  
+**A)** None of the children who were enrolled between 1968-70 survived more than 8 years.  
+**B)** From 1972 on median survival is longer than 10 years.   
+**C)** More than 80% of children enrolled in trials in the 21st century survive more than 5 years.  
+**D)** Number of children enrolled in trials from 1968 to 1994 is higher than in the period from 1995 to 2009.  
+**E)** 5-years survival constantly improved in the analysed period.  
+
+**Solution:** B), C), E)
 
 ## Conclusion
 
