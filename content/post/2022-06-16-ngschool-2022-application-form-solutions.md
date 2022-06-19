@@ -34,7 +34,7 @@ for (i in 3:100) {
 }
 (fl[55] - fl[45]) * fl[5] # 256698487617
 ```
-
+<br/>  
 ### C2 - Protein sequence
 
 <a href=https://github.com/NGSchoolEU/ngs22_registration_form/blob/1cc647a3733e2c8a21b47aa497b4ca8c42457aa8/data/brca2.fasta target="_blank">Here</a> you can find the aminoacid sequence of BRCA2 (each letter represents one amino acid). Which amino acids are the most and the least frequent ones in this sequence and how many times they are present?  
@@ -56,7 +56,7 @@ sort(table(aa))
 #  20  45  76  79  83 110 122 136 149 154 171 174 185 187 220 230 281 293 322 381 
 
 ```
-
+<br/>  
 ### C3 - Gene mutations
 <a href=https://github.com/NGSchoolEU/ngs22_registration_form/blob/main/data/mt-cyb.fasta target="_blank">Here</a> you will find 2 nucleotide sequences. They come from the MT-CYB gene that is quite special, because it consists of only 1 exon, thus the whole sequence is a coding region. First sequence is a reference one and the second is one with some mutation. Which of the mutations is present in this sequence and what it results in?  
 
@@ -100,7 +100,7 @@ sapply(pos_mut, function(pos) {
 # AGG -> AGA: Arg -> Arg
 ```
 
-
+<br/>  
 ### C4 to C6 - scRNA-seq database
 
 Single-cell RNA sequencing (scRNA-seq) is arguably the most dramatically growing technology in both scale and use today. A curated database of scRNA-seq studies is available at https://www.nxn.se/single-cell-studies. Answer the following questions using the snapshot of data from <a href=https://github.com/NGSchoolEU/ngs22_registration_form/blob/1cc647a3733e2c8a21b47aa497b4ca8c42457aa8/data/single-cell-studies.tsv target="_blank">github</a>.
@@ -136,14 +136,13 @@ sc_studies <- scst[,.N,.(Authors,Journal,DOI,Organism)][order(-N)]
 sc_studies[,.N,Organism][Organism!=""][order(-N)][1] # Mouse 632
 ```
 
-So much as 56% of applicants got this right - higher than C4 or C6 primarily because there are no duplicated study entries for mouse, which has the most studies.
+So much as 56% of applicants got this right - higher than C4 or C6 primarily because there are no duplicated study entries for mouse.
 
 ```
 # same result even if we don't remove duplicated entry
 scst[,.N,Organism][Organism!=""][order(-N)][1] # Mouse 632
 ```
-
-<br/>  
+<br/>
 
 **C6:** After excluding the studies that report data from more than one organism, for which organism there are most reported cells, and how many?  
 **Solution:** Human, 36084826
@@ -157,7 +156,7 @@ sc_cells <- sc[,.N,.(Authors,Journal,DOI,Organism,Cells)][order(-N)]
 sc_cells[,.(N=sum(Cells,na.rm=TRUE)),Organism][Organism!=""][order(-N)][1] # Human 36084826
 ```
 
-Most wrong answers here include not parsing the cell number correctly and not removing same duplicated study as in C4.
+Most wrong answers here include not parsing the cell number correctly and not removing the same duplicated study as in C4.
 
 ```
 # without parsing cell number stored as character
@@ -165,6 +164,7 @@ scst[,.(N=sum(as.integer(`Reported cells total`),na.rm=TRUE)),Organism][order(-N
 # without removing duplicated entries
 sc[,.(N=sum(Cells,na.rm=TRUE)),Organism][Organism!=""][order(-N)][1] # Human 36199222
 ```
+<br/>  
 
 ## Statistics and probability 
 
