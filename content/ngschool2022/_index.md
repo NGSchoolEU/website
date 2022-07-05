@@ -8,8 +8,8 @@ information:
    label: Location
  - info: "15-23 September 2022"
    label: Date
-# - info: "35 (planned)"
-#   label: Participants
+ - info: "35"
+   label: Participants
 title: "NGSchool2022"
 description: Machine Learning in Computational Biology
 ---
@@ -75,43 +75,6 @@ Jump to:
 </table>
 
 <br>
-
-<!-- Countdown -->
-<div class="alert alert-warning" style="color:black;background-color:#fce5cd;border-color:#fce5cd">
-<h2 id="ngschool_reg" class="text-center"></h2>
-
-<script>
-// Set the date we're counting down to
-var countDownDateReg = new Date("June 13, 2022 23:59:59").getTime();
-
-// Update the count down every 1 second
-var x = setInterval(function() {
-
-  // Get today's date and time
-  var now = new Date().getTime();
-
-  // Find the distance between now and the count down date
-  var distance = countDownDateReg - now;
-
-  // Time calculations for days, hours, minutes and seconds
-  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-
-  // Display the result in the element with id="demo"
-  document.getElementById("ngschool_reg").innerHTML = "NGSchool2022 registration closes in " + days + " days " + hours + " hours "
-  + minutes + " min and " + seconds + " sec!";
-
-  // If the count down is finished, write some text
-  if (distance < 0) {
-    clearInterval(x);
-    document.getElementById("ngschool_reg").innerHTML = "Registration for NGSchool2022 is closed!";
-  }
-}, 1000);
-</script>
-
-</div>
 
 <!-- Countdown -->
 <div class="alert alert-info">
@@ -249,7 +212,7 @@ var x = setInterval(function() {
       <h4>Durham University, UK</h4>
     </div>
     <div class="col-md-2">
-      <img class="img-responsive w-100" src="/images/people/profile-picture.jpg" alt="">
+      <img class="img-responsive w-100" src="/images/people/sean-farell.jpg" alt="">
     </div>
     <div class="col-md-4">
       <h3><a href="/people/sean-farell/" target="_blank">Sean Farrell</a></h3>
@@ -363,6 +326,28 @@ NGSchool2022 will take place in <a href="https://www.palacjablonna.pl/index.php"
   </div>
 </div>
 
+<div>
+<h3 id='directions'>How to get there?</h2> 
+</div>
+<h4>By car</h4>
+<p>
+Please, consider sharing the trip with other participants departing from the same city, to limit environmental impact of your trip (and meet new people on the way;) ). You can use <a href="https://www.blablacar.co.uk/" target="_blank">BlaBlaCar</a>.
+</p>
+<h4>By air</h4>
+<p>
+The closest airports are <a href="https://en.modlinairport.pl/" target="_blank">Warsaw Modlin airport (WMI)</a> or <a href="https://www.lotnisko-chopina.pl/en/index.html" target="_blank">Warsaw Chopin airport (also known as Okęcie airport)</a>. 
+</p>
+<p>
+Please, consider a donation to organization that actively contributes to CO₂ mitigation e.g. <a href="https://www.atmosfair.de/en/offset/flight/" target="_blank">atmosfair</a> or <a href="https://carbonfund.org/individuals/" target="_blank">Carbonfund</a> to compensate the environmental impact of your flight.
+</p>
+<h4>Finding the right train or bus connection</h4>
+<p>
+There is couple of applications, that will help you with finding right bus connection:  
+
+<a href="https://moovit.com/" target="_blank">moovit</a> - very good app (available on <a href="https://play.google.com/store/apps/details?id=com.tranzmate" target="_blank">google play</a> and <a href="https://itunes.apple.com/us/app/moovit-public-transit/id498477945" target="_blank">app store</a>) for non-polish speaking people,  
+
+<a href="https://jakdojade.pl/" target="_blank">jakdojade</a> (<a href="https://play.google.com/store/apps/details?id=com.citynav.jakdojade.pl.android&hl=pl" target="_blank">google play</a>) and <a href="https://www.mmpk.info/" target="_blank">mobilempk</a> (<a href="https://play.google.com/store/apps/details?id=pl.mobicore.mobilempk&hl=pl" target="_blank">google play</a>) - for public transport within Warsaw, only in polish.
+</p>
 </div>
 <br>
 

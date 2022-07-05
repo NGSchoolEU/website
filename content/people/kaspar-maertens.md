@@ -9,7 +9,7 @@ information:
   label: Events
 - info: speaker
   label: Role
-- info: University of Oxford, UK
+- info: Big Data Institute, University of Oxford, UK
   label: Affiliation
 title: Kaspar Märtens
 ---
