@@ -134,7 +134,7 @@ We will have panels on **multiomics and systems biology**, **cancer research**, 
     </td>
   </tr>
   <tr>
-    <td class="date-td" style="text-align: center;">w/c 20.06</td>
+    <td class="date-td" style="text-align: center;">w/c 04.07</td>
     <td>Abstract selection results announcement</td>
     <td>
       <a href="https://calendar.google.com/calendar/u/0/r/eventedit?text=NGSymposium2022%20Abstract%20Submission%20Deadline&dates=20220627/20220702" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
@@ -310,20 +310,7 @@ Transfer title: <b>NGSymposium2022 Name Surname</b>
 
 <h3>Abstract submission</h3>
 
-Abstract submission will be open from **April, 11 to June 13, 23:59 CET**. 
-
-You can select for the abstract to be considered by the Scientific Advisory Board for:
-
-* an oral presentation,
-* mini oral presentation during <i>Posters Spotlight</i>,
-* poster presentation.  
-<br>
-
-In order for your abstract to be considered in the evaluation you need to submit it using the form below. Please note that we accept only limited RMarkdown formatting in the body of the abstract. You can find RMarkdown formatting cheat sheet [here](https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf). We also provide list of the accepted formatting in the form and [here](https://docs.google.com/document/d/e/2PACX-1vRG10DEOL8JOKgfP6eUC4S2L-D3EStaC5TVRKkUT4y75gTnOCbQxLQSpifzddVP9VGUpT0typGrNNYz/pub).
-
-
-<a href="https://forms.gle/iXj2neHHMaV39avH9" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Submit an abstract (form open until 20.06) <i class="fas fa-play"></i></a>
-
+Abstract submission is closed.
 
 <h3>Registration - in person</h3>
 
@@ -343,7 +330,7 @@ In this registration form you will be asked for some basic information about you
 
 ### Further information
 
-If you have any questions regarding NGSchool2022 please first refer to our [FAQ page](/faq). If you cannot find an answer to your question there or need further explanation, you can reach us using [contact form](/contact).
+If you have any questions regarding NGSymposium2022 please first refer to our [FAQ page](/faq). If you cannot find an answer to your question there or need further explanation, you can reach us using [contact form](/contact).
 
 <br><br>
 

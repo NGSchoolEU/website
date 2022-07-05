@@ -261,14 +261,9 @@ var x = setInterval(function() {
 
 <div>
 <h2 id='registration'>Registration</h2> 
-<h3>Registration form</h3> 
 <p>
-The registration form consist of several sections in which we ask for your motivation for applying to the school, and the quiz with questions from Coding, Statistics & probability and Biological study design & interpretation. We estimate it takes approximately 1 to 2 hours to fill the entire form, but you don't need to do it all in one go. As long as you use the same email address, your progress will be saved, even if you close the form before submitting it, and you will be able to continue where you previously left off, as well as modify all your responses. Once you reach the end and submit the form, you will no longer be able to modify your responses.
+The registration for NGSchool2022 is now closed.
 </p>
-<p>
-The deadline to submit your application is 13.06.2022 at 23:59 CET. Selection results will be announced in the beginning of July. If you have any question or problems get in touch via email: info@ngschool.eu.
-</p>
-<a href="https://forms.gle/cYtJWA7bi5RRywWA7" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Registration form (open until 13.06) <i class="fas fa-play"></i></a>
 <h3>Registration fee</h3> 
 <p>
 The registration fee for the selected participants is 200 EUR / 925 PLN for academia and 650 EUR / 3 010 PLN for industry. This fully covers the cost of accommodation and board during the summer school.
