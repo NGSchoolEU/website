@@ -278,7 +278,7 @@ Select all answers that correctly describe this plot.
 
 ## Conclusion
 
-We hope you enjoyed the problems in this year's NGSchool application form. Stay tuned for the announcment of the application results in the beginning of July!  
+We hope you enjoyed the problems in this year's NGSchool application form. Stay tuned for the announcement of the application results in the beginning of July!  
 Also check out the program for NGSymposium2022 which will take place immediately after the summer school. There is still time to submit abstract for a chance to present your work at an international conference in Warsaw.
 
 <a href=/ngsymposium2022><img src="/images/post/registration-ngsymposium2022.jpg" style="width: 80%; display: block; margin-left: auto; margin-right: auto; "></a>
