@@ -264,6 +264,7 @@ Following discounts apply to registration fees for in person participation:
 
 Any discounts are applied only to the registration fee stated in the table above.
 
+<br>&nbsp;
 <br>
 
 <table style="width:60%">
