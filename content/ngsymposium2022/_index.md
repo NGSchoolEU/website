@@ -228,8 +228,8 @@ Registration fee covers registration package, coffee breaks (both days) and lunc
 <table class="table table-bordered table-striped" style="width:80%">
   <tr>
     <td></td>
-    <th style="text-align: center;">Early Bird (until 11.07)</td>
-    <th style="text-align: center;">Standard (after 11.07)</td>
+    <th style="text-align: center;">Early Bird (until 11.07 for passive participants and 18.07 for active participants)</td>
+    <th style="text-align: center;">Standard (after 11.07 for passive participants and 18.07 for active participants)</td>
   </tr>
   <tr>
     <td >Students</td>
@@ -252,6 +252,20 @@ Registration fee covers registration package, coffee breaks (both days) and lunc
   </tr>
 </table> 
 <hr>
+<br>
+
+<h4>Discounts</h4>
+
+Following discounts apply to registration fees for in person participation:
+<ul>
+  <li>20% for active participants who submitted abstracts before 23.05.2022.</li>
+  <li>50% for participants of NGSchool2022.</li>
+</ul>
+
+Any discounts are applied only to the registration fee stated in the table above.
+
+<br>
+
 <table style="width:60%">
   <tr>
     <td>Virtual participation</td>
