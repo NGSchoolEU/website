@@ -258,7 +258,7 @@ Registration fee covers registration package, coffee breaks (both days) and lunc
 
 Following discounts apply to registration fees for in person participation:
 <ul>
-  <li>20% for active participants who submitted abstracts before 23.05.2022.</li>
+  <li>20% for active participants who submitted abstracts before the original deadline 23:59 on 23.05.2022.</li>
   <li>50% for participants of NGSchool2022.</li>
 </ul>
 
