@@ -164,7 +164,7 @@ var x = setInterval(function() {
       <img class="img-responsive w-100" src="/images/people/krzysztof-geras.jpg" alt="">
     </div>
     <div class="col-md-4">
-      <h3><a href="/people/kszysztof-geras/" target="_blank">Kszysztof Geras</a></h3>
+      <h3><a href="/people/kszysztof-geras/" target="_blank">Krzysztof Geras</a></h3>
       <h4>New York University School of Medicine, USA</h4>
     </div>
   </div>
