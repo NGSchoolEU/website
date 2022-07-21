@@ -283,7 +283,7 @@ Any discounts are applied only to the registration fee stated in the table above
 <h4>Academics full</h4>
 
 We set the registration fees with highly variable incomes in the Central and Easter Europe in mind. We work hard to secure funding that would allow us to subsidize the cost of the events, which we pass on to our attendees. If you are coming from a high income country and/or are able to cover the full fee we would ask you to please consider paying the full amount. That will allow us to direct the funds from Sponsors and Grants to support researchers in need.  
-<br>
+<br><br>  
 
 <div class="alert alert-warning" style="color:black;background-color:#cfe1b9;border-color:#cfe1b9">
 
@@ -362,7 +362,7 @@ NGSchool condemns the aggression against Ukraine in the strongest possible terms
 * [Lidia Lipińska-Zubrycka](/people/lidia-lipinska), University of Warsaw, Poland   
 * [Urszula Smyczyńska](/people/urszula-smyczynska), Medical University of Lodz, Poland  
 * [Andrey Prjibelski](/people/andrey-prjibelski)  
-* [Kaspar Märtens](/people/kaspar-maertens/)  
+* [Kaspar Märtens](/people/kaspar-maertens/), Big Data Institute, University of Oxford, UK  
 
 <h2 id='organisers'>Organisers</h2>  
 

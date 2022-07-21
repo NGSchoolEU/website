@@ -104,7 +104,7 @@ funfacts:
     - name : "Karolina Sienkiewicz"
       image : "images/people/karolina-sienkiewicz.jpg"
       link: "people/karolina-sienkiewicz"
-      designation : "CPHG, University of Virginia, USA"
+      designation : "Weill Cornell Medicine, Cornell University, USA "
       content : "Audit Commitee, Program"
              
     # testimonial item loop
