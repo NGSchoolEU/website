@@ -27,6 +27,7 @@ Jump to:
 * <a href='#program'>Program</a>  
 * <a href='#fees'>Conference fees</a>  
 * <a href='#registration'>Registration</a>  
+* <a href='#venue'>Venue</a>  
 * <a href='#aboard'>Scientific Advisory Board</a>  
 * <a href='#organisers'>Organisers</a> 
 
@@ -220,6 +221,8 @@ NGSymposium will be held in person, in Warsaw. However, to increase the reach of
 </div>
 
 <div>
+
+<div>
 <h2 id='fees'>Conference fees</h2>  
 
 Registration fee covers registration package, coffee breaks (both days) and lunch on 24.09. Registration fee also contributes to the cost of conference venue rental, and accommodation, board & travel costs of invited speakers. Our events are non-profit and all organizers are volunteering their time. We apply for funding that allows us to subsidize the cost of the events and with current funding schemes we are unable to offer remuneration to invited speakers. 
@@ -283,7 +286,7 @@ Any discounts are applied only to the registration fee stated in the table above
 <h4>Academics full</h4>
 
 We set the registration fees with highly variable incomes in the Central and Easter Europe in mind. We work hard to secure funding that would allow us to subsidize the cost of the events, which we pass on to our attendees. If you are coming from a high income country and/or are able to cover the full fee we would ask you to please consider paying the full amount. That will allow us to direct the funds from Sponsors and Grants to support researchers in need.  
-<br><br>  
+<br>
 
 <div class="alert alert-warning" style="color:black;background-color:#cfe1b9;border-color:#cfe1b9">
 
@@ -292,14 +295,6 @@ We set the registration fees with highly variable incomes in the Central and Eas
 We try to make our events accessible and affordable for all, and keep the registration fees to a minimum. We understand that in some circumstances even the fees we set can be challenging. We don't want the money to be a limiting factor in anyone's participation - if you find it difficult to fund your registration fee, please send us an email (info@ngschool.eu) explaining your situation and we will try our best to help you with a reduced fee or a waiver.
 
 </div>
-
-<!-- ## Venue and dates
-NGSymposium2020 will be held on 31 of July and 1 of August 2020 in Warsaw, Poland.
-
-<b>Due to COVID-19 pandemic the dates and venue may be subjected to changes. We will inform about them here and in our social media channels as soon as final decisions are made.</b>
--->
-
-<br>
 
 <h4>Payment details</h4>
 <br>
@@ -343,11 +338,28 @@ In this registration form you will be asked for some basic information about you
 
 </div>
 
-### Further information
+
+<h2 id="venue">Venue and accommodation</h2>
+<br>
+NGSymposium2022 will be held at <a href="https://www.mimuw.edu.pl/en" target="_blank">Faculty of Mathematics, Informatics, and Mechanics, University of Warsaw</a> (MIM UW, Room 3180).  
+You can see the map with all important locations <a href=" https://www.google.com/maps/d/edit?mid=1_-ChnzFHFJL9CwRHVCPE2iSJFFBV4a0&usp=sharing"  target="_blank">here</a>.
+<br><br>
+All registered participants should book the accommodation themselves. The closest hotels are <a href="https://all.accor.com/hotel/7125/index.en.shtml" target="_blank">Ibis</a> and <a href="https://all.accor.com/hotel/7148/index.en.shtml" target="_blank">bis Budget</a>.  
+<br><br>
+If you book the room at Ibis before 31.08, you can get 10% discount - it applies to the 1 person room booked with free cancellation, and booking should be done via H7125@accor.com using the code <b>NGSchool</b>.  
+<br><br>
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d4889.30388168707!2d20.97082980158394!3d52.213372342439115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x471ecc8186f9d68f%3A0xd7797b413ad9e82b!2sibis%20Warszawa%20Reduta%2C%20Bitwy%20Warszawskiej%201920%20r.%2016%2C%2002-366%20Warszawa%2C%20Poland!3m2!1d52.2145016!2d20.9683462!4m5!1s0x471eccba48f9a455%3A0xc6c3df3b1dba32be!2sFaculty%20of%20Mathematics%2C%20Informatics%2C%20and%20Mechanics%2C%20University%20of%20Warsaw%2C%20Stefana%20Banacha%2C%20Warsaw%2C%20Poland!3m2!1d52.211784699999995!2d20.982229099999998!5e0!3m2!1sen!2suk!4v1658503231332!5m2!1sen!2suk" width="800" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<br>
+
+
+</div>
+
+
+<h2>Further information</h2>
 
 If you have any questions regarding NGSymposium2022 please first refer to our [FAQ page](/faq). If you cannot find an answer to your question there or need further explanation, you can reach us using [contact form](/contact).
 
-<br><br>
+<br>
 
 <div class="alert alert-warning text-justify">
 <h3 class="text-center">For attendees from Russian institutions</h3>
