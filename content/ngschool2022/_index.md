@@ -295,7 +295,7 @@ If you have any questions regarding NGSchool2022 please first refer to our <a hr
 <div>
 <h2 id='venue'>Venue</h2> 
 <p>
-NGSchool2022 will take place in <a href="https://www.palacjablonna.pl/index.php" target="_blank">Jabłonna palace</a> that belongs to Polish Academy of Sciences.
+NGSchool2022 will take place in <a href="https://www.palacjablonna.pl/index.php" target="_blank">Jabłonna palace</a> that belongs to Polish Academy of Sciences. You can see the map with all important locations <a href=" https://www.google.com/maps/d/edit?mid=1_-ChnzFHFJL9CwRHVCPE2iSJFFBV4a0&usp=sharing"  target="_blank">here</a>.
 </p>
 <div class="row">
   <div class="col-md-4">
