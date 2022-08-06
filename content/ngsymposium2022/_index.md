@@ -92,7 +92,7 @@ We will have panels on **multiomics and systems biology**, **cancer research**, 
     <div class="col-md-4">
       <h3><a href="/people/wojciech-wodo/" target="_blank">Wojciech Wodo</a></h3>
       <h4>Wroclaw University of Science and Technology, Poland</h4>
-      <h5><i>cybersecurity and biometrics</i></h5>
+      <h5><i>Biometrics as natural way of authentication and identification: highlights and shadows</i></h5>
     </div>
   </div>
   <br>
