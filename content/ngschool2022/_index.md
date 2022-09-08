@@ -161,15 +161,22 @@ var x = setInterval(function() {
       <h4>Wellcome Centre for Human Genetics, University of Oxford, UK</h4>
     </div>
     <div class="col-md-2">
+      <img class="img-responsive w-100" src="/images/people/kaspar-maertens.jpg" alt="">
+    </div>
+    <div class="col-md-4">
+      <h3><a href="/people/kaspar-maertens/" target="_blank">Kaspar Märtens</a></h3>
+      <h4>Big Data Institute, University of Oxford, UK</h4>
+    </div>
+  </div>
+  <br>
+  <div class="row">
+    <div class="col-md-2">
       <img class="img-responsive w-100" src="/images/people/krzysztof-geras.jpg" alt="">
     </div>
     <div class="col-md-4">
       <h3><a href="/people/kszysztof-geras/" target="_blank">Krzysztof Geras</a></h3>
       <h4>New York University School of Medicine, USA</h4>
     </div>
-  </div>
-  <br>
-  <div class="row">
     <div class="col-md-2">
       <img class="img-responsive w-100" src="/images/people/german-demidov.jpg" alt="">
     </div>
@@ -177,6 +184,9 @@ var x = setInterval(function() {
       <h3><a href="/people/german-demidov/" target="_blank">German Demidov</a></h3>
       <h4>Institute of Medical Genetics and Applied Genomics, University of Tübingen, Germany</h4>
     </div>
+  </div>
+  <br>
+  <div class="row">
     <div class="col-md-2">
       <img class="img-responsive w-100" src="/images/people/karolina-sienkiewicz.jpg" alt="">
     </div>
@@ -184,9 +194,6 @@ var x = setInterval(function() {
       <h3><a href="/people/karolina-sienkiewicz/" target="_blank">Karolina Sienkiewicz</a></h3>
       <h4>Weill Cornell Medicine, Cornell University, New York, USA</h4>
     </div>
-  </div>
-  <br>
-  <div class="row">
     <div class="col-md-2">
       <img class="img-responsive w-100" src="/images/people/leopold-parts.jpg" alt="">
     </div>
@@ -194,6 +201,9 @@ var x = setInterval(function() {
       <h3><a href="/people/leopold-parts/" target="_blank">Leopold Parts</a></h3>
       <h4>Wellcome Sanger Institute, Cambridge, UK</h4>
     </div>
+  </div>
+  <br>
+  <div class="row">
     <div class="col-md-2">
       <img class="img-responsive w-100" src="/images/people/dmytro-fishman.jpg" alt="">
     </div>
@@ -201,9 +211,6 @@ var x = setInterval(function() {
       <h3><a href="/people/dmytro-fishman/" target="_blank">Dmytro Fishman</a></h3>
       <h4>University of Tartu, Estonia</h4>
     </div>
-  </div>
-  <br>
-  <div class="row">
     <div class="col-md-2">
       <img class="img-responsive w-100" src="/images/people/noura-al-moubayed.jpg" alt="">
     </div>
@@ -211,6 +218,9 @@ var x = setInterval(function() {
       <h3><a href="/people/noura-al-moubayed/" target="_blank">Noura Al Moubayed</a></h3>
       <h4>Durham University, UK</h4>
     </div>
+  </div>
+  <br>
+  <div class="row">
     <div class="col-md-2">
       <img class="img-responsive w-100" src="/images/people/sean-farell.jpg" alt="">
     </div>
@@ -218,9 +228,6 @@ var x = setInterval(function() {
       <h3><a href="/people/sean-farell/" target="_blank">Sean Farrell</a></h3>
       <h4>Durham University, UK</h4>
     </div>
-  </div>
-  <br>
-  <div class="row">
     <div class="col-md-2">
       <img class="img-responsive w-100" src="/images/people/maja-kuzman.jpg" alt="">
     </div>
@@ -228,6 +235,9 @@ var x = setInterval(function() {
       <h3><a href="/people/maja-kuzman/" target="_blank">Maja Kuzman</a></h3>
       <h4>C2i Genomics</h4>
     </div>
+  </div>
+  <br>
+  <div class="row">
     <div class="col-md-2">
       <img class="img-responsive w-100" src="/images/people/anamaria-elek.jpg" alt="">
     </div>
@@ -235,10 +245,7 @@ var x = setInterval(function() {
       <h3><a href="/people/anamaria-elek/" target="_blank">Anamaria Elek</a></h3>
       <h4>Centre for Genomic Regulation, Barcelona, Spain</h4>
     </div>
-  </div>
-  <br>
-  <div class="row">
-     <div class="col-md-2">
+    <div class="col-md-2">
       <img class="img-responsive w-100" src="/images/people/profile-picture.jpg" alt="">
     </div>
     <div class="col-md-4">
