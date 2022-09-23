@@ -218,6 +218,7 @@ NGSymposium will be held in person, in Warsaw. However, to increase the reach of
   <iframe width=60% height=550 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9WhH9Nf2zuqIfDPSb7jubseT0sOfoXZlCYKl-e8M7mED1Y_aigzudyX_dcKzQZKAEALq7HjOxooUY/pubhtml?gid=421558725&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 </div>
 <br>
+<h4>Download <a href="https://drive.google.com/file/d/1CjzmlmKxGlM0j91TYcB1mMCmnVEGeD59/view?usp=sharing" target="_blank" >E-book of abstracts</a></h4>
 </div>
 
 <div>
