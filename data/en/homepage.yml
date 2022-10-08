@@ -12,7 +12,7 @@ banner:
 ############################# About #################################
 about:
   enable : true
-  title : "Upcoming events in 2022"
+  title : "New events in 2022"
   content : "
   [NGSchool 2022: Machine Learning in Computational Biology](/ngschool2022/) will be held in-person, 
   from the 15th to 23rd of September in Jabłonna palace near Warsaw, Poland.  
