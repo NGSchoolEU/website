@@ -114,7 +114,6 @@ funfacts:
       designation : "CRG, Barcelona, Spain"
       content : "Participants"
 
-            
     # testimonial item loop
     - name : "Samantha Filipów"
       image : "images/people/samantha-filipow.jpg"

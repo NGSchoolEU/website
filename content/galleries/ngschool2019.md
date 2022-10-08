@@ -1,6 +1,6 @@
 ---
-bg_image: images/ngschool/2019-012.jpg
-description: The adventures of bioscientists in the random forests 
+bg_image: images/bg.jpg
+description: Machine Learning for Biomedicine
 draft: false
 title: "NGSchool2019 Photo Gallery"
 ---

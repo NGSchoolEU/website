@@ -1,6 +1,6 @@
 ---
 bg_image: images/ngschool/2022-000.jpg
-description: ML in Computational Biology
+description: Machine Learning in Computational Biology
 draft: false
 title: "NGSchool2022 Photo Gallery"
 ---
