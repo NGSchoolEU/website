@@ -1,6 +1,6 @@
 ---
-bg_image: images/ngschool/2018-005.jpg
-description: Viewing Lublin through a nanopore 
+bg_image: images/bg.jpg
+description: Nanopore sequencing & personalised medicine
 draft: false
 title: "NGSchool2018 Photo Gallery"
 ---

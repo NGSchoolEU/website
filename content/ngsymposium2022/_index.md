@@ -9,32 +9,22 @@ information:
    label: Location
  - info: "23-24 September 2022"
    label: Date
-# - info: "200 (planned)"
-#   label: Participants
-# - info: "5 (planned)"
-#   label: Invited Speakers
 ---
 
-It's our great pleasure to invite you to the **NGSymposium in Computational Biology** to celebrate the 5<sup>th</sup> edition of NGSchool Summer Schools. The conference will bring together early-stage and senior researchers from different areas of bioinformatics. It will take place on **the 23rd and 24th of September 2022 in Warsaw**, as a satellite event to the [NGSchool2022](/ngschool2022). 
+**NGSymposium in Computational Biology** was organized to celebrate the 5<sup>th</sup> edition of NGSchool Summer Schools. The conference brought together early-stage and senior researchers from different areas of bioinformatics on **the 23rd and 24th of September 2022 in Warsaw**. It was a satellite event to the [NGSchool2022](/ngschool2022). 
 
-This international conference will be an excellent platform for computational biologists in central and eastern Europe to present their work, discuss it with other participants and renowned invited speakers, as well as initiate potential collaborations.
+We had panels on <b>multiomics and systems biology</b>, <b>cancer research</b>, <b>single cell transcriptomics</b> and <b>long-read sequencing</b>. 
 
-Jump to:
-* <a href='#topics'>Topics and keywords</a>  
+
+Jump to:  
 * <a href='#speakers'>Speakers</a>  
-* <a href='#dates'>Important dates</a>  
 * <a href='#format'>Format</a>  
 * <a href='#program'>Program</a>  
 * <a href='#abstracts'>E-book of Abstracts</a>  
-* <a href='#fees'>Conference fees</a>  
-* <a href='#registration'>Registration</a>  
-* <a href='#venue'>Venue</a>  
+* <a href='#photos'>Photos</a>  
 * <a href='#aboard'>Scientific Advisory Board</a>  
-* <a href='#organisers'>Organisers</a> 
+* <a href='#organisers'>Organisers</a>   
 
-<h2 id='topics'>Topics and keywords</h2>  
-
-We will have panels on **multiomics and systems biology**, **cancer research**, **single cell transcriptomics** and **long-read sequencing**. 
 
 <div>
 <h2 id='speakers'>Speakers</h2>  
@@ -114,103 +104,9 @@ We will have panels on **multiomics and systems biology**, **cancer research**, 
 <br>
 
 <div>
-<h2 id='dates'>Important dates</h2>
-<table class="table table-bordered table-striped">
-  <tr>
-    <th style="text-align: center">Date</th>
-    <th style="text-align: center">Event</th>
-    <th></th>
-  </tr>
-   <tr>
-    <td class="date-td" style="text-align: center;">11.04</td>
-    <td>Registration opens</td>
-    <td>
-      <a href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MGtoZ2xmM28wcWtqa3V0ZGFrdjVqYjFxbXQgaW5mb0BuZ3NjaG9vbC5ldQ&amp;tmsrc=info%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
-    </td>
-  </tr>
-  <tr>
-    <td class="date-td" style="text-align: center;"><strike>13.06</strike><span style="color: red;"><b>20.06</b></span></td>
-    <td>Abstract submission deadline</td>
-    <td>
-      <a href="https://calendar.google.com/calendar/u/0/r/eventedit?text=NGSymposium2022%20Abstract%20Submission%20Deadline&dates=20220620T215900Z/20220620T215959Z" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
-    </td>
-  </tr>
-  <tr>
-    <td class="date-td" style="text-align: center;">w/c 04.07</td>
-    <td>Abstract selection results announcement</td>
-    <td>
-      <a href="https://calendar.google.com/calendar/u/0/r/eventedit?text=NGSymposium2022%20Abstract%20Submission%20Deadline&dates=20220627/20220702" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
-    </td>
-  </tr>
-  <tr>
-    <td class="date-td" style="text-align: center;">11.07</td>
-    <td>Early Bird payment deadline</td>
-    <td>
-      <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=M24wc2JlbWVtazI2NWI1OW03dmxpbGl1a3UgaW5mb0BuZ3NjaG9vbC5ldQ&tmsrc=info%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
-    </td>
-  </tr>
-    <tr>
-    <td class="date-td" style="text-align: center;">20.08</td>
-    <td>Registration and Conference Fee payment deadline</td>
-    <td>
-      <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MGluMmFna2xlYm9ucjh0ZXVodmhycWpqdWcgaW5mb0BuZ3NjaG9vbC5ldQ&tmsrc=info%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
-    </td>
-  </tr>
-  <tr>
-    <td class="date-td" style="text-align: center;">23 - 24.09</td>
-    <td>NGSymposium2022 in Computational Biology</td>
-    <td>
-      <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=Nmc4OTRtaDVsZzczMmhpMmk3YzBxN210MmggaW5mb0BuZ3NjaG9vbC5ldQ&tmsrc=info%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
-    </td>
-  </tr>
-</table>
-
-<br>
-</div>
-
-
-<div class="alert alert-info">
-<!-- Countdown -->
-<h2 id="demo" class="text-center"></h2>
-
-<script>
-// Set the date we're counting down to
-var countDownDate = new Date("Sep 23, 2022 12:00:00").getTime();
-
-// Update the count down every 1 second
-var x = setInterval(function() {
-
-  // Get today's date and time
-  var now = new Date().getTime();
-
-  // Find the distance between now and the count down date
-  var distance = countDownDate - now;
-
-  // Time calculations for days, hours, minutes and seconds
-  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-
-  // Display the result in the element with id="demo"
-  document.getElementById("demo").innerHTML = "NGSymposium starts in " + days + " days " + hours + " hours "
-  + minutes + " min and " + seconds + " sec!";
-
-  // If the count down is finished, write some text
-  if (distance < 0) {
-    clearInterval(x);
-    document.getElementById("demo").innerHTML = "NGSymposium is here!";
-  }
-}, 1000);
-</script>
-</div>
-
-<br>
-
-<div>
 <h2 id='format'>Format</h2>  
 
-NGSymposium will be held in person, in Warsaw. However, to increase the reach of the conference we will offer virtual participation to those that cannot join us in person. Included in virtual participation will be: live-streamed talks with ability to ask questions in real time, live-streamed poster spotlight session, abstract book and access to PDFs of posters (we will encourage participants to provide PDF versions of their poster to share with virtual audience).
+NGSymposium was held in person, in Warsaw. However, to increase the reach of the conference we offered virtual participation to those that could not join us in person. Virtual participants had access to live-streamed talks, with ability to ask questions in real time, live-streamed poster spotlight session, E-book of abstracts and PDFs of posters.
 </div>
 
 <div>
@@ -227,159 +123,50 @@ NGSymposium will be held in person, in Warsaw. However, to increase the reach of
 <iframe src="https://drive.google.com/file/d/1CjzmlmKxGlM0j91TYcB1mMCmnVEGeD59/preview" width="640" height="640" allow="autoplay"></iframe>
 <br>
 </div>
-
-<div>
-<h2 id='fees'>Conference fees</h2>  
-
-Registration fee covers registration package, coffee breaks (both days) and lunch on 24.09. Registration fee also contributes to the cost of conference venue rental, and accommodation, board & travel costs of invited speakers. Our events are non-profit and all organizers are volunteering their time. We apply for funding that allows us to subsidize the cost of the events and with current funding schemes we are unable to offer remuneration to invited speakers. 
-
-<hr>
-<table class="table table-bordered table-striped" style="width:80%">
-  <tr>
-    <td></td>
-    <th style="text-align: center;">Early Bird (until 11.07 for passive participants and 18.07 for active participants)</td>
-    <th style="text-align: center;">Standard (after 11.07 for passive participants and 18.07 for active participants)</td>
-  </tr>
-  <tr>
-    <td >Students</td>
-    <td style="text-align: center;">65 EUR / 300 PLN</td>
-    <td style="text-align: center;">80 EUR / 370 PLN</td>
-  </tr>
-  <tr>
-    <td>Academics</td>
-    <td style="text-align: center;">120 EUR / 555 PLN</td>
-    <td style="text-align: center;">145 EUR / 670 PLN</td>
-  </tr>
-  <tr>
-    <td>Academics full</td>
-    <td colspan=2 style="text-align: center;">200 EUR / 925 PLN</td>
-  </tr>
-  <tr>
-    <td>Industry</td>
-    <td style="text-align: center;">200 EUR / 925 PLN</td>
-    <td style="text-align: center;">250 EUR / 1160 PLN</td>
-  </tr>
-</table> 
-<hr>
 <br>
 
-<h4>Discounts</h4>
-
-Following discounts apply to registration fees for in person participation:
-<ul>
-  <li>20% for active participants who submitted abstracts before the original deadline 23:59 on 23.05.2022.</li>
-  <li>50% for participants of NGSchool2022.</li>
-</ul>
-
-Any discounts are applied only to the registration fee stated in the table above.
-
-<br>&nbsp;
+<h2 id="photos">Photos</h2>
 <br>
 
-<table style="width:60%">
-  <tr>
-    <td>Virtual participation</td>
-    <td>20 EUR / 95 PLN</td>
-  </tr>
-  <tr>
-    <td>Networking event</td>
-    <td>20 EUR / 95 PLN</td>
-  </tr>
-</table> 
-
+NGSymposium 2022 was held at <a href="https://www.mimuw.edu.pl/en" target="_blank">Faculty of Mathematics, Informatics, and Mechanics, University of Warsaw</a> (MIM UW, Room 3180).  
+<br>
 <br>
 
-<h4>Academics full</h4>
-
-We set the registration fees with highly variable incomes in the Central and Easter Europe in mind. We work hard to secure funding that would allow us to subsidize the cost of the events, which we pass on to our attendees. If you are coming from a high income country and/or are able to cover the full fee we would ask you to please consider paying the full amount. That will allow us to direct the funds from Sponsors and Grants to support researchers in need.  
+<div class="row">
+  <div class="col-md-6">
+    <img class="img-responsive w-100" src="/images/ngsymposium22/ngsymposium22-00.jpg" alt="">
+  </div>
+  <div class="col-md-6">
+    <img class="img-responsive w-100" src="/images/ngsymposium22/ngsymposium22-01.jpg" alt="">
+  </div>
+</div>
 <br>
-
-<div class="alert alert-warning" style="color:black;background-color:#cfe1b9;border-color:#cfe1b9">
-
-<h4>Affordability</h4>
-
-We try to make our events accessible and affordable for all, and keep the registration fees to a minimum. We understand that in some circumstances even the fees we set can be challenging. We don't want the money to be a limiting factor in anyone's participation - if you find it difficult to fund your registration fee, please send us an email (info@ngschool.eu) explaining your situation and we will try our best to help you with a reduced fee or a waiver.
-
+<div class="row">
+  <div class="col-md-6">
+    <img class="img-responsive w-100" src="/images/ngsymposium22/ngsymposium22-02.jpg" alt="">
+  </div>
+  <div class="col-md-6">
+    <img class="img-responsive w-100" src="/images/ngsymposium22/ngsymposium22-06.jpg" alt="">
+  </div>
+</div>
+<br>
+<div class="row">
+  <div class="col-md-6">
+    <img class="img-responsive w-100" src="/images/ngsymposium22/ngsymposium22-03.jpg" alt="">
+  </div>
+  <div class="col-md-6">
+    <img class="img-responsive w-100" src="/images/ngsymposium22/ngsymposium22-07.jpg" alt="">
+  </div>
 </div>
 
-<h4>Payment details</h4>
-<br>
-Account holder: <b>Stowarzyszenie NGSchool</b>/<b>NGSchool Society</b>
-<br>
-
-BIC/SWIFT: <b>TRWIBEB1XXX</b>
-
-Account numbers:
-<ul>
-  <li>For payments in PLN: <b>62 1020 1026 3741 0000 0000 3246</b></li>
-  <li>For payments in EUR: <b>BE43 9670 2250 7501</b></li>
-</ul>
-
-Transfer title: <b>NGSymposium2022 Name Surname</b>
-<br>
-
-</div>
-
-<br>
-
-<h2 id='registration'>Registration</h2>  
-
-<h3>Abstract submission</h3>
-
-Abstract submission is closed.
-
-<h3>Registration - in person</h3>
-
-In registration form you will be asked for some basic information about yourself, including dietary preferences etc. Please do remember that your registration is not finalized until the transfer for the conference fee reaches our account.
-  
-<a href="https://forms.gle/jRAMaQLzWFfm8epz6" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">In person participation (form open until 20.08) <i class="fas fa-play"></i></a>
-
-<h3>Registration - virtual participation</h3>
-
-In this registration form you will be asked for some basic information about yourself. Please do remember that your registration is not finalized until the transfer for the conference fee reaches our account.
-  
-<a href="https://forms.gle/2JH7LunfkQ4NkicFA" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Virtual participation (form open until 20.08) <i class="fas fa-play"></i></a>
-
-<br>
-
-</div>
-
-
-<h2 id="venue">Venue and accommodation</h2>
-<br>
-NGSymposium2022 will be held at <a href="https://www.mimuw.edu.pl/en" target="_blank">Faculty of Mathematics, Informatics, and Mechanics, University of Warsaw</a> (MIM UW, Room 3180).  
-You can see the map with all important locations <a href=" https://www.google.com/maps/d/edit?mid=1_-ChnzFHFJL9CwRHVCPE2iSJFFBV4a0&usp=sharing"  target="_blank">here</a>.
 <br><br>
-All registered participants should book the accommodation themselves. The closest hotels are <a href="https://all.accor.com/hotel/7125/index.en.shtml" target="_blank">Ibis</a> and <a href="https://all.accor.com/hotel/7148/index.en.shtml" target="_blank">bis Budget</a>.  
-<br><br>
-If you book the room at Ibis before 31.08, you can get 10% discount - it applies to the 1 person room booked with free cancellation, and booking should be done via H7125@accor.com using the code <b>NGSchool</b>.  
-<br><br>
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d4889.30388168707!2d20.97082980158394!3d52.213372342439115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x471ecc8186f9d68f%3A0xd7797b413ad9e82b!2sibis%20Warszawa%20Reduta%2C%20Bitwy%20Warszawskiej%201920%20r.%2016%2C%2002-366%20Warszawa%2C%20Poland!3m2!1d52.2145016!2d20.9683462!4m5!1s0x471eccba48f9a455%3A0xc6c3df3b1dba32be!2sFaculty%20of%20Mathematics%2C%20Informatics%2C%20and%20Mechanics%2C%20University%20of%20Warsaw%2C%20Stefana%20Banacha%2C%20Warsaw%2C%20Poland!3m2!1d52.211784699999995!2d20.982229099999998!5e0!3m2!1sen!2suk!4v1658503231332!5m2!1sen!2suk" width="800" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<br>
-
-
 </div>
-
-
-<h2>Further information</h2>
-
-If you have any questions regarding NGSymposium2022 please first refer to our [FAQ page](/faq). If you cannot find an answer to your question there or need further explanation, you can reach us using [contact form](/contact).
-
-<br>
-
-<div class="alert alert-warning text-justify">
-<h3 class="text-center">For attendees from Russian institutions</h3>
-
-NGSchool condemns the aggression against Ukraine in the strongest possible terms and stands in solidarity with our colleagues in Ukraine. Since Russian Universities publicly supported the war we are unable to accept participants affiliated with those institutions. However, we note that many Russian academics, at great personal peril, have publicly criticized this invasion. We would like to support all those harmed by Putin's regime and therefore extend our invitation to Russian academics and students provided they will come as individuals, without affiliation. We will not be able to accept payments for registration fees from Russian universities and companies and will not be able to provide receipts to those organizations.
-</div>
-
-<br>
 
 <h2 id='aboard'>Scientific Advisory Board</h2>  
 
 * [Lidia Lipińska-Zubrycka](/people/lidia-lipinska), University of Warsaw, Poland   
 * [Urszula Smyczyńska](/people/urszula-smyczynska), Medical University of Lodz, Poland  
-* [Andrey Prjibelski](/people/andrey-prjibelski)  
+* [Andrey Prjibelski](/people/andrey-prjibelski), University of Helsinki, Finland  
 * [Kaspar Märtens](/people/kaspar-maertens/), Big Data Institute, University of Oxford, UK  
 
 <h2 id='organisers'>Organisers</h2>  

@@ -1,6 +1,6 @@
 ---
-bg_image: images/ngschool/2017-007.jpg
-description: Stats workout in the gym 
+bg_image: images/bg.jpg
+description: Single-cell sequencing
 draft: false
 title: "NGSchool2017 Photo Gallery"
 ---

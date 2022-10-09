@@ -1,6 +1,6 @@
 ---
-bg_image: images/ngschool/2016-008.jpg
-description: Vysoké tatry, tatranský čaj... and statistics 
+bg_image: images/bg.jpg
+description: General NGS data analysis 
 draft: false
 title: "NGSchool2016 Photo Gallery"
 ---

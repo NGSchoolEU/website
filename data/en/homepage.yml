@@ -12,15 +12,16 @@ banner:
 ############################# About #################################
 about:
   enable : true
-  title : "Upcoming events in 2022"
+  title : "New educational events in 2022"
   content : "
-  [NGSchool 2022: Machine Learning in Computational Biology](/ngschool2022/) will be held in-person, 
+  [NGSchool 2022: Machine Learning in Computational Biology](/ngschool2022/) was held
   from the 15th to 23rd of September in Jabłonna palace near Warsaw, Poland.  
- <br/>
-  Immediately after that, on the 23rd and 24th of September, join us in Warsaw
-  for the [NGSymposium in Computational Biology](/ngsymposium2022/) to celebrate the 5th edition of NGSchool Summer Schools.
+ <br><br>
+  Immediately after that, [NGSymposium in Computational Biology](/ngsymposium2022/)
+  took place on the 23rd and 24th of September in Warsaw, to celebrate the 5th edition of NGSchool Summer Schools.
+ <br><br> 
+  <b>[Check out how did it go!](/ngschool2022/#impressions)</b>
   "
-  description : "Our flagship annual summer school is finally coming back, accompanied by a sattelite conference!"
   image : "images/wrapper-img-minimal.png"
 
 ######################### NGSchool Society ###############################
@@ -114,7 +115,6 @@ funfacts:
       designation : "CRG, Barcelona, Spain"
       content : "Participants"
 
-            
     # testimonial item loop
     - name : "Samantha Filipów"
       image : "images/people/samantha-filipow.jpg"
