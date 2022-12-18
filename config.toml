@@ -118,88 +118,93 @@ disableLanguages = ["pl"]
   weight = 12
 
   [[menu.main]]
-  name = "Other projects"
+  name = "NGStipend"
+  URL = "ngstipend"
   weight = 13
+
+  [[menu.main]]
+  name = "Other projects"
+  weight = 14
   hasChildren = true
   
     [[menu.main]]
     parent = "Other projects"
     name = "NGSchool"
-    weight = 14
+    weight = 15
     hasChildren = true
       
       [[menu.main]]
       parent = "NGSchool"
       name = "2016"
       URL = "ngschool2016"
-      weight = 15
+      weight = 16
       
       [[menu.main]]
       parent = "NGSchool"
       name = "2017"
       URL = "ngschool2017"
-      weight = 16
+      weight = 17
 
       [[menu.main]]
       parent = "NGSchool"
       name = "2018"
       URL = "ngschool2018"
-      weight = 17
+      weight = 18
       
       [[menu.main]]
       parent = "NGSchool"
       name = "2019"
       URL = "ngschool2019"
-      weight = 18
+      weight = 19
 
 
     [[menu.main]]
     parent = "Other projects"
     name = "NGSymposium"
     hasChildren = true
-    weight = 19
+    weight = 20
    
       [[menu.main]]
       parent = "NGSymposium"
       name = "Virtual 2020"
       URL = "virtual_ngsymposium2020"
-      weight = 20
+      weight = 21
 
     [[menu.main]]
     parent = "Other projects"
     name = "NGSeminars"
     hasChildren = true
-    weight = 21
+    weight = 22
 
       [[menu.main]]
       parent = "NGSeminars"
       name = "2020"
       URL = "ngseminars2020"
-      weight = 22
+      weight = 23
         
       [[menu.main]]
       parent = "NGSeminars"
       name = "2021"
       URL = "ngseminars2021"
-      weight = 23
+      weight = 24
 
     [[menu.main]]
     parent = "Other projects"
     name = "NGSprint"
     URL = "ngsprint"
-    weight = 24
+    weight = 25
 
 
   [[menu.main]]
   name = "Donate"
   URL = "bank_account"
-  weight = 25
+  weight = 26
 
 
   [[menu.main]]
   name = "FAQ"
   URL = "faq"
-  weight = 26
+  weight = 27
 
 
   # footer menu

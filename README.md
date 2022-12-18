@@ -9,6 +9,12 @@ The website was created and is maintained by Anamaria, Ula and Szymon. If there 
 
 All changes should be introduced on develop branch (or on the special branch, then develop) before being merged to master. This branch is deployed and the website can be inspected before deploying to live site. 
 
+How to start local web server:
+
+```
+hugo server
+```
+
 | Badge | Website |
 | --- | ---|
 | [![Netlify Status](https://api.netlify.com/api/v1/badges/29002ae6-0a54-4ee5-b0d5-e4aa0f46227d/deploy-status)](https://app.netlify.com/sites/betangschool/deploys) | [beta.ngschool.eu](https://beta.ngschool.eu/) |
