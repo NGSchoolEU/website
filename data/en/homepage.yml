@@ -20,7 +20,7 @@ about:
   Immediately after that, [NGSymposium in Computational Biology](/ngsymposium2022/)
   took place on the 23rd and 24th of September in Warsaw, to celebrate the 5th edition of NGSchool Summer Schools.
  <br><br> 
-  <b>[Check out how did it go!](/ngschool2022/#impressions)</b>
+  <b>[Check out how it went!](/ngschool2022/#impressions)</b>
   "
   image : "images/wrapper-img-minimal.png"
 
@@ -81,33 +81,32 @@ funfacts:
 
   testimonial_slider:
     # testimonial item loop
-    - name : "Kasia Kędzierska"
-      image : "images/people/kasia-kedzierska.jpg"
-      link: "people/kasia-kedzierska/"
-      designation : "WHG, University of Oxford, UK"
-      content : "NGSchool President, Project Coordinator"
+    - name : "Karolina Sienkiewicz"
+      image : "images/people/karolina-sienkiewicz.jpg"
+      link: "people/karolina-sienkiewicz"
+      designation : "Weill Cornell Medicine, Cornell University, USA"
+      content : "NGSchool President, Program"
+
+    - name : "Urszula Smyczyńska"
+      image : "images/people/urszula-smyczynska.jpg"
+      link: "people/urszula-smyczynska"
+      designation : "Medical University of Lodz, Poland"
+      content : "NGSchool Vice President, Logistics"
 
     # testimonial item loop
     - name : "Natalia Pstrąg"
       image : "images/people/natalia-pstrag.jpg"
       link: "people/natalia-pstrag"
       designation : "UAM, Poznań, Poland"
-      content : "NGSchool Vice President, Sponsors" 
+      content : "Audit Commitee, Sponsors"
       
     # testimonial item loop
     - name : "Gladys Wojciechowska"
       image : "images/people/gladys-langi.jpg"
       link: "people/gladys-langi"
       designation : "Medical University of Bialystok, Poland"
-      content : "NGSchool Vice President, Logistics"
+      content : "Logistics"
 
-    # testimonial item loop
-    - name : "Karolina Sienkiewicz"
-      image : "images/people/karolina-sienkiewicz.jpg"
-      link: "people/karolina-sienkiewicz"
-      designation : "Weill Cornell Medicine, Cornell University, USA "
-      content : "Audit Commitee, Program"
-             
     # testimonial item loop
     - name : "Anamaria Elek"
       image : "images/people/anamaria-elek.jpg"
@@ -127,14 +126,7 @@ funfacts:
       image : "images/people/lidia-lipinska.jpg"
       link: "people/lidia-lipinska"
       designation : "University of Warsaw, Poland"
-      content : "Logistics"           
-
-    # testimonial item loop
-    - name : "Urszula Smyczyńska"
-      image : "images/people/urszula-smyczynska.jpg"
-      link: "people/urszula-smyczynska"
-      designation : "Medical University of Lodz, Poland"
-      content : "Logistics"      
+      content : "Logistics"
       
     # testimonial item loop
     - name : "Szymon Grabia"
@@ -143,3 +135,8 @@ funfacts:
       designation : "Medical University of Lodz, Poland"
       content : "IT"
 
+    - name : "Kasia Kędzierska"
+      image : "images/people/kasia-kedzierska.jpg"
+      link: "people/kasia-kedzierska/"
+      designation : "WHG, University of Oxford, UK"
+      content : "Project Coordinator"
