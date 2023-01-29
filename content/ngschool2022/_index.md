@@ -37,7 +37,7 @@ Jump to:
 
 <br>
 
-<h2 id='impressions'>Check what did the speakers, participants and organizers say about <a href="https://twitter.com/hashtag/NGSchool2022?src=hashtag_click" target="_blank">#NGSchool2022</a></h2>
+<h2 id='impressions'>Check what speakers, participants and organizers say about <a href="https://twitter.com/hashtag/NGSchool2022?src=hashtag_click" target="_blank">#NGSchool2022</a></h2>
 
 <div class="row">
   <div class="col-md-4">
