@@ -7,7 +7,7 @@ image: images/people/robert-loftin.jpg
 information:
 - info: "NGSchool2019"
   label: Events
-- info: Speaker
+- info: speaker
   label: Role
 - info: Microsoft Research Cambridge
   label: Affiliation

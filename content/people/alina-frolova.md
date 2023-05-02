@@ -7,7 +7,7 @@ image: images/people/alina-frolova.jpg
 information:
 - info: "NGSchool2016, NGSchool2017, NGSchool2018, NGSchool2019"
   label: Events
-- info: "Speaker, former organizer"
+- info: "speaker, former organizer"
   label: Role
 - info: Institute of Molecular Biology and Genetics, Kyiv, Ukraine
   label: Affiliation

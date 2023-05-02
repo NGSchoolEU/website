@@ -5,9 +5,9 @@ description:
 draft: false
 image: images/people/urszula-smyczynska.jpg
 information:
-- info: "NGSchool2018, NGSchool2019, NGSchool2020, NGSeminars2021, NGSprint2021, NGSchool2022"
+- info: "NGSchool2018, NGSchool2019, NGSchool2020, NGSeminars2021, NGSprint2021, NGSchool2022, NGSymposium2022, NGSchool2023"
   label: Events
-- info: "Participant, organiser"
+- info: "organizer, participant"
   label: Role
 - info: Medical University of Lodz, Poland
   label: Affiliation
@@ -23,7 +23,11 @@ Currently, I work at the [Department of Biostatistics and Translational Medicine
 <br>
 
 #### Activity in NGSchool society
-* Since: 2020 NGSchool webmaster
+* Since 12.2022: Vice President of NGSchool Society 
+* Since 2020: NGSchool webmaster
+* NGSchool2023: organizer
+* NGSchool2022: organizer
+* NSchool2022: tutor at workshops on **Introduction to biostatistics** and **Linear models in gene expression analysis**
 * NGSprint2021: organizer
 * NGSeminars2021: organizer
 * NGSymposium2020: organizer

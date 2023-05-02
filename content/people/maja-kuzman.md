@@ -7,7 +7,7 @@ image: images/people/maja-kuzman.jpg
 information:
 - info: "NGSchool2017, NGSchool2018, NGSchool2019, NGSchool2022"
   label: Events
-- info: "Former organizer"
+- info: "former organizer"
   label: Role
 - info: "C2i Genomics"
   label: Affiliation 

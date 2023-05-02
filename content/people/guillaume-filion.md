@@ -7,7 +7,7 @@ image: images/people/guillaume-filion.jpg
 information:
 - info: "NL2019, NGSchool2019"
   label: Events
-- info: Speaker
+- info: speaker
   label: Role
 - info: CRG, Barcelona, Spain
   label: Affiliation

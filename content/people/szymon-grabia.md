@@ -5,9 +5,9 @@ description:
 draft: false
 image: images/people/szymon-grabia.jpg
 information:
-- info: "NGSchool2019, NGSeminars2020, NGSymposium2020, NGSeminars2021, NGSprint2021, NGSchool2022"
+- info: "NGSchool2019, NGSeminars2020, NGSymposium2020, NGSeminars2021, NGSprint2021, NGSchool2022, NGSymposium2022, NGSchool2023"
   label: Events
-- info: "participant, organizer"
+- info: "speaker, organizer, participant"
   label: Role
 - info: Medical University of Lodz, Poland
   label: Affiliation
@@ -22,7 +22,9 @@ title: Szymon Grabia
 <br>
 
 #### Activity in NGSchool society
-* Since: 2020 NGSchool webmaster
+* Since 2020: NGSchool webmaster
+* NGSchool2022: organizer
+* NSchool2022: tutor at workshop on **Introduction to biostatistics**
 * NGSprint2021: organizer
 * NGSeminars2021: organizer
 * NGSymposium2020: organizer

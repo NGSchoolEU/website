@@ -5,9 +5,9 @@ description:
 draft: false
 image: images/people/andrey-prjibelski.jpg
 information:
-- info: "NGSchool2017, NGSchool2018, NGSeminars2020"
+- info: "NGSchool2017, NGSchool2018, NGSeminars2020, NGSchool2022"
   label: Events
-- info: Speaker
+- info: speaker
   label: Role
 - info: ""
   label: Affiliation

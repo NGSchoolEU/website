@@ -7,7 +7,7 @@ image: images/people/pawel-krawczyk.png
 information:
 - info: "NGSymposium2022"
   label: Events
-- info: Speaker
+- info: speaker
   label: Role
 - info: "International Institute of Molecular and Cell Biology in Warsaw, Poland"
   label: Affiliation

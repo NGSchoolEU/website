@@ -1,13 +1,13 @@
 ---
 bg_image: images/bg.jpg
-category: Organizers
+category: Previous organizers
 description: 
 draft: false
 image: images/people/gladys-wojciechowska.jpeg
 information:
-- info: "NGSchool2019, NGSeminars2020, NGSymposium2020, NGSeminars2021, NGSprint2021, NGSchool2022"
+- info: "NGSchool2019, NGSeminars2020, NGSymposium2020, NGSeminars2021, NGSprint2021, NGSchool2022, NGSymposium2022"
   label: Events
-- info: "participant, organizer"
+- info: "former organizer, participant"
   label: Role
 - info: Medical University of Bialystok, Poland
   label: Affiliation
@@ -23,7 +23,10 @@ I completed my Bachelor of Science degree in Microbiology at the Bandung Institu
 <br>
 
 #### Activity in NGSchool society
-* Since 2020: member of Audit Committee
+* 2021-2022: Vice President of NGSchool Society
+* NGStipend2022: project coordinator
+* NGSchool2022: organizer
+* 2020-2021: member of Audit Committee
 * NGSprint2021: organizer
 * NGSeminars2021: organizer
 * NGSymposium2020: organizer

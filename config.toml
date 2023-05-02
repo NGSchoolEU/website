@@ -108,14 +108,9 @@ disableLanguages = ["pl"]
     weight = 10
 
   [[menu.main]]
-  name = "NGSchool2022"
-  URL = "ngschool2022"
+  name = "NGSchool2023"
+  URL = "ngschool2023"
   weight = 11
-  
-  [[menu.main]]
-  name = "NGSymposium2022"
-  URL = "ngsymposium2022"
-  weight = 12
 
   [[menu.main]]
   name = "NGStipend"
@@ -157,6 +152,12 @@ disableLanguages = ["pl"]
       URL = "ngschool2019"
       weight = 19
 
+      [[menu.main]]
+      parent = "NGSchool"
+      name = "2022"
+      URL = "ngschool2022"
+      weight = 21
+
 
     [[menu.main]]
     parent = "Other projects"
@@ -169,6 +170,12 @@ disableLanguages = ["pl"]
       name = "Virtual 2020"
       URL = "virtual_ngsymposium2020"
       weight = 21
+
+      [[menu.main]]
+      parent = "NGSymposium"
+      name = "NGSymposium2022"
+      URL = "ngsymposium2022"
+      weight = 23
 
     [[menu.main]]
     parent = "Other projects"

@@ -7,7 +7,7 @@ image: images/people/dmytro-fishman.jpg
 information:
 - info: "NGSchool2022"
   label: Events
-- info: Speaker
+- info: speaker
   label: Role
 - info: "University of Tartu, Estonia"
   label: Affiliation

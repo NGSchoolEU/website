@@ -7,7 +7,7 @@ image: images/people/natalia-zawrotna.jpg
 information:
 - info: "NGSchool2018, NGSeminars2021, NGSprint2021"
   label: Events
-- info: "participant, organizer"
+- info: "organizer, participant"
   label: Role
 - info: BMG, School of Medicine, University of Virginia, USA
   label: Affiliation

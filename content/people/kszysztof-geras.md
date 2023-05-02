@@ -7,7 +7,7 @@ image: images/people/krzysztof-geras.jpg
 information:
 - info: "NGSchool2022"
   label: Events
-- info: Speaker
+- info: speaker
   label: Role
 - info: "New York University School of Medicine, USA"
   label: Affiliation

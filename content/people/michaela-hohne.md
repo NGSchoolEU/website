@@ -7,7 +7,7 @@ image: images/people/michaela-hohne.png
 information:
 - info: "NGSymposium2022"
   label: Events
-- info: Speaker
+- info: speaker
   label: Role
 - info: "Center for Molecular Medicine Cologne (CMMC), University of Cologne, Germany"
   label: Affiliation

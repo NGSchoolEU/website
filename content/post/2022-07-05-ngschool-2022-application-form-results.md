@@ -1,7 +1,7 @@
 ---
 markup: "mmark"
 bg_image: images/slider-bg.jpg
-image: images/post/ngschool2022-results.jpg
+image: images/post/ngschool2022-solutions.jpg
 title: "NGSchool2022 Application Form Results"
 author: ngschool
 date: '2022-07-05'

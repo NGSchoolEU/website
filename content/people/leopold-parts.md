@@ -7,7 +7,7 @@ image: images/people/leopold-parts.jpg
 information:
 - info: "NGSchool2022"
   label: Events
-- info: Speaker
+- info: speaker
   label: Role
 - info: "Wellcome Sanger Institute, Cambridge, UK"
   label: Affiliation

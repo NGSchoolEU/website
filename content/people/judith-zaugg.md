@@ -7,7 +7,7 @@ image: images/people/judith-zaugg.jpg
 information:
 - info: "NGSprint2021"
   label: Events
-- info: Speaker
+- info: speaker
   label: Role
 - info: "EMBL Heidelberg"
   label: Affiliation

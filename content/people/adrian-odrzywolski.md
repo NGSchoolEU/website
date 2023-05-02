@@ -7,7 +7,7 @@ image: images/people/adrian-odrzywolski.jpg
 information:
 - info: "#NGSchool2018"
   label: Events
-- info: "Former organizer"
+- info: "former organizer"
   label: Role
 - info: "Medical University of Lublin, Poland"
   label: Affiliation

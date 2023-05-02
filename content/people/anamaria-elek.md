@@ -1,13 +1,13 @@
 ---
 bg_image: images/bg.jpg
-category: Organizers
+category: Previous organizers
 description: 
 draft: false
 image: images/people/anamaria-elek.jpg
 information:
-- info: "NGSchool2018, NGSeminars2020, NGSymposium2020, NGSeminars2021, NGSprint2021, NGSchool2022"
+- info: "NGSchool2018, NGSeminars2020, NGSymposium2020, NGSeminars2021, NGSprint2021, NGSchool2022, NGSymposium2022"
   label: Events
-- info: "participant, organizer"
+- info: "speaker, former organizer, participant"
   label: Role
 - info: Centre for Genomic Regulation (CRG), Barcelona, Spain
   label: Affiliation
@@ -24,7 +24,9 @@ I joined the NGSchool family as a master student attending the summer school in 
 <br>
 
 #### Activity in NGSchool society
-* Since: 2020 NGSchool webmaster
+* 2020-2022: NGSchool webmaster
+* NGSchool2022: organizer
+* NGSchool2022: tutor during workshop *Tree-based methods*
 * NGSprint2021: organizer
 * NGSeminars2021: organizer
 * NGSymposium2020: organizer
