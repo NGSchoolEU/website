@@ -19,45 +19,47 @@ description: Advances in Computational Biology
 </div>
 
 <div class="mt-20">
-  The topics covered during the Summer School will include:
-
-  * Mathematical models and simulation in biology/medicine
-  * Analysis of large biological datasets
-  * Analysis of DNA/RNA sequencing data
+    The topics covered during the Summer School will include:
+    <ul>
+        <li>Mathematical models and simulation in biology/medicine</li>
+        <li>Analysis of large biological datasets</li>
+        <li>Analysis of DNA/RNA sequencing data</li>
+    </ul>
 </div>
 
 <div class="mt-20">
-  Jump to:
-
-  * <a href='#registration'>Registration</a>
-  * <a href='#speakers'>Speakers and tutors</a>  
-  * <a href='#program'>Program</a>  
-  * <a href='#venue'>Venue</a>  
-  * <a href='#organizers'>Organizers</a> 
+    Jump to:
+    <ul> 
+        <li><a href='#registration'>Registration</a></li>
+        <li><a href='#speakers'>Speakers and tutors</a></li>
+        <li><a href='#program'>Program</a></li>
+        <li><a href='#venue'>Venue</a></li>  
+        <li><a href='#organizers'>Organizers</a></li>
+    </ul>
 </div>
 
 <div class="mt-30">
-  <h2 id='registration'>Registration</h2>
-  <p>Coming soon</p>
+    <h2 id='registration'>Registration</h2>
+    <p>Coming soon</p>
 </div>
 
 <div class="mt-30">
-  <h2 id='speakers'>Speakers and tutors</h2>
-  <p>To be announced</p>
+    <h2 id='speakers'>Speakers and tutors</h2>
+    <p>To be announced</p>
 </div>
 
 <div class="mt-30">
-  <h2 id='program'>Program</h2> 
-  <p>To be announced</p>
-  <!-- <div style="display: flex;">
+    <h2 id='program'>Program</h2> 
+    <p>To be announced</p>
+    <!-- <div style="display: flex;">
     <iframe width=100% height=900 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrfzJCd5nqRsDXTot4yzigHV20jf_tPYnO5KxGGxpnb6e2Km0nRf3mGyYaCdqEmAdmWVwlnVB8v72G/pubhtml?gid=622340577&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-  </div> -->
+    </div> -->
 </div>
 
 
 <div class="mt-30">
-  <h2 id='venue'>Venue</h2>
-  <p>To be announced</p>
+    <h2 id='venue'>Venue</h2>
+    <p>To be announced</p>
 </div>
 
 <div class="mt-30">
