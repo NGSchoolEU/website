@@ -7,7 +7,7 @@ image: images/people/sean-farell.jpg
 information:
 - info: "NGSchool2022"
   label: Events
-- info: Speaker
+- info: speaker
   label: Role
 - info: "Durham University, UK"
   label: Affiliation

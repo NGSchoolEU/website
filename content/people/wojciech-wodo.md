@@ -7,7 +7,7 @@ image: images/people/wojciech-wodo.jpeg
 information:
 - info: "NGSymposium2022"
   label: Events
-- info: Speaker
+- info: speaker
   label: Role
 - info: "Wroclaw University of Science and Technology, Poland"
   label: Affiliation

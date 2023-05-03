@@ -7,7 +7,7 @@ image: images/people/maire-ni-leathlobhair.jpg
 information:
 - info: "NGSeminars2021, NGSymposium2022"
   label: Events
-- info: Speaker
+- info: speaker
   label: Role
 - info: "Microbiology, Trinity College Dublin"
   label: Affiliation

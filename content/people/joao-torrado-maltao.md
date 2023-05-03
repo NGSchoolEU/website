@@ -7,7 +7,7 @@ image: images/people/joao-torrado-maltao.jpg
 information:
 - info: "NGSchool2022"
   label: Events
-- info: Speaker
+- info: speaker
   label: Role
 - info: "University of Lisbon, Portugal and Warsaw University, Poland"
   label: Affiliation

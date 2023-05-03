@@ -7,7 +7,7 @@ image: images/people/izabela_makalowska.jpg
 information:
 - info: "NGSprint2021"
   label: Events
-- info: Speaker
+- info: speaker
   label: Role
 - info: "Adam Mickiewicz University, Poznan, Poland"
   label: Affiliation

@@ -7,7 +7,7 @@ image: images/people/mireya-plass.png
 information:
 - info: "NGSymposium2022"
   label: Events
-- info: Speaker
+- info: speaker
   label: Role
 - info: "Bellvitge Biomedical Research Institute (IDIBELL), Barcelona, Spain"
   label: Affiliation

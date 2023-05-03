@@ -1,11 +1,11 @@
 ---
 bg_image: images/bg.jpg
-category: Organizers
+category: Previous organizers
 description: 
 draft: false
 image: images/people/kasia-kedzierska.jpg
 information:
-- info: "NGSchool2017, NGSchool2018, NGSchool2019, NGSeminars2020, NGSymposium2020, NGSeminars2021, NGSprint2021, NGSchool2022"
+- info: "NGSchool2017, NGSchool2018, NGSchool2019, NGSeminars2020, NGSymposium2020, NGSeminars2021, NGSprint2021, NGSchool2022, NGSymposium2022"
   label: Events
 - info: "speaker, organizer"
   label: Role
@@ -28,7 +28,9 @@ Before coming to Oxford I worked as a research assistant in the [Zebrafish Devel
 <br>
 
 #### Activity in NGSchool society
-* Since 2019: President of NGSchool Society 
+* 2019-2022: President of NGSchool Society
+* NGSchool2022: organizer
+* NGSchool2022: speaker with lecture and workshop on **Unsupervised learning**
 * NGSprint2021: organizer
 * NGSeminars2021: organizer
 * NGSymposium2020: organizer

@@ -7,7 +7,7 @@ image: images/people/wojciech-fendler.jpg
 information:
 - info: "NGSprint2021"
   label: Events
-- info: Speaker
+- info: speaker
   label: Role
 - info: "Medical University of Łódź, Poland"
   label: Affiliation

@@ -1,13 +1,13 @@
 ---
 bg_image: images/bg.jpg
-category: Organizers
+category: Previous organizers
 description: 
 draft: false
 image: images/people/lidia-lipinska.jpg
 information:
-- info: "NGSchool2019, NGSeminars2020, NGSymposium2020, NGSeminars2021, NGSprint2021"
+- info: "NGSchool2019, NGSeminars2020, NGSymposium2020, NGSeminars2021, NGSprint2021, NGSchool2022, NGSymposium2022"
   label: Events
-- info: "participant, organizer"
+- info: "organizer, participant"
   label: Role
 - info: University of Warsaw, Poland
   label: Affiliation
@@ -21,7 +21,9 @@ title: Lidia Lipińska-Zubrycka
 <br>
 
 #### Activity in NGSchool society
-* Since 2019: Vice President of NGSchool Society 
+* 2019-2022: Vice President of NGSchool Society
+* NGSymposium2022: organizer
+* NGSchool2022: organizer
 * NGSprint2021: organizer
 * NGSeminars2021: organizer
 * NGSymposium2020: organizer

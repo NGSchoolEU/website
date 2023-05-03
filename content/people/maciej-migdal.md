@@ -7,7 +7,7 @@ image: images/people/maciej-migdal.jpg
 information:
 - info: "NGSchool2017, NGSchool2018"
   label: Events
-- info: "Former organizer, participant"
+- info: "former organizer, participant"
   label: Role
 - info: "IIMCB, Warsaw, Poland"
   label: Affiliation

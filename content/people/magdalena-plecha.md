@@ -7,7 +7,7 @@ image: images/people/magdalena-plecha.jpg
 information:
 - info: "NGSchool2018"
   label: Events
-- info: "Former organizer"
+- info: "former organizer"
   label: Role
 - info: "University of Warsaw, poland"
   label: Affiliation

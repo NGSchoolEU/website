@@ -5,9 +5,9 @@ description:
 draft: false
 image: images/people/german-demidov.jpg
 information:
-- info: "NGSchool2016, NGSchool2017, NGSchool2018, NGSchool2019, NGSchool2022"
+- info: "NGSchool2016, NGSchool2017, NGSchool2018, NGSchool2019, NGSchool2022, NGSymposium2022"
   label: Events
-- info: "Former organizer, speaker"
+- info: "speaker, former organizer"
   label: Role
 - info: "Institute of Medical Genetics and Applied Genomics (IMGAG), University of Tübingen, Germany"
   label: Affiliation

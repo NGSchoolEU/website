@@ -7,7 +7,7 @@ image: images/people/aakrosh-ratan.jpg
 information:
 - info: "NGSchool2020, NGSymposium2020, NGSprint2021"
   label: Events
-- info: Speaker
+- info: speaker
   label: Role
 - info: "University of Virginia, USA"
   label: Affiliation

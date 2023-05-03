@@ -1,13 +1,13 @@
 ---
 bg_image: images/bg.jpg
-category: Organizers
+category: Previous organizers
 description: 
 draft: false
 image: images/people/samantha-filipow.jpg
 information:
 - info: "NGSchool2018, NGSchool2019, NGSeminars2020, NGSymposium2020, NGSeminars2021, NGSprint2021"
   label: Events
-- info: "participant, organizer"
+- info: "organizer, participant"
   label: Role
 - info: CECAD, University of Cologne, Germany
   label: Affiliation
@@ -27,7 +27,8 @@ In the NGSchool Society I take care of the NGSchool events promotion online thro
 <br>
 
 #### Activity in NGSchool society
-* Since 2019 responsible for promoting NGSchool in social media
+* 2019-2022: NGSchool social media manager
+* NGSchool2022: organizer
 * NGSprint2021: organizer
 * NGSeminars2021: organizer
 * NGSymposium2020: organizer
