@@ -213,6 +213,11 @@ disableLanguages = ["pl"]
   URL = "faq"
   weight = 27
 
+  [[menu.main]]
+  name = "Contact"
+  URL = "contact"
+  weight = 29
+
 
   # footer menu
   [[menu.footer]]
