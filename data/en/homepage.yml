@@ -12,17 +12,15 @@ banner:
 ############################# About #################################
 about:
   enable : true
-  title : "New educational events in 2022"
+  title : "New event in 2023"
   content : "
-  [NGSchool 2022: Machine Learning in Computational Biology](/ngschool2022/) was held
-  from the 15th to 23rd of September in Jabłonna palace near Warsaw, Poland.  
- <br><br>
-  Immediately after that, [NGSymposium in Computational Biology](/ngsymposium2022/)
-  took place on the 23rd and 24th of September in Warsaw, to celebrate the 5th edition of NGSchool Summer Schools.
- <br><br> 
-  <b>[Check out how it went!](/ngschool2022/#impressions)</b>
+  [NGSchool2023: Advances in Computational Biology](/ngschool2023/) will take place in September 2023 in Poland.  
+  <br><br>
+  Its organization is once again supported by Visegrad Fund.
+  <br><br>
+  More details coming soon!
   "
-  image : "images/wrapper-img-minimal.png"
+  image : "images/sponsors/visegrad_fund.jpg"
 
 ######################### NGSchool Society ###############################
 portfolio:
@@ -85,8 +83,9 @@ funfacts:
       image : "images/people/karolina-sienkiewicz.jpg"
       link: "people/karolina-sienkiewicz"
       designation : "Weill Cornell Medicine, Cornell University, USA"
-      content : "NGSchool President, Program"
+      content : "NGSchool President, Project Coordinator"
 
+    # testimonial item loop
     - name : "Urszula Smyczyńska"
       image : "images/people/urszula-smyczynska.jpg"
       link: "people/urszula-smyczynska"
@@ -97,46 +96,26 @@ funfacts:
     - name : "Natalia Pstrąg"
       image : "images/people/natalia-pstrag.jpg"
       link: "people/natalia-pstrag"
-      designation : "UAM, Poznań, Poland"
-      content : "Audit Commitee, Sponsors"
-      
-    # testimonial item loop
-    - name : "Gladys Wojciechowska"
-      image : "images/people/gladys-langi.jpg"
-      link: "people/gladys-langi"
-      designation : "Medical University of Bialystok, Poland"
-      content : "Logistics"
-
-    # testimonial item loop
-    - name : "Anamaria Elek"
-      image : "images/people/anamaria-elek.jpg"
-      link: "people/anamaria-elek"
-      designation : "CRG, Barcelona, Spain"
-      content : "Participants"
-
-    # testimonial item loop
-    - name : "Samantha Filipów"
-      image : "images/people/samantha-filipow.jpg"
-      link: "people/samantha-filipow"
-      designation : "CECAD, University of Cologne, Germany"
-      content : "PR"
-    
-    # testimonial item loop
-    - name : "Lidia Lipińska-Zubrycka"
-      image : "images/people/lidia-lipinska.jpg"
-      link: "people/lidia-lipinska"
-      designation : "University of Warsaw, Poland"
-      content : "Logistics"
+      # designation : "UAM, Poznań, Poland"
+      content : "Audit Commitee"
       
     # testimonial item loop
     - name : "Szymon Grabia"
       image : "images/people/szymon-grabia.jpg"
       link: "people/szymon-grabia"
       designation : "Medical University of Lodz, Poland"
-      content : "IT"
+      content : "IT, Participants"
 
-    - name : "Kasia Kędzierska"
-      image : "images/people/kasia-kedzierska.jpg"
-      link: "people/kasia-kedzierska/"
-      designation : "WHG, University of Oxford, UK"
-      content : "Project Coordinator"
+      # testimonial item loop
+    - name : "Zuzanna Nowicka"
+      image : "images/people/zuzanna-nowicka.jpg"
+      link: "people/zuzanna-nowicka"
+      designation : "Medical University of Lodz, Poland"
+      content : "Participants, Program"
+
+      # testimonial item loop
+    - name : "Wiktoria Wilman"
+      image : "images/people/wiktoria-wilman.png"
+      link: "people/wiktoria-wilman"
+      designation : "NaturalAntibody S.A., Szczecin, Poland"
+      content : "PR, Participants"
