@@ -51,7 +51,7 @@ service:
 ############################ call to action ###########################
 cta:
   enable : true
-  bg_image : "images/call-to-action-bg.jpg"
+  bg_image : "images/ngschool/2016-049.jpg"
   title : "We believe in open science."
   content : "
   Everyone is welcome to participate! Prior experience in Bioinformatics is not necessary, but strong motivation is desired. 
