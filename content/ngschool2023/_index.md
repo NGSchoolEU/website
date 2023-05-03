@@ -63,16 +63,16 @@ description: Advances in Computational Biology
 </div>
 
 <div class="mt-30">
-
-  ## Organizers
-  * [Gabriel Deards](/people/gabriel-deards)
-  * [Szymon Grabia](/people/szymon-grabia), Medical University of Lodz, Poland
-  * [Zuzanna Nowicka](/people/zuzanna-nowicka), Medical University of Lodz, Poland
-  * [Dalma Müller](/people/dalma-muller)
-  * [Vishma Pratap Sur](/people/vishma-pratap)
-  * [Diana Sharysh](/people/diana-sharysh), Aarhus University, Denmark
-  * [Karolina Sienkiewicz](/people/karolina-sienkiewicz), Weill Cornell Medicine, Cornell University, USA  
-  * [Urszula Smyczyńska](/people/urszula-smyczynska), Medical University of Lodz, Poland 
-  * [Wiktoria Wilman](/people/wiktoria-wilman), NaturalAntibody S.A., Szczecin, Poland
-
+    <h2 id='venue'>Organizers</h2>
+    <ul>
+        <li><a href="/people/gabriel-deards">Gabriel Deards</a></li>
+        <li><a href="/people/szymon-grabia">Szymon Grabia, Medical University of Lodz, Poland</a></li>
+        <li><a href="/people/zuzanna-nowicka">Zuzanna Nowicka, Medical University of Lodz, Poland</a></li>
+        <li><a href="/people/dalma-muller">Dalma Müller</a></li>
+        <li><a href="/people/vishma-pratap">Vishma Pratap Sur</a></li>
+        <li><a href="/people/diana-sharysh">Diana Sharysh, Aarhus University, Denmark</a></li>
+        <li><a href="/people/karolina-sienkiewicz">Karolina Sienkiewicz, Weill Cornell Medicine, Cornell University, USA</a></li>
+        <li><a href="/people/urszula-smyczynska">Urszula Smyczyńska, Medical University of Lodz, Poland</a></li>
+        <li><a href="/people/wiktoria-wilman">Wiktoria Wilman, NaturalAntibody S.A., Szczecin, Poland</a></li>
+    </ul>
 </div>
