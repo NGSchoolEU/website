@@ -119,3 +119,10 @@ funfacts:
       link: "people/wiktoria-wilman"
       designation : "NaturalAntibody S.A., Szczecin, Poland"
       content : "PR, Participants"
+
+      # testimonial item loop
+    - name : "Diana Sharysh"
+      image : "images/people/diana-sharysh.jpg"
+      link: "people/diana-sharysh"
+      designation : "Aarhus University, Denmark"
+      content : "Sponsors"
