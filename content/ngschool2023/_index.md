@@ -69,7 +69,7 @@ description: Advances in Computational Biology
         <li><a href="/people/szymon-grabia">Szymon Grabia, Medical University of Lodz, Poland</a></li>
         <li><a href="/people/zuzanna-nowicka">Zuzanna Nowicka, Medical University of Lodz, Poland</a></li>
         <li><a href="/people/dalma-muller">Dalma Müller</a></li>
-        <li><a href="/people/vishma-pratap">Vishma Pratap Sur</a></li>
+        <li><a href="/people/vishma-pratap">Vishma Pratap Sur, Czech Academy of Sciences, Czech Republic</a></li>
         <li><a href="/people/diana-sharysh">Diana Sharysh, Aarhus University, Denmark</a></li>
         <li><a href="/people/karolina-sienkiewicz">Karolina Sienkiewicz, Weill Cornell Medicine, Cornell University, USA</a></li>
         <li><a href="/people/urszula-smyczynska">Urszula Smyczyńska, Medical University of Lodz, Poland</a></li>
