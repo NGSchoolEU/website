@@ -97,7 +97,7 @@ funfacts:
       image : "images/people/natalia-pstrag.jpg"
       link: "people/natalia-pstrag"
       # designation : "UAM, Poznań, Poland"
-      content : "Audit Commitee"
+      content : "Audit Committee"
       
     # testimonial item loop
     - name : "Szymon Grabia"
@@ -126,3 +126,10 @@ funfacts:
       link: "people/diana-sharysh"
       designation : "Aarhus University, Denmark"
       content : "Sponsors"
+
+       # testimonial item loop
+    - name : "Vishma Pratap Sur"
+      image : "images/people/vishma-pratap.jpg"
+      link: "people/vishma-pratap"
+      designation : "Czech Academy of Sciences, Czech Republic"
+      content : "Participants, Program"
