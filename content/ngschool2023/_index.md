@@ -94,7 +94,8 @@ description: Advances in Computational Biology
 <h2 id="countdown" class="text-center"></h2>
 
 <script>
-    // Set the date we're counting down to
+    var timezoneOffsetFromUTC = (new Date()).getTimezoneOffset()*60*1000;
+
     var countDownDateRegistrationStart = new Date("May 24 2023 00:00:01").getTime();
     var countDownDateRegistrationEnd = new Date("Jun 21 2023 23:59:59").getTime();
     var countDownDateSchoolStart = new Date("Sep 16 2023 00:00:00").getTime();
@@ -104,7 +105,7 @@ description: Advances in Computational Biology
     var x = setInterval(function() {
 
         // Get today's date and time
-        var now = new Date().getTime();
+        var now = new Date().getTime() + timezoneOffsetFromUTC;
 
         var distanceRegistrationStart = countDownDateRegistrationStart - now;
         var distanceRegistrationEnd = countDownDateRegistrationEnd - now;
@@ -159,7 +160,7 @@ description: Advances in Computational Biology
     <h2 id='registration'>Registration</h2> 
     <h3>Registration form</h3> 
     <p>
-        The deadline to submit your application is 21.06.2022 at 23:59 CET. Selection results will be announced at the beginning of August. If you have any question or problems get in touch via email: <a href="mailto: info@ngschool.eu">info@ngschool.eu</a>.
+        The deadline to submit your application is 21.06.2022 at 23:59 UTC. Selection results will be announced at the beginning of August. If you have any question or problems get in touch via email: <a href="mailto: info@ngschool.eu">info@ngschool.eu</a>.
     </p>
     <p>
         <a href="https://ngsheet.ngschool.eu/" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Registration form (open until 21.06) <i class="fas fa-play"></i></a>
@@ -199,7 +200,13 @@ description: Advances in Computational Biology
 
 <div class="mt-30">
     <h2 id='speakers'>Speakers and tutors</h2>
-    <p>To be announced</p>
+    <ul>
+        <li><a href="/people/fabiola-curion" target="_blank">Fabiola Curion, Helmholtz Center Munich & Technical University of Munich, Germany</a></li>
+        <li><a href="/people/gustav-lindwall" target="_blank">Gustav Lindwall, University of Gothenburg, Sweden</a></li>
+        <li><a href="/people/szymon-grabia" target="_blank">Szymon Grabia, Medical University of Lodz, Poland</a></li>
+        <li><a href="/people/urszula-smyczynska" target="_blank">Urszula Smyczyńska, Medical University of Lodz, Poland</a></li>
+    </ul>
+    <p class="mt-20">And more to be announced soon!</p>
 </div>
 
 <div class="mt-30" id='program-div'>
@@ -216,7 +223,7 @@ description: Advances in Computational Biology
 </div>
 
 <div class="mt-30">
-    <h2 id='venue'>Organizers</h2>
+    <h2 id='organizers'>Organizers</h2>
     <ul>
         <li><a href="/people/gabriel-deards" target="_blank">Gabriel Deards</a></li>
         <li><a href="/people/szymon-grabia" target="_blank">Szymon Grabia, Medical University of Lodz, Poland</a></li>
