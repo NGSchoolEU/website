@@ -211,10 +211,10 @@ description: Advances in Computational Biology
 
 <div class="mt-30" id='program-div'>
     <h2 id='program'>Program</h2> 
-    <p>To be announced</p>
     <div style="display: flex;">
         <iframe id='program-iframe' width=100% height=800 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZf_9jDJ_4giGYjTizVNMfguXsZdQPm7uOujNRAzj-hCWmLzcAZo0_yY-APh0RmZH9-DtSbbAVYHuJ/pubhtml?gid=1762051258&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
     </div>
+    <p class="mt-20">More details to be announced!</p>
 </div>
 
 <div class="mt-30">
