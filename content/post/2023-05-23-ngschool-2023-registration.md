@@ -4,7 +4,7 @@ bg_image: images/background/2022-035b.jpg
 image: images/post/ngs23-registration.png
 title: "NGSchool2023"
 author: ngschool
-date: '2023-05-24'
+date: '2023-05-23'
 slug: ngschool2023-registration
 categories:
   - news

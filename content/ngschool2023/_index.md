@@ -121,29 +121,29 @@ description: Advances in Computational Biology
             document.getElementById("countdown").innerHTML = "Registration opens in " + days + " days " + hours + " hours "
             + minutes + " min and " + seconds + " sec!";
         }
-        else if (distanceRegistrationStart >= 0 && distanceRegistrationEnd > 0) {
-            var days = Math.floor(distanceRegistrationStart / (1000 * 60 * 60 * 24));
-            var hours = Math.floor((distanceRegistrationStart % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-            var minutes = Math.floor((distanceRegistrationStart % (1000 * 60 * 60)) / (1000 * 60));
-            var seconds = Math.floor((distanceRegistrationStart % (1000 * 60)) / 1000);
+        else if (distanceRegistrationStart <= 0 && distanceRegistrationEnd > 0) {
+            var days = Math.floor(distanceRegistrationEnd / (1000 * 60 * 60 * 24));
+            var hours = Math.floor((distanceRegistrationEnd % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            var minutes = Math.floor((distanceRegistrationEnd % (1000 * 60 * 60)) / (1000 * 60));
+            var seconds = Math.floor((distanceRegistrationEnd % (1000 * 60)) / 1000);
 
             document.getElementById("countdown").innerHTML = "Registration closes in " + days + " days " + hours + " hours "
             + minutes + " min and " + seconds + " sec!";
         }
-        else if (distanceRegistrationEnd <= 0 && countDownDateSchoolStart>0) {
-            var days = Math.floor(countDownDateSchoolStart / (1000 * 60 * 60 * 24));
-            var hours = Math.floor((countDownDateSchoolStart % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-            var minutes = Math.floor((countDownDateSchoolStart % (1000 * 60 * 60)) / (1000 * 60));
-            var seconds = Math.floor((countDownDateSchoolStart % (1000 * 60)) / 1000);
+        else if (distanceRegistrationEnd <= 0 && distanceSchoolStart > 0) {
+            var days = Math.floor(distanceSchoolStart / (1000 * 60 * 60 * 24));
+            var hours = Math.floor((distanceSchoolStart % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            var minutes = Math.floor((distanceSchoolStart % (1000 * 60 * 60)) / (1000 * 60));
+            var seconds = Math.floor((distanceSchoolStart % (1000 * 60)) / 1000);
             
             document.getElementById("countdown").innerHTML = "NGSchool2023 starts in " + days + " days " + hours + " hours "
             + minutes + " min and " + seconds + " sec!";
         }
-        else if (countDownDateSchoolStart <= 0 && countDownDateSchoolEnd>0) {
-            var days = Math.floor(countDownDateSchoolStart / (1000 * 60 * 60 * 24));
-            var hours = Math.floor((countDownDateSchoolStart % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-            var minutes = Math.floor((countDownDateSchoolStart % (1000 * 60 * 60)) / (1000 * 60));
-            var seconds = Math.floor((countDownDateSchoolStart % (1000 * 60)) / 1000);
+        else if (distanceSchoolStart <= 0 && countDownDateSchoolEnd > 0) {
+            var days = Math.floor(distanceSchoolEnd / (1000 * 60 * 60 * 24));
+            var hours = Math.floor((distanceSchoolEnd % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            var minutes = Math.floor((distanceSchoolEnd % (1000 * 60 * 60)) / (1000 * 60));
+            var seconds = Math.floor((distanceSchoolEnd % (1000 * 60)) / 1000);
             
             document.getElementById("countdown").innerHTML = "NGSchool2023 is here!";
         }
