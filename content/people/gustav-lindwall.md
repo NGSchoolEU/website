@@ -9,7 +9,7 @@ information:
   label: Events
 - info: speaker
   label: Role
-- info: "Helmholtz Center Munich & Technical University of Munich, Germany"
+- info: "Chalmers University of Technology, Sweden"
   label: Affiliation
 title: Gustav Lindwall
 ---

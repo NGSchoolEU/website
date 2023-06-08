@@ -202,7 +202,7 @@ description: Advances in Computational Biology
     <h2 id='speakers'>Speakers and tutors</h2>
     <ul>
         <li><a href="/people/fabiola-curion" target="_blank">Fabiola Curion, Helmholtz Center Munich & Technical University of Munich, Germany</a></li>
-        <li><a href="/people/gustav-lindwall" target="_blank">Gustav Lindwall, University of Gothenburg, Sweden</a></li>
+        <li><a href="/people/gustav-lindwall" target="_blank">Gustav Lindwall, Chalmers University of Technology, Sweden</a></li>
         <li><a href="/people/szymon-grabia" target="_blank">Szymon Grabia, Medical University of Lodz, Poland</a></li>
         <li><a href="/people/urszula-smyczynska" target="_blank">Urszula Smyczyńska, Medical University of Lodz, Poland</a></li>
     </ul>
