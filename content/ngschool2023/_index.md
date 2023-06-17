@@ -4,14 +4,14 @@ markup: "mmark"
 bg_image: images/background/2022-035b.jpg
 draft: false
 information:
- - info: "Poland, near Warsaw"
+ - info: "Otwock, Poland"
    label: Location
  - info: "16-24 September 2023"
    label: Date
- - info: " around 35"
+ - info: "around 35"
    label: Participants
 title: "NGSchool2023"
-description: Advances in Computational Biology
+description: "Advances in Computational Biology"
 ---
 
 <div>
@@ -52,7 +52,7 @@ description: Advances in Computational Biology
         <th></th>
     </tr>
     <tr>
-        <td class="date-td" style="text-align: center;">24.04</td>
+        <td class="date-td" style="text-align: center;">24.05</td>
         <td>Registration opens</td>
         <td>
         <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MXRxbGpldHRkdmFvam5tb29ucDBndnQwbDggdXNteWN6eW5za2FAbmdzY2hvb2wuZXU&tmsrc=usmyczynska%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
@@ -200,12 +200,57 @@ description: Advances in Computational Biology
 
 <div class="mt-30">
     <h2 id='speakers'>Speakers and tutors</h2>
-    <ul>
-        <li><a href="/people/fabiola-curion" target="_blank">Fabiola Curion, Helmholtz Center Munich & Technical University of Munich, Germany</a></li>
-        <li><a href="/people/gustav-lindwall" target="_blank">Gustav Lindwall, Chalmers University of Technology, Sweden</a></li>
-        <li><a href="/people/szymon-grabia" target="_blank">Szymon Grabia, Medical University of Lodz, Poland</a></li>
-        <li><a href="/people/urszula-smyczynska" target="_blank">Urszula Smyczyńska, Medical University of Lodz, Poland</a></li>
-    </ul>
+    <div class="row">
+        <div class="col-md-2">
+            <img class="img-responsive w-100" src="/images/people/profile-picture.jpg" alt="">
+        </div>
+        <div class="col-md-4">
+            <h3><a href="/people/fabiola-curion/" target="_blank">Fabiola Curion</a></h3>
+            <h4>Helmholtz Center Munich & Technical University of Munich, Germany</h4>
+        </div>
+        <div class="col-md-2">
+            <img class="img-responsive w-100" src="/images/people/profile-picture.jpg" alt="">
+        </div>
+        <div class="col-md-4">
+            <h3><a href="/people/jan-krumsiek/" target="_blank">Jan Krumsiek</a></h3>
+            <h4>Weill Cornell Medicine, USA</h4>
+        </div>
+    </div>
+    <br>
+    <div class="row">
+        <div class="col-md-2">
+            <img class="img-responsive w-100" src="/images/people/gustav-lindwall.jpg" alt="">
+        </div>
+        <div class="col-md-4">
+            <h3><a href="/people/gustav-lindwall/" target="_blank">Gustav Lindwall</a></h3>
+            <h4>Chalmers University of Technology, Sweden</h4>
+        </div>
+        <div class="col-md-2">
+            <img class="img-responsive w-100" src="/images/people/diana-sharysh.jpg" alt="">
+        </div>
+        <div class="col-md-4">
+            <h3><a href="/people/diana-sharysh/" target="_blank">Diana Sharysh</a></h3>
+            <h4>Aarhus University, Denmark</h4>
+        </div>
+    </div>
+    <br>
+    <div class="row">
+        <div class="col-md-2">
+            <img class="img-responsive w-100" src="/images/people/urszula-smyczynska.jpg" alt="">
+        </div>
+        <div class="col-md-4">
+            <h3><a href="/people/urszula-smyczynska/" target="_blank">Urszula Smyczyńska</a></h3>
+            <h4>Medical University of Lodz, Poland</h4>
+        </div>
+        <div class="col-md-2">
+            <img class="img-responsive w-100" src="/images/people/szymon-grabia.jpg" alt="">
+        </div>
+        <div class="col-md-4">
+            <h3><a href="/people/szymon-grabia/" target="_blank">Szymon Grabia</a></h3>
+            <h4>Medical University of Lodz, Poland</h4>
+        </div>
+    </div>
+    <br>
     <p class="mt-20">And more to be announced soon!</p>
 </div>
 
