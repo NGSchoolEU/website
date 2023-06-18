@@ -249,24 +249,39 @@ disableLanguages = ["pl"]
 [params]
 logo = "/images/logo.png"
 home = "Home"
+
 # Meta data
 description = "NGSchool (Next Generation School) is a platform to share the expertise in the field of Next Generation Sequencing Data Analysis and general Bioinformatics."
 author = "ngschool"
+
 # Contact Information
-# mobile = "0124857985320"
 email = "info@ngschool.eu"
 location = "ul. Lindleya 16, 02-013 Warsaw, Poland"
+
+# Legal info
 president = "Karolina Sienkiewicz"
 vice = "Urszula Smyczyńska"
 nip = "7010892593"
 krs = "0000757658"
 regon = "381825521"
+
+# Account 2 (Wise)
+account_bank = "Wise"
 account_name = "Stowarzyszenie NGSchool / NGSchool Society"
 account_swift = "TRWIBEB1XXX"
 account_eur = "BE43 9670 2250 7501"
 account_pln = "62 1020 1026 3741 0000 0000 3246"
+
+# Account 1 (BNP Paribas)
+account_bank_1 = "BNP Paribas"
+account_name_1 = "Stowarzyszenie NGSchool / NGSchool Society"
+account_swift_1 = "PPABPLPKXXX"
+account_eur_1 = "69 1600 1462 1737 0687 8000 0003"
+account_pln_1 = "26 1600 1462 1737 0687 8000 0001"
+
 # contact form action
 contact_form_action = "https://formspree.io/xrgkebrz" # contact form works with : https://formspree.io
+
 # Google Analitycs
 google_analitycs_id = "UA-159044812-1"
 

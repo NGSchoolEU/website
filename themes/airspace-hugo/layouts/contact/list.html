@@ -4,10 +4,14 @@
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
-<section class="contact-form">
-  <div class="container">
+<div class="container">
+
+  <section class="contact-form">
+    
     <div class="contact-box row">
+
       <form method="POST" action="{{ .Site.Params.contact_form_action | safeURL }}">
+        
         <div class="col-md-6 col-sm-12">
           <div class="block">
             <div class="form-group">
@@ -21,6 +25,7 @@
             </div>
           </div>
         </div>
+        
         <div class="col-md-6 col-sm-12">
           <div class="block">
             <div class="form-group-2">
@@ -31,65 +36,90 @@
               <input type="text" name="_gotcha" style="display:none" />
               <input type="hidden" name="g-recaptcha-response" value="">
             </div>
-            <button class="btn btn-default" type="submit">{{ i18n "submit" }}</button>
+            <div class="form-group">
+              <button class="btn btn-default" type="submit">{{ i18n "submit" }}</button>
+            </div>
           </div>
         </div>
+
       </form>
+
     </div>
-    <hr>
-    <!-- Block with address and map -->  <div class="contact-box row">
-     <!-- Block with address -->  <div class="col-md-6 col-sm-12">
-         <div class="block">
-          <h2>{{ i18n "address_title" }}</h2>
-          <ul class="address-block">
-            <li><i class="ion-ios-location-outline"></i>{{i18n "location"}}: {{ .Site.Params.location }}</li>
-            <li><i class="ion-ios-email-outline"></i>{{i18n "email"}}: {{ .Site.Params.email }}</li>
-          </ul>
-          <ul class="social-icons">
-            {{ range .Site.Params.social }}
-            <li><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
-            {{ end }}
-          </ul>
-        </div>
-      </div>
-      {{ if .Site.Params.gmap.enable }}
-      <!-- Block with map -->  <div class="col-md-6 col-sm-12">
-        <div class="block">
-          <!-- <div class="google-map">
-            <div class="map" id="map_canvas" data-latitude="{{ .Site.Params.gmap.map_latitude }}" data-longitude="{{ .Site.Params.gmap.map_longitude }}" data-marker="{{ .Site.Params.gmap.map_marker | relURL }}"></div>
-          </div> -->
-        </div>
-      </div>
-      {{ end }}
-    </div>
-    <hr>
-    <!-- Block with legal info --> <div class="contact-box row">
+  
+  </section>
+  
+  <hr>
+
+  <section>
+
+    <div class="row contact-box">
+
+      <!-- Block with address -->  
       <div class="col-md-6 col-sm-12">
-        <div class="block"> 
+        <h2>{{ i18n "address_title" }}</h2>
+        <ul class="address-block">
+          <li><i class="ion-ios-location-outline"></i>{{i18n "location"}}: {{ .Site.Params.location }}</li>
+          <li><i class="ion-ios-email-outline"></i>{{i18n "email"}}: {{ .Site.Params.email }}</li>
+        </ul>
+        <ul class="social-icons" style="margin-top: 25px;">
+          {{ range .Site.Params.social }}
+            <li><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+          {{ end }}
+        </ul>
+      </div>
+
+    </div>
+
+  </section>
+
+  <hr>
+
+  <section>
+
+    <!-- Block with legal info --> 
+    <div class="row contact-box">
+      
+      <div class="col-md-4 col-sm-12">
         <h2>{{ i18n "legal_title" }}</h2>
+        <div class="col-md-12" style="padding: 0;">
           <ul class="address-block"> 
-            <li>{{i18n "president"}}: {{ .Site.Params.president }}</li>
-            <li>{{i18n "vice"}}: {{ .Site.Params.vice }}</li>
+            <li><h4>{{i18n "president"}}: {{ .Site.Params.president }}</h4></li>
+            <li><h4>{{i18n "vice"}}: {{ .Site.Params.vice }}</h4></li>
             <li><i class="ion-information"></i>{{i18n "nip"}}: {{ .Site.Params.nip }}</li>
             <li><i class="ion-information"></i>{{i18n "krs"}}: {{ .Site.Params.krs }}</li>
             <li><i class="ion-information"></i>{{i18n "regon"}}: {{ .Site.Params.regon }}</li>
           </ul>
-        </div>
       </div>
-      <div class="col-md-6 col-sm-12">
-        <div class="block"> 
-          <h2>{{ i18n "account_title" }}</h2>
-            <ul class="address-block"> 
-              <li>{{i18n "account_name"}}: {{ .Site.Params.account_name }}</li>
-              <li>{{i18n "account_swift"}}: {{ .Site.Params.account_swift }}</li>
-              <li><i class="ion-cash"></i>{{i18n "account_eur"}}: {{ .Site.Params.account_eur }}</li>
-              <li><i class="ion-cash"></i>{{i18n "account_pln"}}: {{ .Site.Params.account_pln }}</li>
+      </div>
+
+      <div class="col-md-8 col-sm-12">
+        <h2>{{ i18n "account_title" }}</h2>
+        
+        <div class="col-md-6 col-sm-12" style="padding: 0; padding-right: 40px;">
+          <ul class="address-block"> 
+            <li><h4>{{ .Site.Params.account_bank_1 }}</h4></li>
+            <li>{{i18n "account_name"}}: {{ .Site.Params.account_name_1 }}</li>
+            <li>{{i18n "account_swift"}}: {{ .Site.Params.account_swift_1 }}</li>
+            <li><i class="ion-cash"></i>{{i18n "account_eur"}}: {{ .Site.Params.account_eur_1 }}</li>
+            <li><i class="ion-cash"></i>{{i18n "account_pln"}}: {{ .Site.Params.account_pln_1 }}</li>
           </ul>
         </div>
-      </div>
-    </div>
-    
-  </div>
-</section>
 
+        <div class="col-md-6 col-sm-12" style="padding: 0; padding-right: 40px;">
+          <ul class="address-block"> 
+            <li><h4>{{ .Site.Params.account_bank }}</h4></li>
+            <li>{{i18n "account_name"}}: {{ .Site.Params.account_name }}</li>
+            <li>{{i18n "account_swift"}}: {{ .Site.Params.account_swift }}</li>
+            <li><i class="ion-cash"></i>{{i18n "account_eur"}}: {{ .Site.Params.account_eur }}</li>
+            <li><i class="ion-cash"></i>{{i18n "account_pln"}}: {{ .Site.Params.account_pln }}</li>
+          </ul>
+        </div>
+      
+      </div>
+
+    </div>
+
+  </section>
+
+</div>
 {{ end }}
