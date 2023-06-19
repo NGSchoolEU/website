@@ -59,7 +59,7 @@ description: "Advances in Computational Biology"
         </td>
     </tr>
     <tr>
-        <td class="date-td" style="text-align: center;">21.06</td>
+        <td class="date-td" style="text-align: center;"><s>21.06</s><span style="color: red;"><b> 5.07</b></span></td>
         <td>Registration deadline</td>
         <td>
         <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGhlYTk5azY4c2VucjAxam92ZjJ2OWYycjAgdXNteWN6eW5za2FAbmdzY2hvb2wuZXU&tmsrc=usmyczynska%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
@@ -97,7 +97,8 @@ description: "Advances in Computational Biology"
     var timezoneOffsetFromUTC = (new Date()).getTimezoneOffset()*60*1000;
 
     var countDownDateRegistrationStart = new Date("May 24 2023 00:00:01").getTime();
-    var countDownDateRegistrationEnd = new Date("Jun 21 2023 23:59:59").getTime();
+    // var countDownDateRegistrationEnd = new Date("Jun 21 2023 23:59:59").getTime();
+    var countDownDateRegistrationEnd = new Date("Jul 5 2023 23:59:59").getTime();
     var countDownDateSchoolStart = new Date("Sep 16 2023 00:00:00").getTime();
     var countDownDateSchoolEnd = new Date("Sep 24 2023 23:59:59").getTime();
     
@@ -160,10 +161,10 @@ description: "Advances in Computational Biology"
     <h2 id='registration'>Registration</h2> 
     <h3>Registration form</h3> 
     <p>
-        The deadline to submit your application is 21.06.2022 at 23:59 UTC. Selection results will be announced at the beginning of August. If you have any question or problems get in touch via email: <a href="mailto: info@ngschool.eu">info@ngschool.eu</a>.
+        The deadline to submit your application is <s>21.06.2023</s> <b>5.07.2023 at 23:59 UTC</b>. Selection results will be announced at the beginning of August. If you have any question or problems get in touch via email: <a href="mailto: info@ngschool.eu">info@ngschool.eu</a>.
     </p>
     <p>
-        <a href="https://ngsheet.ngschool.eu/" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Registration form (open until 21.06) <i class="fas fa-play"></i></a>
+        <a href="https://ngsheet.ngschool.eu/" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Registration form (open until <s>21.06</s> <b>5.07</b>) <i class="fas fa-play"></i></a>
     </p>
     <h3>Registration fee</h3> 
     <p>
