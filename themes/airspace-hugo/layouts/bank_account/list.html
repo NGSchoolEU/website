@@ -9,6 +9,14 @@
         <div class="row">
             <div class="col-md-12">
                 <p style="font-size: 2em; line-height: 2.1em;">
+                    <b>Account in BNP Paribas</b><br>
+                    {{i18n "account_name"}}: {{ .Site.Params.account_name_1 }}<br>
+                    {{i18n "account_swift"}}: {{ .Site.Params.account_swift_1 }}<br>
+                    <i class="ion-cash" style="margin: 0 15px;"></i>{{i18n "account_eur"}}: {{ .Site.Params.account_eur_1 }}<br>
+                    <i class="ion-cash" style="margin: 0 15px;"></i>{{i18n "account_pln"}}: {{ .Site.Params.account_pln_1 }}
+                </p>
+                <p style="font-size: 2em; line-height: 2.1em;">
+                    <b>Account in Wise</b><br>
                     {{i18n "account_name"}}: {{ .Site.Params.account_name }}<br>
                     {{i18n "account_swift"}}: {{ .Site.Params.account_swift }}<br>
                     <i class="ion-cash" style="margin: 0 15px;"></i>{{i18n "account_eur"}}: {{ .Site.Params.account_eur }}<br>
