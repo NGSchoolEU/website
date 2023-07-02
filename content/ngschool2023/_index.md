@@ -210,7 +210,7 @@ description: "Advances in Computational Biology"
             <h4>Helmholtz Center Munich & Technical University of Munich, Germany</h4>
         </div>
         <div class="col-md-2">
-            <img class="img-responsive w-100" src="/images/people/profile-picture.jpg" alt="">
+            <img class="img-responsive w-100" src="/images/people/jan-krumsiek.png" alt="">
         </div>
         <div class="col-md-4">
             <h3><a href="/people/jan-krumsiek/" target="_blank">Jan Krumsiek</a></h3>
@@ -225,6 +225,23 @@ description: "Advances in Computational Biology"
         <div class="col-md-4">
             <h3><a href="/people/gustav-lindwall/" target="_blank">Gustav Lindwall</a></h3>
             <h4>Chalmers University of Technology, Sweden</h4>
+        </div>
+        <div class="col-md-2">
+            <img class="img-responsive w-100" src="/images/people/jakub-mieczkowski.jpg" alt="">
+        </div>
+        <div class="col-md-4">
+            <h3><a href="/people/jakub-mieczkowski/" target="_blank">Jakub Mieczkowski</a></h3>
+            <h4>Medical University of Gdansk, Poland</h4>
+        </div>
+    </div>
+    <br>
+    <div class="row">
+        <div class="col-md-2">
+            <img class="img-responsive w-100" src="/images/people/kerstin-hasse.png" alt="">
+        </div>
+        <div class="col-md-4">
+            <h3><a href="/people/kerstin-hasse/" target="_blank">Kerstin Haase</a></h3>
+            <h4>Charité Universitätsmedizin, Germany & German Cancer Research Center (DKFZ), Germany</h4>
         </div>
         <div class="col-md-2">
             <img class="img-responsive w-100" src="/images/people/diana-sharysh.jpg" alt="">
@@ -252,6 +269,23 @@ description: "Advances in Computational Biology"
         </div>
     </div>
     <br>
+    <!-- <div class="row">
+        <div class="col-md-2">
+            <img class="img-responsive w-100" src="/images/people/d" alt="">
+        </div>
+        <div class="col-md-4">
+            <h3><a href="/people//" target="_blank">h</a></h3>
+            <h4></h4>
+        </div>
+        <div class="col-md-2">
+            <img class="img-responsive w-100" src="/images/people/d" alt="">
+        </div>
+        <div class="col-md-4">
+            <h3><a href="/people//" target="_blank">h</a></h3>
+            <h4></h4>
+        </div>
+    </div>
+    <br> -->
     <p class="mt-20">And more to be announced soon!</p>
 </div>
 
