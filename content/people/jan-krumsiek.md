@@ -3,7 +3,7 @@ bg_image: images/bg.jpg
 category: Speakers
 description: 
 draft: false
-image: images/people/profile-picture.jpg
+image: images/people/jan-krumsiek.png
 information:
 - info: "NGSchool2023"
   label: Events
