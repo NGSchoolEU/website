@@ -59,7 +59,7 @@
 <section class="feature bg-2" style="background-image: url('{{ .bg_image | absURL}}')">
   <div class="container">
     <div class="row">
-      <div class="col-md-6 col-md-offset-6">
+      <div class="col-md-6 offset-md-6">
         <h2 class="section-subtitle">{{ .title | markdownify }}</h2>
         {{ .content | markdownify }}
         {{ if .button.enable }}
@@ -115,14 +115,13 @@
         <div class="testimonial-carousel text-center">
           <div class="testimonial-slider owl-carousel">
             {{ range .testimonial_slider }}
-            <div>
-
-			<p><span>{{ .content | markdownify }}</span></p>
-              <div class="user">
-                <p><a href="{{ .link | relURL }}"><img src="{{ .image | relURL }}" alt="client"></a></p>  
-                <p><span>{{ .name | markdownify }}</span> {{ .designation | markdownify }}</p>
+              <div>
+                <p><span>{{ .content | markdownify }}</span></p>
+                <div class="user">
+                  <p><a href="{{ .link | relURL }}"><img src="{{ .image | relURL }}" alt="client"></a></p>
+                  <p><span>{{ .name | markdownify }}</span> {{ .designation | markdownify }}</p>
+                </div>
               </div>
-            </div>
             {{ end }}
           </div>
 		</div>

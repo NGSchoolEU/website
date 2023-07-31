@@ -26,21 +26,22 @@ Jump to:
 * <a href='#organisers'>Organisers</a>   
 
 
-<div>
-<h2 id='speakers'>Speakers</h2>  
-  <div class="row">
-    <div class="col-md-2">
-      <img class="img-responsive w-100" src="/images/people/mireya-plass.png" alt="">
+<div class="mb-3">
+<h2 id='speakers'>Speakers</h2>
+
+<div class="row">
+        <div class="col-md-2">
+            <img class="img-responsive w-100" src="/images/people/mireya-plass.png" alt="">
+        </div>
+        <div class="col-md-4">
+            <h3><a href="/people/mireya-plass/" target="_blank">Mireya Plass</a></h3>
+            <h4>Bellvitge Biomedical Research Institute, Barcelona, Spain</h4>
+            <h5><i>SCALPEL, a new tool for isoform quantification at the single-cell level</i></h5>
+        </div>
     </div>
-    <div class="col-md-4">
-      <h3><a href="/people/mireya-plass/" target="_blank">Mireya Plass</a></h3>
-      <h4>Bellvitge Biomedical Research Institute, Barcelona, Spain</h4>
-      <h5><i>SCALPEL, a new tool for isoform quantification at the single-cell level</i></h5>
-    </div>
-  </div>
   <br>
   
-  <div class="row">
+<div class="row">
     <div class="col-md-2">
       <img class="img-responsive w-100" src="/images/people/maire-ni-leathlobhair.jpg" alt="">
     </div>
@@ -115,7 +116,6 @@ NGSymposium was held in person, in Warsaw. However, to increase the reach of the
   <iframe width=60% height=550 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9WhH9Nf2zuqIfDPSb7jubseT0sOfoXZlCYKl-e8M7mED1Y_aigzudyX_dcKzQZKAEALq7HjOxooUY/pubhtml?gid=421558725&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 </div>
 <br>
-</div>
 
 <div>
 <h2 id='abstracts'>E-Book of abstracts</h2>  

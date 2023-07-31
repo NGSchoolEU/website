@@ -1,4 +1,4 @@
-$(document).ready(function () {
+$(function () {
 	'use strict';
 
 	// Preloader js    
@@ -6,20 +6,22 @@ $(document).ready(function () {
 		$('.preloader').fadeOut(100);
 	});
 
-	window.cookieconsent.initialise({
-		"palette": {
-			"popup": {
-				"background": "#000"
+	if (window.cookieconsent) {
+		window.cookieconsent.initialise({
+			"palette": {
+				"popup": {
+					"background": "#000"
+				},
+				"button": {
+					"background": "#f1d600"
+				}
 			},
-			"button": {
-			  	"background": "#f1d600"
+			"position": "bottom-right",
+			"content": {
+				"href": "https://ngschool.eu/gdpr_policy/"
 			}
-		},
-		  	"position": "bottom-right",
-		"content": {
-			"href": "https://ngschool.eu/gdpr_policy/"
-		}
-	});
+		});
+	}
 
 	$('.contact-form form').on('submit', function(event) {
 		event.preventDefault();
@@ -85,20 +87,20 @@ $(document).ready(function () {
 		});
 	}
 
-	$('.portfolio-single-slider').slick({
-		infinite: true,
-		arrows: false,
-		autoplay: true,
-		autoplaySpeed: 2000
+	// $('.portfolio-single-slider').slick({
+	// 	infinite: true,
+	// 	arrows: false,
+	// 	autoplay: true,
+	// 	autoplaySpeed: 2000
 
-	});
+	// });
 
-	$('.clients-logo').slick({
-		infinite: true,
-		arrows: false,
-		autoplay: true,
-		autoplaySpeed: 2000
-	});
+	// $('.clients-logo').slick({
+	// 	infinite: true,
+	// 	arrows: false,
+	// 	autoplay: true,
+	// 	autoplaySpeed: 2000
+	// });
 
 	$('.testimonial-slider').slick({
 		slidesToShow: 4,
