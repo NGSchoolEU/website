@@ -9,99 +9,99 @@
 		<div class="row">
 			<div class="project-details">
 				<div class="col-md-12">
-					<ul>
-						{{ range .Params.Information }}
-						<li><span>{{ .label }} :</span> <strong>{{ .info | markdownify }}</strong></li>
-						{{ end }}
-					</ul>
-				</div>			
-			</div>			
+					<table class="table table-bordered text-center">
+						<tr>
+							{{ range .Params.Information }}
+								<td>{{ .label }}</td>
+							{{ end }}
+						</tr>
+						<tr>
+							{{ range .Params.Information }}
+								<td><b>{{ .info | markdownify }}</b></td>
+							{{ end }}
+						</tr>
+					</table>
+				</div>
+			</div>
 		</div>
 
-		<div class="row" style="margin-top: 20px; margin-bottom: 10px;">
-			<div class="col-md-10">
-			  <!-- <img class="img-responsive w-100" src="../images/logos/ngschool-logo-2022.svg"> -->
+		<div class="row my-3">
+			<div class="col-12 text-center">
+				<img class="img-responsive" width="500" src="../images/logos/ngschool2023.webp">
 			</div>
-		  </div>
+		</div>
 
-		<div class="row">
+		<div class="row mb-3">
 			<div class="col-md-12">
-				<div class="project-content mt-50">
+				<div class="project-content mt-3">
 					{{ .Content }}
 				</div>
 			</div>
 		</div>
   
-		<br>
-		<br>
-	
 		<div class="row">
-			<div class="col-md-12 sponsor-list">
+			<div class="col-md-12">
 				<h2 id="sponsors">Sponsors and partners</h2>
 			</div>
 		</div>
-		
+
+		<div class="sponsor-list d-flex flex-wrap">
+			<div class="col-6 col-md-3 sponsor-item">
+				<a href="https://www.visegradfund.org/" target="blank">
+					<img src="/images/sponsors/visegrad_fund.jpg">
+				</a>
+			</div>
+
+			<div class="col-6 col-md-3 sponsor-item">
+				<a href="https://www.biologists.com/">
+					<img src="/images/sponsors/tCoB.jpg">
+				</a>
+			</div>
+
+			<div class="col-6 col-md-3 sponsor-item">
+				<a href="https://www.iimcb.gov.pl/en/" target="blank">
+					<img src="/images/sponsors/iimcb.png">
+				</a>
+			</div>
+
+			<div class="col-6 col-md-3 sponsor-item">
+				<a href="https://fmph.uniba.sk/en/" target="blank">
+					<img src="/images/sponsors/cub_fmpi.jpg">
+				</a>
+			</div>
+
+			<div class="col-6 col-md-3 sponsor-item">
+				<a href="https://www.ibt.cas.cz/en/" target="blank">
+					<img src="/images/sponsors/logo_ibt.svg">
+				</a>
+			</div>
+
+			<div class="col-6 col-md-3 sponsor-item">
+				<a href="https://semmelweis.hu/english/" target="blank">
+					<img src="/images/sponsors/Logo_univsemmelweis.svg">
+				</a>
+			</div>
+
+			<div class="col-6 col-md-3 sponsor-item">
+				<a href="http://web.med.u-szeged.hu/mdbio/eng/index.html" target="blank">
+					<img src="/images/sponsors/logo_kor_angol_120.png">
+				</a>
+			</div>
+
+			<div class="col-6 col-md-3 sponsor-item">
+				<a href="https://biologia.elte.hu/en/" target="blank">
+					<img src="/images/sponsors/elte_angol_fekvo_kek_logo.jpg">
+				</a>
+			</div>
+
+			<div class="col-6 col-md-3 sponsor-item">
+				<a href="https://mbucas.cz/en/" target="blank">
+					<img src="/images/sponsors/mbu-logo-male.png">
+				</a>
+			</div>
+		</div>
 		
 		<div class="col-md-12 sponsor-list">
-			
-			<div class="row">
-				
-				<div class="col-md-3 col-sm-6 sponsor-item">
-					<a href="https://www.visegradfund.org/" target="blank">
-						<img src="/images/sponsors/visegrad_fund.jpg">
-					</a>
-				</div>
-
-				<div class="col-md-3 col-sm-6 sponsor-item">
-					<a href="https://www.iimcb.gov.pl/en/" target="blank">
-						<img src="/images/sponsors/iimcb.png">
-					</a>
-				</div>
-
-				<div class="col-md-3 col-sm-6 sponsor-item">
-					<a href="https://fmph.uniba.sk/en/" target="blank">
-						<img src="/images/sponsors/cub_fmpi.jpg">
-					</a>
-				</div>
-
-				<div class="col-md-3 col-sm-6 sponsor-item">
-					<a href="https://www.ibt.cas.cz/en/" target="blank">
-						<img src="/images/sponsors/logo_ibt.svg">
-					</a>
-				</div>
-
-			</div>
-			
-
-			<div class="row">
-
-				<div class="col-md-3 col-sm-6 sponsor-item">
-					<a href="https://semmelweis.hu/english/" target="blank">
-						<img src="/images/sponsors/Logo_univsemmelweis.svg">
-					</a>
-				</div>
-
-				<div class="col-md-3 col-sm-6 sponsor-item">
-					<a href="http://web.med.u-szeged.hu/mdbio/eng/index.html" target="blank">
-						<img src="/images/sponsors/logo_kor_angol_120.png">
-					</a>
-				</div>
-
-				<div class="col-md-3 col-sm-6 sponsor-item">
-					<a href="https://biologia.elte.hu/en/" target="blank">
-						<img src="/images/sponsors/elte_angol_fekvo_kek_logo.jpg">
-					</a>
-				</div>
-
-				<div class="col-md-3 col-sm-6 sponsor-item">
-					<a href="https://mbucas.cz/en/" target="blank">
-						<img src="/images/sponsors/mbu-logo-male.png">
-					</a>
-				</div>
-
-			</div>
-			
-
 			<!-- Logos from previous years, potentially useful later. If so, just delete "display: none" -->
 			<div class="row" style="display: none;">
 
@@ -116,16 +116,7 @@
 						<img src="/images/sponsors/IMBG.gif">
 					</a>
 				</div>
-
-				<div class="col-md-3 col-sm-6 sponsor-item">
-					<a href="https://www.biologists.com/">
-						<img src="/images/sponsors/tCoB.jpg">
-					</a>
-				</div>
-
 			</div>
-
-				
 		</div>
 
 	</div>

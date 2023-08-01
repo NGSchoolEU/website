@@ -5,14 +5,12 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
 <div class="container">
+  <section class="contact-box contact-form">
+    <h2>Contact form</h2>
 
-  <section class="contact-form">
-    
-    <div class="contact-box row">
-
-      <form method="POST" action="{{ .Site.Params.contact_form_action | safeURL }}">
-        
-        <div class="col-md-6 col-sm-12">
+    <form method="POST" action="{{ .Site.Params.contact_form_action | safeURL }}">
+      <div class="row">    
+        <div class="col-md-6">
           <div class="block">
             <div class="form-group">
               <input name="user_name" type="text" class="form-control" placeholder="Your Name">
@@ -26,7 +24,7 @@
           </div>
         </div>
         
-        <div class="col-md-6 col-sm-12">
+        <div class="col-md-6">
           <div class="block">
             <div class="form-group-2">
               <textarea name="user_message" class="form-control" rows="4" placeholder="Your Message"></textarea>
@@ -41,22 +39,18 @@
             </div>
           </div>
         </div>
-
-      </form>
-
-    </div>
-  
+      </div>
+    </form>
   </section>
   
   <hr>
 
-  <section>
+  <!-- Block with address -->
+  <section class="contact-box">
+    <h2>{{ i18n "address_title" }}</h2>
 
-    <div class="row contact-box">
-
-      <!-- Block with address -->  
-      <div class="col-md-6 col-sm-12">
-        <h2>{{ i18n "address_title" }}</h2>
+    <div class="row">  
+      <div class="col">
         <ul class="address-block">
           <li><i class="ion-ios-location-outline"></i>{{i18n "location"}}: {{ .Site.Params.location }}</li>
           <li><i class="ion-ios-email-outline"></i>{{i18n "email"}}: {{ .Site.Params.email }}</li>
@@ -67,59 +61,56 @@
           {{ end }}
         </ul>
       </div>
-
     </div>
-
   </section>
 
   <hr>
 
-  <section>
+  <!-- Block with legal info --> 
+  <section class="contact-box">
+    <h2>{{ i18n "legal_title" }}</h2>
 
-    <!-- Block with legal info --> 
-    <div class="row contact-box">
-      
-      <div class="col-md-4 col-sm-12">
-        <h2>{{ i18n "legal_title" }}</h2>
-        <div class="col-md-12" style="padding: 0;">
-          <ul class="address-block"> 
-            <li><h4>{{i18n "president"}}: {{ .Site.Params.president }}</h4></li>
-            <li><h4>{{i18n "vice"}}: {{ .Site.Params.vice }}</h4></li>
-            <li><i class="ion-information"></i>{{i18n "nip"}}: {{ .Site.Params.nip }}</li>
-            <li><i class="ion-information"></i>{{i18n "krs"}}: {{ .Site.Params.krs }}</li>
-            <li><i class="ion-information"></i>{{i18n "regon"}}: {{ .Site.Params.regon }}</li>
-          </ul>
+    <div class="row">
+      <div class="col-lg-4">
+        <ul class="address-block">
+          <li><h4>{{i18n "president"}}: {{ .Site.Params.president }}</h4></li>
+          <li><h4>{{i18n "vice"}}: {{ .Site.Params.vice }}</h4></li>
+          <li><i class="ion-information"></i>{{i18n "nip"}}: {{ .Site.Params.nip }}</li>
+          <li><i class="ion-information"></i>{{i18n "krs"}}: {{ .Site.Params.krs }}</li>
+          <li><i class="ion-information"></i>{{i18n "regon"}}: {{ .Site.Params.regon }}</li>
+        </ul>
       </div>
-      </div>
-
-      <div class="col-md-8 col-sm-12">
-        <h2>{{ i18n "account_title" }}</h2>
-        
-        <div class="col-md-6 col-sm-12" style="padding: 0; padding-right: 40px;">
-          <ul class="address-block"> 
-            <li><h4>{{ .Site.Params.account_bank_1 }}</h4></li>
-            <li>{{i18n "account_name"}}: {{ .Site.Params.account_name_1 }}</li>
-            <li>{{i18n "account_swift"}}: {{ .Site.Params.account_swift_1 }}</li>
-            <li><i class="ion-cash"></i>{{i18n "account_eur"}}: {{ .Site.Params.account_eur_1 }}</li>
-            <li><i class="ion-cash"></i>{{i18n "account_pln"}}: {{ .Site.Params.account_pln_1 }}</li>
-          </ul>
-        </div>
-
-        <div class="col-md-6 col-sm-12" style="padding: 0; padding-right: 40px;">
-          <ul class="address-block"> 
-            <li><h4>{{ .Site.Params.account_bank }}</h4></li>
-            <li>{{i18n "account_name"}}: {{ .Site.Params.account_name }}</li>
-            <li>{{i18n "account_swift"}}: {{ .Site.Params.account_swift }}</li>
-            <li><i class="ion-cash"></i>{{i18n "account_eur"}}: {{ .Site.Params.account_eur }}</li>
-            <li><i class="ion-cash"></i>{{i18n "account_pln"}}: {{ .Site.Params.account_pln }}</li>
-          </ul>
-        </div>
-      
-      </div>
-
     </div>
-
   </section>
 
+  <hr>
+
+  <!-- Block with account info --> 
+  <section class="contact-box">
+    <h2>{{ i18n "account_title" }}</h2>
+
+    <div class="row">
+      <div class="col-md-6">
+        <ul class="address-block">
+          <li><h3>{{ .Site.Params.account_bank_1 }}</h3></li>
+          <li>{{i18n "account_name"}}: {{ .Site.Params.account_name_1 }}</li>
+          <li>{{i18n "account_swift"}}: {{ .Site.Params.account_swift_1 }}</li>
+          <li><i class="ion-cash"></i>{{i18n "account_eur"}}: {{ .Site.Params.account_eur_1 }}</li>
+          <li><i class="ion-cash"></i>{{i18n "account_pln"}}: {{ .Site.Params.account_pln_1 }}</li>
+        </ul>
+      </div>
+
+      <div class="col-md-6">
+        <ul class="address-block">
+          <li><h3>{{ .Site.Params.account_bank }}</h3></li>
+          <li>{{i18n "account_name"}}: {{ .Site.Params.account_name }}</li>
+          <li>{{i18n "account_swift"}}: {{ .Site.Params.account_swift }}</li>
+          <li><i class="ion-cash"></i>{{i18n "account_eur"}}: {{ .Site.Params.account_eur }}</li>
+          <li><i class="ion-cash"></i>{{i18n "account_pln"}}: {{ .Site.Params.account_pln }}</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+  
 </div>
 {{ end }}

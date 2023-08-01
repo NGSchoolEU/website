@@ -14,11 +14,11 @@ title: "NGSchool2023"
 description: "Advances in Computational Biology"
 ---
 
-<div>
+<div class="mb-3">
   <b>NGSchool2023: Advances in Computational Biology</b>  will be held in-person, from the <b>16<sup>th</sup> to 24<sup>th</sup> of September 2023</b>.
 </div>
 
-<div class="mt-20">
+<div class="mb-3">
     The topics covered during the Summer School will include:
     <ul>
         <li>Single-cell data analysis</li>
@@ -30,7 +30,7 @@ description: "Advances in Computational Biology"
     </ul>
 </div>
 
-<div class="mt-20">
+<div class="mb-3">
     Jump to:
     <ul> 
         <li><a href='#dates'>Important dates</a> </li>
@@ -43,7 +43,7 @@ description: "Advances in Computational Biology"
     </ul>
 </div>
 
-<div>
+<div class="mb-3">
     <h2 id='dates'>Important dates</h2>  
     <table class="table table-bordered table-striped">
     <tr>
@@ -55,35 +55,35 @@ description: "Advances in Computational Biology"
         <td class="date-td" style="text-align: center;">24.05</td>
         <td>Registration opens</td>
         <td>
-        <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MXRxbGpldHRkdmFvam5tb29ucDBndnQwbDggdXNteWN6eW5za2FAbmdzY2hvb2wuZXU&tmsrc=usmyczynska%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+        <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MXRxbGpldHRkdmFvam5tb29ucDBndnQwbDggdXNteWN6eW5za2FAbmdzY2hvb2wuZXU&tmsrc=usmyczynska%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus ms-2"></i></a>
         </td>
     </tr>
     <tr>
         <td class="date-td" style="text-align: center;"><s>21.06</s><span style="color: red;"><b> 5.07</b></span></td>
         <td>Registration deadline</td>
         <td>
-        <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGhlYTk5azY4c2VucjAxam92ZjJ2OWYycjAgdXNteWN6eW5za2FAbmdzY2hvb2wuZXU&tmsrc=usmyczynska%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+        <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGhlYTk5azY4c2VucjAxam92ZjJ2OWYycjAgdXNteWN6eW5za2FAbmdzY2hvb2wuZXU&tmsrc=usmyczynska%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus ms-2"></i></a>
         </td>
     </tr>
     <tr>
         <td class="date-td" style="text-align: center;">5.08</td>
         <td>Selection results announcement</td>
         <td>
-        <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MmgybzZwMWl1bTlzNWpiOWFoamEwb2ViNXAgdXNteWN6eW5za2FAbmdzY2hvb2wuZXU&tmsrc=usmyczynska%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+        <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MmgybzZwMWl1bTlzNWpiOWFoamEwb2ViNXAgdXNteWN6eW5za2FAbmdzY2hvb2wuZXU&tmsrc=usmyczynska%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus ms-2"></i></a>
         </td>
     </tr>
     <tr>
         <td class="date-td" style="text-align: center;">19.08</td>
         <td>Fee payment deadline</td>
         <td>
-        <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NjVxbTVuZm05cGUwMmE0a3Q1dWprMjd2ZWUgdXNteWN6eW5za2FAbmdzY2hvb2wuZXU&tmsrc=usmyczynska%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+        <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NjVxbTVuZm05cGUwMmE0a3Q1dWprMjd2ZWUgdXNteWN6eW5za2FAbmdzY2hvb2wuZXU&tmsrc=usmyczynska%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus ms-2"></i></a>
         </td>
     </tr>
     <tr>
         <td class="date-td" style="text-align: center;">16-24.09</td>
         <td>NGSchool</td>
         <td>
-        <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NDY1amw1ZGY4aTVoZG5yNWpwODFwMm45YnYgdXNteWN6eW5za2FAbmdzY2hvb2wuZXU&tmsrc=usmyczynska%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus"></i></a>
+        <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NDY1amw1ZGY4aTVoZG5yNWpwODFwMm45YnYgdXNteWN6eW5za2FAbmdzY2hvb2wuZXU&tmsrc=usmyczynska%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus ms-2"></i></a>
         </td>
     </tr>
     </table>
@@ -91,7 +91,8 @@ description: "Advances in Computational Biology"
 
 <!-- Countdown -->
 <div class="alert alert-info">
-<h2 id="countdown" class="text-center"></h2>
+    <h2 id="countdown" class="text-center mb-0"></h2>
+</div>
 
 <script>
     var timezoneOffsetFromUTC = (new Date()).getTimezoneOffset()*60*1000;
@@ -155,17 +156,17 @@ description: "Advances in Computational Biology"
     }, 1000);
 </script>
 
-</div>
-
-<div>
-    <h2 id='registration'>Registration</h2> 
+<div class="mb-3">
+    <h2 id="registration">Registration</h2> 
     <h3>Registration form</h3> 
     <p>
         The deadline to submit your application is <s>21.06.2023</s> <b>5.07.2023 at 23:59 UTC</b>. Selection results will be announced at the beginning of August. If you have any question or problems get in touch via email: <a href="mailto: info@ngschool.eu">info@ngschool.eu</a>.
     </p>
-    <p>
-        <a href="https://ngsheet.ngschool.eu/" target="_blank" class="btn btn-success btn-lg btn-block" style="width: 40%; margin: 0 auto;">Registration form (open until <s>21.06</s> <b>5.07</b>) <i class="fas fa-play"></i></a>
-    </p>
+    <a href="https://ngsheet.ngschool.eu/" target="_blank" class="btn btn-success btn-lg btn-block disabled d-flex justify-content-between align-items-center" style="width: 40%; margin: 0 auto;">
+        Registration form (closed)
+        <i class="fa-solid fa-play ms-2"></i>
+    </a>
+
     <h3>Registration fee</h3> 
     <p>
         The registration fee for the selected participants will be <b>100 EUR/460 PLN for academia</b> and <b>300 EUR/1380 PLN for industry</b>. This fully covers the costs of accommodation and board during the school. <br>
@@ -179,7 +180,7 @@ description: "Advances in Computational Biology"
             If you wish to be considered for travel grant, fee discount/waiver or both, make sure to fill the Bursary section of the application form, explaining your situation. We will try our best to help you.
         </span>
     </p>
-    <div class="alert alert-info text-justify">
+    <div class="alert alert-info">
         <h4 class="text-center">Registration fee waiver for Ukrainian participants</h4> 
         <p>
             NGSchool's mission is to promote and support science. We want to help by doing what we do best: supporting  scientists. With this in mind, we are offering a fee waiver for accepted applicants from Ukraine or Ukrainians who were displaced as an effect of Russian aggression. Additionally, as in previous years, we will support participants with travel grants. Please mention your situation in the Bursary section of the registration form.
@@ -187,9 +188,9 @@ description: "Advances in Computational Biology"
     </div>
 </div>
 
-<div class="alert alert-warning text-justify">
-<h4 class="text-center">For participants applying from Russian institutions</h4>
-    NGSchool condemns the aggression against Ukraine in the strongest possible terms and stands in solidarity with our colleagues in Ukraine. Since Russian Universities publicly supported the war we are unable to accept participants affiliated with those institutions. However, we note that many Russian academics, at great personal peril, have publicly criticized this invasion. We would like to support all those harmed by Putin's regime and therefore extend our invitation to Russian academics and students provided they will come as individuals, without affiliation. We will not be able to accept payments for registration fees from Russian universities and companies and will not be able to provide receipts to those organizations.
+<div class="alert alert-warning">
+    <h4 class="text-center">For participants applying from Russian institutions</h4>
+    <p>NGSchool condemns the aggression against Ukraine in the strongest possible terms and stands in solidarity with our colleagues in Ukraine. Since Russian Universities publicly supported the war we are unable to accept participants affiliated with those institutions. However, we note that many Russian academics, at great personal peril, have publicly criticized this invasion. We would like to support all those harmed by Putin's regime and therefore extend our invitation to Russian academics and students provided they will come as individuals, without affiliation. We will not be able to accept payments for registration fees from Russian universities and companies and will not be able to provide receipts to those organizations.</p>
 </div>
 
 <div>

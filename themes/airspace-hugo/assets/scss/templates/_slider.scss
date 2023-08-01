@@ -4,7 +4,9 @@
   background-position: 70% 35%;
   padding: 100px 0 100px 0;
   position: relative;
-  @extend .overly;
+  background-color: #2b3e4b;
+  background-blend-mode: overlay;
+
 
   .block {
     color: #E3E3E4;
@@ -17,14 +19,15 @@
       letter-spacing: 10px;
       padding-bottom: 15px;
       text-transform: uppercase;
+      text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
     }
 
     p {
       margin-bottom: 30px;
-      color: #b9b9b9;
-      font-size: 18px;
+      color: #fff;
+      font-size: 22px;
       line-height: 27px;
-      font-weight: 300;
+      text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
     }
   }
 }
