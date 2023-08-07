@@ -3,7 +3,7 @@ bg_image: images/bg.jpg
 category: Organizers
 description: 
 draft: false
-image: images/people/szymon-grabia.jpg
+image: images/people/szymon-grabia.webp
 information:
 - info: "NGSchool2019, NGSeminars2020, NGSymposium2020, NGSeminars2021, NGSprint2021, NGSchool2022, NGSymposium2022, NGSchool2023"
   label: Events
