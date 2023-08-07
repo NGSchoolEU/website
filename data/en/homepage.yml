@@ -101,7 +101,7 @@ funfacts:
       
     # testimonial item loop
     - name : "Szymon Grabia"
-      image : "images/people/szymon-grabia.jpg"
+      image : "images/people/szymon-grabia.webp"
       link: "people/szymon-grabia"
       designation : "Medical University of Lodz, Poland"
       content : "IT, Participants"
