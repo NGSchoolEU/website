@@ -66,7 +66,7 @@ description: "Advances in Computational Biology"
         </td>
     </tr>
     <tr>
-        <td class="date-td" style="text-align: center;">5.08</td>
+        <td class="date-td" style="text-align: center;">09.08</td>
         <td>Selection results announcement</td>
         <td>
         <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MmgybzZwMWl1bTlzNWpiOWFoamEwb2ViNXAgdXNteWN6eW5za2FAbmdzY2hvb2wuZXU&tmsrc=usmyczynska%40ngschool.eu" target="_blank" class="btn btn-primary">Add to Google Calendar <i class="far fa-calendar-plus ms-2"></i></a>
@@ -200,121 +200,110 @@ description: "Advances in Computational Biology"
     </p>
 </div>
 
-<div class="mt-30">
-    <h2 id='speakers'>Speakers and tutors</h2>
+<hr>
+
+<div class="mt-3">
+    <h2 id="speakers">Speakers and tutors</h2>
     <div class="row">
-        <div class="col-md-2">
-            <img class="img-responsive w-100" src="/images/people/profile-picture.jpg" alt="">
+        <div class="col-md-2 mb-2">
+            <img class="img-responsive w-100" src="/images/people/fabiola-curion.webp" alt="">
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 mb-3">
             <h3><a href="/people/fabiola-curion/" target="_blank">Fabiola Curion</a></h3>
             <h4>Helmholtz Center Munich & Technical University of Munich, Germany</h4>
         </div>
-        <div class="col-md-2">
+        <div class="col-md-2 mb-2">
             <img class="img-responsive w-100" src="/images/people/jan-krumsiek.png" alt="">
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 mb-3">
             <h3><a href="/people/jan-krumsiek/" target="_blank">Jan Krumsiek</a></h3>
             <h4>Weill Cornell Medicine, USA</h4>
         </div>
     </div>
-    <br>
     <div class="row">
-        <div class="col-md-2">
+        <div class="col-md-2 mb-2">
             <img class="img-responsive w-100" src="/images/people/gustav-lindwall.jpg" alt="">
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 mb-3">
             <h3><a href="/people/gustav-lindwall/" target="_blank">Gustav Lindwall</a></h3>
             <h4>Chalmers University of Technology, Sweden</h4>
         </div>
-        <div class="col-md-2">
+        <div class="col-md-2 mb-2">
             <img class="img-responsive w-100" src="/images/people/jakub-mieczkowski.jpg" alt="">
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 mb-3">
             <h3><a href="/people/jakub-mieczkowski/" target="_blank">Jakub Mieczkowski</a></h3>
             <h4>Medical University of Gdansk, Poland</h4>
         </div>
     </div>
-    <br>
     <div class="row">
-        <div class="col-md-2">
+        <div class="col-md-2 mb-2">
             <img class="img-responsive w-100" src="/images/people/kerstin-hasse.png" alt="">
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 mb-3">
             <h3><a href="/people/kerstin-hasse/" target="_blank">Kerstin Haase</a></h3>
             <h4>Charité Universitätsmedizin, Germany & German Cancer Research Center (DKFZ), Germany</h4>
         </div>
-        <div class="col-md-2">
+        <div class="col-md-2 mb-2">
             <img class="img-responsive w-100" src="/images/people/diana-sharysh.jpg" alt="">
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 mb-3">
             <h3><a href="/people/diana-sharysh/" target="_blank">Diana Sharysh</a></h3>
             <h4>Aarhus University, Denmark</h4>
         </div>
     </div>
-    <br>
     <div class="row">
-        <div class="col-md-2">
+        <div class="col-md-2 mb-2">
             <img class="img-responsive w-100" src="/images/people/urszula-smyczynska.jpg" alt="">
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 mb-3">
             <h3><a href="/people/urszula-smyczynska/" target="_blank">Urszula Smyczyńska</a></h3>
             <h4>Medical University of Lodz, Poland</h4>
         </div>
-        <div class="col-md-2">
-            <img class="img-responsive w-100" src="/images/people/szymon-grabia.jpg" alt="">
+        <div class="col-md-2 mb-2">
+            <img class="img-responsive w-100" src="/images/people/szymon-grabia.webp" alt="">
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 mb-3">
             <h3><a href="/people/szymon-grabia/" target="_blank">Szymon Grabia</a></h3>
             <h4>Medical University of Lodz, Poland</h4>
         </div>
     </div>
-    <br>
-    <!-- <div class="row">
-        <div class="col-md-2">
-            <img class="img-responsive w-100" src="/images/people/d" alt="">
-        </div>
-        <div class="col-md-4">
-            <h3><a href="/people//" target="_blank">h</a></h3>
-            <h4></h4>
-        </div>
-        <div class="col-md-2">
-            <img class="img-responsive w-100" src="/images/people/d" alt="">
-        </div>
-        <div class="col-md-4">
-            <h3><a href="/people//" target="_blank">h</a></h3>
-            <h4></h4>
-        </div>
-    </div>
-    <br> -->
-    <p class="mt-20">And more to be announced soon!</p>
+    <p class="text-center mt-3"><b>And more to be announced soon!</b></p>
 </div>
 
-<div class="mt-30" id='program-div'>
+<hr>
+
+<div class="mt-3" id='program-div'>
     <h2 id='program'>Program</h2> 
     <div style="display: flex;">
         <iframe id='program-iframe' width=100% height=800 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZf_9jDJ_4giGYjTizVNMfguXsZdQPm7uOujNRAzj-hCWmLzcAZo0_yY-APh0RmZH9-DtSbbAVYHuJ/pubhtml?gid=1762051258&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
     </div>
-    <p class="mt-20">More details to be announced!</p>
+    <p class="text-center mt-3"><b>More details to be announced soon!</b></p>
 </div>
 
-<div class="mt-30">
-    <h2 id='venue'>Venue</h2>
+<hr>
+
+<div class="mt-3">
+    <h2 id="venue">Venue</h2>
     <p>To be announced</p>
 </div>
 
-<div class="mt-30">
-    <h2 id='organizers'>Organizers</h2>
+<hr>
+
+<div class="mt-3">
+    <h2 id="organizers">Organizers</h2>
     <ul>
-        <li><a href="/people/gabriel-deards" target="_blank">Gabriel Deards</a></li>
-        <li><a href="/people/szymon-grabia" target="_blank">Szymon Grabia, Medical University of Lodz, Poland</a></li>
-        <li><a href="/people/marcin-kaszkowiak" target="_blank">Marcin Kaszkowiak</a></li>
-        <li><a href="/people/zuzanna-nowicka" target="_blank">Zuzanna Nowicka, Medical University of Lodz, Poland</a></li>
-        <li><a href="/people/dalma-muller" target="_blank">Dalma Müller</a></li>
-        <li><a href="/people/vishma-pratap" target="_blank">Vishma Pratap Sur, Czech Academy of Sciences, Czech Republic</a></li>
-        <li><a href="/people/diana-sharysh" target="_blank">Diana Sharysh, Aarhus University, Denmark</a></li>
-        <li><a href="/people/karolina-sienkiewicz" target="_blank">Karolina Sienkiewicz, Weill Cornell Medicine, Cornell University, USA</a></li>
-        <li><a href="/people/urszula-smyczynska" target="_blank">Urszula Smyczyńska, Medical University of Lodz, Poland</a></li>
-        <li><a href="/people/wiktoria-wilman" target="_blank">Wiktoria Wilman, NaturalAntibody S.A., Szczecin, Poland</a></li>
+        <li><a href="/people/gabriel-deards" target="_blank">Gabriel Deards</a>, Weill Cornell Medicine, Cornell University, USA</li>
+        <li><a href="/people/szymon-grabia" target="_blank">Szymon Grabia</a>, Medical University of Lodz, Poland</li>
+        <li><a href="/people/marcin-kaszkowiak" target="_blank">Marcin Kaszkowiak</a>, Institute of Hematology and Blood Transfusion</li>
+        <li><a href="/people/zuzanna-nowicka" target="_blank">Zuzanna Nowicka</a>, Medical University of Lodz, Poland</li>
+        <li><a href="/people/dalma-muller" target="_blank">Dalma Müller</a>, Semmelweis University, Budapest</li>
+        <li><a href="/people/vishma-pratap" target="_blank">Vishma Pratap Sur</a>, Czech Academy of Sciences, Czech Republic</li>
+        <li><a href="/people/diana-sharysh" target="_blank">Diana Sharysh</a>, Aarhus University, Denmark</li>
+        <li><a href="/people/karolina-sienkiewicz" target="_blank">Karolina Sienkiewicz</a>, Weill Cornell Medicine, Cornell University, USA</li>
+        <li><a href="/people/urszula-smyczynska" target="_blank">Urszula Smyczyńska</a>, Medical University of Lodz, Poland</li>
+        <li><a href="/people/wiktoria-wilman" target="_blank">Wiktoria Wilman</a>, NaturalAntibody S.A., Szczecin, Poland</li>
     </ul>
 </div>
+
+<hr>

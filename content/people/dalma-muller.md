@@ -9,8 +9,8 @@ information:
   label: Events
 - info: "organizer, participant"
   label: Role
-# - info: 
-#   label: Affiliation
+- info: Semmelweis University, Budapest
+  label: Affiliation
 # - info: 
 #   label: Contact email
 title: Dalma Müller
