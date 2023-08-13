@@ -96,7 +96,7 @@ Jump to:
       <h4>Medical University of Lodz, Poland</h4>
     </div>
     <div class="col-md-2">
-      <img class="img-responsive w-100" src="/images/people/szymon-grabia.jpg" alt="">
+      <img class="img-responsive w-100" src="/images/people/szymon-grabia.webp" alt="">
     </div>
     <div class="col-md-4">
       <h3><a href="/people/szymon-grabia/" target="_blank">Szymon Grabia</a></h3>
