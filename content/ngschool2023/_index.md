@@ -204,68 +204,94 @@ description: "Advances in Computational Biology"
 
 <div class="mt-3">
     <h2 id="speakers">Speakers and tutors</h2>
-    <div class="row">
-        <div class="col-md-2 mb-2">
-            <img class="img-responsive w-100" src="/images/people/fabiola-curion.webp" alt="">
+    <div class="speaker-list d-flex flex-wrap">
+        <div class="speaker-item col-12 col-lg-6 mb-3">
+            <img src="/images/people/fabiola-curion.webp">
+            <div class="d-flex flex-column">
+                <div class="speaker-item-name">
+                    <a href="/people/fabiola-curion/" target="_blank">Fabiola Curion</a>
+                </div>
+                <div class="speaker-item-affiliation">
+                    Helmholtz Center Munich & Technical University of Munich, Germany
+                </div>
+            </div>
         </div>
-        <div class="col-md-4 mb-3">
-            <h3><a href="/people/fabiola-curion/" target="_blank">Fabiola Curion</a></h3>
-            <h4>Helmholtz Center Munich & Technical University of Munich, Germany</h4>
+        <div class="speaker-item col-12 col-lg-6 mb-3">
+            <img src="/images/people/jan-krumsiek.png">
+            <div class="d-flex flex-column">
+                <div class="speaker-item-name">
+                    <a href="/people/jan-krumsiek/" target="_blank">Jan Krumsiek</a>
+                </div>
+                <div class="speaker-item-affiliation">
+                    Weill Cornell Medicine, USA
+                </div>
+            </div>
         </div>
-        <div class="col-md-2 mb-2">
-            <img class="img-responsive w-100" src="/images/people/jan-krumsiek.png" alt="">
+        <div class="speaker-item col-12 col-lg-6 mb-3">
+            <img src="/images/people/gustav-lindwall.jpg">
+            <div class="d-flex flex-column">
+                <div class="speaker-item-name">
+                    <a href="/people/gustav-lindwall/" target="_blank">Gustav Lindwall</a>
+                </div>
+                <div class="speaker-item-affiliation">
+                    Chalmers University of Technology, Sweden
+                </div>
+            </div>
         </div>
-        <div class="col-md-4 mb-3">
-            <h3><a href="/people/jan-krumsiek/" target="_blank">Jan Krumsiek</a></h3>
-            <h4>Weill Cornell Medicine, USA</h4>
+        <div class="speaker-item col-12 col-lg-6 mb-3">
+            <img src="/images/people/jakub-mieczkowski.jpg">
+            <div class="d-flex flex-column">
+                <div class="speaker-item-name">
+                    <a href="/people/jakub-mieczkowski/" target="_blank">Jakub Mieczkowski</a>
+                </div>
+                <div class="speaker-item-affiliation">
+                    Medical University of Gdansk, Poland
+                </div>
+            </div>
         </div>
-    </div>
-    <div class="row">
-        <div class="col-md-2 mb-2">
-            <img class="img-responsive w-100" src="/images/people/gustav-lindwall.jpg" alt="">
+        <div class="speaker-item col-12 col-lg-6 mb-3">
+            <img src="/images/people/kerstin-hasse.png">
+            <div class="d-flex flex-column">
+                <div class="speaker-item-name">
+                    <a href="/people/kerstin-hasse/" target="_blank">Kerstin Haase</a>
+                </div>
+                <div class="speaker-item-affiliation">
+                    Charité Universitätsmedizin, Germany & German Cancer Research Center (DKFZ), Germany
+                </div>
+            </div>
         </div>
-        <div class="col-md-4 mb-3">
-            <h3><a href="/people/gustav-lindwall/" target="_blank">Gustav Lindwall</a></h3>
-            <h4>Chalmers University of Technology, Sweden</h4>
+        <div class="speaker-item col-12 col-lg-6 mb-3">
+            <img src="/images/people/giada-fiandaca.webp">
+            <div class="d-flex flex-column">
+                <div class="speaker-item-name">
+                    <a href="/people/giada-fiandaca/" target="_blank">Giada Fiandaca</a>
+                </div>
+                <div class="speaker-item-affiliation">
+                    Laboratory of Computational Modeling, University of Trento
+                </div>
+            </div>
         </div>
-        <div class="col-md-2 mb-2">
-            <img class="img-responsive w-100" src="/images/people/jakub-mieczkowski.jpg" alt="">
+        <div class="speaker-item col-12 col-lg-6 mb-3">
+            <img src="/images/people/diana-sharysh.jpg">
+            <div class="d-flex flex-column">
+                <div class="speaker-item-name">
+                    <a href="/people/diana-sharysh/" target="_blank">Diana Sharysh</a>
+                </div>
+                <div class="speaker-item-affiliation">
+                    Aarhus University, Denmark
+                </div>
+            </div>
         </div>
-        <div class="col-md-4 mb-3">
-            <h3><a href="/people/jakub-mieczkowski/" target="_blank">Jakub Mieczkowski</a></h3>
-            <h4>Medical University of Gdansk, Poland</h4>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-2 mb-2">
-            <img class="img-responsive w-100" src="/images/people/kerstin-hasse.png" alt="">
-        </div>
-        <div class="col-md-4 mb-3">
-            <h3><a href="/people/kerstin-hasse/" target="_blank">Kerstin Haase</a></h3>
-            <h4>Charité Universitätsmedizin, Germany & German Cancer Research Center (DKFZ), Germany</h4>
-        </div>
-        <div class="col-md-2 mb-2">
-            <img class="img-responsive w-100" src="/images/people/diana-sharysh.jpg" alt="">
-        </div>
-        <div class="col-md-4 mb-3">
-            <h3><a href="/people/diana-sharysh/" target="_blank">Diana Sharysh</a></h3>
-            <h4>Aarhus University, Denmark</h4>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-2 mb-2">
-            <img class="img-responsive w-100" src="/images/people/urszula-smyczynska.jpg" alt="">
-        </div>
-        <div class="col-md-4 mb-3">
-            <h3><a href="/people/urszula-smyczynska/" target="_blank">Urszula Smyczyńska</a></h3>
-            <h4>Medical University of Lodz, Poland</h4>
-        </div>
-        <div class="col-md-2 mb-2">
-            <img class="img-responsive w-100" src="/images/people/szymon-grabia.webp" alt="">
-        </div>
-        <div class="col-md-4 mb-3">
-            <h3><a href="/people/szymon-grabia/" target="_blank">Szymon Grabia</a></h3>
-            <h4>Medical University of Lodz, Poland</h4>
+        <div class="speaker-item col-12 col-lg-6 mb-3">
+            <img src="/images/people/urszula-smyczynska.jpg">
+            <div class="d-flex flex-column">
+                <div class="speaker-item-name">
+                    <a href="/people/urszula-smyczynska/" target="_blank">Urszula Smyczyńska</a>
+                </div>
+                <div class="speaker-item-affiliation">
+                    Medical University of Lodz, Poland
+                </div>
+            </div>
         </div>
     </div>
     <p class="text-center mt-3"><b>And more to be announced soon!</b></p>
@@ -288,7 +314,6 @@ description: "Advances in Computational Biology"
     <p>
         NGSchool2023 will take place in <a href="https://glassresidence.pl/en/home/" target="_blank">Glass Residence</a> in Otwock, near Warsaw, Poland. You can see the map with all important locations <a href="https://goo.gl/maps/3j1Fto5rFTredzHE9" target="_blank">here</a>.
     </p>
-
     <div class="venue-photo-list d-flex flex-wrap">
         <div class="photo-item col-6 col-md-3">
             <img src="/images/ngschool2023/venue1.png">

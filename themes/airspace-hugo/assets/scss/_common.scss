@@ -695,6 +695,31 @@ input[type="tel"] {
   }
 }
 
+.speaker-list {
+  // gap: 20px;
+
+  .speaker-item {
+    min-width: 50%;
+    text-align: left;
+    flex-grow: 1;
+    display: flex;
+    gap: 0.75rem;
+
+    img {
+      max-height: 200px;
+      max-width: 100%;
+    }
+
+    .speaker-item-name {
+      font-size: 1.5em;
+    }
+
+    .speaker-item-affiliation {
+      font-size: 1.1em;
+    }
+  }
+}
+
 h2 {
   .fa-link {
     font-size: 0.8em;
