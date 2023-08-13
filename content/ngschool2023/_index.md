@@ -162,11 +162,12 @@ description: "Advances in Computational Biology"
     <p>
         The deadline to submit your application is <s>21.06.2023</s> <b>5.07.2023 at 23:59 UTC</b>. Selection results will be announced at the beginning of August. If you have any question or problems get in touch via email: <a href="mailto: info@ngschool.eu">info@ngschool.eu</a>.
     </p>
-    <a href="https://ngsheet.ngschool.eu/" target="_blank" class="btn btn-success btn-lg btn-block disabled d-flex justify-content-between align-items-center" style="width: 40%; margin: 0 auto;">
-        Registration form (closed)
-        <i class="fa-solid fa-play ms-2"></i>
-    </a>
-
+    <div class="d-flex justify-content-center mb-3">
+        <a href="https://ngsheet.ngschool.eu/" target="_blank" class="btn btn-success btn-lg btn-block disabled d-flex justify-content-between align-items-center">
+            Registration form (closed)
+            <i class="fa-solid fa-play ms-3"></i>
+        </a>
+    </div>
     <h3>Registration fee</h3> 
     <p>
         The registration fee for the selected participants will be <b>100 EUR/460 PLN for academia</b> and <b>300 EUR/1380 PLN for industry</b>. This fully covers the costs of accommodation and board during the school. <br>

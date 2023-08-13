@@ -245,7 +245,7 @@ disableLanguages = ["pl"]
 
 #################### default parameters ################################
 [params]
-logo = "/images/logo.png"
+logo = "/images/ngschool-logo.svg"
 home = "Home"
 
 # Meta data
