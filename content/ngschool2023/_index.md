@@ -285,7 +285,30 @@ description: "Advances in Computational Biology"
 
 <div class="mt-3">
     <h2 id="venue">Venue</h2>
-    <p>To be announced</p>
+    <p>
+        NGSchool2023 will take place in <a href="https://glassresidence.pl/en/home/" target="_blank">Glass Residence</a> in Otwock, near Warsaw, Poland. You can see the map with all important locations <a href="https://goo.gl/maps/3j1Fto5rFTredzHE9" target="_blank">here</a>.
+    </p>
+
+    <div class="venue-photo-list d-flex flex-wrap">
+        <div class="photo-item col-6 col-md-3">
+            <img src="/images/ngschool2023/venue1.png">
+        </div>
+        <div class="photo-item col-6 col-md-3">
+            <img src="/images/ngschool2023/venue2.png">
+        </div>
+        <div class="photo-item col-6 col-md-3">
+            <img src="/images/ngschool2023/venue3.png">
+        </div>
+        <div class="photo-item col-6 col-md-3">
+            <img src="/images/ngschool2023/venue4.png">
+        </div>
+        <div class="photo-item col-6 col-md-3">
+            <img src="/images/ngschool2023/venue5.png">
+        </div>
+        <div class="photo-item col-6 col-md-3">
+            <img src="/images/ngschool2023/venue6.png">
+        </div>
+    </div>
 </div>
 
 <hr>

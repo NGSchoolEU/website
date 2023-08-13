@@ -682,6 +682,19 @@ input[type="tel"] {
   }
 }
 
+.venue-photo-list {
+  gap: 20px;
+
+  .photo-item {
+    text-align: center;
+    flex-grow: 1;
+
+    img {
+      max-width: 100%;
+    }
+  }
+}
+
 h2 {
   .fa-link {
     font-size: 0.8em;
