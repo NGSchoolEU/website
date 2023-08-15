@@ -240,6 +240,17 @@ description: "Advances in Computational Biology"
             </div>
         </div>
         <div class="speaker-item col-12 col-lg-6 mb-3">
+            <img src="/images/people/silvia-perez-lluch.webp">
+            <div class="d-flex flex-column">
+                <div class="speaker-item-name">
+                    <a href="/people/silvia-perez-lluch/" target="_blank">Silvia Perez-Lluch</a>
+                </div>
+                <div class="speaker-item-affiliation">
+                    Centre for Genomic Regulation, Barcelona, Spain
+                </div>
+            </div>
+        </div>
+        <div class="speaker-item col-12 col-lg-6 mb-3">
             <img src="/images/people/jakub-mieczkowski.jpg">
             <div class="d-flex flex-column">
                 <div class="speaker-item-name">
