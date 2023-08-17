@@ -213,7 +213,7 @@ description: "Advances in Computational Biology"
                     <a href="/people/fabiola-curion/" target="_blank">Fabiola Curion</a>
                 </div>
                 <div class="speaker-item-affiliation">
-                    Helmholtz Center Munich & Technical University of Munich, Germany
+                    Helmholtz Center Munich<br>& Technical University of Munich, Germany
                 </div>
             </div>
         </div>
@@ -236,6 +236,17 @@ description: "Advances in Computational Biology"
                 </div>
                 <div class="speaker-item-affiliation">
                     Chalmers University of Technology, Sweden
+                </div>
+            </div>
+        </div>
+        <div class="speaker-item col-12 col-lg-6 mb-3">
+            <img src="/images/people/maxim-freydin.jpg">
+            <div class="d-flex flex-column">
+                <div class="speaker-item-name">
+                    <a href="/people/maxim-freydin/" target="_blank">Maxim Freydin</a>
+                </div>
+                <div class="speaker-item-affiliation">
+                    Queen Mary University of London, United Kingdom
                 </div>
             </div>
         </div>
@@ -268,7 +279,7 @@ description: "Advances in Computational Biology"
                     <a href="/people/kerstin-hasse/" target="_blank">Kerstin Haase</a>
                 </div>
                 <div class="speaker-item-affiliation">
-                    Charité Universitätsmedizin, Germany & German Cancer Research Center (DKFZ), Germany
+                    Charité Universitätsmedizin, Germany<br>& German Cancer Research Center (DKFZ), Germany
                 </div>
             </div>
         </div>
@@ -279,7 +290,7 @@ description: "Advances in Computational Biology"
                     <a href="/people/giada-fiandaca/" target="_blank">Giada Fiandaca</a>
                 </div>
                 <div class="speaker-item-affiliation">
-                    Laboratory of Computational Modeling, University of Trento
+                    Laboratory of Computational Modeling,<br>University of Trento, Italy
                 </div>
             </div>
         </div>
@@ -295,6 +306,17 @@ description: "Advances in Computational Biology"
             </div>
         </div>
         <div class="speaker-item col-12 col-lg-6 mb-3">
+            <img src="/images/people/vitalli-kleshchevnikov.jpg">
+            <div class="d-flex flex-column">
+                <div class="speaker-item-name">
+                    <a href="/people/vitalli-kleshchevnikov/" target="_blank">Vitalli Kleshchevnikov</a>
+                </div>
+                <div class="speaker-item-affiliation">
+                    Wellcome Sanger Institute, United Kingdom
+                </div>
+            </div>
+        </div>
+        <!-- <div class="speaker-item col-12 col-lg-6 mb-3">
             <img src="/images/people/urszula-smyczynska.jpg">
             <div class="d-flex flex-column">
                 <div class="speaker-item-name">
@@ -304,7 +326,7 @@ description: "Advances in Computational Biology"
                     Medical University of Lodz, Poland
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
     <p class="text-center mt-3"><b>And more to be announced soon!</b></p>
 </div>
