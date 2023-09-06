@@ -22,7 +22,6 @@ description: "Advances in Computational Biology"
     The topics covered during the Summer School will include:
     <ul>
         <li>Single-cell data analysis</li>
-        <li>Long-read sequencing</li>
         <li>Whole genome sequencing</li>
         <li>Epigentetics and epigenomics</li>
         <li>Multi-modal data integration</li>
@@ -306,13 +305,24 @@ description: "Advances in Computational Biology"
             </div>
         </div>
         <div class="speaker-item col-12 col-lg-6 mb-3">
-            <img src="/images/people/vitalli-kleshchevnikov.jpg">
+            <img src="/images/people/vitalii-kleshchevnikov.jpg">
             <div class="d-flex flex-column">
                 <div class="speaker-item-name">
-                    <a href="/people/vitalli-kleshchevnikov/" target="_blank">Vitalli Kleshchevnikov</a>
+                    <a href="/people/vitalii-kleshchevnikov/" target="_blank">Vitalii Kleshchevnikov</a>
                 </div>
                 <div class="speaker-item-affiliation">
                     Wellcome Sanger Institute, United Kingdom
+                </div>
+            </div>
+        </div>
+        <div class="speaker-item col-12 col-lg-6 mb-3">
+            <img src="/images/people/tomasz-kopacz.jpg">
+            <div class="d-flex flex-column">
+                <div class="speaker-item-name">
+                    <a href="/people/tomasz-kopacz/" target="_blank">Tomasz Kopacz</a>
+                </div>
+                <div class="speaker-item-affiliation">
+                    Microsoft
                 </div>
             </div>
         </div>
