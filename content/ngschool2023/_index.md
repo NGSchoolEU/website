@@ -217,13 +217,32 @@ description: "Advances in Computational Biology"
             </div>
         </div>
         <div class="speaker-item col-12 col-lg-6 mb-3">
-            <img src="/images/people/jan-krumsiek.png">
+            <img src="/images/people/diana-sharysh.jpg">
             <div class="d-flex flex-column">
                 <div class="speaker-item-name">
-                    <a href="/people/jan-krumsiek/" target="_blank">Jan Krumsiek</a>
+                    <a href="/people/diana-sharysh/" target="_blank">Diana Sharysh</a>
                 </div>
                 <div class="speaker-item-affiliation">
-                    Weill Cornell Medicine, USA
+                    Aarhus University, Denmark
+                </div>
+            </div>
+        </div>
+        <div class="speaker-item col-12 col-lg-6 mb-3">
+            <img src="/images/people/silvia-perez-lluch.webp">
+            <div class="d-flex flex-column">
+                <div class="speaker-item-name">
+                    <a href="/people/silvia-perez-lluch/" target="_blank">Silvia Perez-Lluch</a>
+                </div>
+                <div class="speaker-item-affiliation">
+                    Centre for Genomic Regulation, Barcelona, Spain
+                </div>
+            </div>
+        </div>
+        <div class="speaker-item col-12 col-lg-6 mb-3">
+            <img src="/images/people/viktor-petukhov.jpeg">
+            <div class="d-flex flex-column">
+                <div class="speaker-item-name">
+                    <a href="/people/viktor-petukhov/" target="_blank">Viktor Petukhov</a>
                 </div>
             </div>
         </div>
@@ -246,17 +265,6 @@ description: "Advances in Computational Biology"
                 </div>
                 <div class="speaker-item-affiliation">
                     Queen Mary University of London, United Kingdom
-                </div>
-            </div>
-        </div>
-        <div class="speaker-item col-12 col-lg-6 mb-3">
-            <img src="/images/people/silvia-perez-lluch.webp">
-            <div class="d-flex flex-column">
-                <div class="speaker-item-name">
-                    <a href="/people/silvia-perez-lluch/" target="_blank">Silvia Perez-Lluch</a>
-                </div>
-                <div class="speaker-item-affiliation">
-                    Centre for Genomic Regulation, Barcelona, Spain
                 </div>
             </div>
         </div>
@@ -294,17 +302,6 @@ description: "Advances in Computational Biology"
             </div>
         </div>
         <div class="speaker-item col-12 col-lg-6 mb-3">
-            <img src="/images/people/diana-sharysh.jpg">
-            <div class="d-flex flex-column">
-                <div class="speaker-item-name">
-                    <a href="/people/diana-sharysh/" target="_blank">Diana Sharysh</a>
-                </div>
-                <div class="speaker-item-affiliation">
-                    Aarhus University, Denmark
-                </div>
-            </div>
-        </div>
-        <div class="speaker-item col-12 col-lg-6 mb-3">
             <img src="/images/people/vitalii-kleshchevnikov.jpg">
             <div class="d-flex flex-column">
                 <div class="speaker-item-name">
@@ -326,17 +323,17 @@ description: "Advances in Computational Biology"
                 </div>
             </div>
         </div>
-        <!-- <div class="speaker-item col-12 col-lg-6 mb-3">
-            <img src="/images/people/urszula-smyczynska.jpg">
+        <div class="speaker-item col-12 col-lg-6 mb-3">
+            <img src="/images/people/karolina-sienkiewicz.jpg">
             <div class="d-flex flex-column">
                 <div class="speaker-item-name">
-                    <a href="/people/urszula-smyczynska/" target="_blank">Urszula Smyczyńska</a>
+                    <a href="/people/karolina-sienkiewicz/" target="_blank">Karolina Sienkiewicz</a>
                 </div>
                 <div class="speaker-item-affiliation">
-                    Medical University of Lodz, Poland
+                    Weill Cornell Medicine, Cornell University, USA
                 </div>
             </div>
-        </div> -->
+        </div>
     </div>
     <p class="text-center mt-3"><b>And more to be announced soon!</b></p>
 </div>
