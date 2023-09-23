@@ -3,37 +3,40 @@
 {{ partial "page-title.html" . }}
 
 <div class="page-wrapper">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-8">
-        {{ $paginator := .Paginate .Data.Pages }}
-        {{ range $paginator.Pages }}
-        <div class="post">
-          <div class="post-media post-thumb">
-            <a href="{{ .Permalink }}">
-              <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}" style="width: initial; max-height: 200px;">
-            </a>
-          </div>
-          <h3 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-          <div class="post-meta">
-            <ul style="padding: 0;">
-              <!-- <li><i class="ion-calendar"></i> {{ .PublishDate.Format "January 2, 2006" }}</li>
-              <li><i class="ion-android-people"></i> {{ i18n "posted_by" }} <a class="text-primary" href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author }}</a></li> -->
-			  <li><i class="ion-pricetags"></i>&nbsp;
-				{{ $tagLen := len .Params.Tags }}
-                {{- range $index, $elements := .Params.Tags -}}
-					<a href="{{ `tags/` | relLangURL }}{{ . | lower }}">{{- . | humanize -}}</a>
-					{{- if ne $index (sub $tagLen 1) -}}, {{ end }}
-				{{ end }}
-              </li>
-            </ul>
-          </div>
-          <div class="post-content">
-            <p>{{ .Summary }}</p>
-            <a href="{{ .Permalink }}" class="btn btn-main">{{ i18n "read_more" }}</a>
-          </div>
-        </div>
-        {{ end }}
+	<div class="container">
+		<div class="row">
+			<div class="col-md-8">
+        		{{ $paginator := .Paginate .Data.Pages }}
+        		{{ range $paginator.Pages }}
+        		<div class="post">
+					<div class="post-media post-thumb">
+						<a href="{{ .Permalink }}">
+							<img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}" style="width: initial; max-height: 200px;">
+						</a>
+					</div>
+					<h3 class="post-title">
+						<a href="{{ .Permalink }}">{{ .Title }}</a>
+					</h3>
+					<div class="post-meta">
+						<ul style="padding: 0;">
+							<!-- <li><i class="ion-calendar"></i> {{ .PublishDate.Format "January 2, 2006" }}</li>
+							<li><i class="ion-android-people"></i> {{ i18n "posted_by" }} <a class="text-primary" href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author }}</a></li> -->
+							<li>
+								<i class="ion-pricetags"></i>&nbsp;
+								{{ $tagLen := len .Params.Tags }}
+								{{- range $index, $elements := .Params.Tags -}}
+									<a href="{{ `tags/` | relLangURL }}{{ . | lower }}">{{- . | humanize -}}</a>
+									{{- if ne $index (sub $tagLen 1) -}}, {{ end }}
+								{{ end }}
+							</li>
+						</ul>
+					</div>
+					<div class="post-content">
+						<p>{{ .Summary }}</p>
+						<a href="{{ .Permalink }}" class="btn btn-main">{{ i18n "read_more" }}</a>
+					</div>
+				</div>
+        		{{ end }}
         
 				<!-- pagination -->
 				{{ $paginator := .Paginator }}
@@ -46,10 +49,11 @@
 					<ul class="pagination post-pagination">
 						<!-- Previous page. -->
 						{{ if $paginator.HasPrev }}
-						<li>
+						<li class="page-item">
 							<a href="{{ $paginator.Prev.URL }}" class="page-link">Prev</a>
-            </li>
-            {{ end }}
+            			</li>
+            			{{ end }}
+
 						<!-- Page numbers. -->
 						{{ range $paginator.Pagers }}
 						{{ $.Scratch.Set "page_number_flag" false }}
@@ -81,8 +85,8 @@
 						{{ end }}
 						<!-- Output page numbers. -->
 						{{ if eq ($.Scratch.Get "page_number_flag") true }}
-						<li class="{{ if eq . $paginator }} active {{ end }}">
-							<a href="{{ .URL }}">
+						<li class="page-item {{ if eq . $paginator }} active {{ end }}">
+							<a class="page-link" href="{{ .URL }}">
 								{{ .PageNumber }}
 							</a>
 						</li>
@@ -90,19 +94,19 @@
 						{{ end }}
 						<!-- Next page. -->
 						{{ if $paginator.HasNext }}
-						<li>
-							<a href="{{ $paginator.Next.URL }}">Next</a>
+						<li class="page-item">
+							<a class="page-link" href="{{ $paginator.Next.URL }}">Next</a>
 						</li>
 						{{ end }}
 					</ul>
 				</nav>
 				{{ end }}
-      </div>
-      <div class="col-md-4">
-        {{ partial "blog-sidebar.html" . }}
-      </div>
-    </div>
-  </div>
+      		</div>
+			<div class="col-md-4">
+				{{ partial "blog-sidebar.html" . }}
+			</div>
+    	</div>
+	</div>
 </div>
 
 {{ end }}

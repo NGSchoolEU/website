@@ -36,5 +36,3 @@ Here is a visual summary of applications:
 Even if you didn't get a spot this year, we hope to see you at one of our future events! Check out <a href=/ngsymposium2022 target=”_blank”><b>NGSymposium2022</b></a> - you can still register and join us at an international conference this autumn in Warsaw.
 
 <a href=/ngsymposium2022><img src="/images/post/registration-ngsymposium2022.jpg" style="width: 80%; display: block; margin-left: auto; margin-right: auto; "></a>
-
-
