@@ -15,15 +15,15 @@ description: "Advances in Computational Biology"
 ---
 
 <div class="mb-3">
-  <b>NGSchool2023: Advances in Computational Biology</b>  will be held in-person, from the <b>16<sup>th</sup> to 24<sup>th</sup> of September 2023</b>.
+  <b>NGSchool2023: Advances in Computational Biology</b> was held in-person, from the <b>16<sup>th</sup> to 24<sup>th</sup> of September 2023</b>.
 </div>
 
 <div class="mb-3">
-    The topics covered during the Summer School will include:
+    The topics covered during the Summer School included:
     <ul>
         <li>Single-cell data analysis</li>
         <li>Whole genome sequencing</li>
-        <li>Epigentetics and epigenomics</li>
+        <li>Epigenetics and epigenomics</li>
         <li>Multi-modal data integration</li>
         <li>Cancer evolution</li>
     </ul>
@@ -169,8 +169,10 @@ description: "Advances in Computational Biology"
     </div>
     <h3>Registration fee</h3> 
     <p>
-        The registration fee for the selected participants will be <b>100 EUR/460 PLN for academia</b> and <b>300 EUR/1380 PLN for industry</b>. This fully covers the costs of accommodation and board during the school. <br>
-        We try to make our events accessible and affordable for all, and keep the registration fees to a minimum. However, we understand that in some circumstances covering the costs of participation in our event can still be challenging. We do not want the money to be a limiting factor in anyone’s participation, so we will provide financial support for a number of selected participants, primarily based on their socio-economic status. We can offer two types of support: 
+        The registration fee for the selected participants is <b>100 EUR/460 PLN for academia</b> and <b>300 EUR/1380 PLN for industry</b>. This fully covers the costs of accommodation and board during the school. <br>
+        We try to make our events accessible and affordable for all, and keep the registration fees to a minimum. However, we understand that in some circumstances covering the costs of participation in our event can still be challenging. We do not want the money to be a limiting factor in anyone’s participation, so we will provide financial support for a number of selected participants, primarily based on their socio-economic status. We can offer two types of support:
+    </p>
+    <p>
         <ul style="color: #7b7b7b">
             <li>Travel grant to help you cover the cost of your travel to the event's venue.</li>
             <li>Fee discount or waiver directed to those participants who cannot get the fee covered by their institutions.</li>
@@ -335,7 +337,6 @@ description: "Advances in Computational Biology"
             </div>
         </div>
     </div>
-    <p class="text-center mt-3"><b>And more to be announced soon!</b></p>
 </div>
 
 <hr>
@@ -345,7 +346,6 @@ description: "Advances in Computational Biology"
     <div style="display: flex;">
         <iframe id='program-iframe' width=100% height=800 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZf_9jDJ_4giGYjTizVNMfguXsZdQPm7uOujNRAzj-hCWmLzcAZo0_yY-APh0RmZH9-DtSbbAVYHuJ/pubhtml?gid=1762051258&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
     </div>
-    <p class="text-center mt-3"><b>More details to be announced soon!</b></p>
 </div>
 
 <hr>
@@ -353,7 +353,7 @@ description: "Advances in Computational Biology"
 <div class="mt-3">
     <h2 id="venue">Venue</h2>
     <p>
-        NGSchool2023 will take place in <a href="https://glassresidence.pl/en/home/" target="_blank">Glass Residence</a> in Otwock, near Warsaw, Poland. You can see the map with all important locations <a href="https://goo.gl/maps/3j1Fto5rFTredzHE9" target="_blank">here</a>.
+        NGSchool2023 took place in <a href="https://glassresidence.pl/en/home/" target="_blank">Glass Residence</a> in Otwock, near Warsaw, Poland. You can see the map with all important locations <a href="https://goo.gl/maps/3j1Fto5rFTredzHE9" target="_blank">here</a>.
     </p>
     <div class="venue-photo-list d-flex flex-wrap">
         <div class="photo-item col-6 col-md-3">
