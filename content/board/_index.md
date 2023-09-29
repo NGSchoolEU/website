@@ -10,8 +10,8 @@ title: NGSchool Society Board
 
 <br>
 <h2><b>Vice President</b></h2>
-<h2 style="margin-left: 2em;"><a href="/people/urszula-smyczynska/">Urszula Smyczyńska</a></h2>
+<h2 style="margin-left: 2em;"><a href="/people/diana-sharysh/">Diana Sharysh</a></h2>
 
 <br>
 <h2><b>Audit Committee</b></h2>
-<h2 style="margin-left: 2em;"><a href="/people/natalia-pstrag/">Natalia Pstrąg</a></h2>
+<h2 style="margin-left: 2em;"><a href="/people/wiktoria-wilman/">Wiktoria Wilman</a></h2>
