@@ -1,10 +1,18 @@
-<section class="page-title bg-2" style="background-image: url('{{.Params.Bg_image | relURL}}');">
+<section class="page-title bg-2 section-sm" style="background-image: url('{{.Params.Bg_image | relURL}}');">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
         <div class="block">
           <h1>{{ .Title | safeHTML}}</h1>
-          <p>{{ .Params.Description | safeHTML}}</p>
+          <p>
+            {{ with $.Params.subtitle }}
+            {{ . | safeHTML }}
+            {{ else }}
+              {{ with $.Params.Description }}
+                {{ . | safeHTML }}
+              {{ end }}
+            {{ end }}
+          </p>
         </div>
       </div>
     </div>

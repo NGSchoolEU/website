@@ -9,16 +9,16 @@
                 <i class="fa-solid fa-bars" style="font-size: 1.5em;"></i>
             </button>
             <div class="collapse navbar-collapse justify-content-end" id="navbarTogglerDemo02">
-                <ul class="navbar-nav nav-pills2 ">
-                {{ range .Site.Menus.main }}
+                <ul class="navbar-nav nav-pills2">
+                {{ range .Site.Menus.main -}}
                     {{ if .HasChildren }}
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
                                 {{ .Name }}
                             </a>
                             <ul class="dropdown-menu">
-                            {{ range .Children }}
-                                {{ if .HasChildren }}
+                            {{- range .Children -}}
+                                {{- if .HasChildren }}
                                     <li>
                                         <p style="padding: 15px 0 0 15px;  font-weight: bold;">
                                             {{ .Name }}
@@ -38,10 +38,10 @@
                                         </a>
                                     </li>
                                 {{ end }}
-                            {{ end }}
+                            {{- end }}
                             </ul>
                         </li>
-                    {{ else }}
+                    {{ else -}}
                         <li class="nav-item">
                             <a class="nav-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
                         </li>
