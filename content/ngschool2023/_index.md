@@ -11,7 +11,9 @@ information:
  - info: "around 35"
    label: Participants
 title: "NGSchool2023"
+subtitle: "Advances in Computational Biology"
 description: "Advances in Computational Biology"
+keywords: [computational biology, summer school, course, bioinformatics]
 ---
 
 <div class="mb-3">
@@ -156,7 +158,7 @@ description: "Advances in Computational Biology"
 </script>
 
 <div class="mb-3">
-    <h2 id="registration">Registration</h2> 
+    <h2 id="registration">Registration</h2>
     <h3>Registration form</h3> 
     <p>
         The deadline to submit your application is <s>21.06.2023</s> <b>5.07.2023 at 23:59 UTC</b>. Selection results will be announced at the beginning of August. If you have any question or problems get in touch via email: <a href="mailto: info@ngschool.eu">info@ngschool.eu</a>.

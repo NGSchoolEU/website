@@ -79,7 +79,7 @@ disableLanguages = ["pl"]
   [[menu.main]]
   name = "Society"
   hasChildren = true
-  weight = 6
+  weight = 3
   
     [[menu.main]]
     parent = "Society"
@@ -106,115 +106,113 @@ disableLanguages = ["pl"]
     weight = 10
 
   [[menu.main]]
-  name = "NGSchool2023"
-  URL = "ngschool2023"
-  weight = 11
-
-  [[menu.main]]
-  name = "NGStipend"
-  URL = "ngstipend"
-  weight = 13
+  name = "NGSchool2025"
+  URL = "ngschool2025"
+  weight = 4
 
   [[menu.main]]
   name = "Other projects"
-  weight = 14
+  weight = 5
   hasChildren = true
   
     [[menu.main]]
     parent = "Other projects"
     name = "NGSchool"
-    weight = 15
+    weight = 1
     hasChildren = true
       
       [[menu.main]]
       parent = "NGSchool"
-      name = "2016"
-      URL = "ngschool2016"
-      weight = 16
-      
-      [[menu.main]]
-      parent = "NGSchool"
-      name = "2017"
-      URL = "ngschool2017"
-      weight = 17
-
-      [[menu.main]]
-      parent = "NGSchool"
-      name = "2018"
-      URL = "ngschool2018"
-      weight = 18
-      
-      [[menu.main]]
-      parent = "NGSchool"
-      name = "2019"
-      URL = "ngschool2019"
-      weight = 19
+      name = "2023"
+      URL = "ngschool2023"
+      weight = 1
 
       [[menu.main]]
       parent = "NGSchool"
       name = "2022"
       URL = "ngschool2022"
-      weight = 21
+      weight = 2
 
+      [[menu.main]]
+      parent = "NGSchool"
+      name = "2019"
+      URL = "ngschool2019"
+      weight = 3
+
+      [[menu.main]]
+      parent = "NGSchool"
+      name = "2018"
+      URL = "ngschool2018"
+      weight = 4
+
+      [[menu.main]]
+      parent = "NGSchool"
+      name = "2017"
+      URL = "ngschool2017"
+      weight = 5
+
+      [[menu.main]]
+      parent = "NGSchool"
+      name = "2016"
+      URL = "ngschool2016"
+      weight = 6
 
     [[menu.main]]
     parent = "Other projects"
     name = "NGSymposium"
     hasChildren = true
-    weight = 20
+    weight = 2
    
-      [[menu.main]]
-      parent = "NGSymposium"
-      name = "Virtual 2020"
-      URL = "virtual_ngsymposium2020"
-      weight = 21
-
       [[menu.main]]
       parent = "NGSymposium"
       name = "NGSymposium2022"
       URL = "ngsymposium2022"
-      weight = 23
+      weight = 1
+
+      [[menu.main]]
+      parent = "NGSymposium"
+      name = "Virtual 2020"
+      URL = "virtual_ngsymposium2020"
+      weight = 2
 
     [[menu.main]]
     parent = "Other projects"
     name = "NGSeminars"
     hasChildren = true
-    weight = 22
+    weight = 3
+
+      [[menu.main]]
+      parent = "NGSeminars"
+      name = "2021"
+      URL = "ngseminars2021"
+      weight = 1
 
       [[menu.main]]
       parent = "NGSeminars"
       name = "2020"
       URL = "ngseminars2020"
-      weight = 23
-        
-      [[menu.main]]
-      parent = "NGSeminars"
-      name = "2021"
-      URL = "ngseminars2021"
-      weight = 24
+      weight = 2
 
     [[menu.main]]
     parent = "Other projects"
     name = "NGSprint"
     URL = "ngsprint"
-    weight = 25
-
+    weight = 4
 
   [[menu.main]]
   name = "Donate"
   URL = "bank_account"
-  weight = 26
-
+  weight = 6
 
   [[menu.main]]
   name = "FAQ"
   URL = "faq"
-  weight = 27
+  weight = 7
 
   [[menu.main]]
   name = "Contact"
   URL = "contact"
-  weight = 29
+  weight = 8
 
 
   # footer menu
@@ -250,7 +248,7 @@ home = "Home"
 
 # Meta data
 description = "NGSchool (Next Generation School) is a platform to share the expertise in the field of Next Generation Sequencing Data Analysis and general Bioinformatics."
-author = "ngschool"
+author = "NGSchool"
 
 # Contact Information
 email = "info@ngschool.eu"
@@ -340,7 +338,7 @@ link = "https://discord.gg/MhNeqwR"
   weight = 1
   home = "Home"
   # copyright
-  copyright = "Made & maintained by Anamaria, Szymon and Ula, Copyright &copy; [NGSchool](https://ngschool.eu) 2020-2023 | Theme by [Themefisher](https://themefisher.com)"
+  copyright = "Made & maintained by Szymon and Ula, Copyright &copy; [NGSchool](https://ngschool.eu) 2020-2024 | Theme by [Themefisher](https://themefisher.com)"
  
   ################################ Polish Language ########################
   [Languages.pl]
@@ -350,7 +348,7 @@ link = "https://discord.gg/MhNeqwR"
   weight = 2
   home = "Home"
   # copyright
-  copyright = "Strona stworzona i utrzymywana przez Anamarię, Szymona i Ulę, Copyright &copy; [NGSchool](https://ngschool.eu) 2020-2023 | Theme by [Themefisher](https://themefisher.com)"
+  copyright = "Strona stworzona i utrzymywana przez Szymona i Ulę, Copyright &copy; [NGSchool](https://ngschool.eu) 2020-2023 | Theme by [Themefisher](https://themefisher.com)"
 	
 	  # main menu
 	  [[Languages.pl.menu.main]]

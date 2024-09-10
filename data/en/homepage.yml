@@ -12,15 +12,14 @@ banner:
 ############################# About #################################
 about:
   enable : true
-  title : "New event in 2023"
+  title : "New event in 2025"
   content : "
-  [NGSchool2023: Advances in Computational Biology](/ngschool2023/) will take place in September 2023 in Poland.  
+  [NGSchool2025: Sequencing Toolbox for Computational Biologists](/ngschool2025/) will take place in&nbsp;Spring&nbsp;2025 in&nbsp;Poland.  
   <br><br>
   Its organization is once again supported by Visegrad Fund.
   <br><br>
   More details coming soon!
   "
-  image : "images/sponsors/visegrad_fund.jpg"
 
 ######################### NGSchool Society ###############################
 portfolio:

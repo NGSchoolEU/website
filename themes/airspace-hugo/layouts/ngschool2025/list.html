@@ -1,0 +1,110 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <section class="portfolio-single-page section-sm">
+                <table class="table table-bordered text-center">
+                    <tr>
+                        {{ range .Params.Information }}
+                            <td>{{ .label }}</td>
+                        {{ end }}
+                    </tr>
+                    <tr>
+                        {{ range .Params.Information }}
+                            <td><b>{{ .info | markdownify }}</b></td>
+                        {{ end }}
+                    </tr>
+                </table>
+            </section>
+
+            <section class="portfolio-single-page section-sm">
+                <div style="max-width: 880px; margin: 0 auto;">
+                    <p>
+                        <b>NGSchool2025: Sequencing Toolbox for Computational Biologists</b> is the 7<sup>th</sup> edition of our flagship summer school series, organized to empower promising students and young scientists, in particular from the V4 and CEE regions. This year's focus is on sequencing technologies and their applications in computational biology, bioinformatics, and biomedicine.
+                    </p>
+                    <p>
+                        Sequencing has fundamentally transformed our understanding of biological systems by enabling comprehensive analysis of genetic information. The advent of next-generation sequencing (NGS) and long-read sequencing technologies has allowed researchers to uncover genetic variations, structural rearrangements, and epigenetic modifications previously undetectable. These advancements are crucial for personalized medicine, agricultural sciences, and environmental studies. For instance, sequencing played a pivotal role in the rapid characterization of the COVID-19 virus, enabling the swift development of mRNA vaccines, and continues to aid in tracking and understanding emerging variants (<a href="https://www.nature.com/articles/d41586-024-00483-0" target="_blank">Nature</a>).
+                    </p>
+                </div>
+            </section>
+
+            <section class="portfolio-single-page section-sm">
+                <h2 id="dates">Important dates</h2>
+                TBA
+            </section>
+
+            <section class="portfolio-single-page section-sm">
+                <h2 id="dates">Registration</h2>
+                <h3>Registration form</h3>
+                TBA
+                <h3>Registration fee</h3>
+                TBA
+            </section>
+
+            <section class="portfolio-single-page section-sm">
+                <h2 id="dates">Speakers and tutors</h2>
+                TBA
+            </section>
+
+            <section class="portfolio-single-page section-sm">
+                <h2 id="dates">Program</h2>
+                TBA
+            </section>
+
+            <section class="portfolio-single-page section-sm">
+                <h2 id="dates">Venue</h2>
+                TBA
+            </section>
+
+            <section class="portfolio-single-page section-sm">
+                <h2 id="dates">Sponsors and partners</h2>
+                <div class="sponsor-list d-flex flex-wrap">
+                    <div class="col-6 col-md-3 sponsor-item">
+                        <a href="https://www.visegradfund.org/" target="_blank">
+                            <img src="/images/sponsors/visegrad_fund.jpg">
+                        </a>
+                    </div>
+                    <!-- <div class="col-6 col-md-3 sponsor-item">
+                        <a href="https://www.iimcb.gov.pl/en/" target="blank">
+                            <img src="/images/sponsors/iimcb.png">
+                        </a>
+                    </div> -->
+                    <div class="col-6 col-md-3 sponsor-item">
+                        <a href="https://fmph.uniba.sk/en/" target="_blank">
+                            <img src="/images/sponsors/cub_fmpi.jpg">
+                        </a>
+                    </div>
+                    <div class="col-6 col-md-3 sponsor-item">
+                        <a href="https://www.alga.cz/en/" target="_blank">
+                            <img src="/images/sponsors/algatech.png">
+                        </a>
+                    </div>
+                    <div class="col-md-3 col-sm-6 sponsor-item">
+                        <a href="http://www.imbg.org.ua/en/" target="blank">
+                            <img src="/images/sponsors/IMBG.gif">
+                        </a>
+                    </div>
+                </div>
+            </section>
+
+            <section class="portfolio-single-page section-sm">
+                <h2 id="dates">Organizers</h2>
+                TBA
+            </section>
+            
+            <section class="portfolio-single-page section-sm">
+                <h2 id="dates">More information</h2>
+                <p>
+                    If you have any questions regarding NGSchool2025 please first refer to our <a href="/faq" target="_blank">FAQ page</a>. If you cannot find an answer to your question there or need further explanation, you can reach us using <a href="/contact" target="_blank">contact form</a> or our email address <a href="mailto: info@ngschool.eu">info@ngschool.eu</a>.
+                </p>
+            </section>
+        </div>
+    </div>
+</div>
+
+{{ end }}
