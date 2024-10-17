@@ -1,14 +1,14 @@
 ---
 markup: "mmark"
 
-bg_image: images/background/2022-035b.jpg
+bg_image: images/background/2025.webp
 draft: false
 information:
- - info: "TBA"
+ - info: "Otwock, Poland"
    label: Location
  - info: "Spring 2025"
    label: Date
- - info: "TBA"
+ - info: "Around 40"
    label: Participants
 title: "NGSchool2025"
 subtitle: "Sequencing Toolbox for Computational Biologists"
