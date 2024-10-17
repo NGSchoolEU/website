@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-title = "NGSchool"
+title = "NGSchool | Summer School in Bioinformatics"
 theme = "airspace-hugo"
 # post pagination
 paginate = "4"
@@ -308,22 +308,27 @@ google_analitycs_id = "UA-159044812-1"
 
 ############################# social media ########################
 [[params.social]]
+name = "Facebook"
 icon = "fab fa-facebook-f fa-2x"
 link = "https://www.facebook.com/NGSchool.eu/"
 
 [[params.social]]
+name = "Twitter"
 icon = "fab fa-twitter fa-2x"
 link = "https://twitter.com/NGSchoolEU"
 
 [[params.social]]
+name = "Instagram"
 icon = "fab fa-instagram fa-2x"
 link = "https://www.instagram.com/ngschooleu"
 
 [[params.social]]
+name = "YouTube"
 icon = "fab fa-youtube fa-2x"
 link = "https://www.youtube.com/NGSchoolEU"
 
 [[params.social]]
+name = "Discord"
 icon = "fab fa-discord fa-2x"
 link = "https://discord.gg/MhNeqwR"
 
