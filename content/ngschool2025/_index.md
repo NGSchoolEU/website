@@ -6,7 +6,7 @@ draft: false
 information:
  - info: "Otwock, Poland"
    label: Location
- - info: "Spring 2025"
+ - info: "22-30 March 2025"
    label: Date
  - info: "Around 40"
    label: Participants
