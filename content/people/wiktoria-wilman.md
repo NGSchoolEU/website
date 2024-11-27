@@ -9,14 +9,14 @@ information:
   label: Events
 - info: "organizer, participant"
   label: Role
-- info: NaturalAntibody S.A., Szczecin, Poland
+- info: Biokoderka
   label: Affiliation
 # - info: 
 #   label: Contact email
 title: Wiktoria Wilman
 ---
 
-Bioinformatician at NaturalAntibody, graduate of the Bioinformatics program at UPWr, a member of the Bioinformatics Program Advisory Board at UPWr, motivated to continuously develop her professional skills. In her free time, she creates free bioinformatics content on her social media channels as @biokoderka and shares her experience during presentations at industry conferences and meetings.
+Bioinformatician, graduate of the Bioinformatics program at UPWr, a member of the Bioinformatics Program Advisory Board at UPWr, motivated to continuously develop her professional skills. In her free time, she creates free bioinformatics content on her social media channels as @biokoderka and shares her experience during presentations at industry conferences and meetings.
 <br>&nbsp;
 <br>
 
