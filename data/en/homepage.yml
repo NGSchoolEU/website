@@ -17,8 +17,6 @@ about:
   **NGSchool2025: Sequencing Toolbox for Computational Biologists** will take place in&nbsp;Spring&nbsp;2025 in&nbsp;Poland.  
   <br><br>
   Its organization is once again supported by Visegrad Fund.
-  <br><br>
-  **Registration is now open!**
   "
 
 ######################### NGSchool Society ###############################
@@ -92,13 +90,6 @@ funfacts:
       content : "NGSchool Vice President, Program"
     
     # testimonial item loop
-    - name : "Wiktoria Wilman"
-      image : "images/people/wiktoria-wilman.png"
-      link: "people/wiktoria-wilman"
-      designation : "Biokoderka"
-      content : "Audit Committee, PR"
-      
-    # testimonial item loop
     - name : "Szymon Grabia"
       image : "images/people/szymon-grabia.webp"
       link: "people/szymon-grabia"
@@ -113,8 +104,61 @@ funfacts:
       content : "Participants, Program"
 
     # testimonial item loop
-    - name : "Vishma Pratap Sur"
-      image : "images/people/vishma-pratap.jpg"
-      link: "people/vishma-pratap"
-      designation : "Czech Academy of Sciences, Czech Republic"
-      content : "Participants, Program"
+    - name : "Marcin Kaszkowiak"
+      image : "images/people/marcin-kaszkowiak.webp"
+      link: "people/marcin-kaszkowiak"
+      designation : "Institute of Hematology and Blood Transfusion, Poland"
+      content : "Logistics, IT"
+
+    # testimonial item loop
+    - name : "Akshay J Ganesh"
+      image : "images/people/akshay-j-ganesh.webp"
+      link: "people/akshay-j-ganesh"
+      designation : "Institut d'Investigació Biomèdica de Bellvitge, Spain"
+      content : "Participants, IT"
+
+    # testimonial item loop
+    - name : "Gustav Lindwall"
+      image : "images/people/gustav-lindwall.jpg"
+      link: "people/gustav-lindwall"
+      designation : "Chalmers University of Technology, Sweden"
+      content : "Program, Participants"
+
+    # testimonial item loop
+    - name : "Alison Díaz"
+      image : "images/people/alison-diaz.webp"
+      link: "people/alison-diaz"
+      designation : "International Laboratory for Human Genome Research, Mexico"
+      content : "Program, PR"
+
+    # testimonial item loop
+    - name : "Wiktoria Wilman"
+      image : "images/people/wiktoria-wilman.png"
+      link: "people/wiktoria-wilman"
+      designation : "Biokoderka"
+      content : "Audit Committee, PR"
+
+    # testimonial item loop
+    - name : "Karolina Prazanowska"
+      image : "images/people/karolina-prazanowska.webp"
+      link: "people/karolina-prazanowska"
+      designation : "Ajou University School of Medicine, Korea"
+      content : "Program"
+
+    # testimonial item loop
+    - name : "Soumajit Mukherjee"
+      image : "images/people/soumajit-mukherjee.webp"
+      link: "people/soumajit-mukherjee"
+      designation : "King's College London, United Kingdom"
+      content : "Program, Participants"
+      
+    
+
+    
+
+    # testimonial item loop
+    # - name : "Vishma Pratap Sur"
+    #   image : "images/people/vishma-pratap.jpg"
+    #   link: "people/vishma-pratap"
+    #   designation : "Czech Academy of Sciences, Czech Republic"
+    #   content : "Participants, Program"
