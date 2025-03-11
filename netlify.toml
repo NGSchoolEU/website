@@ -29,4 +29,7 @@ HUGO_VERSION = "0.64.1"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
+[[redirects]]
+  from = "/ngschool2025/program"
+  to = "https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vSGm6X_4_9Foc8BQdrTHfWGOgc5TuehyOUzjiuAJJIFgCg-jbEKxOTZ5kS3WioMxW9uo6umVqbRukbP/pubhtml?gid=323738615&single=true&widget=true&headers=false"
 
