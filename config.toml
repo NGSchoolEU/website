@@ -343,7 +343,7 @@ link = "https://discord.gg/MhNeqwR"
   weight = 1
   home = "Home"
   # copyright
-  copyright = "Copyright &copy; [NGSchool](https://ngschool.eu) 2020-2025 | Theme by [Themefisher](https://themefisher.com)"
+  copyright = "Copyright &copy; [NGSchool](https://ngschool.eu) 2020-2026 | Theme by [Themefisher](https://themefisher.com)"
  
   ################################ Polish Language ########################
   [Languages.pl]

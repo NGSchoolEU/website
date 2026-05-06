@@ -12,12 +12,8 @@ banner:
 ############################# About #################################
 about:
   enable : true
-  title : "New event in 2025"
-  content : "
-  **NGSchool2025: Sequencing Toolbox for Computational Biologists** will take place in&nbsp;Spring&nbsp;2025 in&nbsp;Poland.  
-  <br><br>
-  Its organization is once again supported by Visegrad Fund.
-  "
+  title : ""
+  content : ""
 
 ######################### NGSchool Society ###############################
 portfolio:
